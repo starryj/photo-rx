@@ -1,4 +1,4 @@
-# 决策规则速查 — photo-vision 批一至批八：摄影色彩圣经 / Interacting with Color / Interaction of Color / 摄影师的视界 / 光线与用光 / 艺术与视知觉 / 艺术与错觉 / 中国美学史大纲 / 美学散步 / The Art of Pixar / 林泉高致 / 摄影构图与色彩设计 / 观看之道 / 秩序感
+# 决策规则速查 — photo-rx 批一至批八：摄影色彩圣经 / Interacting with Color / Interaction of Color / 摄影师的视界 / 光线与用光 / 艺术与视知觉 / 艺术与错觉 / 中国美学史大纲 / 美学散步 / The Art of Pixar / 林泉高致 / 摄影构图与色彩设计 / 观看之道 / 秩序感
 
 | 能力 | 一句话规则 |
 |---|---|

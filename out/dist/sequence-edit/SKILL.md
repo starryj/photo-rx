@@ -6,8 +6,8 @@ metadata:
   cangjie.generated-by: cangjie-tools v2.5.0
   cangjie.capability-id: cap.photo-vision.sequence-edit
   cangjie.capability-revision: 2
-  cangjie.bundle-id: bundle.photo-vision
-  cangjie.source-title: photo-vision 批一至批八：摄影色彩圣经 / Interacting with Color / Interaction of Color / 摄影师的视界 / 光线与用光 / 艺术与视知觉 / 艺术与错觉 / 中国美学史大纲 / 美学散步 / The Art of Pixar / 林泉高致 / 摄影构图与色彩设计 / 观看之道 / 秩序感
+  cangjie.bundle-id: bundle.photo-rx
+  cangjie.source-title: photo-rx 批一至批八：摄影色彩圣经 / Interacting with Color / Interaction of Color / 摄影师的视界 / 光线与用光 / 艺术与视知觉 / 艺术与错觉 / 中国美学史大纲 / 美学散步 / The Art of Pixar / 林泉高致 / 摄影构图与色彩设计 / 观看之道 / 秩序感
   cangjie.tags: sequence, editing, color-arc, series
 ---
 # sequence-edit — 序列编排（色彩弧与组照）

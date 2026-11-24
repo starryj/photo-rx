@@ -1,15 +1,15 @@
 ---
-name: photo-vision
+name: photo-rx
 description: |
   当用户拿照片问「哪里不对／怎么改」「为什么看着不舒服」「颜色怎么调」「留白该怎么留」，或要定拍摄计划、判断一张照片成不成立、给一批照片排序与取舍时使用；覆盖色彩关系、构图结构、光线时段、视看机制、中国观看与序列编排六条线。也用于用户没有具体照片、只问该从哪里入手、先练什么、给自己定一套检查标准、或问某个题材该往哪个方向深挖这类学习路径与方向问题；也用于用户问某个概念或术语本身是什么意思（如「气韵生动」「三远」「虚实相生」「三大」），此时按术语表作解释，不必有照片。不适用于影像真伪鉴别、色彩管理工程、修图软件操作与纯器材评测。
 metadata:
   cangjie.generated-by: cangjie-tools v2.5.0
   cangjie.variant: router
-  cangjie.bundle-id: bundle.photo-vision
+  cangjie.bundle-id: bundle.photo-rx
   cangjie.capability-count: 7
   cangjie.entrypoint-count: 8
 ---
-# photo-vision 批一至批八：摄影色彩圣经 / Interacting with Color / Interaction of Color / 摄影师的视界 / 光线与用光 / 艺术与视知觉 / 艺术与错觉 / 中国美学史大纲 / 美学散步 / The Art of Pixar / 林泉高致 / 摄影构图与色彩设计 / 观看之道 / 秩序感 — 来源路由入口（compact pack）
+# photo-rx 批一至批八：摄影色彩圣经 / Interacting with Color / Interaction of Color / 摄影师的视界 / 光线与用光 / 艺术与视知觉 / 艺术与错觉 / 中国美学史大纲 / 美学散步 / The Art of Pixar / 林泉高致 / 摄影构图与色彩设计 / 观看之道 / 秩序感 — 来源路由入口（compact pack）
 
 ## 触发与不触发
 

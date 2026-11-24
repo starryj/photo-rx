@@ -1,13 +1,13 @@
 schema_version: 1
-bundle_id: bundle.photo-vision
+bundle_id: bundle.photo-rx
 book:
-  title: photo-vision 批一至批八：摄影色彩圣经 / Interacting with Color / Interaction of Color / 摄影师的视界 / 光线与用光 / 艺术与视知觉 / 艺术与错觉 / 中国美学史大纲 / 美学散步 / The Art of Pixar / 林泉高致 / 摄影构图与色彩设计 / 观看之道 / 秩序感
+  title: photo-rx 批一至批八：摄影色彩圣经 / Interacting with Color / Interaction of Color / 摄影师的视界 / 光线与用光 / 艺术与视知觉 / 艺术与错觉 / 中国美学史大纲 / 美学散步 / The Art of Pixar / 林泉高致 / 摄影构图与色彩设计 / 观看之道 / 秩序感
   author: Jeff Wignall / Fritz Horstman / Josef Albers / Michael Freeman / Michael Freeman & Catherine Quinn / Rudolf Arnheim / E.H. Gombrich / 叶朗 / 宗白华 / Amid Amidi / 郭熙（杨伯 编著） / 哈拉尔德·曼特 / 约翰·伯格 / E.H. 贡布里希（秩序感）
   source_pack: books/{linquan-gaozhi,color-bible,interacting-with-color,interaction-of-color,freeman-sight,freeman-light,arnheim-art,gombrich-illusion,chinese-aesthetics,meixue-sanbu,art-of-pixar,photo-composition-color,ways-of-seeing,sense-of-order}/source/book.md
   baseline_tag: 人民邮电 2013 中译本（张悦时译）/ Yale UP 2024 / Yale UP 第50周年版 / 人民邮电 2020.10 中译本（梁波译）/ 人民邮电 2013.1 中译本（梅菲译）/ 四川人民 2019 中译本（滕守尧译）/ 第六版 / 上海人民 1985（2006 印）/ 上海人民 2015 彩图本 / Chronicle Books 2011（epub
     转 HTML） / 中华书局（杨伯 编著，含注释·译文·点评） / 中国青年出版社 2013.12 第 2 版（赵嫣／梅叶挺／梅蒋巧 译） / 广西师范大学出版社 2005.1（戴行钺译，ISBN 7-5633-5096-9） / 广西美术出版社 2014.12（杨思梁、徐一维、范景中译，ISBN 978-7-5494-1236-5）
 entry:
-  name: photo-vision
+  name: photo-rx
   description: 把十四本书蒸馏成「色彩—结构—光线—视看机制—中国观看—序列编排」六条判断线：色彩线量事实、定主导对比、判数量并按意图分岔；结构线判画幅、分割、平衡、纵深与引导；光线线定光质、光位、时段、曝光与白平衡；机制层回答「为什么会这样看」；中国观看线回答「为什么这张空／该怎么留」；序列线回答「一批怎么排、留哪些、删哪些」。曼特补进的是可数规则：点数与分割块数、八等分 3:5、面积和谐的亮度反比、组照 10–15 张的起点。批八两本只进知识层：《观看之道》补视看的语境（复制、裸像、广告），《秩序感》补预期与显著点。跨书冲突（K1 和谐、K5 规则、K6 自我表达、K7 照片能否裁决、K11
     视点、K12 虚实、K13 逼真、K14 单张与整体的尺、K15 色彩意义的层）在运行时按 branch / downgrade / qualify / split 处置，不做折中。
   core_principles:
@@ -43,7 +43,7 @@ entry:
   - 需要具体软件参数（某版本滑块数值、某相机预设）时，说明这需要按用户器材确认，不虚构。
   - 用户要求出分数或报告页时，只按 frame-critique 的量表口径给，并声明维度表尚未统一识别。
 router_entry:
-  name: photo-vision
+  name: photo-rx
   description: 当用户拿照片问「哪里不对／怎么改」「为什么看着不舒服」「颜色怎么调」「留白该怎么留」，或要定拍摄计划、判断一张照片成不成立、给一批照片排序与取舍时使用；覆盖色彩关系、构图结构、光线时段、视看机制、中国观看与序列编排六条线。也用于用户没有具体照片、只问该从哪里入手、先练什么、给自己定一套检查标准、或问某个题材该往哪个方向深挖这类学习路径与方向问题；也用于用户问某个概念或术语本身是什么意思（如「气韵生动」「三远」「虚实相生」「三大」），此时按术语表作解释，不必有照片。不适用于影像真伪鉴别、色彩管理工程、修图软件操作与纯器材评测。
 promotion_budget: 8
 capabilities:
