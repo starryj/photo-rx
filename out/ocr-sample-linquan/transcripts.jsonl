@@ -9,3 +9,4 @@
 {"sample_id": "S09", "ok": false, "text": "", "error": "502 Server Error: Bad Gateway for url: http://127.0.0.1:11500/v1/describe"}
 {"sample_id": "S10", "ok": true, "text": "疏薄，冬黯淡。画见其大象，而不为斩刻之形⑥，则云气之态度活矣。真山水之烟岚⑦，四时不同：春山澹冶而如笑，夏山苍翠而如滴，秋山明净而如妆，冬山惨淡而如睡。画见其大意，而不为刻画之迹，则烟岚之景象正矣。真山水之风雨，远望可得，而近者玩习不能究一川径隧起止之势⑧。真山水之阴晴，远望可尽，而近者拘狭不能得一山明晦隐见之迹⑨。山之人 物，以标道路；山之楼观，以标胜概⑩；山之林木映蔽，以分远近；山之溪谷继 续，以分深浅。水之津筏桥约⑪，以足人事；水之渔艇钓竿，以足人意。", "ms": 106489, "sent": null, "used": "local"}
 {"sample_id": "S11", "ok": false, "text": "", "error": "502 Server Error: Bad Gateway for url: http://127.0.0.1:11500/v1/describe"}
+{"sample_id": "S12", "ok": true, "text": "", "ms": 264723, "sent": null, "used": "local"}
