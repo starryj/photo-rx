@@ -1,11 +1,11 @@
 # 郭熙 OCR 抽样运行状态（2026-11-24）
 
-- 计划 27 条（`out\ocr-sample-linquan`，S01–S27，全部 block 定位）。
-- 实际尝试 12 条（S01–S12，按 manifest 顺序）：
-  - 6 条转写与引文逐字一致（S02/S03 p027、S04/S06 p047、S08/S10 其他页），相似度 1.00；
-  - 2 条空转写（S01 p023 整页密排块，272.8s；S12，264.7s，均返回空串）；
-  - 4 条请求失败（S05/S07/S09/S11，无转写）。
-- 其余 15 条（S13–S27）未跑。首轮 27 条 job 在 6 条后退出；续跑在 S12 上耗时 264.7s 后返回空串，客户端已被杀但服务端仍占用，随后手动终止了残留 runner。
-- 沙箱内 `taskkill` 对 Ollama/服务进程返回 `Access denied`，无法在本会话恢复；需在本机重启 Ollama（或重启电脑）后按原 manifest 断点续跑：
-  `python tools\ocr_verify.py run --out out\ocr-sample-linquan`
-- 结论边界：郭熙这批只确认 6 条逐字一致、2 条空转写、4 条请求失败、15 条未跑；**不得把未跑/失败/空转写记成 OCR 错或原文有误**，也不宣称整本覆盖。报告见 `report.md`，表内「未跑」「请求失败」均已标注。
+- 计划 27 条（`out\ocr-sample-linquan`，S01–S27，全部 block 定位），已全部尝试。
+- 13 条拿到响应：
+  - 10 条有文字，全部与引文逐字或轻微一致（S02/S03 p027、S04/S06 p047、S05/S07/S09/S11、S08/S10）；
+  - 3 条空转写：S01（p023）、S12、S13，均为整页密排块，250–273s 后返回空串。
+- 14 条请求失败（S14–S27）：Ollama 在 S13 之后退出，视觉服务返回连接错误；不是 OCR 错，也不是原文有误。
+- 恢复 Ollama 时沙箱内启动被拒：`ollama serve` 报 `remove C:\Users\27669\.ollama\models\manifests: Access is denied`，无法从本会话恢复；需在本机重启 Ollama 应用（或重启电脑）。
+- 恢复后按原 manifest 断点续跑（已有失败记录会保留，加 `--retry-failed` 重跑失败项）：
+  `python tools\ocr_verify.py run --out out\ocr-sample-linquan --retry-failed`
+- 结论边界：郭熙这批只确认「有字的 10 条全部对得上」与「3 条密排块空转写」；14 条失败不能记成 OCR 错，也不宣称整本覆盖。报告见 `report.md`，表内失败/空转写均已标注。

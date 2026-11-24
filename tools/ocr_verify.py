@@ -48,15 +48,22 @@ def norm(s):
     return "".join(ch for ch in s if ch.isalnum())
 
 
-def run(outdir=None):
+def run(outdir=None, retry_failed=False):
     out = Path(outdir) if outdir else OUT
     man = json.loads((out / "manifest.json").read_text(encoding="utf-8"))
     done = set()
     jl = out / "transcripts.jsonl"
     if jl.exists():
+        recs = []
         for line in jl.read_text(encoding="utf-8").splitlines():
             if line.strip():
-                done.add(json.loads(line)["sample_id"])
+                recs.append(json.loads(line))
+        if retry_failed:
+            keep = [r for r in recs if r.get("ok")]
+            jl.write_text("".join(json.dumps(r, ensure_ascii=False) + "\n" for r in keep),
+                          encoding="utf-8")
+            recs = keep
+        done = {r["sample_id"] for r in recs}
     print(f"已完成 {len(done)} / {len(man)}")
     with jl.open("a", encoding="utf-8") as f:
         for m in man:
@@ -169,5 +176,6 @@ if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("cmd", choices=["run", "diff"])
     ap.add_argument("--out", default=None, help="样本目录，默认 out\\ocr-sample")
+    ap.add_argument("--retry-failed", action="store_true", help="删掉失败记录并重跑")
     a = ap.parse_args()
-    run(a.out) if a.cmd == "run" else diff(a.out)
+    run(a.out, a.retry_failed) if a.cmd == "run" else diff(a.out)

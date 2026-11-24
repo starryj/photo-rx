@@ -316,7 +316,7 @@ one、学习计划仍落 photo-vision。补描述没有把包扩成「什么都�
 
 **验证。** `check_claims --all`：14 本 401 条 OK / 0 MOVED / 0 MISSING。编译 run-20261124-172323-64f022、run-20261124-172633-d7eb47，8 入口，0 errors 0 warnings。gate3：第一轮 29/30（cd-22 边界缺一条），补边界后第二轮 30/30（Wilson [88.6%, 100%]）。without_skill：24 条只给 id 名，18/24 = 75.0%（Wilson [55.1%, 88.0%]），详见 `out\blind\without-skill-report.md`。
 
-**郭熙 OCR 抽样（部分完成，受阻）。** 计划 27 条（`out\ocr-sample-linquan`），实际尝试 12 条（S01–S12）：S02/S03（p027）、S04/S06（p047）、S08/S10 共 6 条转写与引文逐字一致（1.00）；S01（p023）整页密排块 272.8s 空转写，S12 264.7s 空转写；S05/S07/S09/S11 请求失败。其余 15 条未跑：第二个重试在 S12 上把本地 qwen3-vl:4b 卡死（Ollama 显示 `Stopping...`，无法卸载；服务单并发 worker 被占），沙箱内 taskkill `Access denied`；残留 runner 已手动终止。**不得把未跑/请求失败/空转写记成 OCR 错或原文有误**；恢复 Ollama 后按原 manifest 断点续跑（`ocr_verify.py run --out out\ocr-sample-linquan`）。详见 `out\ocr-sample-linquan\STATUS.md`。
+**郭熙 OCR 抽样（部分完成，受阻）。** 计划 27 条（`out\ocr-sample-linquan`），已全部尝试：13 条拿到响应，其中 10 条有文字且全部与引文逐字或轻微一致（S02/S03 p027、S04/S06 p047、S05/S07/S09/S11、S08/S10）；3 条空转写（S01/S12/S13，均整页密排块，250–273s 后返回空串）；14 条请求失败（S14–S27，Ollama 在 S13 后退出，服务连接错误）。恢复时沙箱内 `ollama serve` 被拒（写 `C:\Users\27669\.ollama\models\manifests` Access denied），需本机重启 Ollama。**不得把请求失败/空转写记成 OCR 错或原文有误**；恢复后按 manifest 续跑（`ocr_verify.py run --out out\ocr-sample-linquan --retry-failed`）。详见 `out\ocr-sample-linquan\STATUS.md` 与 `report.md`。
 
 **四条边界**
 1. 《秩序感》讨论的是装饰与知觉心理学，不是摄影构图手册；本包只取「秩序感＝预测／显著点＝中断／框＝延续中断」这类可迁移机制，不外推为拍摄规则。
