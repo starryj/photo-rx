@@ -1,0 +1,667 @@
+{
+  "slug": "interaction-of-color",
+  "n": 60,
+  "candidates": 79,
+  "items": [
+    {
+      "page_idx": 0,
+      "img": "13364da56751680a587e7e7e9fd37f195ac4e0e06b8fe1eb36bc226c48360a6e.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\13364da56751680a587e7e7e9fd37f195ac4e0e06b8fe1eb36bc226c48360a6e.jpg",
+      "frac": 0.7961,
+      "px": [
+        1009,
+        1279
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 24,
+      "img": "724974c8f7022c4d3c8281e70391b4fe2d6c3efc9e6993de9e4403df2f41d37f.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\724974c8f7022c4d3c8281e70391b4fe2d6c3efc9e6993de9e4403df2f41d37f.jpg",
+      "frac": 0.1585,
+      "px": [
+        701,
+        378
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 27,
+      "img": "642c3979b1e4cf98319416e15285c9bfb9f21d9c906c6e752e2a4441f7926cb8.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\642c3979b1e4cf98319416e15285c9bfb9f21d9c906c6e752e2a4441f7926cb8.jpg",
+      "frac": 0.3265,
+      "px": [
+        909,
+        670
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 33,
+      "img": "17979f982d60c3428a720947ef8320db64604cb2caceb22a62c9bf73b34d4586.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\17979f982d60c3428a720947ef8320db64604cb2caceb22a62c9bf73b34d4586.jpg",
+      "frac": 0.2613,
+      "px": [
+        917,
+        529
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 42,
+      "img": "a672004d8f728aa7c52b6e37eaae055e73aadf688ab561fa0a4501bef030a3b6.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\a672004d8f728aa7c52b6e37eaae055e73aadf688ab561fa0a4501bef030a3b6.jpg",
+      "frac": 0.1343,
+      "px": [
+        381,
+        682
+      ],
+      "caption": "AND REVERSED"
+    },
+    {
+      "page_idx": 44,
+      "img": "ee247e72f09ab60ead3f22e70bf82a7e5bf8f315e3c1057aca641a8bb77b2458.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\ee247e72f09ab60ead3f22e70bf82a7e5bf8f315e3c1057aca641a8bb77b2458.jpg",
+      "frac": 0.3792,
+      "px": [
+        1046,
+        698
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 50,
+      "img": "01327ae9897a902c6a05e02b17472ba49249dfcbde4ebdf218567470e954c034.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\01327ae9897a902c6a05e02b17472ba49249dfcbde4ebdf218567470e954c034.jpg",
+      "frac": 0.116,
+      "px": [
+        1048,
+        215
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 70,
+      "img": "4df6aefc960b82ee19f03ccbe267efbe9187b9cae3619a7776b6c5795f422d95.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\4df6aefc960b82ee19f03ccbe267efbe9187b9cae3619a7776b6c5795f422d95.jpg",
+      "frac": 0.1398,
+      "px": [
+        259,
+        793
+      ],
+      "caption": "THIS PSYCHOLOGICAL EFFECT"
+    },
+    {
+      "page_idx": 74,
+      "img": "eca14510f1dc705ed7f79b10ff71e92c1b5fef6db5254207220f0ae28eda1cee.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\eca14510f1dc705ed7f79b10ff71e92c1b5fef6db5254207220f0ae28eda1cee.jpg",
+      "frac": 0.2037,
+      "px": [
+        1071,
+        370
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 80,
+      "img": "f72246265e36bdf9fb8831214ef68cff4f15537acff18dd88f77819d4c476638.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\f72246265e36bdf9fb8831214ef68cff4f15537acff18dd88f77819d4c476638.jpg",
+      "frac": 0.6535,
+      "px": [
+        821,
+        1362
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 93,
+      "img": "29ecb600fe283e3d536fa9b7f3a699ccae67b1c52377d3329df899008f6388ee.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\29ecb600fe283e3d536fa9b7f3a699ccae67b1c52377d3329df899008f6388ee.jpg",
+      "frac": 0.5617,
+      "px": [
+        889,
+        1171
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 95,
+      "img": "8936fe28635685b69c7777dbd67b7e2d6b5dedf9bd6aecdd61da474e264900a3.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\8936fe28635685b69c7777dbd67b7e2d6b5dedf9bd6aecdd61da474e264900a3.jpg",
+      "frac": 0.6121,
+      "px": [
+        901,
+        1262
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 97,
+      "img": "bc63ae781d97f11d062c1075c972e1e74ea577408d0ce0a39f74ef574547b695.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\bc63ae781d97f11d062c1075c972e1e74ea577408d0ce0a39f74ef574547b695.jpg",
+      "frac": 0.5339,
+      "px": [
+        904,
+        1101
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 99,
+      "img": "c8eeaef1fbf8d767052e48c556e633c14dc54e6bae7c843beff711e828abbee5.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\c8eeaef1fbf8d767052e48c556e633c14dc54e6bae7c843beff711e828abbee5.jpg",
+      "frac": 0.207,
+      "px": [
+        646,
+        565
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 101,
+      "img": "4443d3f5d96517a96a1decfac7bf0c869ee6d0d5b70009c0676da3a50788fab4.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\4443d3f5d96517a96a1decfac7bf0c869ee6d0d5b70009c0676da3a50788fab4.jpg",
+      "frac": 0.7271,
+      "px": [
+        917,
+        1484
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 103,
+      "img": "2e62f8b37ec017bcce19c1a15e16201deac1a4728d3c79bebf41d90eaec64e18.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\2e62f8b37ec017bcce19c1a15e16201deac1a4728d3c79bebf41d90eaec64e18.jpg",
+      "frac": 0.5755,
+      "px": [
+        895,
+        1190
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 107,
+      "img": "6f06b8e9081cdea7ac60b4b7414a5839117f8544381155ed9bcaa3f7310abbf7.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\6f06b8e9081cdea7ac60b4b7414a5839117f8544381155ed9bcaa3f7310abbf7.jpg",
+      "frac": 0.6163,
+      "px": [
+        781,
+        1426
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 109,
+      "img": "42114c0837504477a00cd85c78e8d73376d83b990834049f9eabe7091fbf3edd.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\42114c0837504477a00cd85c78e8d73376d83b990834049f9eabe7091fbf3edd.jpg",
+      "frac": 0.5697,
+      "px": [
+        901,
+        1184
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 111,
+      "img": "9bbe61b03712bb8127228b671089a8b48326d5af0d133b9b9d71b677baa4882e.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\9bbe61b03712bb8127228b671089a8b48326d5af0d133b9b9d71b677baa4882e.jpg",
+      "frac": 0.4502,
+      "px": [
+        898,
+        935
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 113,
+      "img": "257fb0349df5f71747763e7f3ee168a45501434c0de16ca212ce691b07dfc2fd.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\257fb0349df5f71747763e7f3ee168a45501434c0de16ca212ce691b07dfc2fd.jpg",
+      "frac": 0.1742,
+      "px": [
+        909,
+        359
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 115,
+      "img": "512687ac11c4bd289c01c62e175dcce591f58f2c7817a3fcc9979e3c4d61521b.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\512687ac11c4bd289c01c62e175dcce591f58f2c7817a3fcc9979e3c4d61521b.jpg",
+      "frac": 0.2792,
+      "px": [
+        893,
+        584
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 117,
+      "img": "610aa7c98ac0fa369cf8325be3cdccd8690cb2908132134d671a4ab8d908f704.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\610aa7c98ac0fa369cf8325be3cdccd8690cb2908132134d671a4ab8d908f704.jpg",
+      "frac": 0.5966,
+      "px": [
+        842,
+        1320
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 119,
+      "img": "c5b87fe1cab1816146f33a41fb329c57d8c65d55762672f7d63d09ea11b87445.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\c5b87fe1cab1816146f33a41fb329c57d8c65d55762672f7d63d09ea11b87445.jpg",
+      "frac": 0.6147,
+      "px": [
+        862,
+        1334
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 124,
+      "img": "2cf2fdf0ab2d912b65f3baab3050d42dc160f132a30e3e639d34f4d9799b94be.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\2cf2fdf0ab2d912b65f3baab3050d42dc160f132a30e3e639d34f4d9799b94be.jpg",
+      "frac": 0.5504,
+      "px": [
+        768,
+        1301
+      ],
+      "caption": "IX-3"
+    },
+    {
+      "page_idx": 125,
+      "img": "d874af33284ca7dfd0273ffd80f87b00912e0dd2174fe515e0fa362dd60b9a67.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\d874af33284ca7dfd0273ffd80f87b00912e0dd2174fe515e0fa362dd60b9a67.jpg",
+      "frac": 0.6284,
+      "px": [
+        904,
+        1317
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 127,
+      "img": "fb8fdc54ff095b2f2430622858bdbb85aea72b0f9881533edc1b660469dae70b.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\fb8fdc54ff095b2f2430622858bdbb85aea72b0f9881533edc1b660469dae70b.jpg",
+      "frac": 0.2737,
+      "px": [
+        820,
+        615
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 129,
+      "img": "b65427ea1eb41bdc6017050094cf30a9f04ada528601117fd61910aadc15e3b1.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\b65427ea1eb41bdc6017050094cf30a9f04ada528601117fd61910aadc15e3b1.jpg",
+      "frac": 0.3691,
+      "px": [
+        548,
+        1293
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 131,
+      "img": "398a9835fd65fa54cb6c07687edf71faea4a2340e3b5ff205f83bbf2700d154e.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\398a9835fd65fa54cb6c07687edf71faea4a2340e3b5ff205f83bbf2700d154e.jpg",
+      "frac": 0.5873,
+      "px": [
+        729,
+        1446
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 133,
+      "img": "7152ec62116498df1b299292ce74211922fd97123254985b879e9459b1f2b74b.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\7152ec62116498df1b299292ce74211922fd97123254985b879e9459b1f2b74b.jpg",
+      "frac": 0.6067,
+      "px": [
+        879,
+        1287
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 137,
+      "img": "d897aef5f4a524af48e5d0b01136eb4329320ce35096ce478e29f1425ba1e867.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\d897aef5f4a524af48e5d0b01136eb4329320ce35096ce478e29f1425ba1e867.jpg",
+      "frac": 0.5347,
+      "px": [
+        662,
+        1426
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 141,
+      "img": "5bccda289b87c2abff953b797ed5ffc6f4d86e8c01dffc25a929f94f45516c68.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\5bccda289b87c2abff953b797ed5ffc6f4d86e8c01dffc25a929f94f45516c68.jpg",
+      "frac": 0.5788,
+      "px": [
+        898,
+        1198
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 146,
+      "img": "04578ea52f365fea5a38eb196b2ef48a951d43a50d388a1ee5eb041981e11d66.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\04578ea52f365fea5a38eb196b2ef48a951d43a50d388a1ee5eb041981e11d66.jpg",
+      "frac": 0.2334,
+      "px": [
+        645,
+        640
+      ],
+      "caption": "XIV-1"
+    },
+    {
+      "page_idx": 147,
+      "img": "70a9193be159811eedf31d64ffe7b8b0ba636cc4a93eb53eaa49c0eae5574c5d.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\70a9193be159811eedf31d64ffe7b8b0ba636cc4a93eb53eaa49c0eae5574c5d.jpg",
+      "frac": 0.2329,
+      "px": [
+        643,
+        637
+      ],
+      "caption": "XIV"
+    },
+    {
+      "page_idx": 147,
+      "img": "28179d9c51fffbbb5658a3d0e286aa1d6e9b675e52b3a22ace09aebd2f95662f.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\28179d9c51fffbbb5658a3d0e286aa1d6e9b675e52b3a22ace09aebd2f95662f.jpg",
+      "frac": 0.2303,
+      "px": [
+        640,
+        634
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 149,
+      "img": "a3ce82b1179bbf777e081602e1c7b01c14a3bfeecb4868cb0c499c163ad88408.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\a3ce82b1179bbf777e081602e1c7b01c14a3bfeecb4868cb0c499c163ad88408.jpg",
+      "frac": 0.1871,
+      "px": [
+        812,
+        425
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 151,
+      "img": "f4d6be51b9d5129ff25675e309b64c197bffef783a6b62de74afa59ef053d345.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\f4d6be51b9d5129ff25675e309b64c197bffef783a6b62de74afa59ef053d345.jpg",
+      "frac": 0.3204,
+      "px": [
+        901,
+        668
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 154,
+      "img": "b143825ec424f65db4a818976389653bf125cf7296194abf0226a16aff6ab335.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\b143825ec424f65db4a818976389653bf125cf7296194abf0226a16aff6ab335.jpg",
+      "frac": 0.4854,
+      "px": [
+        898,
+        1012
+      ],
+      "caption": "XV-1"
+    },
+    {
+      "page_idx": 155,
+      "img": "55b1541cd4b215afc14c8ac32b4024e7d1b6b1decb35484c2d115778e3642933.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\55b1541cd4b215afc14c8ac32b4024e7d1b6b1decb35484c2d115778e3642933.jpg",
+      "frac": 0.6086,
+      "px": [
+        906,
+        1081
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 162,
+      "img": "eb34b657424097cf9617dc538437f4181e2a634f7122d20deb3d8249eea7db2f.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\eb34b657424097cf9617dc538437f4181e2a634f7122d20deb3d8249eea7db2f.jpg",
+      "frac": 0.2414,
+      "px": [
+        725,
+        601
+      ],
+      "caption": "XVI-1"
+    },
+    {
+      "page_idx": 162,
+      "img": "6d7723743aeb27a256ca38d2cc448fa48fa0e506f1bca22b7c1a2b85437886c5.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\6d7723743aeb27a256ca38d2cc448fa48fa0e506f1bca22b7c1a2b85437886c5.jpg",
+      "frac": 0.2385,
+      "px": [
+        723,
+        596
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 163,
+      "img": "c4f8de861cb7d55f97689f515c1808dfd23e5ec18b752140f547b790c8f63183.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\c4f8de861cb7d55f97689f515c1808dfd23e5ec18b752140f547b790c8f63183.jpg",
+      "frac": 0.2444,
+      "px": [
+        726,
+        604
+      ],
+      "caption": "XVI-1"
+    },
+    {
+      "page_idx": 163,
+      "img": "966bb25e55b8202cf39833ffdb0caac11b5768821f264e3b63f0698d64ffc46f.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\966bb25e55b8202cf39833ffdb0caac11b5768821f264e3b63f0698d64ffc46f.jpg",
+      "frac": 0.2393,
+      "px": [
+        723,
+        593
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 169,
+      "img": "4f0bbc8b68aa10c9b25e9523b289981c59afb26d50d21a715fd0effbed127537.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\4f0bbc8b68aa10c9b25e9523b289981c59afb26d50d21a715fd0effbed127537.jpg",
+      "frac": 0.4865,
+      "px": [
+        662,
+        1298
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 171,
+      "img": "1fb958fdbe698659faac4a66a57fe1f4b15522c4d736e6e2bb3734dfa87f18ab.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\1fb958fdbe698659faac4a66a57fe1f4b15522c4d736e6e2bb3734dfa87f18ab.jpg",
+      "frac": 0.2408,
+      "px": [
+        893,
+        504
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 171,
+      "img": "43f2ab6ea10bd8f485fbf07a6983b3681088aab660887b5b3620bea2d782acd2.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\43f2ab6ea10bd8f485fbf07a6983b3681088aab660887b5b3620bea2d782acd2.jpg",
+      "frac": 0.2387,
+      "px": [
+        893,
+        501
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 175,
+      "img": "a940937684718bd65367712bcfd850ae5a60fa605cf760cae1b35f13dc3e7634.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\a940937684718bd65367712bcfd850ae5a60fa605cf760cae1b35f13dc3e7634.jpg",
+      "frac": 0.5695,
+      "px": [
+        899,
+        1190
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 177,
+      "img": "db10fe6cf8fb79efc673942624f19d1199f4a6224452d6b45e2057827606adfe.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\db10fe6cf8fb79efc673942624f19d1199f4a6224452d6b45e2057827606adfe.jpg",
+      "frac": 0.3954,
+      "px": [
+        568,
+        1206
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 179,
+      "img": "b19d27db6b94ac19b4e242073c29fac0f28d57df54ce4d1a6c354ae4cf6d79d5.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\b19d27db6b94ac19b4e242073c29fac0f28d57df54ce4d1a6c354ae4cf6d79d5.jpg",
+      "frac": 0.6115,
+      "px": [
+        846,
+        1334
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 183,
+      "img": "4f7311875f78ff4ec76d38c4f070b89a8ee8ba0fb39881364bb2ce35c17bec61.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\4f7311875f78ff4ec76d38c4f070b89a8ee8ba0fb39881364bb2ce35c17bec61.jpg",
+      "frac": 0.535,
+      "px": [
+        815,
+        1217
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 185,
+      "img": "9535bcd578edab54545b5879223887a3f891e1ff91af925c474ce573073b6a14.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\9535bcd578edab54545b5879223887a3f891e1ff91af925c474ce573073b6a14.jpg",
+      "frac": 0.5202,
+      "px": [
+        887,
+        1095
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 187,
+      "img": "1b1304a490cef3ad4416877b1a589d1e8106ecc6453cb605a32109b24799eaa0.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\1b1304a490cef3ad4416877b1a589d1e8106ecc6453cb605a32109b24799eaa0.jpg",
+      "frac": 0.5927,
+      "px": [
+        851,
+        1292
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 189,
+      "img": "c965cad05f5c262eebcfcae67e40c36dccd430a67bbcf3245b21f00d895cd3f9.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\c965cad05f5c262eebcfcae67e40c36dccd430a67bbcf3245b21f00d895cd3f9.jpg",
+      "frac": 0.3108,
+      "px": [
+        898,
+        656
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 191,
+      "img": "b6569d4328b1510a221fdef47b5b85fd7377c0f31d24d6152e3a4c06a197dfd0.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\b6569d4328b1510a221fdef47b5b85fd7377c0f31d24d6152e3a4c06a197dfd0.jpg",
+      "frac": 0.4772,
+      "px": [
+        912,
+        990
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 193,
+      "img": "d0a8283ea6c4066afc099cadaaf8e453ff0d52b33f6bb0501681180bee1aab24.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\d0a8283ea6c4066afc099cadaaf8e453ff0d52b33f6bb0501681180bee1aab24.jpg",
+      "frac": 0.1547,
+      "px": [
+        345,
+        843
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 195,
+      "img": "4838e6f298a1d17b150541301f55375135807d0aafafdf970c9d92b4af64ef15.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\4838e6f298a1d17b150541301f55375135807d0aafafdf970c9d92b4af64ef15.jpg",
+      "frac": 0.5366,
+      "px": [
+        668,
+        1437
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 197,
+      "img": "21848438d8b9bab67a0924f8b217cebd859006675bffe934ceb68f128146d25c.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\21848438d8b9bab67a0924f8b217cebd859006675bffe934ceb68f128146d25c.jpg",
+      "frac": 0.3252,
+      "px": [
+        906,
+        678
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 197,
+      "img": "9529ef2837917b88940ec0e2ba0a9ea790a30cb05495f289b2b03064bf9e3879.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\9529ef2837917b88940ec0e2ba0a9ea790a30cb05495f289b2b03064bf9e3879.jpg",
+      "frac": 0.2925,
+      "px": [
+        893,
+        620
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 203,
+      "img": "fc6497200970dbacb73fa1bd929332a055ed811efd73730855d7f3783b800058.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\fc6497200970dbacb73fa1bd929332a055ed811efd73730855d7f3783b800058.jpg",
+      "frac": 0.3068,
+      "px": [
+        820,
+        695
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 207,
+      "img": "f3f791a0d9f362d61783a2c0513d2f443d716b167f13b5dd07f264cf33669f6e.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\f3f791a0d9f362d61783a2c0513d2f443d716b167f13b5dd07f264cf33669f6e.jpg",
+      "frac": 0.2961,
+      "px": [
+        554,
+        962
+      ],
+      "caption": "xxv-6"
+    },
+    {
+      "page_idx": 207,
+      "img": "b26a642249d08c78884cdb17e0c0717a5d2df63954a143026e40cf7691ce32f9.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interaction-of-color\\images\\b26a642249d08c78884cdb17e0c0717a5d2df63954a143026e40cf7691ce32f9.jpg",
+      "frac": 0.2334,
+      "px": [
+        782,
+        537
+      ],
+      "caption": "XXV-2"
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+- id: K1
+  kind: contested
+  statement: 色彩和谐是不是一个客观存在的目标
+  targets:
+  - C016
+  - C014
+  - C015
+  side_a:
+    label: 和谐可求且可辨认（规则派）
+    quotes:
+    - claim: C016
+      book: color-bible
+      page: p050
+      quote: 虽然在我们身边能够看到自然形成的色彩和谐，我们还是需要摄影师用他们敏锐的观察力，以一种组合的方式来将这些色彩进行呈现。
+  side_b:
+    label: 任何色都能搭配，和谐不是唯一可欲（相对派）
+    quotes:
+    - claim: C014
+      book: interacting-with-color
+      page: p057
+      quote: any color 'goes' or 'works' with any other color, presupposing that their quantities are appropríate.
+    - claim: C015
+      book: interaction-of-color
+      page: p082
+      quote: We emphasize that color harmonies, usually the special interest or aim of color systems, are not the only desirable relationship.
+  resolution: both-valid-by-intent
+  resolution_by: editor
+  rationale: 两边说的不是一件事：规则派谈的是「多数观者会读成协调的组合」（可用于交付给客户、投稿、做封面），相对派谈的是「和谐不是唯一值得追求的关系」（可用于个人创作、当代摄影、要张力时）。把它裁成一方胜出会丢掉实用性，裁成折中又会失去两边的锋利。故运行时不裁决，按用户意图分岔，并在卡片里写清分岔点。
+  reverse_writable: 把规则派写成相对派能接受的形式：「存在一类被多数人读作协调的组合，它可被列举、可被复现——但它只是众多关系之一，没有优先权。」相对派能接受。反向把相对派写成规则派能接受的形式：「任何色都能成立，但成立的条件是数量；追求和谐也只是选择了一组数量。」规则派也能接受（它本来就靠数量与搭配给出配方）。两边互写得通，说明这是真分歧而非表述差异。
+  runtime_action: branch
+  branch_condition: 用户要「协调／好看／能交付」→ 走规则派配方（C016 域）；用户要「张力／不要俗／当代感」或明确说「不想按套路」→ 走相对派（C014/C015），并提示数量是唯一硬约束。
+- id: K5
+  kind: contested
+  statement: 具体的色彩规则能不能用于指导拍摄与后期
+  targets:
+  - C041
+  - C042
+  - C045
+  - C059
+  - C065
+  - C069
+  - C070
+  side_a:
+    label: 规则可操作、有判词（规则派）
+    quotes:
+    - claim: C041
+      book: color-bible
+      page: p030
+      quote: 天空饱和度最高的时刻，大多都是在日落十分，太阳完全下降到地平线前20多分钟的时候。
+    - claim: C042
+      book: color-bible
+      page: p049
+      quote: 虽然在很多的户外环境下，正午直晒的阳光有些过强，而且会显得十分呆板，但是这样的光线能够加强色彩的饱和度，尤其是当明亮的色彩和暗色调相对比的时候效果更佳明显
+    - claim: C045
+      book: color-bible
+      page: p082
+      quote: 逆光当光线从我们被摄物体的后面照射过来的时候，尤其是在拍摄风景和微距照片的情况下，这种光线就能构成十分戏剧性的照明效果，会勾勒出物体的轮廓，同时也能够以一种十分强烈的方式增加物体的色彩。
+    - claim: C059
+      book: color-bible
+      page: p049
+      quote: 偏振镜通过减少物体表面的反光，并且压暗蓝色的天空这样的手段，在很多户外场景下能够增强饱和度
+  side_b:
+    label: 教的是问题不是答案，实践先于理论（相对派）
+    quotes:
+    - claim: C065
+      book: interacting-with-color
+      page: p006
+      quote: He believed it was more important to ask the right questions than to direct students toward a specific answer.
+    - claim: C069
+      book: interaction-of-color
+      page: p083
+      quote: Naturally, practice is not preceded but followed by theory.
+    - claim: C070
+      book: interaction-of-color
+      page: p083
+      quote: Its aim is development of creativeness realized in discovery and invention—the criteria of creativity, or flexibility, being imagination and fantasy.
+  resolution: downgrade-side-a
+  resolution_by: editor
+  rationale: 相对派反对的是「把规则当答案」，不是「规则为假」。规则派给的是条件判词（几点、什么光、什么器材），这类经验断言在它自己的适用条件下有效；一旦跨出条件（换成阴天、换成室内混合光、换成无偏振镜）就没有依据。故不否定规则，而是把每条规则降级为「有条件可操作」，并在卡片 E 段强制写判停点。
+  reverse_writable: 把相对派写成规则派能接受的形式：「规则只在它所由抽出的条件下成立，条件变了要重新判断」——规则派会同意（书里自己也写黄金时段无法预测、白平衡要按主光源定）。反向把规则派写成相对派能接受的形式：「有一批在特定条件下反复验证过的经验判词，它们不是美学的答案，只是提高命中率的先验。」相对派能接受。
+  runtime_action: downgrade
+  branch_condition: 输出任何带时间／光线／器材判词的结论时，必须同时给出它的失效条件；给不出失效条件就不许写进结论。
+- id: K6
+  kind: contested
+  statement: 照片该不该承载再现与自我表达
+  targets:
+  - C062
+  - C064
+  - C066
+  - C067
+  side_a:
+    label: 色彩可承载情绪与地域叙事（规则派）
+    quotes:
+    - claim: C062
+      book: color-bible
+      page: p134
+      quote: 最后，拍摄人像的好处之一，就是我们可以改变人物所处的场景和服装，而不像拍摄其他主题照片一样，我们可以自由地改变色彩的组合。
+    - claim: C064
+      book: color-bible
+      page: p138
+      quote: 而红色与其他较弱色彩的竞争，经常导致注意力从重要内容上的分散。
+  side_b:
+    label: 课程禁止再现，再现会分散对色彩的注意（相对派）
+    quotes:
+    - claim: C066
+      book: interacting-with-color
+      page: p065
+      quote: Compositions in Interaction of Color were strictly nonrepresentational.
+    - claim: C067
+      book: interacting-with-color
+      page: p070
+      quote: Albers's conviction that representational work would distract from looking just at color.
+  resolution: both-valid-by-stage
+  resolution_by: editor
+  rationale: 阿尔伯斯的禁令是教学装置：要把注意力压到色彩关系上，就必须暂时拿掉内容。这不是对摄影的主张——他几乎不谈摄影。摄影的成片必然承载内容，所以禁令只能约束「分析色彩时」的阶段，不能约束「拍一张照片」的产出。
+  reverse_writable: 把禁令写成摄影可接受的形式：「分析色彩关系时先假装画面没有内容，把色块当色块看；分析完再把内容放回来。」摄影者能接受（这就是双轨诊断）。反向把摄影立场写成阿尔伯斯能接受的形式：「色彩关系在具体画面里被检验」，他会补一句「但检验时别让内容替色彩辩护」。
+  runtime_action: branch
+  branch_condition: 任务＝诊断/分析色彩 → 暂时屏蔽内容（按纯色块读）；任务＝创作/选片/编排 → 内容必须进判断，色彩只作一条轨。
+- id: K7
+  kind: contested
+  statement: 照片本身能不能裁决视觉判断
+  targets:
+  - C028
+  - C047
+  - C048
+  side_a:
+    label: 照片不可靠，不能当证据（相对派）
+    quotes:
+    - claim: C028
+      book: interaction-of-color
+      page: p029
+      quote: 'Another unavoidable question is: will a photograph of these colors reveal their true relationship and thus give the final proof?'
+  side_b:
+    label: 直方图/灰卡/包围曝光能给出读数（规则派）
+    quotes:
+    - claim: C047
+      book: color-bible
+      page: p094
+      quote: 如果我们直接对雪进行测光，那整个场景就会严重地曝光不足，主要是因为测光表会被明亮的雪所欺骗。
+    - claim: C048
+      book: color-bible
+      page: p058
+      quote: 了解灰色的真正含义对于设定曝光有非常高的实际意义，因为所有测光表都是通过读取纯中灰色的信息，从而来提供准确的曝光。
+  resolution: split-by-measurable
+  resolution_by: editor
+  rationale: 两边的对象不同：阿尔伯斯说的是「色相与明度的知觉关系」不能被照片代表（照片把亮记得更亮、暗记得更暗，中间灰被压平）；规则派说的是「曝光量与亮度数值」可以被仪器读出（测光表按中灰设计、灰卡三通道 128）。前者是知觉判断，后者是物理测量。故拆开：数值类以仪器为准，色相类以眼睛为准，且二者不可互相替代。
+  reverse_writable: 把规则派写成相对派能接受的形式：「仪器能告诉你进了多少光，不能告诉你看起来是什么颜色。」相对派会同意。反向把相对派写成规则派能接受的形式：「肉眼对中间灰与色相的分辨优于任何相机的记录，故校色时不要只信屏幕。」规则派会同意（色彩管理章正是这么说的）。
+  runtime_action: downgrade
+  branch_condition: 任何色彩结论必须标明依据：来自脚本测量（L 值、面积占比、直方图）／来自人眼判断／来自模型描述。三者不可混为一谈，模型描述不得冒充测量。
+- id: K11
+  kind: contested
+  statement: 构图该不该从一个固定视点一次定死，还是允许视线在画面里游走折返
+  targets:
+  - C088
+  - C144
+  - C145
+  - C148
+  side_a:
+    label: 一个机位决定一套透视，换视点就是换照片（结构派／西方透视）
+    quotes:
+    - claim: C088
+      book: freeman-sight
+      page: p101
+      quote: 焦距可以影响观者在场景中的参与程度，因此远摄镜头常将主体拉远，广角镜头则将观者带入场景中。
+  side_b:
+    label: 视线是流动的、转折的，空间靠俯仰往还而非单点收束（中国观看）
+    quotes:
+    - claim: C144
+      book: meixue-sanbu
+      page: p129
+      quote: 山有三远：自山下而仰山巅，谓之高远。自山前而窥山后，谓之深远。自近山而望远山，谓之平远。
+    - claim: C145
+      book: meixue-sanbu
+      page: p129
+      quote: 而中国“三远”之法，则对于同此一片山景“仰山巅，窥山后，望远山”，我们的视线是流动的，转折的。
+    - claim: C148
+      book: meixue-sanbu
+      page: p132
+      quote: 而中国画在画台阶、楼梯时反而都是上宽而下窄
+  resolution: both-valid-by-viewpoint
+  resolution_by: editor
+  rationale: 两边谈的是拍摄时能否在一个视点上完成。西方透视假定观者站定、由单一消失点收束，这在建筑、室内、需要「一眼站进去」的画面里不可替代；三远的假定是观者会移动、画面要容纳多次转头。裁成一方会让另一边失效：定死视点拍不出「一山而兼数十百山之意态」，游走也拍不出严格的垂直线会聚。故运行时按题材分岔，并在给出建议时明确说清用的是哪一套。
+  reverse_writable: 把固定视点写成三远能接受的形式：「单点透视是众多空间构造中的一种程式，它把观看压进一个坐标里——这在需要精确几何的题材上正是优点。」三远可接受。反向把三远写成固定视点能接受的形式：「游走是把若干个固定视点在时间上串起来，每一刻仍是一个视点。」固定视点可接受。互写得通。
+  runtime_action: branch
+  branch_condition: 建筑／室内／对称／需要几何会聚 → 固定视点（C088 域）；山水／街景／要容纳多次转头或强时间感 → 三远（C144/C145/C148）。用户两个都要时：串行给两套，说明不能在同一张里混。
+- id: K12
+  kind: contested
+  statement: 要提高视觉强度，该把画幅填满，还是留出大片空白
+  targets:
+  - C055
+  - C158
+  - C159
+  - C160
+  - C162
+  side_a:
+    label: 填满画幅——让明亮色彩占据构图主要部分，强度靠覆盖面积（规则派）
+    quotes:
+    - claim: C055
+      book: color-bible
+      page: p049
+      quote: 填满照片：明亮的色彩在它们占有构图中主要部分的时候效果最佳。
+  side_b:
+    label: 虚实相生，无画处皆成妙境；空要由实来显（中国观看）
+    quotes:
+    - claim: C158
+      book: meixue-sanbu
+      page: p111
+      quote: 虚实相生，无画处皆成妙境。
+    - claim: C159
+      book: meixue-sanbu
+      page: p108
+      quote: 神龙者，屈伸变化，固无定体
+    - claim: C160
+      book: meixue-sanbu
+      page: p112
+      quote: 八大山人画一条生动的鱼在纸上，别无一物，令人感到满幅是水
+    - claim: C162
+      book: meixue-sanbu
+      page: p138
+      quote: 这个虚白不是几何学的空间间架，死的空间，所谓顽空
+  resolution: both-valid-by-subject
+  resolution_by: editor
+  rationale: 两边对「空」的定价不同，但都不主张空可以随便空。西方一侧反对的是「没想清楚就留空」，中国一侧主张的是「用少而精的实去撑起大片空」——两者其实都要求实部承担责任，只是一个把责任交给铺满、一个交给精选。所以这不是真假冲突，而是两种交付方式：要覆盖与冲击力就走填满，要呼吸与让观者补完就走留白。
+  reverse_writable: 把填满写成中国观看能接受的形式：「把画幅铺满是让实部承担全部重量的一种极端做法，空降到零。」可接受。反向把留白写成结构派能接受的形式：「留白是把主体的视觉重量集中到极小面积上，空的部分仍受那一点支配。」可接受。
+  runtime_action: branch
+  branch_condition: 商业／纪实／需要信息密度 → 填满；山水／静物／有明确一个「气眼」主体 → 留白。留白时必须先确认实部是否够硬（一鳞一爪能否使全体宛然），否则改回填满。
+- id: K13
+  kind: latent
+  statement: 「拍得像／拍得真」是不是评价照片的通用标准
+  targets:
+  - C129
+  - C130
+  - C138
+  side_a:
+    label: 再现以求真为目标，图式靠一代代矫正逼近真实（再现心理学）
+    quotes:
+    - claim: C129
+      book: gombrich-illusion
+      page: p006
+      quote: 正是着眼于此，我才在书中讲“图式和矫正”的过程—矫正这个词蕴涵着更为接近真实的意见，至少是消除虚伪性。
+    - claim: C130
+      book: gombrich-illusion
+      page: p180
+      quote: 我摘引这样长的一段文字，是因为它概括了我们现在转而讨论的问题—在理解艺术家描绘的图像方面，我们亦即观看者的本分。
+  side_b:
+    label: 中国书画不以求逼真为目标，逼真不是唯一轴（中国观看／贡布里希自陈）
+    quotes:
+    - claim: C138
+      book: gombrich-illusion
+      page: p006
+      quote: 我更难以接受的观点是不承认有视觉现实其物，从而竟认为我们对任何再现之作都没有理由说它是否比别的作品更为逼真。
+  resolution: qualify-side-a
+  resolution_by: editor
+  rationale: 贡布里希自己就把中国书画作为反例写进书里，说明「以求真为目标」只是西方再现传统内部的一条纲领，不是知觉的普遍规律；把它当成摄影评价的通用标准，会把「像不像」与「成不成立」混为一谈。故运行时把逼真降为可选轴：只在用户明确要写实还原时启用，其余场合不得以「不够真实」作为扣分理由。
+  reverse_writable: 把求真写成中国观看能接受的形式：「求真是把可见世界当作参照系的一种选择，它约束了图式的自由度也换来了可检验性。」可接受。反向把「不以求逼真为目标」写成求真派能接受的形式：「不以求逼真为目标，不等于放弃对结构准确的要求，只是把准确放在结构与气韵而非像素上。」可接受。
+  runtime_action: warn
+  branch_condition: 用户要「还原、纪实、产品准确」→ 逼真可用；用户谈「意境、留白、气韵」→ 逼真不得作为判据，且要在回答里说明本包不把写实当默认标准。
+- id: K14
+  kind: contested
+  statement: 评价一张照片时，该用单张标准还是整体标准
+  targets:
+  - C079
+  - C080
+  - C087
+  - C166
+  side_a:
+    label: 单张要先立得住（结构派）
+    quotes:
+    - claim: C079
+      book: freeman-sight
+      page: p034
+      quote: 两个最基本的原则是对比和平衡。
+    - claim: C080
+      book: freeman-sight
+      page: p043
+      quote: 观者对图像的兴趣与他必须付出的努力成正比，平衡若太过完美，眼睛则无事可做。
+    - claim: C087
+      book: freeman-sight
+      page: p095
+      quote: 清晰度几乎是无可置疑的标准，这一事实足以表明，焦点上的任何事物都会成为关注点。
+  side_b:
+    label: 序列里弱的单张可以是正确的（编排派）
+    quotes:
+    - claim: C166
+      book: art-of-pixar
+      page: p007
+      quote: isn't to dress scenes in the prettiest or most harmonious color combinations
+  resolution: both-valid-by-scale
+  resolution_by: editor
+  rationale: 两把尺量的是不同对象：结构派问「这张自己成不成立」，编排派问「这张在一段里位置对不对」。同一张片子可以在单张标准下不及格、在序列里恰好承担过渡。把它裁成一方胜出会导致两种常见事故：用单张标准否掉整段（越挑越平）或用整体标准给单张背书（每张都说「它在组里有作用」而从不承认缺陷）。故运行时不裁决，按用户问的尺度分岔，并要求在回答开头声明用的是哪把尺。
+  reverse_writable: 把结构派写成编排派能接受的形式：「一张片子自身有可检验的缺陷（如无焦点、无平衡），但它在序列里可能因功能而值得保留——缺陷仍需被指出。」编排派能接受。反过来把编排派写成结构派能接受的形式：「序列里的位置是一场分配，但被分配的仍是可被单独评判的片子——位置不改变它的技术事实。」结构派也能接受。两边互写得通，说明这是真分歧而不是表述差异。
+  runtime_action: branch
+  branch_condition: 用户问「这张哪里不好／值几分」→ 单张标准（frame-critique、structure-read）。用户问「这组怎么排／留哪些」→ 整体标准（sequence-edit、cull-select），并在开头声明。两者同时被问到时串行：先判单张事实，再判序列功能，最后合成一页，不得互相抵扣。
+- id: K15
+  kind: contested
+  statement: 色彩的意义是普遍通用的，还是由作品内部定义的
+  targets:
+  - C064
+  - C170
+  side_a:
+    label: 存在跨作品普遍的色彩效应（规则派）
+    quotes:
+    - claim: C064
+      book: color-bible
+      page: p138
+      quote: 而红色与其他较弱色彩的竞争，经常导致注意力从重要内容上的分散。
+  side_b:
+    label: 意义可被作品重新定义（编排派）
+    quotes:
+    - claim: C170
+      book: art-of-pixar
+      page: p007
+      quote: Tsutsumi infused certain colors with meaning specific only to the film.
+  resolution: split-by-layer
+  resolution_by: editor
+  rationale: 两者不在同一层：C064 说的是知觉层（红与其他较弱势彩竞争注意力，这是可复现的观看事实），C170 说的是语义层（粉＝毁灭、蓝＝家，这是作品内部约定的符号）。知觉层普遍，语义层局部——把语义层当普遍规律会写出「红色代表危险」这类空话，把知觉层当约定会否认「红更抢眼」这个可测事实。故按层分：判断「会不会抢注意力」用知觉层；判断「它意味着什么」必须先问这是哪个作品、作者定义过没有。
+  reverse_writable: 把普遍派写成局部派能接受的形式：「某些色彩在注意力竞争上有跨作品的稳定性，但那是知觉机制，不是含义。」局部派能接受。反向把局部派写成普遍派能接受的形式：「作品可以重新定义色彩的含义，但无法推翻它与其他色彩的注意力竞争关系。」普遍派也能接受。互写成立，是真分歧。
+  runtime_action: branch
+  branch_condition: 问「哪个更抢眼／为什么先看到它」→ 知觉层（可用面积、亮度、饱和度、竞争关系解释）。问「这个颜色意味着什么／该用什么颜色表达某种情绪」→ 语义层，先查该作品是否定义过；未定义时给惯用含义并注明是惯例，不许当成事实。
+- id: K2
+  kind: contested
+  statement: 色彩的面积和谐比能不能按亮度反比算出来
+  targets:
+  - C093
+  - C207
+  - C029
+  - C030
+  side_a:
+    label: 可按亮度值反比算出基准（规则派）
+    quotes:
+    - claim: C093
+      book: freeman-sight
+      page: p121
+      quote: 是第一个给色调赋值的人黄色为9，橙色为8，红色和绿色为6，蓝色为4，紫色为3
+    - claim: C207
+      book: photo-composition-color
+      page: p135
+      quote: 第二类靠倒置甚至夸大彼此的数量比来增强视觉张力。例如，对于和谐比率为1:2的橙色和蓝色来说，可以将数量比变成2:1、3:1或者其他比例关系（如照片13）来增强视觉张力。
+  side_b:
+    label: 面积公式不完备，还要计入重复与视觉重量（相对派）
+    quotes:
+    - claim: C029
+      book: interaction-of-color
+      page: p017
+      quote: with quantity (which measures amount, respectively extension and / or number, including recurrence);
+    - claim: C030
+      book: interaction-of-color
+      page: p082
+      quote: Only the Munsell System presents a calculation of color quantity with regard to area extension, without counting an additional effect through recurrence.
+  resolution: split-by-layer
+  resolution_by: editor
+  rationale: 面积反比算的是「色彩量」的基准（色相亮度值越低，需要越大面积才等重），这一层可算、可复现；但知觉到的平衡还受重复、位置、方向与视觉重量影响，单靠面积比会把「数量」压成「面积」。故公式用于起点与偏离判断，不用于宣称「这样排一定平衡」。
+  reverse_writable: 把规则派写成相对派能接受的形式：「面积反比给出一组可复现的色彩量基准，但它不是知觉平衡的充分条件；重复与位置会改写结果。」相对派能接受。反向把相对派写成规则派能接受的形式：「面积之外还有重复与位置，但面积仍是可计算的起点，不是任意估算。」规则派也能接受。互写成立，是真分歧。
+  runtime_action: qualify
+  branch_condition: 用户要「两色各占多大」→ 先给亮度反比基准，再说明它只管色彩量；用户要「这样排平衡吗」→ 追加重复、位置、重量三项核对，不得只报面积比当结论。
+- id: K3
+  kind: contested
+  statement: 曝光不足改变的是饱和度，还是整体色彩平衡
+  targets:
+  - C049
+  - C205
+  side_a:
+    label: 欠曝可当降饱和手段（技法派）
+    quotes:
+    - claim: C049
+      book: color-bible
+      page: p055
+      quote: 我们可以使用曝光补偿控制，轻松地通过轻微的曝光不足来降低色彩的饱和度。
+  side_b:
+    label: 欠曝等于加黑，动的是整体平衡（混合理论派）
+    quotes:
+    - claim: C205
+      book: photo-composition-color
+      page: p128
+      quote: 我们可以把曝光不足想成为画面增加黑色，曝光过度想成为画面增加白色，主要改变的是画面整体色彩平衡。
+  resolution: split-by-layer
+  resolution_by: editor
+  rationale: 测得的饱和度确实会随曝光下降（技法派说的是结果），但这条结果是通过整体明度、对比与色彩平衡的移动实现的，不是只动纯度（混合理论派说的是机制）。把它裁成一方胜出会误导：说「欠曝能降纯」会让人以为可以局部处理；说「欠曝不降饱和」又否认可测事实。故分两层：结果层可用，机制层须同时声明代价。
+  reverse_writable: 把技法派写成理论派能接受的形式：「轻微欠曝会让测得的饱和度下降，但这是整体明度与平衡移动的副产品，不是选择性降纯。」理论派能接受。反向把理论派写成技法派能接受的形式：「欠曝首先是整体平衡的移动，但它的可见结果之一确实是饱和度下降。」技法派也能接受。互写成立。
+  runtime_action: warn
+  branch_condition: 用户要「快速压饱和度」→ 可以说轻微欠曝有效，但必须同时接受整体变暗与对比上升；用户要「只降纯度不动明度/平衡」→ 不行，改光或混合。
+- id: K8
+  kind: contested
+  statement: 后像与同时对比是不是同一个机制，能不能当同义词用
+  targets:
+  - C018
+  - C217
+  side_a:
+    label: 同义，都是互补诱导（阿尔伯斯）
+    quotes:
+    - claim: C018
+      book: interaction-of-color
+      page: p037
+      quote: The phenomenon of seeing green (in this case) instead of white is called after-image, or simultaneous contrast.
+    - claim: C018
+      book: interaction-of-color
+      page: p053
+      quote: These exercises remind us that the basic after-image presentation, the simultaneous contrast, is the cause of all color deception.
+  side_b:
+    label: 机制同源，但触发与术语要分开（霍斯特曼）
+    quotes:
+    - claim: C217
+      book: interacting-with-color
+      page: p033
+      quote: Simultaneous contrast is most often understood to be a description of the tendency of adjacent colors to shift in appearance relative to the colors around them
+    - claim: C217
+      book: interacting-with-color
+      page: p067
+      quote: we will limit the use of simultaneous contrast in this book to refer to color relativity.
+  resolution: split-by-layer
+  resolution_by: editor
+  rationale: 两边在机制层并不冲突——都承认互补诱导：盯住红色再看白墙会看到蓝绿，一块灰放在红底与绿底上也会偏向不同的补色。分歧在「该不该用同一个名字」与「操作上是不是一回事」：阿尔伯斯把两者都叫 simultaneous contrast，强调它们是同一类色彩欺骗；霍斯特曼承认阿尔伯斯的用法，但把后像限定为刺激撤去后仍持续数秒的时间性现象，把同时对比限定为相邻/周围色同时作用造成的相对性。合并成一个词会让操作建议含混：后像实验要求「盯 20–30 秒再移开」，同时对比要求「改背景/邻色看同一色怎么变」，两者的时间结构与可控制变量不同。故机制层同源，现象与术语层分开。
+  reverse_writable: 把阿尔伯斯写成霍斯特曼能接受的形式：「后像与同时对比共享同一套互补诱导机制，但一个在刺激撤去后持续、一个在相邻色同时作用下发生，分开命名是为了操作清楚。」霍斯特曼能接受。反向把霍斯特曼写成阿尔伯斯能接受的形式：「同时对比最常见的形态是相邻色互改，后像是它的时间性呈现；叫不叫同一个名字不改变它们同源。」阿尔伯斯也能接受。互写成立。
+  runtime_action: branch
+  branch_condition: 用户问「盯一个色块再看白墙看到什么／后像怎么练」→ 走后像（时间性、20–30 秒、刺激撤去后持续）；用户问「同一块灰为什么在红底和绿底上不一样／背景怎么改颜色」→ 走同时对比（空间性、相邻色同时作用）；用户问「两者是不是一回事」→ 先答机制层同源，再说明操作层分开，不许用「就是同一个东西」糊过去。

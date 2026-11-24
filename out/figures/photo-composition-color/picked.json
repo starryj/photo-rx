@@ -1,0 +1,667 @@
+{
+  "slug": "photo-composition-color",
+  "n": 60,
+  "candidates": 337,
+  "items": [
+    {
+      "page_idx": 1,
+      "img": "5f9779c957c207a83d29866f6dbea21852a1261e0a4bdb2a64ee7c60dfe19fe2.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\5f9779c957c207a83d29866f6dbea21852a1261e0a4bdb2a64ee7c60dfe19fe2.jpg",
+      "frac": 0.3651,
+      "px": [
+        959,
+        1284
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 7,
+      "img": "ada777dc8a6b34932592cfa403ea0f80c10282a13d824d50810a1c686689eb44.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\ada777dc8a6b34932592cfa403ea0f80c10282a13d824d50810a1c686689eb44.jpg",
+      "frac": 0.7634,
+      "px": [
+        1581,
+        1635
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 13,
+      "img": "11805aeb2b5fcfbff3519f0d81bd9d02305f90f0e835c145edbf6462848c8702.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\11805aeb2b5fcfbff3519f0d81bd9d02305f90f0e835c145edbf6462848c8702.jpg",
+      "frac": 0.7006,
+      "px": [
+        1567,
+        1637
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 16,
+      "img": "a109bed6085fc374df1c92aaaa095a7c96dde3518bf090eb24c984f44225a1f2.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\a109bed6085fc374df1c92aaaa095a7c96dde3518bf090eb24c984f44225a1f2.jpg",
+      "frac": 0.105,
+      "px": [
+        745,
+        484
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 20,
+      "img": "50c9a7f53c46e155a17692a0296f4b14712d39d018c49fb43cc044b73e311019.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\50c9a7f53c46e155a17692a0296f4b14712d39d018c49fb43cc044b73e311019.jpg",
+      "frac": 0.1109,
+      "px": [
+        751,
+        507
+      ],
+      "caption": "5水平线、肌理细节"
+    },
+    {
+      "page_idx": 24,
+      "img": "7e4984298e63f0538c104af89b0ee343b049315195fdcf9ad4f50761d3eea930.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\7e4984298e63f0538c104af89b0ee343b049315195fdcf9ad4f50761d3eea930.jpg",
+      "frac": 0.1106,
+      "px": [
+        742,
+        512
+      ],
+      "caption": "19水平线、不规则线、明暗对比"
+    },
+    {
+      "page_idx": 27,
+      "img": "138e916e65a7ae2bf76fc97ecb32c1ef558fc86a1a8a7184dab737838202088b.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\138e916e65a7ae2bf76fc97ecb32c1ef558fc86a1a8a7184dab737838202088b.jpg",
+      "frac": 0.1058,
+      "px": [
+        745,
+        507
+      ],
+      "caption": "7 形状对比，不规则线，冷暖对比"
+    },
+    {
+      "page_idx": 30,
+      "img": "ac6d74394af48c16e693e50c43324095632c333b5af0d686cdd1bcc004443dee.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\ac6d74394af48c16e693e50c43324095632c333b5af0d686cdd1bcc004443dee.jpg",
+      "frac": 0.1101,
+      "px": [
+        745,
+        507
+      ],
+      "caption": "19水平线、垂直线"
+    },
+    {
+      "page_idx": 34,
+      "img": "a90e9351a3678d1ca476ff320b8cc659dfbc4febefbdac3c03813b26f03709dc.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\a90e9351a3678d1ca476ff320b8cc659dfbc4febefbdac3c03813b26f03709dc.jpg",
+      "frac": 0.1111,
+      "px": [
+        745,
+        509
+      ],
+      "caption": "12 显著点.肌理 11 冷暖对比"
+    },
+    {
+      "page_idx": 37,
+      "img": "4f13da419301752608e636c762dba7fb1b6e163172ea55939b0cbae4d3a989cd.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\4f13da419301752608e636c762dba7fb1b6e163172ea55939b0cbae4d3a989cd.jpg",
+      "frac": 0.4578,
+      "px": [
+        1523,
+        1076
+      ],
+      "caption": "1 明暗对比.水平线"
+    },
+    {
+      "page_idx": 41,
+      "img": "f651fa2354b87f695b4ad94388107b7350b00568fb57bcfaa148157325d0739e.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\f651fa2354b87f695b4ad94388107b7350b00568fb57bcfaa148157325d0739e.jpg",
+      "frac": 0.4564,
+      "px": [
+        1523,
+        1073
+      ],
+      "caption": "12斜线、冷色平衡"
+    },
+    {
+      "page_idx": 44,
+      "img": "4b40a270a15759c9b00a8e6f90888ccec524b7cf55b0569e501c6845094d7dcd.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\4b40a270a15759c9b00a8e6f90888ccec524b7cf55b0569e501c6845094d7dcd.jpg",
+      "frac": 0.2474,
+      "px": [
+        749,
+        1126
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 48,
+      "img": "eaceb72b129e03a6b54699188e9a5984f95a4ac7c280e981e3fc1fc33d6aa141.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\eaceb72b129e03a6b54699188e9a5984f95a4ac7c280e981e3fc1fc33d6aa141.jpg",
+      "frac": 0.1095,
+      "px": [
+        743,
+        506
+      ],
+      "caption": "8视觉线、明暗对比"
+    },
+    {
+      "page_idx": 52,
+      "img": "e195443170750661b0bebdfa18422e5a7550eb1725e1c0d5007d2c75523171b5.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\e195443170750661b0bebdfa18422e5a7550eb1725e1c0d5007d2c75523171b5.jpg",
+      "frac": 0.1416,
+      "px": [
+        751,
+        643
+      ],
+      "caption": "4视觉线、数量对比"
+    },
+    {
+      "page_idx": 56,
+      "img": "5f2f35a6d74c749ff8a2e00faf7bb394b5dd73e3542e5be7b9a1169bea37a285.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\5f2f35a6d74c749ff8a2e00faf7bb394b5dd73e3542e5be7b9a1169bea37a285.jpg",
+      "frac": 0.2315,
+      "px": [
+        745,
+        1068
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 60,
+      "img": "09205d12c5f7441d6946239baf7d738d5e9f6b4bfa686d7addbab71368df88cb.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\09205d12c5f7441d6946239baf7d738d5e9f6b4bfa686d7addbab71368df88cb.jpg",
+      "frac": 0.2347,
+      "px": [
+        748,
+        1073
+      ],
+      "caption": "11 明暗对比、单色平衡"
+    },
+    {
+      "page_idx": 63,
+      "img": "66e07480165859a0373341fe2e6db34ef016a3da20a90dd7e5766468fb8f52ae.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\66e07480165859a0373341fe2e6db34ef016a3da20a90dd7e5766468fb8f52ae.jpg",
+      "frac": 0.4555,
+      "px": [
+        1523,
+        1067
+      ],
+      "caption": "1显著点、垂直线.明暗对比"
+    },
+    {
+      "page_idx": 66,
+      "img": "6bcde82fc3615be88710acd0a4d558c9f3a4b409df99561b88b49e2ef67e29de.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\6bcde82fc3615be88710acd0a4d558c9f3a4b409df99561b88b49e2ef67e29de.jpg",
+      "frac": 0.111,
+      "px": [
+        746,
+        507
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 70,
+      "img": "b13ace0de53128bfecb3e600e9f316fb801efe6c482233389ac2e21ba7123d5e.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\b13ace0de53128bfecb3e600e9f316fb801efe6c482233389ac2e21ba7123d5e.jpg",
+      "frac": 0.1136,
+      "px": [
+        748,
+        515
+      ],
+      "caption": "2明暗对比、视觉形"
+    },
+    {
+      "page_idx": 73,
+      "img": "012d1b10e25f7a9a49739352ba615a51fd84f982c6dd6022c9c8a2496fc1905d.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\012d1b10e25f7a9a49739352ba615a51fd84f982c6dd6022c9c8a2496fc1905d.jpg",
+      "frac": 0.4593,
+      "px": [
+        1526,
+        1076
+      ],
+      "caption": "14明暗对比. 单色平衡"
+    },
+    {
+      "page_idx": 77,
+      "img": "866c7f8417d18fd8d34a1c28fd0754b1074c7a7f75534fff5c909d0ba8e33040.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\866c7f8417d18fd8d34a1c28fd0754b1074c7a7f75534fff5c909d0ba8e33040.jpg",
+      "frac": 0.4559,
+      "px": [
+        1521,
+        1065
+      ],
+      "caption": "1 水平线、明暗对比"
+    },
+    {
+      "page_idx": 80,
+      "img": "84e2abfbe8311a9ab219c38e313c0aa9a196be08be60b666c52d9420193aff99.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\84e2abfbe8311a9ab219c38e313c0aa9a196be08be60b666c52d9420193aff99.jpg",
+      "frac": 0.2332,
+      "px": [
+        745,
+        1070
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 84,
+      "img": "262da5bc9de8ee3551f3fec0007eecf630e8c7db0ccc2122d45c428060010cc1.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\262da5bc9de8ee3551f3fec0007eecf630e8c7db0ccc2122d45c428060010cc1.jpg",
+      "frac": 0.1101,
+      "px": [
+        737,
+        512
+      ],
+      "caption": "2 垂直线、明暗对比"
+    },
+    {
+      "page_idx": 87,
+      "img": "b11694e20d7caa2eb15cecd4e3bc406ca19c0801f975d56095319569cbb1e883.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\b11694e20d7caa2eb15cecd4e3bc406ca19c0801f975d56095319569cbb1e883.jpg",
+      "frac": 0.4513,
+      "px": [
+        1520,
+        1065
+      ],
+      "caption": "14显著点、水平线"
+    },
+    {
+      "page_idx": 90,
+      "img": "6be618d1b6d357a630c65efc56462282d25aff1944ec6c80c0fa579cb302aff3.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\6be618d1b6d357a630c65efc56462282d25aff1944ec6c80c0fa579cb302aff3.jpg",
+      "frac": 0.1102,
+      "px": [
+        742,
+        507
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 94,
+      "img": "700619044419eb759df9cc14bae199e8542968a592cf9a3399c6a66df864488a.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\700619044419eb759df9cc14bae199e8542968a592cf9a3399c6a66df864488a.jpg",
+      "frac": 0.1107,
+      "px": [
+        746,
+        506
+      ],
+      "caption": "19肌理，明暗对比，双色构图"
+    },
+    {
+      "page_idx": 98,
+      "img": "ca1daa41a53cbd985b5e954d5c72c7dbfd6ac950c8f2d5f9e00f57f6c502df02.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\ca1daa41a53cbd985b5e954d5c72c7dbfd6ac950c8f2d5f9e00f57f6c502df02.jpg",
+      "frac": 0.2327,
+      "px": [
+        745,
+        1070
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 100,
+      "img": "053289df5111ed09ba1a397594a1920c72d7ab8762bf0ead325a85d7ea49dd89.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\053289df5111ed09ba1a397594a1920c72d7ab8762bf0ead325a85d7ea49dd89.jpg",
+      "frac": 0.1113,
+      "px": [
+        743,
+        510
+      ],
+      "caption": "8明暗对比、冷暖对比"
+    },
+    {
+      "page_idx": 104,
+      "img": "aea59c272d9783214671680e2dc67cb3fda40349e9280e1a5231b7b53e1d0124.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\aea59c272d9783214671680e2dc67cb3fda40349e9280e1a5231b7b53e1d0124.jpg",
+      "frac": 0.2323,
+      "px": [
+        740,
+        1076
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 106,
+      "img": "8eb1065c4bdb5e469ee41e29081ac148673e2f45053908bd742b581a20012601.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\8eb1065c4bdb5e469ee41e29081ac148673e2f45053908bd742b581a20012601.jpg",
+      "frac": 0.1099,
+      "px": [
+        746,
+        503
+      ],
+      "caption": "11线性结构、垂直线、斜线、单色"
+    },
+    {
+      "page_idx": 110,
+      "img": "b38705f23dbb77df4f5b83347d8881313aef19ae91faf03e22167e1f3c31813d.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\b38705f23dbb77df4f5b83347d8881313aef19ae91faf03e22167e1f3c31813d.jpg",
+      "frac": 0.1806,
+      "px": [
+        745,
+        834
+      ],
+      "caption": "5视觉线、明暗对比"
+    },
+    {
+      "page_idx": 113,
+      "img": "f8b2ae8547c074304d731f83113b9de967327e7e65fbb1ae7156113766e05166.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\f8b2ae8547c074304d731f83113b9de967327e7e65fbb1ae7156113766e05166.jpg",
+      "frac": 0.4544,
+      "px": [
+        1518,
+        1064
+      ],
+      "caption": "13线条对比.三角形、细节、暖色平衡"
+    },
+    {
+      "page_idx": 116,
+      "img": "ebdfc2ef8028d90f9f330c18cc1a9f4a6fc69858e5d2e5e952a629c8f7ad3a31.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\ebdfc2ef8028d90f9f330c18cc1a9f4a6fc69858e5d2e5e952a629c8f7ad3a31.jpg",
+      "frac": 0.1072,
+      "px": [
+        751,
+        487
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 120,
+      "img": "4d2c386eb6de9a5af907de85ea81d3bbadb689e8145fe2a716dc0e55e32259a0.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\4d2c386eb6de9a5af907de85ea81d3bbadb689e8145fe2a716dc0e55e32259a0.jpg",
+      "frac": 0.1111,
+      "px": [
+        745,
+        510
+      ],
+      "caption": "7 斜线、细节 8 明暗对比、数量对比"
+    },
+    {
+      "page_idx": 123,
+      "img": "1f3c08421d5b1a609384285deb8855dff6b692e4cd2370861b7f8fbe6efb4283.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\1f3c08421d5b1a609384285deb8855dff6b692e4cd2370861b7f8fbe6efb4283.jpg",
+      "frac": 0.4516,
+      "px": [
+        1518,
+        1065
+      ],
+      "caption": "1视觉线、肌理细节、同步对比"
+    },
+    {
+      "page_idx": 126,
+      "img": "0e44dc7bb46a67e767361847d00d53a51d4eb148e7f2de32f34ba3ca4f3a4437.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\0e44dc7bb46a67e767361847d00d53a51d4eb148e7f2de32f34ba3ca4f3a4437.jpg",
+      "frac": 0.1101,
+      "px": [
+        743,
+        506
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 130,
+      "img": "146d9e749a047918d3c1441833b71ef00d1dee6e5b1b74550a9080f6115cede9.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\146d9e749a047918d3c1441833b71ef00d1dee6e5b1b74550a9080f6115cede9.jpg",
+      "frac": 0.1108,
+      "px": [
+        746,
+        507
+      ],
+      "caption": "3 明暗对比、冷暖对比"
+    },
+    {
+      "page_idx": 134,
+      "img": "d498789d2487b2fab7cbc8ba3e785d02a029f4fcce9caedaaf0c53692958e909.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\d498789d2487b2fab7cbc8ba3e785d02a029f4fcce9caedaaf0c53692958e909.jpg",
+      "frac": 0.1095,
+      "px": [
+        743,
+        507
+      ],
+      "caption": "17斜线.明暗对比"
+    },
+    {
+      "page_idx": 137,
+      "img": "14b3b16a5ce2666595194c5fa8d31bcd50b1505893aa40a6468ec7050bf6a769.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\14b3b16a5ce2666595194c5fa8d31bcd50b1505893aa40a6468ec7050bf6a769.jpg",
+      "frac": 0.1048,
+      "px": [
+        742,
+        504
+      ],
+      "caption": "7 显著点.水平线.斜线"
+    },
+    {
+      "page_idx": 141,
+      "img": "13700d3de5e3bd4d3a4ca0df96cb13652b2ebaa9e1e7f2576bfa597e9f9a6e19.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\13700d3de5e3bd4d3a4ca0df96cb13652b2ebaa9e1e7f2576bfa597e9f9a6e19.jpg",
+      "frac": 0.4545,
+      "px": [
+        1520,
+        1073
+      ],
+      "caption": "1水平线、垂直线，明暗对比"
+    },
+    {
+      "page_idx": 144,
+      "img": "0fcba944b85d478af2bf05446fe463a776609b6265700988bce4523a5d2671c3.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\0fcba944b85d478af2bf05446fe463a776609b6265700988bce4523a5d2671c3.jpg",
+      "frac": 0.11,
+      "px": [
+        748,
+        503
+      ],
+      "caption": "11 斜线、圆形、明暗对比"
+    },
+    {
+      "page_idx": 148,
+      "img": "35b6dd22972e7582621402d1ce1fc412d760e1584fab98a1bd459d8d3403a4b3.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\35b6dd22972e7582621402d1ce1fc412d760e1584fab98a1bd459d8d3403a4b3.jpg",
+      "frac": 0.1035,
+      "px": [
+        742,
+        482
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 151,
+      "img": "e325cbc430905bf192a5f59c289e84ea9f84138ed00c0398ac4d96caa40d0116.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\e325cbc430905bf192a5f59c289e84ea9f84138ed00c0398ac4d96caa40d0116.jpg",
+      "frac": 0.1062,
+      "px": [
+        740,
+        510
+      ],
+      "caption": "8水平线，斜线.数量对比"
+    },
+    {
+      "page_idx": 154,
+      "img": "1d188f609947d3fdfa25759196e553a6f294e5b7dbf2e2437637a1e5391787ef.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\1d188f609947d3fdfa25759196e553a6f294e5b7dbf2e2437637a1e5391787ef.jpg",
+      "frac": 0.1094,
+      "px": [
+        748,
+        506
+      ],
+      "caption": "16水平线、垂直线、形状对比"
+    },
+    {
+      "page_idx": 158,
+      "img": "d1591d8e456c448d752d1f6ca06f0d9aa4da767e1981e9d2f51c5a7456a2772a.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\d1591d8e456c448d752d1f6ca06f0d9aa4da767e1981e9d2f51c5a7456a2772a.jpg",
+      "frac": 0.231,
+      "px": [
+        745,
+        1071
+      ],
+      "caption": "14垂直线、斜线、明暗对比"
+    },
+    {
+      "page_idx": 161,
+      "img": "93eeab69489197c29aebc78ca9364b36d475e5c220cf7961ef7c84788abf14d8.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\93eeab69489197c29aebc78ca9364b36d475e5c220cf7961ef7c84788abf14d8.jpg",
+      "frac": 0.4564,
+      "px": [
+        1523,
+        1070
+      ],
+      "caption": "1点、线、明暗对比"
+    },
+    {
+      "page_idx": 165,
+      "img": "91a751c70bb998c3740800b8a6f270094160ea0566edc415b334cf03690ff79e.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\91a751c70bb998c3740800b8a6f270094160ea0566edc415b334cf03690ff79e.jpg",
+      "frac": 0.4544,
+      "px": [
+        1518,
+        1065
+      ],
+      "caption": "14点、水平线、三色构图"
+    },
+    {
+      "page_idx": 168,
+      "img": "f7a96419477cf6ab45a43c8b652d39f709c61c8c5beb1cf423ce155f3607bfe8.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\f7a96419477cf6ab45a43c8b652d39f709c61c8c5beb1cf423ce155f3607bfe8.jpg",
+      "frac": 0.2337,
+      "px": [
+        748,
+        1076
+      ],
+      "caption": "3点、长方形、明暗对比"
+    },
+    {
+      "page_idx": 171,
+      "img": "70ea48695217ab5eb500bf0316776f68875b07745741eef77d8f9b39c32879c7.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\70ea48695217ab5eb500bf0316776f68875b07745741eef77d8f9b39c32879c7.jpg",
+      "frac": 0.2241,
+      "px": [
+        745,
+        1068
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 174,
+      "img": "a4967dde5d639ac7e25843827a1e90a35c35c62a5e315ae2a10801fc51b23a18.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\a4967dde5d639ac7e25843827a1e90a35c35c62a5e315ae2a10801fc51b23a18.jpg",
+      "frac": 0.357,
+      "px": [
+        1106,
+        1109
+      ],
+      "caption": "A B"
+    },
+    {
+      "page_idx": 178,
+      "img": "2e62d755db8288c1fcc13a0735b3c97ed7e1ba0d772fbb44840354b87ede673f.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\2e62d755db8288c1fcc13a0735b3c97ed7e1ba0d772fbb44840354b87ede673f.jpg",
+      "frac": 0.1099,
+      "px": [
+        745,
+        507
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 182,
+      "img": "11a64f742af2ed821ba226eb02cd29438bf68cf8005f1e33bf48771fce2e64ef.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\11a64f742af2ed821ba226eb02cd29438bf68cf8005f1e33bf48771fce2e64ef.jpg",
+      "frac": 0.1098,
+      "px": [
+        745,
+        506
+      ],
+      "caption": "23 点.线"
+    },
+    {
+      "page_idx": 185,
+      "img": "97aefc50f5a88aad96e68b5867b3cf4bfdd4921e3adb1c2397ca8835738a26eb.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\97aefc50f5a88aad96e68b5867b3cf4bfdd4921e3adb1c2397ca8835738a26eb.jpg",
+      "frac": 0.1052,
+      "px": [
+        743,
+        506
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 187,
+      "img": "c31161f8ef72124941ce5219cc7832f7b24eb048f9abe46f0c54de72f8c02ed7.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\c31161f8ef72124941ce5219cc7832f7b24eb048f9abe46f0c54de72f8c02ed7.jpg",
+      "frac": 0.1056,
+      "px": [
+        745,
+        504
+      ],
+      "caption": "16不规则线、肌理"
+    },
+    {
+      "page_idx": 191,
+      "img": "17101faec33aa4f8470a439f1584b1ec25b35bd4750151fa5902d9e09a60891e.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\17101faec33aa4f8470a439f1584b1ec25b35bd4750151fa5902d9e09a60891e.jpg",
+      "frac": 0.1071,
+      "px": [
+        746,
+        512
+      ],
+      "caption": "10"
+    },
+    {
+      "page_idx": 193,
+      "img": "16bda9ad668d48e55600d02c0cb4b369cf7a35b48f9ecb324dce1f82797827e8.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\16bda9ad668d48e55600d02c0cb4b369cf7a35b48f9ecb324dce1f82797827e8.jpg",
+      "frac": 0.1045,
+      "px": [
+        743,
+        504
+      ],
+      "caption": "21垂直线.斜线、明暗对比"
+    },
+    {
+      "page_idx": 197,
+      "img": "c5057b04104818fdc2ede2d0570907b0d8b313f565bdd80374d50d2170378461.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\c5057b04104818fdc2ede2d0570907b0d8b313f565bdd80374d50d2170378461.jpg",
+      "frac": 0.1038,
+      "px": [
+        745,
+        506
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 201,
+      "img": "ee928eb8b0e8b0da6aee9af02b3c0758a0aa83d8759273f9656237e160ea4555.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\ee928eb8b0e8b0da6aee9af02b3c0758a0aa83d8759273f9656237e160ea4555.jpg",
+      "frac": 0.2776,
+      "px": [
+        1243,
+        798
+      ],
+      "caption": "构图："
+    },
+    {
+      "page_idx": 203,
+      "img": "cc7b8f4e08d47eca958f35ef173f5534329a1dfdf132ec2adb9e1b36a4787c59.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\cc7b8f4e08d47eca958f35ef173f5534329a1dfdf132ec2adb9e1b36a4787c59.jpg",
+      "frac": 0.2791,
+      "px": [
+        1243,
+        798
+      ],
+      "caption": "色彩设计："
+    },
+    {
+      "page_idx": 206,
+      "img": "c9068e667f6391d6b52652d08938ab12f402f8ec90bcd577ec965f2d7cde6115.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\photo-composition-color\\images\\c9068e667f6391d6b52652d08938ab12f402f8ec90bcd577ec965f2d7cde6115.jpg",
+      "frac": 0.2869,
+      "px": [
+        1242,
+        804
+      ],
+      "caption": "P100"
+    }
+  ]
+}

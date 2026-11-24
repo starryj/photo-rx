@@ -1,0 +1,156 @@
+[
+ {
+  "n": 1,
+  "src": "color-decision",
+  "expect": "color-decision",
+  "prompt": "想让黄色显得更亮，是该加大它的面积还是压小",
+  "note": ""
+ },
+ {
+  "n": 2,
+  "src": "color-decision",
+  "expect": "shoot-plan",
+  "prompt": "下午三点去拍这面墙，光够不够",
+  "note": ""
+ },
+ {
+  "n": 3,
+  "src": "color-decision",
+  "expect": "none",
+  "prompt": "写一段这组照片的展览前言",
+  "note": ""
+ },
+ {
+  "n": 4,
+  "src": "structure-read",
+  "expect": "structure-read",
+  "prompt": "同样的场景，我往前挪了两步，构图差在哪",
+  "note": ""
+ },
+ {
+  "n": 5,
+  "src": "structure-read",
+  "expect": "shoot-plan",
+  "prompt": "阴天拍这个会不会太灰",
+  "note": ""
+ },
+ {
+  "n": 6,
+  "src": "structure-read",
+  "expect": "none",
+  "prompt": "帮我把这组照片做成 PDF 小册子",
+  "note": ""
+ },
+ {
+  "n": 7,
+  "src": "shoot-plan",
+  "expect": "shoot-plan",
+  "prompt": "雪天曝光总是拍不准",
+  "note": ""
+ },
+ {
+  "n": 8,
+  "src": "shoot-plan",
+  "expect": "color-decision",
+  "prompt": "这个场景的配色该怎么定",
+  "note": ""
+ },
+ {
+  "n": 9,
+  "src": "shoot-plan",
+  "expect": "none",
+  "prompt": "怎么写一段拍摄地的风土介绍",
+  "note": ""
+ },
+ {
+  "n": 10,
+  "src": "ways-of-seeing",
+  "expect": "ways-of-seeing",
+  "prompt": "凭什么说这张不平衡，我数过是对称的",
+  "note": ""
+ },
+ {
+  "n": 11,
+  "src": "ways-of-seeing",
+  "expect": "color-decision",
+  "prompt": "这两个颜色放一起为什么不搭",
+  "note": ""
+ },
+ {
+  "n": 12,
+  "src": "ways-of-seeing",
+  "expect": "none",
+  "prompt": "这篇文章的中文版在哪买",
+  "note": ""
+ },
+ {
+  "n": 13,
+  "src": "chinese-eye",
+  "expect": "chinese-eye",
+  "prompt": "这张照片有气眼吗",
+  "note": ""
+ },
+ {
+  "n": 14,
+  "src": "chinese-eye",
+  "expect": "color-decision",
+  "prompt": "这张颜色怎么调",
+  "note": ""
+ },
+ {
+  "n": 15,
+  "src": "chinese-eye",
+  "expect": "none",
+  "prompt": "这本书的译者是谁",
+  "note": ""
+ },
+ {
+  "n": 16,
+  "src": "sequence-edit",
+  "expect": "sequence-edit",
+  "prompt": "我想让整组有个起伏，从哪下手",
+  "note": ""
+ },
+ {
+  "n": 17,
+  "src": "sequence-edit",
+  "expect": "color-decision",
+  "prompt": "这一张颜色怎么定",
+  "note": ""
+ },
+ {
+  "n": 18,
+  "src": "sequence-edit",
+  "expect": "none",
+  "prompt": "帮我联系一下这家印刷厂",
+  "note": ""
+ },
+ {
+  "n": 19,
+  "src": "cull-select",
+  "expect": "cull-select",
+  "prompt": "这组里有一张特别出彩，其他都要让位吗",
+  "note": ""
+ },
+ {
+  "n": 20,
+  "src": "cull-select",
+  "expect": "color-decision",
+  "prompt": "留下的那张颜色怎么调",
+  "note": ""
+ },
+ {
+  "n": 21,
+  "src": "cull-select",
+  "expect": "none",
+  "prompt": "帮我把这些照片备份到 NAS",
+  "note": ""
+ },
+ {
+  "n": 22,
+  "src": "photo-vision",
+  "expect": "photo-vision",
+  "prompt": "从拍到选到排，整个流程该怎么做",
+  "note": ""
+ }
+]

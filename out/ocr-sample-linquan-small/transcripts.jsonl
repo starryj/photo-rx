@@ -1,0 +1,11 @@
+{"sample_id": "S02", "ok": true, "text": "画山水有体①：铺舒为宏图而无余；消缩为小景而不少。\n看山水亦有体：以林泉之心临之②，则价高；以矫修之目临之③，则价低。", "ms": 53437, "sent": null, "used": "local"}
+{"sample_id": "S03", "ok": true, "text": "画山水有体①：铺舒为宏图而无余；消缩为小景而不少。\n看山水亦有体：以林泉之心临之②，则价高；以矫修之目临之③，则价低。", "ms": 38383, "sent": null, "used": "local"}
+{"sample_id": "S12", "ok": false, "text": "", "error": "502 Server Error: Bad Gateway for url: http://127.0.0.1:11500/v1/describe"}
+{"sample_id": "S13", "ok": false, "text": "", "error": "502 Server Error: Bad Gateway for url: http://127.0.0.1:11500/v1/describe"}
+{"sample_id": "S16", "ok": true, "text": "石者，天地之骨也，骨贵坚深而不浅露；水者，天地之血也，血贵周\n流而不凝滞。", "ms": 39557, "sent": null, "used": "local"}
+{"sample_id": "S17", "ok": false, "text": "", "error": "502 Server Error: Bad Gateway for url: http://127.0.0.1:11500/v1/describe"}
+{"sample_id": "S18", "ok": true, "text": "山无烟云，如春无花草。", "ms": 20696, "sent": null, "used": "local"}
+{"sample_id": "S23", "ok": true, "text": "此而皆中程度③。此三大也。", "ms": 37575, "sent": null, "used": "local"}
+{"sample_id": "S24", "ok": true, "text": "远山无皴①，远水无波，远人无目。非无也，如无尔。", "ms": 14057, "sent": null, "used": "local"}
+{"sample_id": "S25", "ok": false, "text": "", "error": "502 Server Error: Bad Gateway for url: http://127.0.0.1:11500/v1/describe"}
+{"sample_id": "S27", "ok": true, "text": "凡画山水，意在笔先。\n丈山尺树，寸马豆人。\n此其格也。\n远人无目，远树无枝，远山无石，高与云齐；\n远水无波，隐隐似眉。\n此其式也。\n山腰云塞，石壁泉塞，楼台树塞，道路人塞。\n石分三面，路看两蹊，树看顶脖，水看岸基。\n此其法也。", "ms": 159127, "sent": null, "used": "local"}

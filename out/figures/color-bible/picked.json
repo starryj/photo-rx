@@ -1,0 +1,667 @@
+{
+  "slug": "color-bible",
+  "n": 60,
+  "candidates": 232,
+  "items": [
+    {
+      "page_idx": 0,
+      "img": "403bf168aaea62583d043fbef73308def75d76535bb1256b0bcc6381079e39ee.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\403bf168aaea62583d043fbef73308def75d76535bb1256b0bcc6381079e39ee.jpg",
+      "frac": 0.5912,
+      "px": [
+        1653,
+        1131
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 13,
+      "img": "1899c6d89fbde8565cdb3c0fc8b0aa31207d34c91aa29c52d63c1fa1cc80d14d.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\1899c6d89fbde8565cdb3c0fc8b0aa31207d34c91aa29c52d63c1fa1cc80d14d.jpg",
+      "frac": 0.9407,
+      "px": [
+        1653,
+        1801
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 18,
+      "img": "63f6633726bef4df9713c8045852f453e7ed5eb216cc8bcf0ec8d5af7a292905.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\63f6633726bef4df9713c8045852f453e7ed5eb216cc8bcf0ec8d5af7a292905.jpg",
+      "frac": 0.5009,
+      "px": [
+        856,
+        1801
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 20,
+      "img": "aec923f7a3571a28c04cf915a428d78749de7acc884089658d140812dbd91cb2.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\aec923f7a3571a28c04cf915a428d78749de7acc884089658d140812dbd91cb2.jpg",
+      "frac": 0.165,
+      "px": [
+        689,
+        759
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 23,
+      "img": "ea7de3b4e10811d94b2748749fff8a3e250a5234a86f2762e3cc57372cf8f002.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\ea7de3b4e10811d94b2748749fff8a3e250a5234a86f2762e3cc57372cf8f002.jpg",
+      "frac": 0.1062,
+      "px": [
+        715,
+        445
+      ],
+      "caption": "▲对于任何物体，我们看到的色彩是物体材料的反射。颜料和其他的材料反射出自己色彩的光，同时吸收其他的色彩(这就是减法色彩的概念)。摄/Derek Doeffinger"
+    },
+    {
+      "page_idx": 26,
+      "img": "0532ce8f4ef921d7884b4061155035d184e1fb5875478ccac529ba04e8ab2a95.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\0532ce8f4ef921d7884b4061155035d184e1fb5875478ccac529ba04e8ab2a95.jpg",
+      "frac": 0.2106,
+      "px": [
+        715,
+        831
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 28,
+      "img": "ade9f4ff7da472b272a73a82d5101d13e9da4ecb6d99bf998d3bd8c1bef83629.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\ade9f4ff7da472b272a73a82d5101d13e9da4ecb6d99bf998d3bd8c1bef83629.jpg",
+      "frac": 0.1223,
+      "px": [
+        723,
+        479
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 31,
+      "img": "1cbd5edb70f759d5bc6cf5fd3cf5aecfa228ea3f3d074d1d4394e5a6b069b084.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\1cbd5edb70f759d5bc6cf5fd3cf5aecfa228ea3f3d074d1d4394e5a6b069b084.jpg",
+      "frac": 0.2187,
+      "px": [
+        721,
+        909
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 33,
+      "img": "6f53414ea191986f765b3b4bf14f6b1ded03e4c155e40c48ce40928b68230a6a.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\6f53414ea191986f765b3b4bf14f6b1ded03e4c155e40c48ce40928b68230a6a.jpg",
+      "frac": 0.2251,
+      "px": [
+        718,
+        934
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 35,
+      "img": "debe6a3d30c17225de8a89754e7721368b6332f0d66a6386c70541cbbc09409d.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\debe6a3d30c17225de8a89754e7721368b6332f0d66a6386c70541cbbc09409d.jpg",
+      "frac": 0.1649,
+      "px": [
+        718,
+        706
+      ],
+      "caption": "▲令人惊叹的小型化电子元件，数码相机的传感器能够捕 捉并且还原大量的色彩"
+    },
+    {
+      "page_idx": 40,
+      "img": "ee78e275da452f4b1f3d7501614ddc06abd00bf03ff778e078c2d820bd66c794.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\ee78e275da452f4b1f3d7501614ddc06abd00bf03ff778e078c2d820bd66c794.jpg",
+      "frac": 0.2663,
+      "px": [
+        729,
+        1140
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 42,
+      "img": "42fe61382e711aeb2fb60f48362eb1c2b7934edf32e8e085ad8f44959469ce4f.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\42fe61382e711aeb2fb60f48362eb1c2b7934edf32e8e085ad8f44959469ce4f.jpg",
+      "frac": 0.1149,
+      "px": [
+        715,
+        454
+      ],
+      "caption": "▲这张照片中的薰衣草庄园与树的绿色互补。蓝紫色、绿色和蓝色的混合构成了一张标准的冷色调照片"
+    },
+    {
+      "page_idx": 46,
+      "img": "8caddcac0bd38a84a6503e86eb5ae443be8c868f9ca2d02b69b0e4b3218f836c.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\8caddcac0bd38a84a6503e86eb5ae443be8c868f9ca2d02b69b0e4b3218f836c.jpg",
+      "frac": 0.1694,
+      "px": [
+        726,
+        720
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 49,
+      "img": "5284770a04a9467eff9db0c75ca791a08033fc4bd79b1c19e0db504990f32e1c.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\5284770a04a9467eff9db0c75ca791a08033fc4bd79b1c19e0db504990f32e1c.jpg",
+      "frac": 0.1137,
+      "px": [
+        712,
+        476
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 51,
+      "img": "e429a3d6790a4466845035379589867fc0f613a7ba96752cc29fd98272edf28a.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\e429a3d6790a4466845035379589867fc0f613a7ba96752cc29fd98272edf28a.jpg",
+      "frac": 0.222,
+      "px": [
+        715,
+        931
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 54,
+      "img": "48f63d8fe0b0e24e2c5c3f70816bdb2bd971daeca9c29062c5a723eb2f176adc.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\48f63d8fe0b0e24e2c5c3f70816bdb2bd971daeca9c29062c5a723eb2f176adc.jpg",
+      "frac": 0.225,
+      "px": [
+        876,
+        795
+      ],
+      "caption": "▲ 巴黎在我眼中，一直是一个充满温柔金色和黄色调的城市，而这张周日午后在路边咖啡厅拍摄的玻璃器皿的照片，也正好反映了这个城市的色调主题"
+    },
+    {
+      "page_idx": 56,
+      "img": "5fda277b4bd0e5cba28025c463997211cee9707a3e74aa78bde10ef2e7883e98.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\5fda277b4bd0e5cba28025c463997211cee9707a3e74aa78bde10ef2e7883e98.jpg",
+      "frac": 0.4336,
+      "px": [
+        967,
+        1262
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 58,
+      "img": "2ac2370e4d3e9ec0600c1e33a6169e4e0e75e03804a8cc6381bbb7105ff1c66b.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\2ac2370e4d3e9ec0600c1e33a6169e4e0e75e03804a8cc6381bbb7105ff1c66b.jpg",
+      "frac": 0.178,
+      "px": [
+        870,
+        632
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 61,
+      "img": "b1265113643945db40a902af29cd9ad8aa71d04d9ee7fa38e0f75e26304ab782.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\b1265113643945db40a902af29cd9ad8aa71d04d9ee7fa38e0f75e26304ab782.jpg",
+      "frac": 0.107,
+      "px": [
+        715,
+        448
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 66,
+      "img": "3732b546c6847741b0dd3fed1c50ffdc77b685da6944323e7202cfccd84e923e.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\3732b546c6847741b0dd3fed1c50ffdc77b685da6944323e7202cfccd84e923e.jpg",
+      "frac": 0.2254,
+      "px": [
+        723,
+        968
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 68,
+      "img": "d1bfccc60d930165d1826011b86f89c718eb6bfa991add0f83f0e6b2b652dd6a.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\d1bfccc60d930165d1826011b86f89c718eb6bfa991add0f83f0e6b2b652dd6a.jpg",
+      "frac": 0.1786,
+      "px": [
+        887,
+        623
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 70,
+      "img": "a76d4f9ffde00c151747d64c8fe7a54a0bcc257db34067f56b70244fbf9ee58e.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\a76d4f9ffde00c151747d64c8fe7a54a0bcc257db34067f56b70244fbf9ee58e.jpg",
+      "frac": 0.1586,
+      "px": [
+        876,
+        562
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 72,
+      "img": "ee631c45eb7ae01ecb4bc41544d45a4213934578cfe24433a19aac07920f38cd.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\ee631c45eb7ae01ecb4bc41544d45a4213934578cfe24433a19aac07920f38cd.jpg",
+      "frac": 0.2313,
+      "px": [
+        1093,
+        589
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 74,
+      "img": "0ebdfe1ef128acf0579fad7dd278d11fad7c3ce5c2a844341dbc82a46941c17a.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\0ebdfe1ef128acf0579fad7dd278d11fad7c3ce5c2a844341dbc82a46941c17a.jpg",
+      "frac": 0.128,
+      "px": [
+        723,
+        490
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 76,
+      "img": "778559ff127fbfe1562c9f41319f13fe2cc10329d3f30310fb0bd2a9887fd984.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\778559ff127fbfe1562c9f41319f13fe2cc10329d3f30310fb0bd2a9887fd984.jpg",
+      "frac": 0.1336,
+      "px": [
+        887,
+        464
+      ],
+      "caption": "▲一排鸭子浮在水面上，形成剪影，而暮光的反射依旧逗留在水面上"
+    },
+    {
+      "page_idx": 79,
+      "img": "47dbb4031cf144650684f8c4ef175f9c6012b64c35a5477a22367d8e4620a340.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\47dbb4031cf144650684f8c4ef175f9c6012b64c35a5477a22367d8e4620a340.jpg",
+      "frac": 0.3014,
+      "px": [
+        745,
+        1237
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 82,
+      "img": "a8be2e1fc0f546467a51be6235fdf07c63618d0f895f25aed8f0247c46b62a0f.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\a8be2e1fc0f546467a51be6235fdf07c63618d0f895f25aed8f0247c46b62a0f.jpg",
+      "frac": 0.1312,
+      "px": [
+        709,
+        523
+      ],
+      "caption": "▲在午后时分，从窗户摄入的光线就是侧面光的良好来源。当我的猫坐在光下梳理自己的爪子时我拍摄了这张照片，午后的光线很好地展现了它毛上柔软的纹路"
+    },
+    {
+      "page_idx": 85,
+      "img": "da7fc357b1e7c56bc4dd4df301d89a59c952148829e4f7dbf5d02271ed3f6102.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\da7fc357b1e7c56bc4dd4df301d89a59c952148829e4f7dbf5d02271ed3f6102.jpg",
+      "frac": 0.5267,
+      "px": [
+        1464,
+        1101
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 87,
+      "img": "45082a640cdcb0954cdc3cc9190ef0e61bb9faae79b4371811082ec1076e46a8.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\45082a640cdcb0954cdc3cc9190ef0e61bb9faae79b4371811082ec1076e46a8.jpg",
+      "frac": 0.1736,
+      "px": [
+        723,
+        732
+      ],
+      "caption": "当太阳和天空黑色部分正面相对的时候，彩虹就可以形成了，而彩虹通常也是在暴风雨散开以后出现。当我们完全背对太阳的时候，就是拍摄这条拱形彩带的最好位置"
+    },
+    {
+      "page_idx": 90,
+      "img": "08cb266a8ff2f2b9d7152b7063344166e2523201474c622a943090184f0d0fd7.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\08cb266a8ff2f2b9d7152b7063344166e2523201474c622a943090184f0d0fd7.jpg",
+      "frac": 0.3577,
+      "px": [
+        876,
+        1262
+      ],
+      "caption": "▲秋天的落叶并不一定要成为美景的主角，它们也可以成为其他风景的主题框架。这张照片中，一大片枫叶被用于奠定季节的情绪，用来烘托远处戏剧性的场景。摄/Derek Doeffinger"
+    },
+    {
+      "page_idx": 92,
+      "img": "0f26b82ca95fa8df8ee9b47e7bd8eca5d8da4cbe79cd32569e0875d073d4dd22.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\0f26b82ca95fa8df8ee9b47e7bd8eca5d8da4cbe79cd32569e0875d073d4dd22.jpg",
+      "frac": 0.2662,
+      "px": [
+        715,
+        1031
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 95,
+      "img": "6f2722d600edc7528908299ccbedd685510a3477b55cc23ca71060eb08d7c5ba.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\6f2722d600edc7528908299ccbedd685510a3477b55cc23ca71060eb08d7c5ba.jpg",
+      "frac": 1.0,
+      "px": [
+        1653,
+        1917
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 99,
+      "img": "129110d906fb4c14bd86f49c80e9ccd4b5fb8b258f44933b7597202e1421d9f8.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\129110d906fb4c14bd86f49c80e9ccd4b5fb8b258f44933b7597202e1421d9f8.jpg",
+      "frac": 0.2085,
+      "px": [
+        937,
+        678
+      ],
+      "caption": "▲我在大部分时间都会使用阴天的白平衡设置来拍摄风景，像这张设计很正式的花园照片就是用这样的设置拍摄的，使用这样设置的原因是我希望通过添加暖色调，让照片看起来更加吸引人"
+    },
+    {
+      "page_idx": 102,
+      "img": "644cc2e4fd380f15e4434204c49ac86f5ffebd533c0f92815fdfa95c4a3e9c0e.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\644cc2e4fd380f15e4434204c49ac86f5ffebd533c0f92815fdfa95c4a3e9c0e.jpg",
+      "frac": 0.4547,
+      "px": [
+        1465,
+        865
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 105,
+      "img": "71ee7795392424f57f0bb62fe425f741757a0b0357e1e90bf735c0ac3cb94980.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\71ee7795392424f57f0bb62fe425f741757a0b0357e1e90bf735c0ac3cb94980.jpg",
+      "frac": 0.2348,
+      "px": [
+        718,
+        998
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 107,
+      "img": "0287cd44350c065d7233fcd39b79ed3566407068f1a53d9ed16e87978629743a.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\0287cd44350c065d7233fcd39b79ed3566407068f1a53d9ed16e87978629743a.jpg",
+      "frac": 0.2034,
+      "px": [
+        884,
+        704
+      ],
+      "caption": "▲因为在巴黎圣母院内不能使用三脚架，我就只能将感光度上调至ISO1600，用手持方式来拍摄这张照片"
+    },
+    {
+      "page_idx": 109,
+      "img": "f5ceb8441c0a5f561e80ddfc55959656258cadc651d9b8afcd8fe2fe3d208033.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\f5ceb8441c0a5f561e80ddfc55959656258cadc651d9b8afcd8fe2fe3d208033.jpg",
+      "frac": 0.1944,
+      "px": [
+        845,
+        704
+      ],
+      "caption": "▲我们想让自家室内环境看起来更吸引人，更舒适，但是我们需要为外面偏冷的日光寻找一个平衡，否则室外的一切就都会看起来很蓝很蓝。摄/Frank Gallaugher"
+    },
+    {
+      "page_idx": 112,
+      "img": "180e331b2d690e81b90e4c317b9b5ceed92dc332b39f19eafd4db3e86632926d.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\180e331b2d690e81b90e4c317b9b5ceed92dc332b39f19eafd4db3e86632926d.jpg",
+      "frac": 0.5465,
+      "px": [
+        1465,
+        1048
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 114,
+      "img": "ace98aa550e9c6916732a129734f7a5d6e0e8ae8f796172134d2b48800525d63.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\ace98aa550e9c6916732a129734f7a5d6e0e8ae8f796172134d2b48800525d63.jpg",
+      "frac": 0.1126,
+      "px": [
+        717,
+        445
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 117,
+      "img": "fd146af4c41d6e493b45c2803d6005d80c5c2482871a908a54831404e17a1ee9.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\fd146af4c41d6e493b45c2803d6005d80c5c2482871a908a54831404e17a1ee9.jpg",
+      "frac": 0.2552,
+      "px": [
+        1092,
+        709
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 121,
+      "img": "0e71a1d5fa3e71700a10dfa198e84c41255871df95b06e14e934f839ca457d16.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\0e71a1d5fa3e71700a10dfa198e84c41255871df95b06e14e934f839ca457d16.jpg",
+      "frac": 0.22,
+      "px": [
+        715,
+        934
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 124,
+      "img": "ff12d6b77d9c1922e93d62957d40081b1dc2b476b73d3722a550d0b627fa84dd.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\ff12d6b77d9c1922e93d62957d40081b1dc2b476b73d3722a550d0b627fa84dd.jpg",
+      "frac": 0.4015,
+      "px": [
+        717,
+        1565
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 126,
+      "img": "232f441937ed5e334c615be5516c25fc035d19871a709c53f7924de9f155e3b9.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\232f441937ed5e334c615be5516c25fc035d19871a709c53f7924de9f155e3b9.jpg",
+      "frac": 0.2703,
+      "px": [
+        717,
+        1062
+      ],
+      "caption": "▲▼汽车摄影师吉尔·瑞格已经拍摄了数干辆经典和老式的车型，她的标志性作品就包括这些汽车细节，尤其是这些独具风格的引擎盖标识的微距照片。这些照片都是使用70-200毫米变焦镜头，使用最大的光圈，用来将近处的其他车辆变成背景虚化的色彩。摄/JillReger"
+    },
+    {
+      "page_idx": 128,
+      "img": "1c51db6dcda42f425d0641c235da2b1092cbf3873bed467e7b23115b9af5d4b7.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\1c51db6dcda42f425d0641c235da2b1092cbf3873bed467e7b23115b9af5d4b7.jpg",
+      "frac": 0.2333,
+      "px": [
+        1090,
+        601
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 131,
+      "img": "c48ee3107de983ef0b9f076093b546319d45d15cb18bf72761923335827a02e7.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\c48ee3107de983ef0b9f076093b546319d45d15cb18bf72761923335827a02e7.jpg",
+      "frac": 0.1159,
+      "px": [
+        712,
+        495
+      ],
+      "caption": "▲▼通常情况下，我们可以将一张色调适中的照片转换成暗色调（或者亮色调）的照片，方法就是在相机中或者后期编辑时调整曝光。这张照片中，我压暗了浮雕的色调范围，创造出了更有戏剧性的氛围"
+    },
+    {
+      "page_idx": 132,
+      "img": "2d0ec2ad905676ee484fd0ea1c403269d3ebb67b133cd2b1cc4a6d5715767311.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\2d0ec2ad905676ee484fd0ea1c403269d3ebb67b133cd2b1cc4a6d5715767311.jpg",
+      "frac": 0.1175,
+      "px": [
+        715,
+        462
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 135,
+      "img": "704fea1299f97630369a850b17ae46c52d661c5e23941649097fd28ba7480933.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\704fea1299f97630369a850b17ae46c52d661c5e23941649097fd28ba7480933.jpg",
+      "frac": 0.4208,
+      "px": [
+        1465,
+        868
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 137,
+      "img": "ed142650fed6e9d94f5c2a948534ab8d4b130ef25a9b8e0a7bf05b3fac60832b.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\ed142650fed6e9d94f5c2a948534ab8d4b130ef25a9b8e0a7bf05b3fac60832b.jpg",
+      "frac": 0.1136,
+      "px": [
+        718,
+        482
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 141,
+      "img": "b52e2f0dbf60986971119e5cef84e03484ee3e8fdfe7fb5b6855e66f9efcf9ce.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\b52e2f0dbf60986971119e5cef84e03484ee3e8fdfe7fb5b6855e66f9efcf9ce.jpg",
+      "frac": 0.4028,
+      "px": [
+        715,
+        1692
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 145,
+      "img": "66fe9fe213f70978461b34d2eb2171cd4fd0b71fbf911d40d7047acb7872bdae.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\66fe9fe213f70978461b34d2eb2171cd4fd0b71fbf911d40d7047acb7872bdae.jpg",
+      "frac": 0.105,
+      "px": [
+        715,
+        445
+      ],
+      "caption": "▲ 黄色和绿色被称为相似色，因为它们在色环上是相邻的两种色彩。通常情况下将临近色放在一起效果都会较好，而这种方式也被认为是令人愉快的色彩安排"
+    },
+    {
+      "page_idx": 149,
+      "img": "7527cf48b706459310aaa7423ac4ede9a7841407737cbaf10ff80b6d12203643.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\7527cf48b706459310aaa7423ac4ede9a7841407737cbaf10ff80b6d12203643.jpg",
+      "frac": 0.2661,
+      "px": [
+        1093,
+        739
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 151,
+      "img": "21fb45e272c6493f16ad5c3507ce00d93b485458368fd18c9867f4409797a9eb.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\21fb45e272c6493f16ad5c3507ce00d93b485458368fd18c9867f4409797a9eb.jpg",
+      "frac": 0.4629,
+      "px": [
+        1470,
+        956
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 154,
+      "img": "4d2892b2b3afd19ee4b4a79fd6bceece414f3f1f7e28f731e9485670c3f46959.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\4d2892b2b3afd19ee4b4a79fd6bceece414f3f1f7e28f731e9485670c3f46959.jpg",
+      "frac": 0.1225,
+      "px": [
+        721,
+        484
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 157,
+      "img": "7c16238286e5d9fde5b13833debf84ae9ff8e06a4a739bd570d2dcb0625be482.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\7c16238286e5d9fde5b13833debf84ae9ff8e06a4a739bd570d2dcb0625be482.jpg",
+      "frac": 0.3631,
+      "px": [
+        1462,
+        743
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 159,
+      "img": "c0891bb4eb36b40997f1433b38329be17565f16760c51835f16b0dc635af70f5.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\c0891bb4eb36b40997f1433b38329be17565f16760c51835f16b0dc635af70f5.jpg",
+      "frac": 0.1224,
+      "px": [
+        718,
+        498
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 163,
+      "img": "1175fe20b94ef07150ad7751567b993356ef95d4e7de34183343644c17e769ff.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\1175fe20b94ef07150ad7751567b993356ef95d4e7de34183343644c17e769ff.jpg",
+      "frac": 1.0,
+      "px": [
+        1653,
+        1917
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 168,
+      "img": "7ec67625d68cb95dd706c3c8fe2e378e68d99ecca1c8c36b61f5b9ea8efa21bc.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\7ec67625d68cb95dd706c3c8fe2e378e68d99ecca1c8c36b61f5b9ea8efa21bc.jpg",
+      "frac": 0.4961,
+      "px": [
+        1468,
+        962
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 170,
+      "img": "e1c7828aea72d8295e08d0437d4f62627536788f64fed441cedaa57586aa3613.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\e1c7828aea72d8295e08d0437d4f62627536788f64fed441cedaa57586aa3613.jpg",
+      "frac": 0.1375,
+      "px": [
+        714,
+        551
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 174,
+      "img": "6be6d1dbe00ba25c7d6e2e61d8c2f2553a67189ace62359ce9f7cff906514f7b.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\6be6d1dbe00ba25c7d6e2e61d8c2f2553a67189ace62359ce9f7cff906514f7b.jpg",
+      "frac": 0.3472,
+      "px": [
+        765,
+        1298
+      ],
+      "caption": "这是同一张照片，第一张没有使用任何滤镜效果，第二张使用了加温滤镜，最后一张使用了冷却滤镜。在Photoshop中，我们可以简单地通过“O%”到“100%”的不同数值来调整滤镜的强度"
+    },
+    {
+      "page_idx": 176,
+      "img": "fc09d3513aab263e621cc4ff836401e9a46ad0aea37544e12a16ba899ca1e579.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\color-bible\\images\\fc09d3513aab263e621cc4ff836401e9a46ad0aea37544e12a16ba899ca1e579.jpg",
+      "frac": 0.2605,
+      "px": [
+        1029,
+        726
+      ],
+      "caption": ""
+    }
+  ]
+}

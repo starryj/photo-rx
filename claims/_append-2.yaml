@@ -1,0 +1,510 @@
+- id: C073
+  claim: 画幅是第一个设计决定：水平格式符合双眼视场因而「正常」，正方形因四边等长而在形式上显得刻板，全景则让眼睛一次只看一部分、延长观看。
+  domain: 构图与结构
+  stance: 结构派
+  operational: principle
+  merged_from: [fs03, fs05, fs06]
+  single_source: true
+  sources:
+    - book: freeman-sight
+      id: fs03
+    - book: freeman-sight
+      id: fs05
+    - book: freeman-sight
+      id: fs06
+
+- id: C074
+  claim: 裁剪可以推迟决定，但不能替代拍摄时的果断，多数图像得益于制作过程的视觉连续性。
+  domain: 构图与结构
+  stance: 结构派
+  operational: heuristic
+  merged_from: [fs07]
+  single_source: true
+  sources:
+    - book: freeman-sight
+      id: fs07
+
+- id: C075
+  claim: 中央是静止位置、通常也无趣；主体偏离中心必须有理由，主体越小这个理由越重要。
+  domain: 构图与结构
+  stance: 结构派
+  operational: principle
+  merged_from: [fs09, fs28]
+  single_source: true
+  sources:
+    - book: freeman-sight
+      id: fs09
+    - book: freeman-sight
+      id: fs28
+
+- id: C076
+  claim: 分割的本质是比例：1:1、2:1、3:2 这类简单数字给出静态分割，黄金分割要求「小:大 = 大:整体」约 1.618，动态需要更复杂的比例。
+  domain: 构图与结构
+  stance: 结构派
+  operational: calculation
+  merged_from: [fs10, fs11]
+  single_source: true
+  sources:
+    - book: freeman-sight
+      id: fs10
+    - book: freeman-sight
+      id: fs11
+
+- id: C077
+  claim: 不存在理想的地平线位置；地平线放哪由内容与图形需要决定，单纯上移下移没有意义。
+  domain: 构图与结构
+  stance: 结构派
+  operational: principle
+  merged_from: [fs12]
+  single_source: true
+  sources:
+    - book: freeman-sight
+      id: fs12
+
+- id: C078
+  claim: 框中框把视线从一个平面转到另一个平面，从而增强照片的维度。
+  domain: 空间
+  stance: 结构派
+  operational: principle
+  merged_from: [fs13]
+  single_source: true
+  sources:
+    - book: freeman-sight
+      id: fs13
+
+- id: C079
+  claim: 设计只有对比与平衡两个基本原则；眼睛追求和谐感是事实，但不能升级为构图规则，功效不是规则。
+  domain: 和谐与协调
+  stance: 结构派
+  operational: principle
+  merged_from: [fs14, fs15, fs43]
+  single_source: false
+  conflicts: [K1]
+  sources:
+    - book: freeman-sight
+      id: fs14
+    - book: freeman-sight
+      id: fs15
+    - book: freeman-sight
+      id: fs43
+
+- id: C080
+  claim: 观者兴趣与必须付出的努力成正比；平衡太完美则眼睛无事可做，适度的不平衡反而制造张力。
+  domain: 构图与结构
+  stance: 结构派
+  operational: principle
+  merged_from: [fs17]
+  single_source: true
+  sources:
+    - book: freeman-sight
+      id: fs17
+
+- id: C081
+  claim: 靠动态张力成立的图像缺乏持久力，效果转瞬即逝，频繁使用会做作。
+  domain: 构图与结构
+  stance: 结构派
+  operational: heuristic
+  merged_from: [fs18]
+  single_source: true
+  sources:
+    - book: freeman-sight
+      id: fs18
+
+- id: C082
+  claim: 节奏不是重复本身：最强节奏是每个节拍都在引导眼睛移动。
+  domain: 构图与结构
+  stance: 结构派
+  operational: metric
+  merged_from: [fs20]
+  single_source: true
+  sources:
+    - book: freeman-sight
+      id: fs20
+
+- id: C083
+  claim: 图案与节奏都基于重复，但图案关涉范围而非方向，所以眼睛在图案里四处漫游。
+  domain: 构图与结构
+  stance: 结构派
+  operational: principle
+  merged_from: [fs21]
+  single_source: true
+  sources:
+    - book: freeman-sight
+      id: fs21
+
+- id: C084
+  claim: 纹理是结构而非色调或色彩的特征，主要吸引触觉，因此靠倾斜而清晰的光显出起伏。
+  domain: 构图与结构
+  stance: 结构派
+  operational: principle
+  merged_from: [fs22]
+  single_source: true
+  sources:
+    - book: freeman-sight
+      id: fs22
+
+- id: C085
+  claim: 斜线与画幅长边形成的角度越大越具动态，这是可判断的量化关系。
+  domain: 构图与结构
+  stance: 结构派
+  operational: metric
+  merged_from: [fs30]
+  single_source: true
+  sources:
+    - book: freeman-sight
+      id: fs30
+
+- id: C086
+  claim: 向量是为眼睛安排路线：先让注意力被预期点吸引，再提供线条暗示方向运动。
+  domain: 构图与结构
+  stance: 结构派
+  operational: procedure
+  merged_from: [fs27]
+  single_source: true
+  sources:
+    - book: freeman-sight
+      id: fs27
+
+- id: C087
+  claim: 清晰度几乎是无可置疑的标准，因此落在焦点上的任何事物都会成为关注点；有意误用焦点很有效，因为它打破常规。
+  domain: 构图与结构
+  stance: 结构派
+  operational: principle
+  merged_from: [fs33]
+  single_source: true
+  sources:
+    - book: freeman-sight
+      id: fs33
+
+- id: C088
+  claim: 焦距改变的不只是视角：广角增强线性透视并把观者带入场景，远摄把平面压缩、把主体拉远、显得冷静。
+  domain: 空间
+  stance: 结构派
+  operational: principle
+  merged_from: [fs35, fs36, fs49]
+  single_source: true
+  sources:
+    - book: freeman-sight
+      id: fs35
+    - book: freeman-sight
+      id: fs36
+    - book: freeman-sight
+      id: fs49
+
+- id: C089
+  claim: 并置之所以有效，是因为我们天生假设并排的事物之间存在关系；观者无法从成片判断它是计划还是巧合。
+  domain: 构图与结构
+  stance: 结构派
+  operational: principle
+  merged_from: [fs47]
+  single_source: true
+  sources:
+    - book: freeman-sight
+      id: fs47
+
+- id: C090
+  claim: 兴趣点增加到一定数量后会结合成「场景」图像，复杂性于是再次变简单。
+  domain: 构图与结构
+  stance: 结构派
+  operational: principle
+  merged_from: [fs44]
+  single_source: true
+  sources:
+    - book: freeman-sight
+      id: fs44
+
+- id: C091
+  claim: 清晰的图像有力但对观者要求低；模糊的图像要求较慢的阅读，可能吸引更久的注意力。
+  domain: 构图与结构
+  stance: 结构派
+  operational: principle
+  merged_from: [fs45]
+  single_source: true
+  sources:
+    - book: freeman-sight
+      id: fs45
+
+- id: C092
+  claim: 同一明度策略在黑白与彩色里不等价：高色调黑白显得明亮生动，高色调彩色常被读成发白与曝光错误。
+  domain: 明度
+  stance: 结构派
+  operational: principle
+  merged_from: [fs37]
+  single_source: true
+  sources:
+    - book: freeman-sight
+      id: fs37
+
+- id: C093
+  claim: 色相亮度值：黄 9、橙 8、红 6、绿 6、蓝 4、紫 3；要获得最可预见的和谐需将光值成反比组合。
+  domain: 明度
+  stance: 结构派
+  operational: calculation
+  merged_from: [fs38]
+  single_source: false
+  conflicts: [K2]
+  sources:
+    - book: freeman-sight
+      id: fs38
+
+- id: C094
+  claim: 小面积对比色具有与「点」相似的聚焦效果，但两区面积差异越大效果越弱。
+  domain: 数量与面积
+  stance: 结构派
+  operational: principle
+  merged_from: [fs39]
+  single_source: true
+  sources:
+    - book: freeman-sight
+      id: fs39
+
+- id: C095
+  claim: 柔和色占据的视觉空间远大于强烈色彩，是自然场景的默认底色。
+  domain: 饱和度
+  stance: 结构派
+  operational: principle
+  merged_from: [fs40]
+  single_source: true
+  sources:
+    - book: freeman-sight
+      id: fs40
+
+- id: C096
+  claim: 数码通道混合能把任何色相渲染为黑白之间的任意值，故黑白控制不再依赖拍摄时的彩色滤镜。
+  domain: 器材与后期
+  stance: 结构派
+  operational: procedure
+  merged_from: [fs41]
+  single_source: true
+  sources:
+    - book: freeman-sight
+      id: fs41
+
+- id: C097
+  claim: 格式塔的基本原则是整体大于部分之和；视觉注意的主要因素是重要性加权，人脸尤其眼睛与嘴巴权重最高。
+  domain: 机制
+  stance: 结构派
+  operational: framework
+  merged_from: [fs16, fs26]
+  single_source: true
+  sources:
+    - book: freeman-sight
+      id: fs16
+    - book: freeman-sight
+      id: fs26
+
+- id: C098
+  claim: 深度感靠知觉机制建立：大小恒常让大脑同时接受「显得小」与「实际大」，选择性聚焦靠注意力被吸向清晰区与失焦层被读作在前两个触发点。
+  domain: 空间
+  stance: 结构派
+  operational: principle
+  merged_from: [fs24, fs25]
+  single_source: true
+  sources:
+    - book: freeman-sight
+      id: fs24
+    - book: freeman-sight
+      id: fs25
+
+- id: C099
+  claim: 书法里笔画之间的留白与黑色文字一样具备动态与连贯性：负形与正形同等主动。
+  domain: 构图与结构
+  stance: 结构派
+  operational: case
+  merged_from: [fs19]
+  single_source: true
+  sources:
+    - book: freeman-sight
+      id: fs19
+
+- id: C100
+  claim: 「决定性瞬间」指各元素处于平衡的那一瞬（布列松转引雷兹），但纽曼反驳「每时每刻都是决定性瞬间」；作者认为后者是妥协。
+  domain: 方法论
+  stance: 结构派
+  operational: case
+  merged_from: [fs34]
+  single_source: true
+  sources:
+    - book: freeman-sight
+      id: fs34
+
+- id: C101
+  claim: 探索必须自设界限、摄影师要自己决定何时停止；回访有风险，最初吸引你的事物与拍摄可能性之间的组合可能不再存在。
+  domain: 方法论
+  stance: 结构派
+  operational: heuristic
+  merged_from: [fs48, fs50]
+  single_source: true
+  sources:
+    - book: freeman-sight
+      id: fs48
+    - book: freeman-sight
+      id: fs50
+
+- id: C102
+  claim: 构图是把眼前混乱景象组织成引人的图像，这是摄影的关键技能，也是判断一张照片组织质量的落点。
+  domain: 方法论
+  stance: 结构派
+  operational: principle
+  merged_from: [fs01]
+  single_source: true
+  sources:
+    - book: freeman-sight
+      id: fs01
+
+- id: C103
+  claim: 金色光辉出现在太阳高于地平线但角度不足 20° 时，色温介乎 3500K–4500K，每天只有日出与日落各约一小时。
+  domain: 光与时段
+  stance: 技术派
+  operational: metric
+  merged_from: [fl01]
+  single_source: true
+  sources:
+    - book: freeman-light
+      id: fl01
+
+- id: C104
+  claim: 积云遮日会把 5200K 的阳光降到 6000K 左右，让被照亮的前景带上头顶天空的蓝色调。
+  domain: 光与时段
+  stance: 技术派
+  operational: calculation
+  merged_from: [fl05]
+  single_source: true
+  conflicts: [K10]
+  sources:
+    - book: freeman-light
+      id: fl05
+
+- id: C105
+  claim: 硬光＝光源与对象之间没有任何阻隔；柔光的最有效形态几乎察觉不到，光线本身不成为构图元素。
+  domain: 光与时段
+  stance: 技术派
+  operational: definition
+  merged_from: [fl23, fl24]
+  single_source: true
+  sources:
+    - book: freeman-light
+      id: fl23
+    - book: freeman-light
+      id: fl24
+
+- id: C106
+  claim: 明暗对照法不是最硬的光，而是硬光与柔光之间的平衡：既有浓重阴影，又有从高光到阴影的渐变。
+  domain: 光与时段
+  stance: 技术派
+  operational: framework
+  merged_from: [fl13]
+  single_source: false
+  sources:
+    - book: freeman-light
+      id: fl13
+
+- id: C107
+  claim: 质感靠微观阴影显现，只有小角度的强烈侧光才能在表面投出这些阴影；形状靠明暗渐变，质感靠侧光。
+  domain: 光与时段
+  stance: 技术派
+  operational: principle
+  merged_from: [fl28, fl14]
+  single_source: true
+  sources:
+    - book: freeman-light
+      id: fl28
+    - book: freeman-light
+      id: fl14
+
+- id: C108
+  claim: 包围光在大自然中很少见，因此人像若用包围光会显得超现实和失真；它更适合静物与强反光物体。
+  domain: 光与时段
+  stance: 技术派
+  operational: principle
+  merged_from: [fl11, fl30]
+  single_source: true
+  sources:
+    - book: freeman-light
+      id: fl11
+    - book: freeman-light
+      id: fl30
+
+- id: C109
+  claim: 阴天的挑战不是光差，而是必须找出适合柔和扩散光的题材。
+  domain: 光与时段
+  stance: 技术派
+  operational: heuristic
+  merged_from: [fl25]
+  single_source: true
+  sources:
+    - book: freeman-light
+      id: fl25
+
+- id: C110
+  claim: 眩光本质是镜头再现光线时的像差，但可以被有意利用来强化图形感与色彩。
+  domain: 光与时段
+  stance: 技术派
+  operational: principle
+  merged_from: [fl08]
+  single_source: true
+  sources:
+    - book: freeman-light
+      id: fl08
+
+- id: C111
+  claim: 位深与动态范围是两件事：位深可以在给定动态范围内增加，但动态范围不能扩大。
+  domain: 器材与后期
+  stance: 技术派
+  operational: principle
+  merged_from: [fl17]
+  single_source: true
+  sources:
+    - book: freeman-light
+      id: fl17
+
+- id: C112
+  claim: 点测光只测量占画面约 2% 的圆形区域，其余全部忽略；这既是它的精度也是它的风险。
+  domain: 器材与后期
+  stance: 技术派
+  operational: metric
+  merged_from: [fl19]
+  single_source: true
+  sources:
+    - book: freeman-light
+      id: fl19
+
+- id: C113
+  claim: 混合光源下最安全的做法是用灰卡设置自定义白平衡并拍 RAW，给后期留调整余地。
+  domain: 器材与后期
+  stance: 技术派
+  operational: procedure
+  merged_from: [fl21]
+  single_source: false
+  sources:
+    - book: freeman-light
+      id: fl21
+
+- id: C114
+  claim: 偏光镜提高天空饱和度有角度前提（镜头与太阳成合适角度效果最强）；渐变滤镜的效果可在直方图右侧靠近边界而不剪切这样判读。
+  domain: 器材与后期
+  stance: 技术派
+  operational: procedure
+  merged_from: [fl06, fl07]
+  single_source: true
+  sources:
+    - book: freeman-light
+      id: fl06
+    - book: freeman-light
+      id: fl07
+
+- id: C115
+  claim: 白平衡有两条用法：按感官精确再现场景（校正），或刻意偏移以加入自己的演绎（表达）。
+  domain: 色相与色环
+  stance: 技术派
+  operational: principle
+  merged_from: [fl26, fl32, fl22]
+  single_source: true
+  conflicts: [K1]
+  sources:
+    - book: freeman-light
+      id: fl26
+    - book: freeman-light
+      id: fl32
+    - book: freeman-light
+      id: fl22

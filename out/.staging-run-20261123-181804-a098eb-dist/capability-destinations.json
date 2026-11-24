@@ -1,0 +1,29 @@
+{
+  "generated_by": "cangjie-tools v2.5.0",
+  "bundle_id": "bundle.photo-vision",
+  "router_entrypoint": "photo-vision",
+  "entrypoint_count": 6,
+  "capability_count": 5,
+  "destinations": {
+    "cap.photo-vision.color-decision": {
+      "promoted_to": "color-decision",
+      "router_view": "photo-vision/references/capabilities/color-decision.md"
+    },
+    "cap.photo-vision.structure-read": {
+      "promoted_to": "structure-read",
+      "router_view": "photo-vision/references/capabilities/structure-read.md"
+    },
+    "cap.photo-vision.shoot-plan": {
+      "promoted_to": "shoot-plan",
+      "router_view": "photo-vision/references/capabilities/shoot-plan.md"
+    },
+    "cap.photo-vision.ways-of-seeing": {
+      "promoted_to": "ways-of-seeing",
+      "router_view": "photo-vision/references/capabilities/ways-of-seeing.md"
+    },
+    "cap.photo-vision.chinese-eye": {
+      "promoted_to": "chinese-eye",
+      "router_view": "photo-vision/references/capabilities/chinese-eye.md"
+    }
+  }
+}

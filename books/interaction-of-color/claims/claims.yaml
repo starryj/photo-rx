@@ -1,0 +1,286 @@
+# Interaction of Color (Albers, 50th anniv. ed.) · claims（阶段 1 独立抽取，不参照另两本）
+# stance：相对派源头——反对把和谐当目标，也反对用照片裁决视觉判断
+# operational：可操作 = 能进 E 段步骤；描述性 = 只能进 I 段；经验断言 = 只能进 B 段
+# 原文为英文；OCR 有错字（6o% / bali / nane / is—-as），引用保留原文并在 note 注明
+
+- id: oc01
+  claim: 视觉里的色几乎从来不是它物理上实际是的那色，这条事实使色彩成为艺术中最相对的媒介
+  page: p016
+  quote: "This fact makes color the most relative medium in art."
+  stance: 相对派
+  domain: 语境与相对性
+  operational: 描述性
+  single_source: false
+
+- id: oc02
+  claim: 「色彩是艺术中最相对的媒介」是这门课写在黑板与笔记上的核心命题
+  page: p023
+  quote: "On the blackboard and in our notebooks we write: Color is the most relative medium in art."
+  stance: 相对派
+  domain: 语境与相对性
+  operational: 描述性
+  single_source: false
+
+- id: oc03
+  claim: 多数色彩研究的目的就是证明色彩最相对，且我们几乎从不感知色彩物理上是什么
+  page: p086
+  quote: "The purpose of most of our color studies is to prove that color is the most relative medium in art, that we almost never perceive what color is physically."
+  stance: 相对派
+  domain: 语境与相对性
+  operational: 描述性
+  single_source: false
+
+- id: oc04
+  claim: 处理色彩相对性或错觉时，须把事实事实与实际事实分开
+  page: p086
+  quote: "In dealing with color relativity or color illusion, it is practical to distinguish factual facts from actual facts."
+  stance: 相对派
+  domain: 语境与相对性
+  operational: 可操作
+  single_source: false
+
+- id: oc05
+  claim: 较软的边界透露接近与连接，较硬的边界指示距离与分离——边界即度量
+  page: p046
+  quote: "Since softer boundaries disclose nearness implying connection, harder boundaries indicate distance, separation."
+  stance: 相对派
+  domain: 空间
+  operational: 可操作
+  single_source: false
+
+- id: oc06
+  claim: 中间混合四周的边界同等地软或硬，故它显得正面、像一种自身的颜色，并不空间化
+  page: p047
+  quote: "Thus, with a middle mixture all boundaries are equally soft or hard As a consequence, a middle mixture appears frontal, as a color by itself."
+  stance: 相对派
+  domain: 空间
+  operational: 可操作
+  single_source: false
+
+- id: oc07
+  claim: 塞尚很省地使用强化边框，主要用在需要与相邻色域作空间分离之处
+  page: p047
+  quote: "he used emphasized borders sparingly, mainly where he needed a spatial separation from adjacent color areas."
+  stance: 相对派
+  domain: 空间
+  operational: 描述性
+  single_source: false
+
+- id: oc08
+  claim: 「等明度」被谈论得远多于被真正实现、被真正看见
+  page: p077
+  quote: "In this way, “equal values” are more spoken about than realized—than actually seen."
+  stance: 相对派
+  domain: 明度
+  operational: 描述性
+  single_source: false
+
+- id: oc09
+  claim: 等明度的两块纸必须用嵌接（inlay／intarsia）装裱，以免纸厚与阴影破坏错觉
+  page: p078
+  quote: 'Therefore, the 2 papers of equal light intensity must be mounted as inlay (known as “intarsia").'
+  stance: 相对派
+  domain: 明度
+  operational: 可操作
+  single_source: false
+
+- id: oc10
+  claim: 判断两色明暗的自测里，60% 的答案错、只有 40% 对（不计弃权），多年结果不变
+  page: p028
+  quote: "60% of the answers are wrong and only 40% are right, not counting the undecided cases."
+  stance: 相对派
+  domain: 明度
+  operational: 描述性
+  single_source: false
+
+- id: oc11
+  claim: 任何存疑的情况下都鼓励学生弃权——不投票也可以有正面意义
+  page: p028
+  quote: "It should be mentioned that the students are encouraged to abstain from making a judgment in any case of doubt."
+  stance: 相对派
+  domain: 明度
+  operational: 可操作
+  single_source: false
+
+- id: oc12
+  claim: 不可避免的问题是：这些颜色的照片能揭示它们真实的关系、给出最终证明吗
+  page: p029
+  quote: "Another unavoidable question is: will a photograph of these colors reveal their true relationship and thus give the final proof?"
+  stance: 相对派
+  domain: 器材与后期
+  operational: 描述性
+  single_source: false
+  contested_hint: K7（色彩圣经用直方图与包围曝光作裁决）
+
+- id: oc13
+  claim: 黑白摄影把亮部记得更亮、暗部记得更暗，不如可调节的眼睛
+  page: p029
+  quote: "Normally, black-and-white photography registers all lights lighter and all darks darker than the more adjustable eye perceives them."
+  stance: 相对派
+  domain: 器材与后期
+  operational: 描述性
+  single_source: false
+
+- id: oc14
+  claim: 眼睛对中间灰的分辨优于摄影，后者常把中间灰压平甚至丢掉
+  page: p029
+  quote: "The eye also distinguishes better the so-called middle greys, which in photography often are flattened if not lost."
+  stance: 相对派
+  domain: 器材与后期
+  operational: 描述性
+  single_source: false
+
+- id: oc15
+  claim: 眼睛胜过摄影的最大优势，是它在明视觉之外还有暗视觉
+  page: p030
+  quote: "The greatest advantage the eye has over photography is its scotopic seeing in addition to its photopic seeing."
+  stance: 相对派
+  domain: 器材与后期
+  operational: 描述性
+  single_source: false
+
+- id: oc16
+  claim: 彩色摄影比黑白摄影偏离人眼更多
+  page: p030
+  quote: "Color photography deviates still more from eye vision than black-and-white photography."
+  stance: 相对派
+  domain: 器材与后期
+  operational: 描述性
+  single_source: false
+
+- id: oc17
+  claim: 看到绿而不是白的现象叫后像，或同时对比——本书把两者当同义词
+  page: p037
+  quote: "The phenomenon of seeing green (in this case) instead of white is called after-image, or simultaneous contrast."
+  stance: 相对派
+  domain: 机制
+  operational: 描述性
+  single_source: false
+  contested_hint: K8（霍斯特曼只把同时对比限定为相邻色互改；曼特称后像是同步对比的狭义形式）
+
+- id: oc18
+  claim: 基础的后像呈现即同时对比，是一切色彩欺骗的成因
+  page: p053
+  quote: "These exercises remind us that the basic after-image presentation, the simultaneous contrast, is the cause of all color deception."
+  stance: 相对派
+  domain: 机制
+  operational: 描述性
+  single_source: false
+
+- id: oc19
+  claim: 实践不是先于理论，而是理论跟随实践
+  page: p083
+  quote: "Naturally, practice is not preceded but followed by theory."
+  stance: 相对派
+  domain: 方法论
+  operational: 描述性
+  single_source: false
+
+- id: oc20
+  claim: 课程目标是发展由发现与发明实现的创造性，其判据是想象与幻想
+  page: p083
+  quote: "Its aim is development of creativeness realized in discovery and invention—the criteria of creativity, or flexibility, being imagination and fantasy."
+  stance: 相对派
+  domain: 方法论
+  operational: 描述性
+  single_source: false
+
+- id: oc21
+  claim: 持续的对比—观察—在情境中思考，让人意识到发现与发明才是创造性的判据
+  page: p024
+  quote: 'Thus, continuing comparison—observation—“thinking in situations" — is promoted, making the class aware that discovery and invention are the criteria of creativeness.'
+  stance: 相对派
+  domain: 方法论
+  operational: 可操作
+  single_source: false
+
+- id: oc22
+  claim: 通常被色彩体系当作目标的色彩和谐，并不是唯一可欲的关系
+  page: p082
+  quote: "We emphasize that color harmonies, usually the special interest or aim of color systems, are not the only desirable relationship."
+  stance: 相对派
+  domain: 和谐
+  operational: 描述性
+  single_source: false
+  contested_hint: K1（色彩圣经给和谐四型）
+
+- id: oc23
+  claim: 如音乐里的音，不协和与协和同样可欲
+  page: p082
+  quote: "As with tones in music, so with color—dissonance is as desirable as its opposite, consonance."
+  stance: 相对派
+  domain: 和谐
+  operational: 描述性
+  single_source: false
+
+- id: oc24
+  claim: 只有蒙赛尔体系按面积延伸计算色彩量，但不计入重复带来的附加效应
+  page: p082
+  quote: "Only the Munsell System presents a calculation of color quantity with regard to area extension, without counting an additional effect through recurrence."
+  stance: 相对派
+  domain: 数量
+  operational: 描述性
+  single_source: false
+
+- id: oc25
+  claim: 数量包含两个维度：面积延伸与／或数目，其中含重复（recurrence）
+  page: p017
+  quote: "with quantity (which measures amount, respectively extension and / or number, including recurrence);"
+  stance: 相对派
+  domain: 数量
+  operational: 可操作
+  single_source: false
+
+- id: oc26
+  claim: 图能通过重复加数量（即重复加延伸）压过底而占据主导
+  page: p169
+  quote: "Here, the figure above the ground dominates through recurrence plus amount, or repetition plus extension."
+  stance: 相对派
+  domain: 数量
+  operational: 可操作
+  single_source: false
+
+- id: oc27
+  claim: 主导权、重复与位置的转移，主要靠改变数量来实现
+  page: p059
+  quote: "And all this can be achieved mainly through changes in quantity which result in shifts of dominance, of recurrence, and consequently of placement."
+  stance: 相对派
+  domain: 数量
+  operational: 可操作
+  single_source: false
+
+- id: oc28
+  claim: 韦伯-费希纳定律：对算术级数的视觉感知依赖物理上的等比级数
+  page: p070
+  quote: "It is formulated in the so-called Weber-Fechner Law: The visual perception of an arithmetical progression depends upon a physical geometric progression."
+  stance: 相对派
+  domain: 明度
+  operational: 可操作
+  single_source: false
+
+- id: oc29
+  claim: 韦伯-费希纳定律能给出等步进，但会被色彩相对性偏转
+  page: p072
+  quote: 'Though the Weber-Fechner Law enables “equal stepping up" (in light and in dark, within specific hues), it is deflected by the relativity of color.'
+  stance: 相对派
+  domain: 明度
+  operational: 可操作
+  single_source: false
+
+- id: oc30
+  claim: 令人意外且遗憾的是，韦伯-费希纳定律在色彩研究者中几乎无人知晓
+  page: p073
+  quote: "It is surprising and unfortunate that the Weber-Fechner Law is almost unknown among colorists."
+  stance: 相对派
+  domain: 明度
+  operational: 描述性
+  single_source: false
+
+- id: oc31
+  claim: 摄影记录与测量明暗的方式不同于我们的眼睛
+  page: p031
+  quote: "photography registers and measures light and dark differently from our eyes."
+  stance: 相对派
+  domain: 器材与后期
+  operational: 描述性
+  single_source: false

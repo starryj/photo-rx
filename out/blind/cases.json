@@ -1,0 +1,1094 @@
+{
+ "entries": [
+  "color-decision",
+  "structure-read",
+  "shoot-plan",
+  "ways-of-seeing",
+  "chinese-eye",
+  "sequence-edit",
+  "cull-select",
+  "photo-vision"
+ ],
+ "items": [
+  {
+   "src": "color-decision",
+   "expect": "color-decision",
+   "prompt": "这张的橙色和蓝色各占多少面积才不别扭",
+   "note": ""
+  },
+  {
+   "src": "color-decision",
+   "expect": "color-decision",
+   "prompt": "画面里那块红太抢了，是该缩小还是换个位置",
+   "note": ""
+  },
+  {
+   "src": "color-decision",
+   "expect": "color-decision",
+   "prompt": "两张片子放一起，颜色关系完全不一样，是哪里变了",
+   "note": ""
+  },
+  {
+   "src": "color-decision",
+   "expect": "color-decision",
+   "prompt": "我这张黑白版看着挺稳，彩色版反而散，问题在色彩上吗",
+   "note": ""
+  },
+  {
+   "src": "color-decision",
+   "expect": "color-decision",
+   "prompt": "同一块灰布在深绿背景和浅绿背景下看着是两个颜色，正常吗",
+   "note": ""
+  },
+  {
+   "src": "color-decision",
+   "expect": "color-decision",
+   "prompt": "想让黄色显得更亮，是该加大它的面积还是压小",
+   "note": ""
+  },
+  {
+   "src": "color-decision",
+   "expect": "color-decision",
+   "prompt": "室内这盏灯拍的，颜色发闷，是色温还是别的",
+   "note": ""
+  },
+  {
+   "src": "color-decision",
+   "expect": "color-decision",
+   "prompt": "一张照片里同时有暖色和冷色，哪个该占到主导",
+   "note": ""
+  },
+  {
+   "src": "color-decision",
+   "expect": "color-decision",
+   "prompt": "补色用得对不对，怎么判断",
+   "note": ""
+  },
+  {
+   "src": "color-decision",
+   "expect": "color-decision",
+   "prompt": "这张的纯度对比是不是太弱了",
+   "note": ""
+  },
+  {
+   "src": "color-decision",
+   "expect": "color-decision",
+   "prompt": "同一个红，放黑底和白底完全不同，该怎么取舍",
+   "note": ""
+  },
+  {
+   "src": "color-decision",
+   "expect": "color-decision",
+   "prompt": "我需要给这张写一句色彩判断，说清主导对比是哪一类",
+   "note": ""
+  },
+  {
+   "src": "color-decision",
+   "expect": "structure-read",
+   "prompt": "这个建筑横着拍还是竖着拍更有劲",
+   "note": ""
+  },
+  {
+   "src": "color-decision",
+   "expect": "shoot-plan",
+   "prompt": "下午三点去拍这面墙，光够不够",
+   "note": ""
+  },
+  {
+   "src": "color-decision",
+   "expect": "ways-of-seeing",
+   "prompt": "为什么我明明按规则摆了，看着还是不舒服",
+   "note": ""
+  },
+  {
+   "src": "color-decision",
+   "expect": "chinese-eye",
+   "prompt": "这张留白留得对吗",
+   "note": ""
+  },
+  {
+   "src": "color-decision",
+   "expect": "sequence-edit",
+   "prompt": "这六张怎么排顺序",
+   "note": ""
+  },
+  {
+   "src": "color-decision",
+   "expect": "cull-select",
+   "prompt": "二十张里留哪几张",
+   "note": ""
+  },
+  {
+   "src": "color-decision",
+   "expect": "none",
+   "prompt": "帮我把这张图的 RAW 转成 JPG",
+   "note": ""
+  },
+  {
+   "src": "color-decision",
+   "expect": "none",
+   "prompt": "这台相机怎么设连拍",
+   "note": ""
+  },
+  {
+   "src": "color-decision",
+   "expect": "none",
+   "prompt": "把这批照片按拍摄日期重命名",
+   "note": ""
+  },
+  {
+   "src": "color-decision",
+   "expect": "none",
+   "prompt": "写一段这组照片的展览前言",
+   "note": ""
+  },
+  {
+   "src": "color-decision",
+   "expect": "none",
+   "prompt": "帮我把背景里那根电线杆 P 掉",
+   "note": ""
+  },
+  {
+   "src": "color-decision",
+   "expect": "none",
+   "prompt": "推荐一支适合拍人像的镜头",
+   "note": ""
+  },
+  {
+   "src": "structure-read",
+   "expect": "structure-read",
+   "prompt": "地平线卡在正中间，是不是该抬一点",
+   "note": ""
+  },
+  {
+   "src": "structure-read",
+   "expect": "structure-read",
+   "prompt": "主体偏左下，这样放着有没有理由",
+   "note": ""
+  },
+  {
+   "src": "structure-read",
+   "expect": "structure-read",
+   "prompt": "这张为什么看着很散，是元素太多了吗",
+   "note": ""
+  },
+  {
+   "src": "structure-read",
+   "expect": "structure-read",
+   "prompt": "三分法用错了会被看出来吗",
+   "note": ""
+  },
+  {
+   "src": "structure-read",
+   "expect": "structure-read",
+   "prompt": "画面被切成几块，比例该怎么看",
+   "note": ""
+  },
+  {
+   "src": "structure-read",
+   "expect": "structure-read",
+   "prompt": "同样的场景，我往前挪了两步，构图差在哪",
+   "note": ""
+  },
+  {
+   "src": "structure-read",
+   "expect": "structure-read",
+   "prompt": "这张有没有引导线，眼睛会先看哪里",
+   "note": ""
+  },
+  {
+   "src": "structure-read",
+   "expect": "structure-read",
+   "prompt": "风景照怎么表现远近，我这张太平了",
+   "note": ""
+  },
+  {
+   "src": "structure-read",
+   "expect": "structure-read",
+   "prompt": "正方形画幅拍这个主体合适吗",
+   "note": ""
+  },
+  {
+   "src": "structure-read",
+   "expect": "structure-read",
+   "prompt": "主体和画框边缘的距离，有讲究吗",
+   "note": ""
+  },
+  {
+   "src": "structure-read",
+   "expect": "structure-read",
+   "prompt": "照片里的节奏感是怎么来的",
+   "note": ""
+  },
+  {
+   "src": "structure-read",
+   "expect": "structure-read",
+   "prompt": "帮我拆一下这张的骨架，别给我改图建议",
+   "note": ""
+  },
+  {
+   "src": "structure-read",
+   "expect": "color-decision",
+   "prompt": "这张颜色太杂了，怎么精简",
+   "note": ""
+  },
+  {
+   "src": "structure-read",
+   "expect": "shoot-plan",
+   "prompt": "阴天拍这个会不会太灰",
+   "note": ""
+  },
+  {
+   "src": "structure-read",
+   "expect": "ways-of-seeing",
+   "prompt": "为什么我看不出这张哪里好",
+   "note": ""
+  },
+  {
+   "src": "structure-read",
+   "expect": "chinese-eye",
+   "prompt": "这张是不是太满了",
+   "note": ""
+  },
+  {
+   "src": "structure-read",
+   "expect": "sequence-edit",
+   "prompt": "这组怎么串成一条线",
+   "note": ""
+  },
+  {
+   "src": "structure-read",
+   "expect": "cull-select",
+   "prompt": "这三十张里哪些是同质重复",
+   "note": ""
+  },
+  {
+   "src": "structure-read",
+   "expect": "none",
+   "prompt": "帮我把这张转成 4:5 并加上白边",
+   "note": ""
+  },
+  {
+   "src": "structure-read",
+   "expect": "none",
+   "prompt": "教我用 Lightroom 的蒙版",
+   "note": ""
+  },
+  {
+   "src": "structure-read",
+   "expect": "none",
+   "prompt": "这台电脑能跑得动 Capture One 吗",
+   "note": ""
+  },
+  {
+   "src": "structure-read",
+   "expect": "none",
+   "prompt": "帮我把这组照片做成 PDF 小册子",
+   "note": ""
+  },
+  {
+   "src": "structure-read",
+   "expect": "none",
+   "prompt": "我的照片存在哪个盘比较好",
+   "note": ""
+  },
+  {
+   "src": "structure-read",
+   "expect": "none",
+   "prompt": "现在买二手 5D3 值不值",
+   "note": ""
+  },
+  {
+   "src": "shoot-plan",
+   "expect": "shoot-plan",
+   "prompt": "明天阴天，去拍古镇合适吗",
+   "note": ""
+  },
+  {
+   "src": "shoot-plan",
+   "expect": "shoot-plan",
+   "prompt": "这个院子下午几点光线最好",
+   "note": ""
+  },
+  {
+   "src": "shoot-plan",
+   "expect": "shoot-plan",
+   "prompt": "逆光拍人像，脸黑怎么办",
+   "note": ""
+  },
+  {
+   "src": "shoot-plan",
+   "expect": "shoot-plan",
+   "prompt": "想要硬一点的影子，该怎么安排",
+   "note": ""
+  },
+  {
+   "src": "shoot-plan",
+   "expect": "shoot-plan",
+   "prompt": "室内两种灯混着，颜色怎么定",
+   "note": ""
+  },
+  {
+   "src": "shoot-plan",
+   "expect": "shoot-plan",
+   "prompt": "雪天曝光总是拍不准",
+   "note": ""
+  },
+  {
+   "src": "shoot-plan",
+   "expect": "shoot-plan",
+   "prompt": "日落前一小时到，够不够拍完整组",
+   "note": ""
+  },
+  {
+   "src": "shoot-plan",
+   "expect": "shoot-plan",
+   "prompt": "柔光和硬光，这组我想选一个从头用到尾",
+   "note": ""
+  },
+  {
+   "src": "shoot-plan",
+   "expect": "shoot-plan",
+   "prompt": "反光板和补光闪光，选哪个",
+   "note": ""
+  },
+  {
+   "src": "shoot-plan",
+   "expect": "shoot-plan",
+   "prompt": "这个季节的金色光大概什么时段",
+   "note": ""
+  },
+  {
+   "src": "shoot-plan",
+   "expect": "shoot-plan",
+   "prompt": "拍金属表面怎么布光才不出死白",
+   "note": ""
+  },
+  {
+   "src": "shoot-plan",
+   "expect": "shoot-plan",
+   "prompt": "帮我排一下明天外拍的时段表",
+   "note": ""
+  },
+  {
+   "src": "shoot-plan",
+   "expect": "structure-read",
+   "prompt": "这面墙该怎么取景",
+   "note": ""
+  },
+  {
+   "src": "shoot-plan",
+   "expect": "color-decision",
+   "prompt": "这个场景的配色该怎么定",
+   "note": ""
+  },
+  {
+   "src": "shoot-plan",
+   "expect": "ways-of-seeing",
+   "prompt": "为什么别人的阴天照就有味道",
+   "note": ""
+  },
+  {
+   "src": "shoot-plan",
+   "expect": "chinese-eye",
+   "prompt": "雾天怎么拍才有那个意境",
+   "note": ""
+  },
+  {
+   "src": "shoot-plan",
+   "expect": "sequence-edit",
+   "prompt": "同一天的片子怎么挑怎么排",
+   "note": ""
+  },
+  {
+   "src": "shoot-plan",
+   "expect": "cull-select",
+   "prompt": "这批虚焦的要不要全删",
+   "note": ""
+  },
+  {
+   "src": "shoot-plan",
+   "expect": "none",
+   "prompt": "帮我下载一个免费的 LUT 包",
+   "note": ""
+  },
+  {
+   "src": "shoot-plan",
+   "expect": "none",
+   "prompt": "闪光灯电池在哪买",
+   "note": ""
+  },
+  {
+   "src": "shoot-plan",
+   "expect": "none",
+   "prompt": "把这张的暗部提亮一点",
+   "note": ""
+  },
+  {
+   "src": "shoot-plan",
+   "expect": "none",
+   "prompt": "怎么写一段拍摄地的风土介绍",
+   "note": ""
+  },
+  {
+   "src": "shoot-plan",
+   "expect": "none",
+   "prompt": "这个镜头的口径是多少毫米",
+   "note": ""
+  },
+  {
+   "src": "shoot-plan",
+   "expect": "none",
+   "prompt": "帮我把这批照片按地点归档",
+   "note": ""
+  },
+  {
+   "src": "ways-of-seeing",
+   "expect": "ways-of-seeing",
+   "prompt": "为什么我眼睛看着很舒服，拍出来就乱",
+   "note": ""
+  },
+  {
+   "src": "ways-of-seeing",
+   "expect": "ways-of-seeing",
+   "prompt": "这张明明符合所有规则，为什么我不喜欢",
+   "note": ""
+  },
+  {
+   "src": "ways-of-seeing",
+   "expect": "ways-of-seeing",
+   "prompt": "两条建议互相打架，该信哪条",
+   "note": ""
+  },
+  {
+   "src": "ways-of-seeing",
+   "expect": "ways-of-seeing",
+   "prompt": "为什么主体放在中间就是没劲",
+   "note": ""
+  },
+  {
+   "src": "ways-of-seeing",
+   "expect": "ways-of-seeing",
+   "prompt": "为什么亮的东西看着比暗的离我近",
+   "note": ""
+  },
+  {
+   "src": "ways-of-seeing",
+   "expect": "ways-of-seeing",
+   "prompt": "凭什么说这张不平衡，我数过是对称的",
+   "note": ""
+  },
+  {
+   "src": "ways-of-seeing",
+   "expect": "ways-of-seeing",
+   "prompt": "为什么一张照片会让我觉得紧张",
+   "note": ""
+  },
+  {
+   "src": "ways-of-seeing",
+   "expect": "ways-of-seeing",
+   "prompt": "同样大小，为什么下面那个显得更重",
+   "note": ""
+  },
+  {
+   "src": "ways-of-seeing",
+   "expect": "ways-of-seeing",
+   "prompt": "修掉细节之后反而更像了，这是为什么",
+   "note": ""
+  },
+  {
+   "src": "ways-of-seeing",
+   "expect": "ways-of-seeing",
+   "prompt": "为什么我看画册能看懂，看自己的照片看不懂",
+   "note": ""
+  },
+  {
+   "src": "ways-of-seeing",
+   "expect": "ways-of-seeing",
+   "prompt": "客户说不喜欢，但说不出哪里不对，我想搞明白机制",
+   "note": ""
+  },
+  {
+   "src": "ways-of-seeing",
+   "expect": "ways-of-seeing",
+   "prompt": "为什么留白会让人觉得安静",
+   "note": ""
+  },
+  {
+   "src": "ways-of-seeing",
+   "expect": "structure-read",
+   "prompt": "这张该怎么改构图",
+   "note": ""
+  },
+  {
+   "src": "ways-of-seeing",
+   "expect": "color-decision",
+   "prompt": "这两个颜色放一起为什么不搭",
+   "note": ""
+  },
+  {
+   "src": "ways-of-seeing",
+   "expect": "shoot-plan",
+   "prompt": "现在这个光能不能拍",
+   "note": ""
+  },
+  {
+   "src": "ways-of-seeing",
+   "expect": "chinese-eye",
+   "prompt": "什么叫气韵生动",
+   "note": ""
+  },
+  {
+   "src": "ways-of-seeing",
+   "expect": "sequence-edit",
+   "prompt": "排完之后整体感觉不对，为什么",
+   "note": ""
+  },
+  {
+   "src": "ways-of-seeing",
+   "expect": "cull-select",
+   "prompt": "怎么判断一张片子该不该留",
+   "note": ""
+  },
+  {
+   "src": "ways-of-seeing",
+   "expect": "none",
+   "prompt": "帮我总结一下这本书的第三章",
+   "note": ""
+  },
+  {
+   "src": "ways-of-seeing",
+   "expect": "none",
+   "prompt": "推荐几本讲色彩理论的书",
+   "note": ""
+  },
+  {
+   "src": "ways-of-seeing",
+   "expect": "none",
+   "prompt": "帮我写个摄影学习计划",
+   "note": ""
+  },
+  {
+   "src": "ways-of-seeing",
+   "expect": "none",
+   "prompt": "这篇文章的中文版在哪买",
+   "note": ""
+  },
+  {
+   "src": "ways-of-seeing",
+   "expect": "none",
+   "prompt": "帮我查一下这个作者的履历",
+   "note": ""
+  },
+  {
+   "src": "ways-of-seeing",
+   "expect": "none",
+   "prompt": "给我讲讲格式塔心理学的历史",
+   "note": ""
+  },
+  {
+   "src": "chinese-eye",
+   "expect": "chinese-eye",
+   "prompt": "这张算不算留白，还是就是没拍满",
+   "note": ""
+  },
+  {
+   "src": "chinese-eye",
+   "expect": "chinese-eye",
+   "prompt": "我想拍出高远的感觉，是该站低还是站高",
+   "note": ""
+  },
+  {
+   "src": "chinese-eye",
+   "expect": "chinese-eye",
+   "prompt": "三远里我这张算哪一种",
+   "note": ""
+  },
+  {
+   "src": "chinese-eye",
+   "expect": "chinese-eye",
+   "prompt": "画面太空了，是不是要加点东西进去",
+   "note": ""
+  },
+  {
+   "src": "chinese-eye",
+   "expect": "chinese-eye",
+   "prompt": "为什么古画里的山看着比照片深",
+   "note": ""
+  },
+  {
+   "src": "chinese-eye",
+   "expect": "chinese-eye",
+   "prompt": "这张照片有气眼吗",
+   "note": ""
+  },
+  {
+   "src": "chinese-eye",
+   "expect": "chinese-eye",
+   "prompt": "同一座山，走近拍和走远拍，意境差在哪",
+   "note": ""
+  },
+  {
+   "src": "chinese-eye",
+   "expect": "chinese-eye",
+   "prompt": "留出来的白该怎么安排才不空",
+   "note": ""
+  },
+  {
+   "src": "chinese-eye",
+   "expect": "chinese-eye",
+   "prompt": "中国画为什么不画全",
+   "note": ""
+  },
+  {
+   "src": "chinese-eye",
+   "expect": "chinese-eye",
+   "prompt": "雾天这张算不算虚实相生",
+   "note": ""
+  },
+  {
+   "src": "chinese-eye",
+   "expect": "chinese-eye",
+   "prompt": "拍摄点换一下，是不是更像平远",
+   "note": ""
+  },
+  {
+   "src": "chinese-eye",
+   "expect": "chinese-eye",
+   "prompt": "这张的远景和近景该怎么分工",
+   "note": ""
+  },
+  {
+   "src": "chinese-eye",
+   "expect": "structure-read",
+   "prompt": "这张的骨架怎么拆",
+   "note": ""
+  },
+  {
+   "src": "chinese-eye",
+   "expect": "color-decision",
+   "prompt": "这张颜色怎么调",
+   "note": ""
+  },
+  {
+   "src": "chinese-eye",
+   "expect": "shoot-plan",
+   "prompt": "这个天什么时候拍最好",
+   "note": ""
+  },
+  {
+   "src": "chinese-eye",
+   "expect": "ways-of-seeing",
+   "prompt": "为什么这张会让人觉得空",
+   "note": ""
+  },
+  {
+   "src": "chinese-eye",
+   "expect": "sequence-edit",
+   "prompt": "这组山水怎么排",
+   "note": ""
+  },
+  {
+   "src": "chinese-eye",
+   "expect": "cull-select",
+   "prompt": "这几张留哪张",
+   "note": ""
+  },
+  {
+   "src": "chinese-eye",
+   "expect": "none",
+   "prompt": "帮我找一首写山的古诗",
+   "note": ""
+  },
+  {
+   "src": "chinese-eye",
+   "expect": "none",
+   "prompt": "中国画用的宣纸哪里买",
+   "note": ""
+  },
+  {
+   "src": "chinese-eye",
+   "expect": "none",
+   "prompt": "帮我把这张调成水墨风",
+   "note": ""
+  },
+  {
+   "src": "chinese-eye",
+   "expect": "none",
+   "prompt": "这本书的译者是谁",
+   "note": ""
+  },
+  {
+   "src": "chinese-eye",
+   "expect": "none",
+   "prompt": "推荐几个国内的山水摄影展",
+   "note": ""
+  },
+  {
+   "src": "chinese-eye",
+   "expect": "none",
+   "prompt": "帮我写一段展览导言",
+   "note": ""
+  },
+  {
+   "src": "sequence-edit",
+   "expect": "sequence-edit",
+   "prompt": "这十几张该怎么排顺序",
+   "note": ""
+  },
+  {
+   "src": "sequence-edit",
+   "expect": "sequence-edit",
+   "prompt": "组照要有几张开场几张收尾",
+   "note": ""
+  },
+  {
+   "src": "sequence-edit",
+   "expect": "sequence-edit",
+   "prompt": "中间有一段太平了，怎么救",
+   "note": ""
+  },
+  {
+   "src": "sequence-edit",
+   "expect": "sequence-edit",
+   "prompt": "这组色彩调子不统一，要不要都调成一个方向",
+   "note": ""
+  },
+  {
+   "src": "sequence-edit",
+   "expect": "sequence-edit",
+   "prompt": "两张放一起和反过来放，意思一样吗",
+   "note": ""
+  },
+  {
+   "src": "sequence-edit",
+   "expect": "sequence-edit",
+   "prompt": "我想让整组有个起伏，从哪下手",
+   "note": ""
+  },
+  {
+   "src": "sequence-edit",
+   "expect": "sequence-edit",
+   "prompt": "横竖混着排会不会乱",
+   "note": ""
+  },
+  {
+   "src": "sequence-edit",
+   "expect": "sequence-edit",
+   "prompt": "这组照片里有一张特别亮，该放哪",
+   "note": ""
+  },
+  {
+   "src": "sequence-edit",
+   "expect": "sequence-edit",
+   "prompt": "整组看下来太闷，是需要加一张吗",
+   "note": ""
+  },
+  {
+   "src": "sequence-edit",
+   "expect": "sequence-edit",
+   "prompt": "连续拍的一个动作，几张够",
+   "note": ""
+  },
+  {
+   "src": "sequence-edit",
+   "expect": "sequence-edit",
+   "prompt": "组照和单张的标准一样吗",
+   "note": ""
+  },
+  {
+   "src": "sequence-edit",
+   "expect": "sequence-edit",
+   "prompt": "这套片子投比赛，顺序该怎么定",
+   "note": ""
+  },
+  {
+   "src": "sequence-edit",
+   "expect": "structure-read",
+   "prompt": "单看这一张怎么改",
+   "note": ""
+  },
+  {
+   "src": "sequence-edit",
+   "expect": "color-decision",
+   "prompt": "这一张颜色怎么定",
+   "note": ""
+  },
+  {
+   "src": "sequence-edit",
+   "expect": "shoot-plan",
+   "prompt": "补拍的话挑什么天气",
+   "note": ""
+  },
+  {
+   "src": "sequence-edit",
+   "expect": "ways-of-seeing",
+   "prompt": "为什么这组看着没有情绪",
+   "note": ""
+  },
+  {
+   "src": "sequence-edit",
+   "expect": "chinese-eye",
+   "prompt": "这组要不要留白多一点",
+   "note": ""
+  },
+  {
+   "src": "sequence-edit",
+   "expect": "cull-select",
+   "prompt": "这四十张先删哪些",
+   "note": ""
+  },
+  {
+   "src": "sequence-edit",
+   "expect": "none",
+   "prompt": "帮我把这组照片排版成画册",
+   "note": ""
+  },
+  {
+   "src": "sequence-edit",
+   "expect": "none",
+   "prompt": "这批照片的 EXIF 帮我导成表格",
+   "note": ""
+  },
+  {
+   "src": "sequence-edit",
+   "expect": "none",
+   "prompt": "给这组照片起个标题",
+   "note": ""
+  },
+  {
+   "src": "sequence-edit",
+   "expect": "none",
+   "prompt": "帮我联系一下这家印刷厂",
+   "note": ""
+  },
+  {
+   "src": "sequence-edit",
+   "expect": "none",
+   "prompt": "这组照片上传到哪个平台好",
+   "note": ""
+  },
+  {
+   "src": "sequence-edit",
+   "expect": "none",
+   "prompt": "把这几张裁成同样大小",
+   "note": ""
+  },
+  {
+   "src": "cull-select",
+   "expect": "cull-select",
+   "prompt": "拍了三百张，怎么开始删",
+   "note": ""
+  },
+  {
+   "src": "cull-select",
+   "expect": "cull-select",
+   "prompt": "这两张几乎一样，留哪张",
+   "note": ""
+  },
+  {
+   "src": "cull-select",
+   "expect": "cull-select",
+   "prompt": "这张技术上没问题，但我不想用，算不算理由",
+   "note": ""
+  },
+  {
+   "src": "cull-select",
+   "expect": "cull-select",
+   "prompt": "选片要不要打分排序",
+   "note": ""
+  },
+  {
+   "src": "cull-select",
+   "expect": "cull-select",
+   "prompt": "同一场景拍了八张，是不是只留一张",
+   "note": ""
+  },
+  {
+   "src": "cull-select",
+   "expect": "cull-select",
+   "prompt": "这组里有一张特别出彩，其他都要让位吗",
+   "note": ""
+  },
+  {
+   "src": "cull-select",
+   "expect": "cull-select",
+   "prompt": "给别人看和留给自己，留下的会不一样吗",
+   "note": ""
+  },
+  {
+   "src": "cull-select",
+   "expect": "cull-select",
+   "prompt": "虚焦但是表情好，要不要留",
+   "note": ""
+  },
+  {
+   "src": "cull-select",
+   "expect": "cull-select",
+   "prompt": "怎么判断我已经挑完了",
+   "note": ""
+  },
+  {
+   "src": "cull-select",
+   "expect": "cull-select",
+   "prompt": "这批里重复的有多少",
+   "note": ""
+  },
+  {
+   "src": "cull-select",
+   "expect": "cull-select",
+   "prompt": "封面用哪张",
+   "note": ""
+  },
+  {
+   "src": "cull-select",
+   "expect": "cull-select",
+   "prompt": "原片都留着还是删掉一部分",
+   "note": ""
+  },
+  {
+   "src": "cull-select",
+   "expect": "structure-read",
+   "prompt": "留下的那张构图怎么改",
+   "note": ""
+  },
+  {
+   "src": "cull-select",
+   "expect": "color-decision",
+   "prompt": "留下的那张颜色怎么调",
+   "note": ""
+  },
+  {
+   "src": "cull-select",
+   "expect": "shoot-plan",
+   "prompt": "这几张是补拍好还是留现有的",
+   "note": ""
+  },
+  {
+   "src": "cull-select",
+   "expect": "ways-of-seeing",
+   "prompt": "为什么我觉得好但别人不喜欢",
+   "note": ""
+  },
+  {
+   "src": "cull-select",
+   "expect": "chinese-eye",
+   "prompt": "留白不够的那张要不要删",
+   "note": ""
+  },
+  {
+   "src": "cull-select",
+   "expect": "sequence-edit",
+   "prompt": "留下的这几张怎么排",
+   "note": ""
+  },
+  {
+   "src": "cull-select",
+   "expect": "none",
+   "prompt": "帮我把这批照片按人脸分组",
+   "note": ""
+  },
+  {
+   "src": "cull-select",
+   "expect": "none",
+   "prompt": "这些照片占了多少硬盘",
+   "note": ""
+  },
+  {
+   "src": "cull-select",
+   "expect": "none",
+   "prompt": "批量改文件名加序号",
+   "note": ""
+  },
+  {
+   "src": "cull-select",
+   "expect": "none",
+   "prompt": "帮我把这些照片备份到 NAS",
+   "note": ""
+  },
+  {
+   "src": "cull-select",
+   "expect": "none",
+   "prompt": "这批照片的拍摄地点在哪",
+   "note": ""
+  },
+  {
+   "src": "cull-select",
+   "expect": "none",
+   "prompt": "把重复的图片按 MD5 去重",
+   "note": ""
+  },
+  {
+   "src": "photo-vision",
+   "expect": "photo-vision",
+   "prompt": "我想系统学一下照片怎么看好坏，从哪开始",
+   "note": ""
+  },
+  {
+   "src": "photo-vision",
+   "expect": "photo-vision",
+   "prompt": "帮我建立一套自己的评图标准",
+   "note": ""
+  },
+  {
+   "src": "photo-vision",
+   "expect": "photo-vision",
+   "prompt": "这张照片我总觉得不对，但说不清是构图还是颜色",
+   "note": ""
+  },
+  {
+   "src": "photo-vision",
+   "expect": "photo-vision",
+   "prompt": "同一张照片，有人说构图好有人说颜色差，我听谁的",
+   "note": ""
+  },
+  {
+   "src": "photo-vision",
+   "expect": "photo-vision",
+   "prompt": "我拍了一年，想找个框架检查自己的进步",
+   "note": ""
+  },
+  {
+   "src": "photo-vision",
+   "expect": "photo-vision",
+   "prompt": "从拍到选到排，整个流程该怎么做",
+   "note": ""
+  },
+  {
+   "src": "photo-vision",
+   "expect": "photo-vision",
+   "prompt": "我该先练构图还是先练用光",
+   "note": ""
+  },
+  {
+   "src": "photo-vision",
+   "expect": "photo-vision",
+   "prompt": "给我一套能自己检查照片的清单",
+   "note": ""
+  },
+  {
+   "src": "photo-vision",
+   "expect": "photo-vision",
+   "prompt": "这张既想改构图又想改颜色，先动哪个",
+   "note": ""
+  },
+  {
+   "src": "photo-vision",
+   "expect": "photo-vision",
+   "prompt": "我这个题材该往哪个方向深挖",
+   "note": ""
+  },
+  {
+   "src": "photo-vision",
+   "expect": "photo-vision",
+   "prompt": "帮我看看我这半年的片子整体问题在哪",
+   "note": ""
+  },
+  {
+   "src": "photo-vision",
+   "expect": "photo-vision",
+   "prompt": "有没有一套从看片到成组的完整方法",
+   "note": ""
+  }
+ ]
+}

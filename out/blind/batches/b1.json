@@ -1,0 +1,163 @@
+[
+ {
+  "n": 1,
+  "src": "color-decision",
+  "expect": "color-decision",
+  "prompt": "这张的橙色和蓝色各占多少面积才不别扭",
+  "note": ""
+ },
+ {
+  "n": 2,
+  "src": "color-decision",
+  "expect": "color-decision",
+  "prompt": "补色用得对不对，怎么判断",
+  "note": ""
+ },
+ {
+  "n": 3,
+  "src": "color-decision",
+  "expect": "sequence-edit",
+  "prompt": "这六张怎么排顺序",
+  "note": ""
+ },
+ {
+  "n": 4,
+  "src": "structure-read",
+  "expect": "structure-read",
+  "prompt": "地平线卡在正中间，是不是该抬一点",
+  "note": ""
+ },
+ {
+  "n": 5,
+  "src": "structure-read",
+  "expect": "structure-read",
+  "prompt": "正方形画幅拍这个主体合适吗",
+  "note": ""
+ },
+ {
+  "n": 6,
+  "src": "structure-read",
+  "expect": "sequence-edit",
+  "prompt": "这组怎么串成一条线",
+  "note": ""
+ },
+ {
+  "n": 7,
+  "src": "shoot-plan",
+  "expect": "shoot-plan",
+  "prompt": "明天阴天，去拍古镇合适吗",
+  "note": ""
+ },
+ {
+  "n": 8,
+  "src": "shoot-plan",
+  "expect": "shoot-plan",
+  "prompt": "反光板和补光闪光，选哪个",
+  "note": ""
+ },
+ {
+  "n": 9,
+  "src": "shoot-plan",
+  "expect": "sequence-edit",
+  "prompt": "同一天的片子怎么挑怎么排",
+  "note": ""
+ },
+ {
+  "n": 10,
+  "src": "ways-of-seeing",
+  "expect": "ways-of-seeing",
+  "prompt": "为什么我眼睛看着很舒服，拍出来就乱",
+  "note": ""
+ },
+ {
+  "n": 11,
+  "src": "ways-of-seeing",
+  "expect": "ways-of-seeing",
+  "prompt": "修掉细节之后反而更像了，这是为什么",
+  "note": ""
+ },
+ {
+  "n": 12,
+  "src": "ways-of-seeing",
+  "expect": "sequence-edit",
+  "prompt": "排完之后整体感觉不对，为什么",
+  "note": ""
+ },
+ {
+  "n": 13,
+  "src": "chinese-eye",
+  "expect": "chinese-eye",
+  "prompt": "这张算不算留白，还是就是没拍满",
+  "note": ""
+ },
+ {
+  "n": 14,
+  "src": "chinese-eye",
+  "expect": "chinese-eye",
+  "prompt": "中国画为什么不画全",
+  "note": ""
+ },
+ {
+  "n": 15,
+  "src": "chinese-eye",
+  "expect": "sequence-edit",
+  "prompt": "这组山水怎么排",
+  "note": ""
+ },
+ {
+  "n": 16,
+  "src": "sequence-edit",
+  "expect": "sequence-edit",
+  "prompt": "这十几张该怎么排顺序",
+  "note": ""
+ },
+ {
+  "n": 17,
+  "src": "sequence-edit",
+  "expect": "sequence-edit",
+  "prompt": "整组看下来太闷，是需要加一张吗",
+  "note": ""
+ },
+ {
+  "n": 18,
+  "src": "sequence-edit",
+  "expect": "chinese-eye",
+  "prompt": "这组要不要留白多一点",
+  "note": ""
+ },
+ {
+  "n": 19,
+  "src": "cull-select",
+  "expect": "cull-select",
+  "prompt": "拍了三百张，怎么开始删",
+  "note": ""
+ },
+ {
+  "n": 20,
+  "src": "cull-select",
+  "expect": "cull-select",
+  "prompt": "怎么判断我已经挑完了",
+  "note": ""
+ },
+ {
+  "n": 21,
+  "src": "cull-select",
+  "expect": "chinese-eye",
+  "prompt": "留白不够的那张要不要删",
+  "note": ""
+ },
+ {
+  "n": 22,
+  "src": "photo-vision",
+  "expect": "photo-vision",
+  "prompt": "我想系统学一下照片怎么看好坏，从哪开始",
+  "note": ""
+ },
+ {
+  "n": 23,
+  "src": "photo-vision",
+  "expect": "photo-vision",
+  "prompt": "这张既想改构图又想改颜色，先动哪个",
+  "note": ""
+ }
+]

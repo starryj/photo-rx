@@ -1,0 +1,358 @@
+md_page	book_page	images	chars	note
+p001		1	18	footer,header
+p002		0	18	footer
+p003		0	318	
+p004		0	409	
+p005		0	251	header
+p006		0	725	
+p007		0	0	
+p008	1	0	354	aside_text,header
+p009	2	0	1003	aside_text,header
+p010	3	0	589	header
+p011	4	1	21	aside_text,header
+p012	5	1	338	
+p013	6	0	821	aside_text
+p014	7	2	271	
+p015	8	0	810	aside_text
+p016	9	1	241	
+p017	10	1	462	
+p018	11	0	623	aside_text,header
+p019	12	0	599	aside_text
+p020	13	1	20	header
+p021	14	0	595	aside_text
+p022	15	0	108	aside_text,header
+p023	16	0	234	header
+p024	17	1	576	
+p025	18	0	887	aside_text
+p026	19	1	233	aside_text
+p027	20	1	599	
+p028	21	0	601	aside_text,header
+p029	22	0	1037	aside_text
+p030	23	0	358	aside_text
+p031	24	1	163	
+p032	25	0	461	aside_text
+p033	26	0	816	aside_text
+p034	27	0	279	aside_text
+p035	28	0	490	aside_text,header
+p036	29	1	210	aside_text
+p037	30	1	356	aside_text
+p038	31	1	346	aside_text
+p039	32	1	180	aside_text
+p040	33	0	587	aside_text,header
+p041	34	0	426	aside_text
+p042	35	0	731	aside_text
+p043	36	0	787	aside_text
+p044	37	1	392	aside_text
+p045	38	0	822	header
+p046	39	1	25	aside_text,header
+p047	40	0	773	aside_text
+p048	41	0	779	aside_text
+p049	42	1	319	aside_text
+p050	43	1	464	aside_text
+p051	44	0	567	aside_text
+p052	45	1	329	
+p053	46	0	983	aside_text
+p054	47	0	610	aside_text
+p055	48	1	675	
+p056	49	0	686	aside_text
+p057	50	0	868	aside_text
+p058	51	0	780	aside_text
+p059	52	1	220	aside_text
+p060	53	1	301	aside_text
+p061	54	1	27	aside_text,header
+p062	55	0	751	aside_text
+p063	56	1	12	aside_text,header
+p064	57	0	806	aside_text
+p065	58	2	287	aside_text
+p066	59	0	815	aside_text,footer
+p067	60	0	834	aside_text,header
+p068	61	1	257	aside_text
+p069	62	0	675	aside_text
+p070	63	0	602	aside_text
+p071	64	2	56	
+p072	65	0	732	aside_text
+p073	66	1	415	
+p074	67	1	268	
+p075	68	0	675	aside_text
+p076	69	1	456	aside_text
+p077	70	0	662	aside_text
+p078	71	1	228	
+p079	72	0	798	aside_text
+p080	73	1	487	aside_text
+p081	74	0	395	aside_text,page_footnote
+p082	75	0	380	header
+p083	76	0	732	aside_text
+p084	77	0	410	aside_text
+p085	78	0	514	aside_text
+p086	79	1	266	
+p087	80	1	427	aside_text
+p088	81	0	465	aside_text
+p089	82	4	23	header
+p090	83	0	666	aside_text
+p091	84	0	696	aside_text
+p092	85	1	23	header
+p093	86	0	836	aside_text
+p094	87	0	626	aside_text
+p095	88	1	376	
+p096	89	1	53	aside_text
+p097	90	0	594	aside_text
+p098	91	0	699	aside_text
+p099	92	1	23	aside_text,header
+p100	93	0	857	aside_text,header
+p101	94	1	20	aside_text,header
+p102	95	0	901	aside_text,header
+p103	96	1	23	header
+p104	97	0	479	aside_text
+p105	98	0	523	aside_text
+p106	99	1	179	aside_text
+p107	100	0	489	aside_text,header
+p108	101	0	749	aside_text
+p109	102	3	29	header
+p110	103	3	15	
+p111	104	1	522	
+p112	105	0	920	aside_text
+p113	1961年第5期）	1	274	aside_text,footer
+p114	107	0	529	aside_text,header
+p115	108	1	32	aside_text,header
+p116	109	1	328	aside_text
+p117	110	1	353	aside_text
+p118	111	2	348	
+p119	112	0	397	aside_text
+p120	113	0	729	aside_text
+p121	114	1	28	header
+p122	115	0	554	aside_text
+p123	116	1	214	aside_text
+p124	117	0	419	aside_text
+p125	118	0	306	aside_text
+p126	119	0	497	aside_text
+p127	120	0	478	aside_text
+p128	121	1	601	aside_text
+p129	122	0	378	aside_text
+p130	123	2	31	header
+p131	124	0	1241	aside_text
+p132	125	0	942	aside_text,header
+p133	126	0	226	aside_text
+p134	127	1	638	
+p135	128	1	24	aside_text,header
+p136	129	0	640	aside_text
+p137	130	1	233	
+p138	131	0	709	aside_text
+p139	132	1	26	header
+p140	133	0	873	aside_text,header
+p141	134	1	216	aside_text
+p142	135	1	615	
+p143	136	1	41	aside_text
+p144	137	0	569	aside_text,header
+p145	138	0	706	aside_text
+p146	139	1	388	aside_text
+p147	140	1	594	aside_text
+p148	141	0	673	aside_text,header
+p149	142	1	24	header
+p150	143	0	1148	aside_text,header
+p151	144	0	659	aside_text
+p152	145	1	26	aside_text
+p153	146	1	317	aside_text
+p154	147	1	397	
+p155	148	0	922	aside_text
+p156	149	0	26	aside_text,header
+p157	150	1	412	aside_text
+p158	151	1	421	
+p159	152	1	703	
+p160	153	0	625	aside_text
+p161	154	3	27	header
+p162	155	3	15	
+p163	156	0	891	aside_text
+p164	157	1	23	header
+p165	158	0	855	aside_text
+p166	159	1	22	footer,header
+p167	160	1	223	
+p168	161	0	456	footer,header
+p169	162	1	24	aside_text,header
+p170	163	0	806	aside_text
+p171	164	1	361	aside_text
+p172	165	1	335	aside_text
+p173	166	1	398	aside_text
+p174	167	0	855	aside_text
+p175	168	1	22	header
+p176	169	1	423	aside_text
+p177	170	1	24	header
+p178	171	1	4	
+p179	172	1	29	header
+p180	173	2	391	aside_text
+p181	174	0	906	aside_text
+p182	175	1	313	
+p183	176	1	24	aside_text,header
+p184	177	1	261	aside_text
+p185	178	0	817	header
+p186	179	0	612	aside_text,header
+p187	180	1	34	aside_text,header
+p188	181	0	923	aside_text
+p189	182	2	506	aside_text
+p190	183	0	738	aside_text
+p191	184	0	226	
+p192	185	0	455	aside_text,header
+p193	186	1	292	aside_text
+p194	187	1	268	aside_text
+p195	188	1	24	aside_text,header
+p196	189	0	865	aside_text,header
+p197	190	1	23	header
+p198	191	1	12	header
+p199	192	1	359	
+p200	193	1	24	aside_text,header
+p201	194	1	121	aside_text
+p202	195	0	522	header
+p203	196	1	384	
+p204	197	1	385	
+p205	198	1	244	aside_text
+p206	199	0	499	aside_text,header
+p207	200	1	1144	
+p208	201	0	217	aside_text
+p209	202	0	946	header
+p210	203	0	858	aside_text
+p211	204	4	390	aside_text
+p212	205	1	383	aside_text
+p213	206	1	388	
+p214	207	1	468	aside_text
+p215	208	0	795	aside_text
+p216	209	1	450	
+p217	210	0	870	aside_text
+p218	211	1	560	aside_text,header
+p219	212	0	503	aside_text
+p220	213	0	705	aside_text
+p221	214	1	300	aside_text
+p222	215	0	463	aside_text,header
+p223	216	0	604	aside_text
+p224	217	0	395	aside_text
+p225	218	0	400	aside_text
+p226	219	0	368	aside_text,header
+p227	220	0	515	aside_text
+p228	221	0	518	aside_text
+p229	222	0	414	
+p230	223	0	412	aside_text
+p231	224	0	806	aside_text
+p232	225	0	844	aside_text
+p233	226	0	742	aside_text
+p234	227	2	568	
+p235	228	1	17	header
+p236	229	2	321	
+p237	230	0	637	header
+p238	231	0	734	aside_text
+p239	232	0	920	aside_text
+p240	233	1	27	header
+p241	234	0	807	aside_text
+p242	235	1	697	aside_text
+p243	236	1	185	aside_text
+p244	237	0	1048	aside_text,header
+p245	238	0	881	aside_text
+p246	239	0	614	aside_text,header
+p247	240	2	34	aside_text,header
+p248	241	2	18	
+p249	242	1	668	
+p250	243	0	532	aside_text,header
+p251	244	0	984	aside_text
+p252	245	0	733	aside_text
+p253	246	0	1042	aside_text
+p254	247	1	70	aside_text
+p255	248	0	522	aside_text
+p256	249	0	203	aside_text,page_footnote
+p257	250	0	502	header
+p258	251	1	309	
+p259	252	0	889	aside_text
+p260	253	1	60	header
+p261	254	1	381	
+p262	255	0	751	aside_text
+p263	256	1	514	aside_text
+p264	257	0	528	aside_text
+p265	258	0	666	aside_text
+p266	259	1	454	
+p267	260	0	599	aside_text
+p268	261	0	758	aside_text
+p269	262	0	756	aside_text
+p270	263	0	603	aside_text
+p271	264	0	719	aside_text
+p272	265	0	593	aside_text
+p273	266	0	612	aside_text
+p274	267	0	492	aside_text
+p275	268	1	258	
+p276	269	1	204	
+p277	270	0	541	aside_text
+p278	271	0	583	aside_text
+p279	272	0	609	aside_text,page_footnote
+p280	273	0	424	aside_text,header
+p281	274	1	385	
+p282	275	1	280	aside_text
+p283	276	0	1229	aside_text
+p284	277	0	430	aside_text,header
+p285	278	1	698	aside_text
+p286	279	0	372	aside_text,header
+p287	280	1	34	header
+p288	281	0	1291	aside_text,header
+p289	282	0	481	aside_text
+p290	283	0	683	aside_text
+p291	284	0	460	aside_text,header
+p292	285	1	307	
+p293	286	0	823	aside_text
+p294	287	0	840	header
+p295	288	0	1519	aside_text
+p296	289	0	201	aside_text
+p297	290	0	878	
+p298	291	0	799	aside_text,header
+p299	292	0	793	aside_text
+p300	293	0	1093	aside_text
+p301	294	0	564	aside_text
+p302	295	0	873	aside_text
+p303	296	0	1052	aside_text
+p304	297	0	603	aside_text,header
+p305	298	0	1144	aside_text
+p306	299	0	601	aside_text,header
+p307	300	0	921	aside_text
+p308	301	0	818	aside_text
+p309	302	1	517	
+p310	303	0	500	aside_text
+p311	304	0	458	header
+p312	305	1	434	
+p313	306	0	743	aside_text,header
+p314	307	0	796	aside_text,header
+p315	308	1	359	aside_text
+p316	309	0	730	aside_text
+p317	310	1	372	aside_text
+p318	311	1	416	
+p319	312	0	256	aside_text
+p320	313	0	446	aside_text,header
+p321	314	1	411	aside_text
+p322	315	0	702	aside_text,page_footnote
+p323	316	0	649	header
+p324	317	0	704	aside_text
+p325	318	0	689	aside_text
+p326	319	0	395	aside_text
+p327	320	0	396	aside_text
+p328	321	0	690	header
+p329	322	0	166	
+p330	323	0	441	header
+p331	324	0	862	aside_text
+p332	325	0	192	aside_text
+p333	326	0	803	aside_text
+p334	327	0	563	aside_text
+p335	328	0	488	aside_text
+p336	329	0	345	aside_text
+p337	330	0	294	aside_text
+p338	331	0	268	aside_text
+p339	332	0	637	aside_text
+p340	333	0	357	aside_text
+p341	334	0	223	aside_text
+p342	335	0	356	aside_text
+p343	336	0	220	aside_text
+p344	337	0	315	aside_text
+p345	338	0	603	aside_text
+p346	339	0	369	aside_text,header
+p347	340	0	423	aside_text
+p348	341	0	288	aside_text
+p349	342	1	15	header
+p350	343	0	279	aside_text
+p351	344	0	412	aside_text
+p352	345	0	278	aside_text
+p353	346	0	306	aside_text
+p354	347	0	557	aside_text
+p355	348	0	156	aside_text,header
+p356		4	273	footer,header
+p357		0	0	equation

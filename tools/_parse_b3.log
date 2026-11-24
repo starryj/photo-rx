@@ -1,0 +1,14 @@
+[arnheim-art] 艺术与视知觉（35周年纪念版） (鲁道夫·阿恩海姆) (z-library.sk, 1lib.sk, z-lib.sk).pdf (57.3 MB) -> 提交 MinerU …
+  job=3278ffc2b187
+  [arnheim-art] running 0% 提交 MinerU …
+  [arnheim-art] done 100% MinerU 完成 109793 ms（backend=pipeline）· 正文 486994 字 · 3862 块 · 413 张图
+[arnheim-art] 完成 111.3s · 正文 486994 字 · 3862 块 · 416 张图
+[gombrich-illusion] 艺术与错觉：图画再现的心理学研究 (（英）E·H·贡布_ (z-library.sk, 1lib.sk, z-lib.sk)-1.pdf (39.6 MB) -> 提交 MinerU …
+  job=38542181bd7a
+  [gombrich-illusion] running 0% 提交 MinerU …
+  [gombrich-illusion] done 100% MinerU 完成 105396 ms（backend=pipeline）· 正文 499332 字 · 3042 块 · 310 张图
+[gombrich-illusion] 完成 108.3s · 正文 499332 字 · 3042 块 · 310 张图
+
+=== 批3解析汇总 ===
+arnheim-art                  486994 字   416 图    111.3s
+gombrich-illusion            499332 字   310 图    108.3s

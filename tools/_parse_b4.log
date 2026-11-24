@@ -1,0 +1,14 @@
+[chinese-aesthetics] 中国美学史大纲 (叶朗) (z-library.sk, 1lib.sk, z-lib.sk).pdf (77.4 MB) -> 提交 MinerU …
+  job=fbea1cb1e545
+  [chinese-aesthetics] running 0% 提交 MinerU …
+  [chinese-aesthetics] done 100% MinerU 完成 225721 ms（backend=pipeline）· 正文 412883 字 · 5332 块 · 4 张图
+[chinese-aesthetics] 完成 228.6s · 正文 412883 字 · 5332 块 · 4 张图
+[meixue-sanbu] 美学散步（彩图本） (宗白华) (z-library.sk, 1lib.sk, z-lib.sk)-1.pdf (58.9 MB) -> 提交 MinerU …
+  job=b30c296254b3
+  [meixue-sanbu] running 0% 提交 MinerU …
+  [meixue-sanbu] done 100% MinerU 完成 64731 ms（backend=pipeline）· 正文 185036 字 · 3008 块 · 169 张图
+[meixue-sanbu] 完成 66.3s · 正文 185036 字 · 3008 块 · 169 张图
+
+=== 批4解析汇总 ===
+chinese-aesthetics           412883 字     4 图    228.6s
+meixue-sanbu                 185036 字   169 图     66.3s

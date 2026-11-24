@@ -1,0 +1,20 @@
+[color-bible] 摄影色彩圣经 摄影师的色彩视觉必修课=THE PHOT_ (z-library.sk, 1lib.sk, z-lib.sk).pdf (53.2 MB) -> 提交 MinerU …
+  job=980bbd273caa
+  [color-bible] running 0% 提交 MinerU …
+  [color-bible] done 100% MinerU 完成 55312 ms（backend=pipeline）· 正文 144822 字 · 1793 块 · 359 张图
+[color-bible] 完成 57.1s · 正文 144822 字 · 1793 块 · 359 张图
+[interacting-with-color] Interacting with Color A Pr_ (z-library.sk, 1lib.sk, z-lib.sk).pdf (5.3 MB) -> 提交 MinerU …
+  job=945db84f6882
+  [interacting-with-color] running 0% 提交 MinerU …
+  [interacting-with-color] done 100% MinerU 完成 22415 ms（backend=pipeline）· 正文 104402 字 · 634 块 · 120 张图
+[interacting-with-color] 完成 24.1s · 正文 104402 字 · 634 块 · 123 张图
+[interaction-of-color] Interaction of Color 50th A_ (z-library.sk, 1lib.sk, z-lib.sk).pdf (8.2 MB) -> 提交 MinerU …
+  job=340faa9002e2
+  [interaction-of-color] running 0% 提交 MinerU …
+  [interaction-of-color] done 100% MinerU 完成 40808 ms（backend=pipeline）· 正文 167982 字 · 1222 块 · 108 张图
+[interaction-of-color] 完成 42.2s · 正文 167982 字 · 1222 块 · 108 张图
+
+=== 批一解析汇总 ===
+color-bible                  144822 字   359 图     57.1s
+interacting-with-color       104402 字   123 图     24.1s
+interaction-of-color         167982 字   108 图     42.2s

@@ -1,0 +1,219 @@
+md_page	book_page	images	chars	note
+p001		1	18	
+p002		0	571	header
+p003	2	0	1349	
+p004	3	0	524	aside_text
+p005		0	647	
+p006	5	0	833	aside_text
+p007	6	0	1224	
+p008	7	0	459	header
+p009	8	0	1011	
+p010	9	0	306	aside_text
+p011		0	268	
+p012		0	0	
+p013		1	10	
+p014		0	0	table
+p015	3	0	736	aside_text
+p016	4	1	85	
+p017	5	0	730	aside_text
+p018	6	0	873	aside_text
+p019	7	3	58	
+p020	8	0	542	header
+p021		0	3	header
+p022		1	0	
+p023	11	0	675	aside_text
+p024	12	0	726	aside_text
+p025	13	1	86	
+p026	14	0	764	aside_text
+p027	15	0	620	
+p028	16	1	106	
+p029	17	1	3	
+p030	18	0	1105	
+p031	19	0	260	aside_text
+p032	20	0	685	
+p033	21	2	157	
+p034	22	0	818	header
+p035		0	741	aside_text
+p036	24	0	346	
+p037	25	1	155	header
+p038	26	0	768	aside_text
+p039	27	2	156	
+p040	28	0	771	
+p041	29	2	83	aside_text
+p042	30	0	641	
+p043	31	0	698	
+p044	32	1	90	
+p045	33	0	768	aside_text
+p046	34	1	45	
+p047	35	0	811	header
+p048	36	1	118	
+p049	37	1	3	
+p050	38	0	977	
+p051	39	0	316	header
+p052	40	1	112	
+p053	41	1	0	
+p054	42	0	572	aside_text
+p055	43	0	838	
+p056	44	2	97	
+p057	45	0	928	header
+p058	46	0	965	header
+p059	47	2	79	
+p060	48	0	724	aside_text
+p061	49	0	575	aside_text
+p062	50	1	112	
+p063		0	728	header
+p064	52	0	466	
+p065	53	2	67	
+p066	54	0	859	aside_text
+p067	55	0	808	header
+p068	56	1	113	
+p069	57	0	1051	
+p070	58	0	389	aside_text
+p071	59	2	112	
+p072	60	0	826	
+p073	61	1	258	
+p074	62	0	890	header
+p075	63	2	117	
+p076	64	0	480	aside_text,header
+p077	65	0	658	
+p078	66	1	80	aside_text
+p079	67	0	347	header
+p080	68	2	115	
+p081	69	0	667	aside_text
+p082	70	0	598	aside_text
+p083	71	2	100	
+p084	72	0	980	header
+p085	73	1	123	
+p086	74	0	1195	aside_text
+p087	75	0	435	
+p088	76	0	490	aside_text
+p089	77	0	646	aside_text
+p090	78	0	719	
+p091		0	2	header
+p092		1	0	
+p093	81	0	767	aside_text
+p094	82	0	525	aside_text
+p095	83	1	154	
+p096	84	0	918	aside_text
+p097	85	0	1027	aside_text
+p098	86	0	370	aside_text
+p099	87	1	148	
+p100	88	0	440	
+p101	89	0	808	header
+p102	90	0	443	aside_text
+p103		1	0	
+p104		0	0	table
+p105	93	0	569	header
+p106	94	0	460	aside_text
+p107	95	2	87	
+p108	96	0	427	aside_text
+p109	97	0	421	header
+p110	98	1	182	
+p111	99	0	767	aside_text
+p112	100	1	131	header
+p113	101	1	2	header
+p114	102	0	663	aside_text
+p115	103	0	521	
+p116	104	2	90	
+p117	105	0	627	header
+p118	106	0	1236	header
+p119	107	0	461	header
+p120	108	1	299	
+p121	109	0	585	header
+p122	110	0	480	
+p123		0	2	header
+p124		0	0	table
+p125	113	0	742	header
+p126	114	0	783	
+p127	115	1	138	header
+p128	116	0	849	header
+p129	117	0	705	header
+p130	118	1	65	aside_text
+p131	119	0	529	header
+p132	120	2	110	
+p133	121	0	705	header
+p134	122	1	95	aside_text
+p135	123	0	556	aside_text
+p136	124	1	125	
+p137	125	0	531	header
+p138	126	2	167	
+p139	127	0	312	
+p140	128	1	106	
+p141	129	0	515	aside_text
+p142	130	0	532	aside_text
+p143		0	4	header
+p144		1	0	
+p145	133	0	402	
+p146	134	1	113	
+p147	135	0	430	aside_text
+p148	136	0	520	
+p149	137	1	182	
+p150	138	0	507	
+p151	139	1	121	
+p152	140	0	816	
+p153		0	2	header
+p154		0	0	table
+p155	143	0	755	aside_text
+p156	144	0	733	header
+p157	145	1	221	
+p158	146	0	755	
+p159	147	0	457	header
+p160	148	0	520	
+p161	149	1	149	header
+p162	150	0	416	
+p163	151	0	660	header
+p164	152	1	84	aside_text
+p165	153	0	519	header
+p166	154	0	816	
+p167	155	1	233	header
+p168	156	0	590	aside_text
+p169	157	1	87	header
+p170	158	0	584	
+p171	159	0	840	aside_text
+p172	160	0	4	aside_text
+p173		0	6	header
+p174		1	0	
+p175	163	0	562	header
+p176	164	0	486	
+p177		0	2	header
+p178		1	0	
+p179	167	0	753	aside_text
+p180	168	0	724	aside_text
+p181	169	0	838	header
+p182		1	258	header
+p183	171	0	1075	header
+p184	172	0	111	aside_text
+p185		1	0	
+p186		1	0	
+p187	175	0	487	aside_text
+p188	176	0	704	aside_text
+p189	177	2	128	
+p190	178	0	594	
+p191	179	0	536	
+p192	180	2	148	
+p193	181	0	638	header
+p194	182	1	93	
+p195	183	0	509	aside_text
+p196	184	0	645	aside_text
+p197	185	1	116	
+p198	186	0	583	
+p199	187	1	163	header
+p200	188	0	571	aside_text
+p201	189	0	273	aside_text
+p202		1	131	header
+p203	191	0	615	header
+p204	192	0	645	
+p205	193	1	188	
+p206		0	646	aside_text,header
+p207	195	1	105	aside_text
+p208	196	0	691	
+p209	197	1	103	
+p210	198	0	525	aside_text
+p211	199	1	111	
+p212	200	0	496	
+p213		1	0	
+p214		1	0	
+p215	203	0	623	aside_text
+p216	204	1	106	
+p217	205	0	896	header
+p218	？	0	0	equation

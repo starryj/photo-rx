@@ -1,0 +1,351 @@
+# 色彩圣经 · claims（阶段 1 独立抽取，不参照另两本）
+# stance 一律：规则派（有对的做法，并且愿意写下来）
+# operational：可操作 = 能进 E 段步骤；描述性 = 只能进 I 段；经验断言 = 只能进 B 段
+# page / quote 全部经 tools/check_claims.py 机械核对（OCR 书，标 verified_against_scan）
+
+- id: cb01
+  claim: 拍摄与修图在透射光 RGB 域，打印才进入颜料与反射光域；三套系统互不等价
+  page: p020
+  quote: "我们使用透射光（红/绿/蓝）色彩模型，用于拍摄和编辑照片，当需要打印我们的照片时，由于在纸张上的墨和色彩就是反射色彩源的实例，我们就进入了颜料和反射光的领域。"
+  stance: 规则派
+  domain: 色相
+  operational: 可操作
+  single_source: true
+
+- id: cb02
+  claim: 加色法原色靠相互叠加而非减去色彩来创造新色，故与颜料的减法原色不同
+  page: p026
+  quote: "这些颜色的名字是加色法原色，因为它们实际上创造新色彩的方式，是相互叠加，而非减去色彩。"
+  stance: 规则派
+  domain: 色相
+  operational: 描述性
+  single_source: true
+
+- id: cb03
+  claim: 色彩三属性为色相、饱和度（纯度）与亮度，三者可分别描述与调节
+  page: p078
+  quote: "色彩具有三种性质:色相（也就是大多数人认为的物体的色彩)，饱和度(色彩的纯度)以及亮度。"
+  stance: 规则派
+  domain: 色彩属性
+  operational: 可操作
+  single_source: true
+
+- id: cb04
+  claim: 视锥细胞约 600–700 万个且对色敏感，视杆细胞负责暗光辨形但不分色
+  page: p033
+  quote: "我们每只眼睛中大约有六百至七百万个对色彩敏感的视锥细胞。"
+  stance: 规则派
+  domain: 机制
+  operational: 描述性
+  single_source: true
+  note: 视杆数量原文作 1.5 亿（p032），与常见生理学数据（约 1.2 亿）有出入，只作书的表述记录
+
+- id: cb05
+  claim: 传感器每像素只覆盖一种色彩滤镜，靠反马赛克处理用邻域解析出另两色
+  page: p037
+  quote: "这个传感器上的每一个像素都只覆盖一种色彩的滤镜，然后相机通过一种被称为反马赛克的处理来解析色彩。"
+  stance: 规则派
+  domain: 机制
+  operational: 描述性
+  single_source: true
+
+- id: cb06
+  claim: 冷色在构图中后退、暖色前进，这是心理与视觉双重效果
+  page: p043
+  quote: '不论是从心理的角度，还是从视觉的角度，冷色调在构图中都会有一种让人感觉“后退”的效果，而非暖色调一样有更靠近观众的感觉。'
+  stance: 规则派
+  domain: 冷暖
+  operational: 可操作
+  single_source: true
+
+- id: cb07
+  claim: 效果最强的对比不是「互补」本身，而是参与各色从强度到亮度都相等的时候
+  page: p046
+  quote: "因为色彩对比的想法是让两种或者多种色彩相互对比，那效果最强的对比，就是这些色彩从强度到亮度都相等的时候。"
+  stance: 规则派
+  domain: 对比
+  operational: 可操作
+  single_source: true
+
+- id: cb08
+  claim: 简化色彩范围后构图更有戏剧性，原因是色彩之间的对比更明显
+  page: p046
+  quote: "而另一种情况下，虽然我们可以同时使用多种明亮的色彩，通过色彩对比来创造风格强烈的设计效果，但是当我们对色彩的范围进行简化以后，这种构图反而会更加具有戏剧性，原因就是色彩之间的对比会更加明显。"
+  stance: 规则派
+  domain: 对比
+  operational: 可操作
+  single_source: true
+
+- id: cb09
+  claim: 自然界存在色彩和谐，但要由摄影师用观察力以组合的方式把它呈现出来
+  page: p050
+  quote: "虽然在我们身边能够看到自然形成的色彩和谐，我们还是需要摄影师用他们敏锐的观察力，以一种组合的方式来将这些色彩进行呈现。"
+  stance: 规则派
+  domain: 和谐
+  operational: 描述性
+  single_source: true
+
+- id: cb10
+  claim: 天空饱和度最高的时刻多在日落时、太阳完全落到地平线前二十多分钟
+  page: p030
+  quote: "天空饱和度最高的时刻，大多都是在日落十分，太阳完全下降到地平线前20多分钟的时候。"
+  stance: 规则派
+  domain: 光与时段
+  operational: 可操作
+  single_source: true
+
+- id: cb11
+  claim: 中性色与大部分色彩组合时，在视觉与心理上都退居幕后
+  page: p056
+  quote: "在和大部分色彩进行组合的时候，中性色彩不论是在视觉上，还是在心理上都退居幕后。"
+  stance: 规则派
+  domain: 中性色
+  operational: 可操作
+  single_source: true
+
+- id: cb12
+  claim: 图案靠重复任何种类的图形来创造——线条、形状、形态、纹理与色彩都可以重复
+  page: p062
+  quote: "图案可以通过重复使用任何种类的图形来创造线条、形状、形态、纹理，以及色彩都可以进行创作。"
+  stance: 规则派
+  domain: 图案
+  operational: 可操作
+  single_source: true
+
+- id: cb13
+  claim: 单一主要色彩（尤其特别醒目的）常比色彩又多又鲜艳的照片更有戏剧性
+  page: p060
+  quote: "很多诱人的照片其实是通过一个单一的主要色彩进行构图的，而通常情况下，单一的色彩尤其是特别醒目的色彩，可能比那些色彩又多又鲜艳的照片更有戏剧性。"
+  stance: 规则派
+  domain: 数量
+  operational: 可操作
+  single_source: true
+
+- id: cb14
+  claim: 正午直晒光过强且呆板，但能加强色彩饱和度，尤其是明亮色与暗调相对时
+  page: p049
+  quote: "虽然在很多的户外环境下，正午直晒的阳光有些过强，而且会显得十分呆板，但是这样的光线能够加强色彩的饱和度，尤其是当明亮的色彩和暗色调相对比的时候效果更佳明显"
+  stance: 规则派
+  domain: 光与时段
+  operational: 可操作
+  single_source: true
+
+- id: cb15
+  claim: 黄金时段金光的持续时间取决于季节、地球位置、云层与污染等大气因素，无法预先确定
+  page: p072
+  quote: "而这束金光的持续时间取决于几点因素：一年中的季节，地球的位置以及云层、污染等的大气因素。"
+  stance: 规则派
+  domain: 光与时段
+  operational: 描述性
+  single_source: true
+
+- id: cb16
+  claim: 白天污染重的地方日落更多彩，因为更多蓝波被散射、偏暖红光照射到地面
+  page: p074
+  quote: "而白天因为交通和工业产生了更多的污染，日落就会变得更加多彩。"
+  stance: 规则派
+  domain: 光与时段
+  operational: 描述性
+  single_source: true
+
+- id: cb17
+  claim: 逆光勾勒轮廓并以强烈方式增加色彩，透明物体从中获得内部发光感
+  page: p082
+  quote: "逆光当光线从我们被摄物体的后面照射过来的时候，尤其是在拍摄风景和微距照片的情况下，这种光线就能构成十分戏剧性的照明效果，会勾勒出物体的轮廓，同时也能够以一种十分强烈的方式增加物体的色彩。"
+  stance: 规则派
+  domain: 光与时段
+  operational: 可操作
+  single_source: true
+
+- id: cb18
+  claim: 雾天拍摄的最大挑战是让对比重新出现，以强调雾的效果并带来纵深
+  page: p084
+  quote: "实际上，当我们在雾天拍摄照片时遇到的最大挑战，实际上是让一些对比重新出现在照片中，进而强调雾的效果，并给照片带来更强的纵深感。"
+  stance: 规则派
+  domain: 天气
+  operational: 可操作
+  single_source: true
+
+- id: cb19
+  claim: 直接对雪测光会让整个场景严重曝光不足，因为测光表被明亮的雪欺骗
+  page: p094
+  quote: "如果我们直接对雪进行测光，那整个场景就会严重地曝光不足，主要是因为测光表会被明亮的雪所欺骗。"
+  stance: 规则派
+  domain: 曝光
+  operational: 可操作
+  single_source: true
+
+- id: cb20
+  claim: 日出日落前后日光色温偏冷约 10000K，清晨与午后太阳角度低时偏暖约 2000–4000K
+  page: p098
+  quote: "例如在日出或日落时分，在太阳升起前，或者暮日时刻，日光的色温相对较冷，大约为1000OK，但是在清晨或者午后时分，太阳角度较低的时候却有着更接近金黄色的色彩，色温就会被认为是暖色，大约有2000~4000K。"
+  stance: 规则派
+  domain: 色温
+  operational: 可操作
+  single_source: true
+  note: 原文 OCR 把 10000K 写成 1000OK
+
+- id: cb21
+  claim: 清晨拍暖色花朵时不宜用自动白平衡，否则相机会加蓝中和过度的暖色调
+  page: p044
+  quote: "假设说我们在清晨拍摄一丛黄色的花朵，那就最好不用使用自动白平衡设置，不然相机就会通过增加蓝色来中和过度的暖色调。"
+  stance: 规则派
+  domain: 白平衡
+  operational: 可操作
+  single_source: true
+
+- id: cb22
+  claim: 高位深编辑可避免色带——平滑连续色调区域出现的粗糙色调分割
+  page: p107
+  quote: "因为我们在高位数深度情况下进行编辑，可以避免很多常见的瑕疵，例如色带一经常在平滑连续的色调区域出现的粗糙的色调分割（例如色调较轻的天空)。"
+  stance: 规则派
+  domain: 后期
+  operational: 可操作
+  single_source: true
+
+- id: cb23
+  claim: 室内混合光在理论上无法完全平衡，最实际做法是对主光源设白平衡并忽略其余
+  page: p108
+  quote: "想要通过合理的方法来解决不同光源的色彩平衡问题，理论上是不可能的，而最实际的一种方法，就是对主光源设置白平衡，然后忽略其他剩下的光线。"
+  stance: 规则派
+  domain: 白平衡
+  operational: 可操作
+  single_source: true
+
+- id: cb24
+  claim: 偏振镜靠减少表面反光与压暗蓝天在户外增强饱和度
+  page: p049
+  quote: "偏振镜通过减少物体表面的反光，并且压暗蓝色的天空这样的手段，在很多户外场景下能够增强饱和度"
+  stance: 规则派
+  domain: 器材
+  operational: 可操作
+  single_source: true
+
+- id: cb25
+  claim: 所有测光表都是通过读取纯中灰信息来提供准确曝光，故明了灰色的含义有实际意义
+  page: p058
+  quote: "了解灰色的真正含义对于设定曝光有非常高的实际意义，因为所有测光表都是通过读取纯中灰色的信息，从而来提供准确的曝光。"
+  stance: 规则派
+  domain: 曝光
+  operational: 可操作
+  single_source: true
+
+- id: cb26
+  claim: 灰卡照片在后期应读出 50% 亮度、三通道各 128，即 8 位文件色调范围正中
+  page: p116
+  quote: "一张灰卡的照片，应当在后期编辑软件中提供50%的亮度色阶，而三个通道(红、绿、蓝)的每一个通道的读数应该为128"
+  stance: 规则派
+  domain: 曝光
+  operational: 可操作
+  single_source: true
+
+- id: cb27
+  claim: HDRI 的做法是分区域各拍一张——阴影一张、中间调一张、高光一张
+  page: p078
+  quote: "例如在拍摄了三张不同曝光的照片时，我们可以为阴影部分拍摄一张，中间调拍摄一张，然后为高光区域拍摄一张。"
+  stance: 规则派
+  domain: 后期
+  operational: 可操作
+  single_source: true
+
+- id: cb28
+  claim: 曝光补偿可用来控制饱和度——轻微的曝光不足会降低色彩的饱和度
+  page: p055
+  quote: "我们可以使用曝光补偿控制，轻松地通过轻微的曝光不足来降低色彩的饱和度。"
+  stance: 规则派
+  domain: 曝光
+  operational: 可操作
+  single_source: true
+  contested_hint: K3（曼特 p105 说加黑只改亮度不改纯度；霍斯特曼色球说加黑同时降饱和）
+
+- id: cb29
+  claim: 高饱和图片在分享网站会显得过于花哨并很快让观众失去兴趣
+  page: p176
+  quote: "如果我们将高饱和度的图片上传到图片分享网站，例如Flickr或者个人网页，它们看起来会过于花哨，而且会很快让观众失去兴趣。"
+  stance: 规则派
+  domain: 饱和度
+  operational: 可操作
+  single_source: true
+
+- id: cb30
+  claim: 拍剪影时黑色形状成为构图主要物体，其他所有色彩都退为次要元素
+  page: p058
+  quote: "而当我们拍摄剪影照片的时候，黑色的形状实际上会成为构图中的主要物体，而照片中所包含的所有其他色彩（例如44页渔船绳索后的日落）都会成为次要元素。"
+  stance: 规则派
+  domain: 形状
+  operational: 可操作
+  single_source: true
+
+- id: cb31
+  claim: 微距用黑背景最明显的好处是色彩与黑色对比时饱和度成倍增加
+  page: p127
+  quote: "使用黑色背景来拍摄微距物体有很多明显的好处，其中最明显的就是，色彩在和黑色环境进行对比的时候，饱和度会成倍地增加。"
+  stance: 规则派
+  domain: 饱和度
+  operational: 可操作
+  single_source: true
+
+- id: cb32
+  claim: 鲜艳背景容易压倒前面主体，除非主体在视觉上足够醒目
+  page: p124
+  quote: "鲜艳的背景很容易压倒前面的主体，如果主体在视觉上足够醒目就不会有这个问题。"
+  stance: 规则派
+  domain: 语境
+  operational: 可操作
+  single_source: true
+
+- id: cb33
+  claim: 填满照片——明亮色彩占据构图主要部分时效果最佳
+  page: p049
+  quote: "填满照片：明亮的色彩在它们占有构图中主要部分的时候效果最佳。"
+  stance: 规则派
+  domain: 饱和度
+  operational: 可操作
+  single_source: true
+
+- id: cb34
+  claim: 改黄色通道时绿色物体受到的影响比改绿色通道还大
+  page: p177
+  quote: "有趣的是，绿色的物体在修改黄色通道的时候，所受到的影响比通过绿色通道修改的效果还要大"
+  stance: 规则派
+  domain: 后期
+  operational: 可操作
+  single_source: true
+
+- id: cb35
+  claim: 极端色调范围（暗调/亮调）的目的是改变对照片的情绪，在第一眼控制观者反应
+  page: p132
+  quote: "也许我有点夸大了这种概念，但是使用这种极端色调范围的目的，正是对照片的情绪进行改变：在人们第一眼看到照片的时候控制他们的反应。"
+  stance: 规则派
+  domain: 明度
+  operational: 可操作
+  single_source: true
+
+- id: cb36
+  claim: 人像的独特好处是可以改变人物所处场景与服装，自由改变色彩组合
+  page: p134
+  quote: "最后，拍摄人像的好处之一，就是我们可以改变人物所处的场景和服装，而不像拍摄其他主题照片一样，我们可以自由地改变色彩的组合。"
+  stance: 规则派
+  domain: 情绪
+  operational: 可操作
+  single_source: true
+
+- id: cb37
+  claim: 地区色彩常与当地农业相关（薰衣草庄园、向日葵农场），另有建筑材料供应与气候两条成因
+  page: p136
+  quote: "而一个地区的色彩通常和当地的农业有关，法国的薰衣草庄园、向日葵农场都是可以立刻被人们认出的例子。"
+  stance: 规则派
+  domain: 情绪
+  operational: 描述性
+  single_source: true
+  note: 建筑材料（p136 相邻句）与气候（p136 相邻句）为同节并列因素，本条只逐字引用农业一句
+
+- id: cb38
+  claim: 红色与其他较弱色彩的竞争，经常导致注意力从重要内容上分散
+  page: p138
+  quote: "而红色与其他较弱色彩的竞争，经常导致注意力从重要内容上的分散。"
+  stance: 规则派
+  domain: 情绪
+  operational: 描述性
+  single_source: true
+  note: 文化相关（美国语境），使用时须标

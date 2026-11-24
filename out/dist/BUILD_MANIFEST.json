@@ -1,0 +1,45 @@
+{
+  "tool": "cangjie-tools v2.5.0",
+  "published_hashes": {
+    "capability-destinations.json": "fc0d934bbad3f3cf5540a5b6cbcf161674f4914b3368baa714536483b276a789",
+    "chinese-eye\\SKILL.md": "a83a6176586580a0417e8c34cf86591e9fbc383becc491e1c0c609388eee96be",
+    "color-decision\\SKILL.md": "039744935f5ba39e2a7305c8900ed04f540f8232ed784a9b2e7ca15006ba774f",
+    "cull-select\\SKILL.md": "a92d2fcbe77aeb045d0118b6d087aa407b3f6c96f592c8b69a2f3cdcdfdf682d",
+    "photo-vision\\references\\capabilities\\chinese-eye.md": "155e8e418a35b2f0fe3a02f63d3a2044a701b4bcb5b89c4aebb74b976f842b54",
+    "photo-vision\\references\\capabilities\\color-decision.md": "a48f323bd51aa2a5c7b9be993eb33935c0bbd25c1791215945bdbdb1539afbf8",
+    "photo-vision\\references\\capabilities\\cull-select.md": "9872626876c80341e809d58a59906428786d7b756b4644db6b95a0a915d62630",
+    "photo-vision\\references\\capabilities\\sequence-edit.md": "904ac6f1a47b1be907295f788316724ce3e184b759bcb9f8762c3493985af7ca",
+    "photo-vision\\references\\capabilities\\shoot-plan.md": "91ee7cc1f9bb3bb0fec23c4484ff99dc7f17f91a6221f8c5a55f6331a3e4a100",
+    "photo-vision\\references\\capabilities\\structure-read.md": "eff1f5a42db19797927520de03402626cfee405c2484fe74d2be3c3f63e5a78e",
+    "photo-vision\\references\\capabilities\\ways-of-seeing.md": "4cafd3a9e1f313911266e7ca5b85aa56f178d161e046b61b585c1d5d529b9d1d",
+    "photo-vision\\references\\capability-index.md": "3bd866b664fffba001284e3b6e71928e503e2a809e6c0bed8bea55c163af4f20",
+    "photo-vision\\references\\cheatsheet.md": "c9f940a5890c2deda17c9347bb461162609e188d71d2e676922adea1076736cf",
+    "photo-vision\\references\\glossary.md": "fbdeec9916ff3cf9a7fc9618b61c96b412dbeb6f4de0e4ddf95419c3d996900d",
+    "photo-vision\\references\\overview.md": "463915b6d80e070e7dc387be2b6c48ad7bfb54849037a3642e836ff522096873",
+    "photo-vision\\SKILL.md": "a354ef5e3f6e287127b55d4fd516da677ed8d1ec6dac06bd3552ec097af6ebf9",
+    "sequence-edit\\SKILL.md": "995726b41af30bd7874aeb2fcb563a23aae4dd3bdb85bdf73fd3dcb37ea8cb89",
+    "shoot-plan\\SKILL.md": "d57b3dce20785b08e724e16d7ffeac9975246bd628b8f98b7d314c218bf0cafa",
+    "structure-read\\SKILL.md": "3c03e90dbeb9e5d88df0f249c1809462296b4dc6bdb723b8691b30c6889dd2df",
+    "ways-of-seeing\\SKILL.md": "eb4b7f658b2dd583a1a817a9a1aadd504fff513a44ecbbe807113081515b73c5"
+  },
+  "note": "update/重编译前比对 published_hashes；检测到本地手改不得静默覆盖",
+  "bundle_id": "bundle.photo-vision",
+  "bundle_sha256": "c0459837360cc2d8e4183c90eeafe23ebe2ebf75bc272a1c8e2f37da90a3c13c",
+  "variant": "pack",
+  "run_id": "run-20261124-174520-6e47d9",
+  "decision": {
+    "schema_version": 1,
+    "requested": "pack",
+    "selected": "pack",
+    "decision_policy": "single-first-v1",
+    "skill_budget": 8,
+    "promoted_count": 7,
+    "capability_count": 7,
+    "reasons": [
+      "用户显式选择 pack，auto 决策器不覆盖用户选择"
+    ],
+    "alternative": "single（1 个入口 + 7 张内部能力卡）",
+    "user_confirmed": true,
+    "preserve_strategy_on_update": true
+  }
+}

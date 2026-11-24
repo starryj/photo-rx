@@ -1,0 +1,152 @@
+[
+ {
+  "id": "ce-21",
+  "skill": "chinese-eye",
+  "prompt": "这张手表产品图要绝对横平竖直，你帮我按三远重新构图。"
+ },
+ {
+  "id": "ce-22",
+  "skill": "chinese-eye",
+  "prompt": "这片红叶和青瓦的面积比例怎么调才稳？"
+ },
+ {
+  "id": "ce-23",
+  "skill": "chinese-eye",
+  "prompt": "这张黄山云海，山只露一角，大片空，为什么反而站得住？"
+ },
+ {
+  "id": "ce-24",
+  "skill": "chinese-eye",
+  "prompt": "拍苏州园林的月洞门，我想让门外景致像画一样被框住，从哪看？"
+ },
+ {
+  "id": "cd-21",
+  "skill": "color-decision",
+  "prompt": "帮我写个校色流程，显示器、打印机、ICC 都要。"
+ },
+ {
+  "id": "cd-22",
+  "skill": "color-decision",
+  "prompt": "这张照片构图是不是太散了？"
+ },
+ {
+  "id": "cd-23",
+  "skill": "color-decision",
+  "prompt": "胡同灰墙前一辆明黄共享单车，黄占得很小，为什么还是先看到它？"
+ },
+ {
+  "id": "cd-24",
+  "skill": "color-decision",
+  "prompt": "夜景里霓虹的蓝紫和路灯的橙黄挤在一起，显得脏，是冷暖问题还是饱和度问题？"
+ },
+ {
+  "id": "cs-21",
+  "skill": "cull-select",
+  "prompt": "就这一张，帮我看看天空要不要压暗。"
+ },
+ {
+  "id": "cs-22",
+  "skill": "cull-select",
+  "prompt": "顺序我已经排好了，你只帮我把这组调成统一色调。"
+ },
+ {
+  "id": "cs-23",
+  "skill": "cull-select",
+  "prompt": "旅行回来 400 张，想挑 25 张做一本小册子，怎么下手？"
+ },
+ {
+  "id": "cs-24",
+  "skill": "cull-select",
+  "prompt": "同一场景连拍 12 张，人物表情几乎一样，只留一张，怎么选？"
+ },
+ {
+  "id": "se-21",
+  "skill": "sequence-edit",
+  "prompt": "这张单张的构图哪里不对？"
+ },
+ {
+  "id": "se-22",
+  "skill": "sequence-edit",
+  "prompt": "给这组照片配一段 30 秒的电子乐，卡点帮我标出来。"
+ },
+ {
+  "id": "se-23",
+  "skill": "sequence-edit",
+  "prompt": "12 张城市夜景，从傍晚到深夜，怎么排才能看出时间走？"
+ },
+ {
+  "id": "se-24",
+  "skill": "sequence-edit",
+  "prompt": "三张一组：空街、来人、人走，这样讲一个下午行不行？"
+ },
+ {
+  "id": "sp-21",
+  "skill": "shoot-plan",
+  "prompt": "这张已经拍完了，你帮我评评分，看能打几分。"
+ },
+ {
+  "id": "sp-22",
+  "skill": "shoot-plan",
+  "prompt": "这 30 张里帮我留 8 张。"
+ },
+ {
+  "id": "sp-23",
+  "skill": "shoot-plan",
+  "prompt": "明天阴天，想去拍老街的骑楼，光很平，怎么计划？"
+ },
+ {
+  "id": "sp-24",
+  "skill": "shoot-plan",
+  "prompt": "海边日落，想把太阳放在画面边缘，什么时段、什么焦距合适？"
+ },
+ {
+  "id": "sr-21",
+  "skill": "structure-read",
+  "prompt": "这张白平衡偏绿，帮我调一下色温。"
+ },
+ {
+  "id": "sr-22",
+  "skill": "structure-read",
+  "prompt": "给我这张照片一个综合评分和修改报告。"
+ },
+ {
+  "id": "sr-23",
+  "skill": "structure-read",
+  "prompt": "画面左边一堵墙很重，右边全空，怎么把重量挪过去？"
+ },
+ {
+  "id": "sr-24",
+  "skill": "structure-read",
+  "prompt": "地平线该放哪？我想让天显得很高。"
+ },
+ {
+  "id": "ws-21",
+  "skill": "ways-of-seeing",
+  "prompt": "告诉我明天拍日出几点到、带什么镜头、参数多少。"
+ },
+ {
+  "id": "ws-22",
+  "skill": "ways-of-seeing",
+  "prompt": "给这张打个分，再说说为什么。"
+ },
+ {
+  "id": "ws-23",
+  "skill": "ways-of-seeing",
+  "prompt": "这组照片让我有点不安，但说不上来，是哪里在起作用？"
+ },
+ {
+  "id": "ws-24",
+  "skill": "ways-of-seeing",
+  "prompt": "同一场景，彩色那张很吵，黑白那张安静，为什么？"
+ },
+ {
+  "id": "pv-21",
+  "skill": "photo-vision",
+  "prompt": "一张照片构图和色彩都有问题，我先改哪个？"
+ },
+ {
+  "id": "pv-22",
+  "skill": "photo-vision",
+  "prompt": "我拍了三年，想系统检查自己的短板，从哪开始？"
+ }
+]

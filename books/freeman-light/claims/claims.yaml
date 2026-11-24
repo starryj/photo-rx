@@ -1,0 +1,179 @@
+# freeman-light · 《迈克尔·弗里曼摄影大师班：光线与用光》逐字引文主张
+# 纪律：每条 quote 必须是 books/freeman-light/source/book.md 的连续原文子串；
+#      写完后跑 python tools/check_claims.py --all 直到 0 MISSING。
+# stance: 技术派（本书立场＝先把光的性质测清楚，再用它承载风格）
+# operational: principle / heuristic / metric / calculation / procedure / framework / case / definition
+
+- id: fl01
+  claim: 太阳在地平线以上但角度不足 20° 时给出金色光辉，色温介乎 3500K–4500K，持续约日出日落各一小时。
+  page: p057
+  quote: "当太阳还在地平线以上，但照射角度不足20°的时候，它就可以提供温暖的金色光辉，其色温介乎3500K和4500K。"
+  stance: 技术派
+  domain: 光与时段
+  operational: metric
+  single_source: true
+  note: 与色彩圣经「日落前二十多分钟饱和峰值」互补：一个给角度与色温，一个给饱和峰值时刻。
+
+- id: fl05
+  claim: 积云遮日会把 5200K 的阳光降到 6000K 左右，并让被照亮的前景带上头顶天空的蓝色调。
+  page: p064
+  quote: "在开阔的场景中，蓝天的反射光（10000K）通常都会被强烈的阳光（5200K）盖过，但积云会遮挡和降低强烈的阳光，使色温立刻变为6000K左右，让被照亮的前景带有头顶天空的蓝色调。"
+  stance: 技术派
+  domain: 光与时段
+  operational: calculation
+  single_source: true
+
+- id: fl06
+  claim: 想让天空饱和度更高，应在镜头前装偏光镜。
+  page: p042
+  quote: "如果想让天空的饱和度更高，则应该在镜头上装一个偏光镜。"
+  stance: 技术派
+  domain: 器材与后期
+  operational: procedure
+  single_source: true
+
+- id: fl07
+  claim: 渐变滤镜的效果可以在直方图上判读：滤镜向下移动，直方图右侧慢慢靠近右边界而不剪切。
+  page: p045
+  quote: "你可以在直方图上观察渐变滤镜的效果：随着滤镜向下移动，直方图的右侧会慢慢向右边界靠近。"
+  stance: 技术派
+  domain: 器材与后期
+  operational: procedure
+  single_source: true
+
+- id: fl08
+  claim: 眩光本质是镜头再现光线时的像差，但可以被有意利用来强化图形感与色彩。
+  page: p052
+  quote: "从技术上说，眩光是一种像差，即镜头再现某一场景的光线时产生的误差。"
+  stance: 技术派
+  domain: 光与时段
+  operational: principle
+  single_source: true
+
+- id: fl11
+  claim: 包围光虽然是柔光的极致，但用于人像会显得超现实和失真，因为自然中不存在这种光。
+  page: p125
+  quote: "既然柔光是人像摄影的理想光线，那么用包围光拍摄就是最好的了，但是这样拍摄出来的人像却显得超现实和失真。"
+  stance: 技术派
+  domain: 光与时段
+  operational: principle
+  single_source: true
+
+- id: fl13
+  claim: 明暗对照法不是最硬的光，而是硬光与柔光之间的一种平衡：既有浓重阴影，又有从高光到阴影的渐变。
+  page: p133
+  quote: "明暗对照法其实是硬光和柔光之间的一种平衡。"
+  stance: 技术派
+  domain: 光与时段
+  operational: framework
+  single_source: false
+
+- id: fl14
+  claim: 清晨的强烈侧光最能表现巨柱与雕像的不朽形状。
+  page: p141
+  quote: "日出的强烈侧光最能表现巨柱和雕像的不朽形状。"
+  stance: 技术派
+  domain: 光与时段
+  operational: case
+  single_source: true
+
+- id: fl17
+  claim: 位深与动态范围是两件事：位深可以增加，动态范围不能扩大。
+  page: p024
+  quote: "请注意，动态范围和位深之间有明确的区别：我们可以在给定的动态范围内增加位深，但我们不能扩大动态范围。"
+  stance: 技术派
+  domain: 器材与后期
+  operational: principle
+  single_source: true
+
+- id: fl19
+  claim: 点测光只测量占画面 2% 的圆形区域，其余全部忽略。
+  page: p032
+  quote: "点测光只对占整个画面2%的细小圆形区域内进行测量，而圆形外的所有区域都会被忽略。"
+  stance: 技术派
+  domain: 器材与后期
+  operational: metric
+  single_source: true
+
+- id: fl21
+  claim: 混合光源下最安全的做法是用灰卡设置自定义白平衡并拍 RAW，给后期留余地。
+  page: p080
+  quote: "最安全的方法还是利用灰卡设置自定义白平衡并拍摄RAW格式的照片"
+  stance: 技术派
+  domain: 器材与后期
+  operational: procedure
+  single_source: false
+  note: 与色彩圣经 p108『对主光源设白平衡然后忽略其余』构成两条不同策略：一个求准，一个求主次。
+
+- id: fl22
+  claim: 白平衡可以不忠实：学生把日落广场的色温大幅调低，让画面更冷更短暂，以匹配构图的非忠实描述。
+  page: p030
+  quote: "我不需要温暖、诱人的效果，而是希望把这个空旷的城市广场表现得更冷、更短暂，所以我大大地降低了色温。"
+  stance: 技术派
+  domain: 色相与色环
+  operational: case
+  single_source: true
+
+- id: fl23
+  claim: 硬光意味着光源与对象之间没有任何阻隔——没有云、没有柔光板、没有反光板。
+  page: p131
+  quote: "硬光意味着光源与拍摄对象之间没有阻隔没有云，没有柔光板，没有反光板。"
+  stance: 技术派
+  domain: 光与时段
+  operational: definition
+  single_source: true
+
+- id: fl24
+  claim: 最有效的柔光几乎察觉不到：光线本身不会成为照片里的实质构图元素。
+  page: p123
+  quote: "实际上，最有效的柔光是几乎察觉不到的也就是说，光线本身不会成为照片中的实质构图元素。"
+  stance: 技术派
+  domain: 光与时段
+  operational: principle
+  single_source: true
+
+- id: fl25
+  claim: 阴天的问题不是光不好，而是必须找出适合柔和扩散光的题材。
+  page: p065
+  quote: "相反，这个挑战在于寻找适合阴天柔和的扩散光的拍摄题材。"
+  stance: 技术派
+  domain: 光与时段
+  operational: heuristic
+  single_source: true
+
+- id: fl26
+  claim: 白平衡不只是校正手段，也可以用来在照片里加入自己的演绎。
+  page: p027
+  quote: "然而，你也可以利用白平衡在照片中加入自己的演绎。"
+  stance: 技术派
+  domain: 色相与色环
+  operational: principle
+  single_source: true
+  contested_hint: K1
+
+- id: fl28
+  claim: 质感靠形状之外的微观阴影显现，只有小角度的强烈侧光才能在表面投出这些阴影。
+  page: p142
+  quote: "明暗对比法通过明暗渐变来做到这一点，它能够很好地表现形状和体态，但质感却比形状精细得多，只有用小角度的强烈侧光照射到物体表面上，才能投射出无数微观尺度的小阴影，从而表现出质感。"
+  stance: 技术派
+  domain: 光与时段
+  operational: principle
+  single_source: true
+
+- id: fl30
+  claim: 包围光在大自然中很少见，所以眼睛会认为它很奇特——这是它不适合写实人像的知觉原因。
+  page: p125
+  quote: "你要记住，包围光在大自然中是很少见的，你的眼睛会认为这是很奇特的东西。"
+  stance: 技术派
+  domain: 光与时段
+  operational: principle
+  single_source: true
+
+- id: fl32
+  claim: 理想的白平衡是按你的感官完美、精确地再现场景——这是校正派的基准定义。
+  page: p027
+  quote: "理想的白平衡应该按照你的感官完美、精确地再现场景。"
+  stance: 技术派
+  domain: 色相与色环
+  operational: definition
+  single_source: true

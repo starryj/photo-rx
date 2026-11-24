@@ -1,0 +1,380 @@
+# freeman-sight · 《摄影师的视界》逐字引文主张
+# 纪律：每条 quote 必须是 books/freeman-sight/source/book.md 的连续原文子串；
+#      写完后跑 python tools/check_claims.py --all 直到 0 MISSING。
+# stance: 结构派（本书立场＝构图是把混乱组织成图像的技能，不设公式也不否定规则）
+# operational: principle / heuristic / metric / calculation / procedure / framework / case / definition
+
+- id: fs01
+  claim: 构图是把眼前混乱景象组织成引人的图像，这是摄影的关键技能，也是本书全部方法的落点。
+  page: p003
+  quote: "从眼前的景象中捕捉到潜在的不同凡响的画面，然后将各种视觉元素组织成引人入胜的构图，一直是摄影的关键技能。"
+  stance: 结构派
+  domain: 方法论
+  operational: principle
+  single_source: true
+
+- id: fs03
+  claim: 水平画幅占主导不只是习惯，而是符合双眼视觉的水平视场。
+  page: p013
+  quote: "我们通过双眼观察世界的自然视场是以水平方式呈现的，因此水平格式看上去完全正常。"
+  stance: 结构派
+  domain: 构图与结构
+  operational: principle
+  single_source: true
+
+- id: fs05
+  claim: 正方形画幅的对称让图像在形式上显得刻板，这是它不讨人喜欢的第二个原因。
+  page: p017
+  quote: "这也是正方形画幅不讨人喜欢的第二个原因：它们让图像在形式上很刻板。"
+  stance: 结构派
+  domain: 构图与结构
+  operational: heuristic
+  single_source: true
+
+- id: fs06
+  claim: 全景画幅让眼睛一次只看一部分，这不是缺陷，而是复制了真实观看方式，因而延长观看。
+  page: p019
+  quote: "然而，全景图让眼睛一次只能关注图像的一个部分，但这绝不是一件坏事，因为它复制了我们观看真实场景的方式。"
+  stance: 结构派
+  domain: 构图与结构
+  operational: principle
+  single_source: true
+
+- id: fs07
+  claim: 裁剪可以推迟决定，但不能当设计的万能药，也不能当拍摄不果断的借口。
+  page: p021
+  quote: "重要的是，不要将裁剪当作设计的万能药，或是拍摄时不够果断的借口。"
+  stance: 结构派
+  domain: 构图与结构
+  operational: heuristic
+  single_source: true
+
+- id: fs09
+  claim: 主体明显偏离中心时需要给出理由，否则只显得反常。
+  page: p067
+  quote: "靠近边缘明显地偏离中心，需要一些理由。"
+  stance: 结构派
+  domain: 构图与结构
+  operational: principle
+  single_source: true
+
+- id: fs10
+  claim: 由 1:1、2:1、3:2 这类简单数字构成的分割基本上是静态的，动态需要更复杂的比例。
+  page: p027
+  quote: "文艺复兴期间，许多画家发现由简单数字组成的分割比例（如1:1、2:1或3:2）形成的基本上是静态的分割。"
+  stance: 结构派
+  domain: 构图与结构
+  operational: metric
+  single_source: true
+
+- id: fs11
+  claim: 黄金分割的判据是「小:大 = 大:整体」，比值约 1.618。
+  page: p027
+  quote: "如果整体（两部分的总和）与较大部分之间的比值和较大部分与较小部分之间的比值相同，两个部分则被认为具备黄金比例。"
+  stance: 结构派
+  domain: 构图与结构
+  operational: calculation
+  single_source: true
+  note: 与曼特「8 等分取 3:5」同源，但弗里曼只给判据不给取点法。
+
+- id: fs12
+  claim: 任何场景和视角都不存在理想的地平线位置；地平线该放哪取决于内容与图形需要。
+  page: p029
+  quote: "无须多言的是，任何场景和视角都不存在理想的地平线位置。"
+  stance: 结构派
+  domain: 构图与结构
+  operational: principle
+  single_source: true
+
+- id: fs13
+  claim: 框中框的作用是让视线从一个平面转到另一个平面，从而增强照片的维度。
+  page: p031
+  quote: "框架让观者将视线从一个平面转移到另一个平面，增强了照片的维度。"
+  stance: 结构派
+  domain: 空间
+  operational: principle
+  single_source: true
+
+- id: fs14
+  claim: 设计只有两个最基本的原则：对比与平衡。
+  page: p034
+  quote: "两个最基本的原则是对比和平衡。"
+  stance: 结构派
+  domain: 构图与结构
+  operational: framework
+  single_source: true
+
+- id: fs15
+  claim: 眼睛追求和谐感是事实，但它不能升级成一条构图规则。
+  page: p034
+  quote: "我们的眼睛追求和谐感，但这并不能成为一条构图规则。"
+  stance: 结构派
+  domain: 和谐与协调
+  operational: principle
+  single_source: false
+  contested_hint: K1
+
+- id: fs16
+  claim: 格式塔的基本原则是整体大于部分之和，观看先把握整体再分解。
+  page: p039
+  quote: "现代格式塔理论对认知采用的是整体观，其基本原则为整体大于部分之和"
+  stance: 结构派
+  domain: 机制
+  operational: framework
+  single_source: true
+
+- id: fs17
+  claim: 观者的兴趣与他必须付出的努力成正比；平衡若太完美，眼睛无事可做。
+  page: p043
+  quote: "观者对图像的兴趣与他必须付出的努力成正比，平衡若太过完美，眼睛则无事可做。"
+  stance: 结构派
+  domain: 构图与结构
+  operational: principle
+  single_source: true
+
+- id: fs18
+  claim: 靠动态张力维持的图像缺乏持久力，效果转瞬即逝，频繁使用会做作。
+  page: p045
+  quote: "同其他令人一眼看上去感觉强烈、明显的设计技巧一样，它缺乏持久力，其效果往往转瞬即逝"
+  stance: 结构派
+  domain: 构图与结构
+  operational: heuristic
+  single_source: true
+
+- id: fs19
+  claim: 书法里笔画之间的留白与黑色文字一样具备动态与连贯性，主体与背景同等主动。
+  page: p047
+  quote: "最能体现这种模棱两可的主体-背景关系的例子可以在中文和日文的书法中找到，它们笔画之间的留白就跟黑色文字一样具备动态和连贯性。"
+  stance: 结构派
+  domain: 构图与结构
+  operational: case
+  single_source: true
+
+- id: fs20
+  claim: 最强的节奏是每个节拍周期都在引导眼睛移动，而不只是元素重复。
+  page: p049
+  quote: "当每个节拍周期引导眼睛移动(如此处图例所示)时，节奏最强。"
+  stance: 结构派
+  domain: 构图与结构
+  operational: metric
+  single_source: true
+
+- id: fs21
+  claim: 图案与节奏都建立在重复上，但图案关涉范围而非方向，故眼睛四处漫游。
+  page: p051
+  quote: "图案与节奏一样建立在重复的基础上，但与节奏不同的是，与图案相关的是范围而不是方向。"
+  stance: 结构派
+  domain: 构图与结构
+  operational: principle
+  single_source: true
+
+- id: fs22
+  claim: 纹理是结构特征而不是色调或色彩特征，因此主要吸引触觉。
+  page: p051
+  quote: "纹理是结构而不是色调或色彩的特征，因此主要吸引触觉。"
+  stance: 结构派
+  domain: 构图与结构
+  operational: principle
+  single_source: true
+
+- id: fs24
+  claim: 大小恒常让大脑同时接受「远处物体显得小」与「它实际很大」，这是深度感知的知觉机制。
+  page: p053
+  quote: "其中的解释被称为“大小恒常”，这个我们了解甚少的知觉机制让大脑可以解决深度不一致的问题。"
+  stance: 结构派
+  domain: 机制
+  operational: principle
+  single_source: true
+
+- id: fs25
+  claim: 选择性聚焦靠两个知觉触发点建立深度：注意力被吸向信息密度最高的清晰区，以及覆盖其上的失焦层被读作在前。
+  page: p058
+  quote: "选择性聚焦利用两个知觉上的触发点来建立深度感。"
+  stance: 结构派
+  domain: 空间
+  operational: principle
+  single_source: true
+
+- id: fs26
+  claim: 视觉注意的主要因素是「重要性加权」；人脸尤其眼睛与嘴巴的权重最高。
+  page: p059
+  quote: "两位多伊奇在1963年提出“重要性加权”是视觉注意的主要因素。"
+  stance: 结构派
+  domain: 机制
+  operational: framework
+  single_source: true
+
+- id: fs27
+  claim: 向量是为眼睛安排路线的手段：先让注意力被预期点吸引，再提供线条暗示方向。
+  page: p091
+  quote: "如果你能平衡一张照片，让注意力首先被一个预期的点吸引，然后提供一条线条来暗示某个方向的运动，那么你就已经为眼睛安排了一条路线。"
+  stance: 结构派
+  domain: 构图与结构
+  operational: procedure
+  single_source: true
+
+- id: fs28
+  claim: 主体放在正中是静止的，通常也很无趣。
+  page: p067
+  quote: "中央静止，通常也很无趣。"
+  stance: 结构派
+  domain: 构图与结构
+  operational: heuristic
+  single_source: true
+
+- id: fs30
+  claim: 斜线与画幅长边形成的角度越大越具动态，这是可判的量化关系。
+  page: p077
+  quote: "斜线与画幅长边形成的角度越大，就越具动态。"
+  stance: 结构派
+  domain: 构图与结构
+  operational: metric
+  single_source: true
+
+- id: fs33
+  claim: 清晰度几乎是无可置疑的标准，因此落在焦点上的任何事物都会成为关注点。
+  page: p095
+  quote: "清晰度几乎是无可置疑的标准，这一事实足以表明，焦点上的任何事物都会成为关注点。"
+  stance: 结构派
+  domain: 构图与结构
+  operational: principle
+  single_source: true
+
+- id: fs34
+  claim: 「决定性瞬间」出自布列松转引雷兹红衣主教，指各元素处于平衡的那一瞬。
+  page: p099
+  quote: "他引用了17世纪红衣主教雷兹的那句“世间万物皆有其决定性瞬间”"
+  stance: 结构派
+  domain: 方法论
+  operational: case
+  single_source: true
+  note: 书中同时引纽曼「每时每刻都是决定性瞬间」的反驳，作者评为「充满常识，但也是在妥协」。
+
+- id: fs35
+  claim: 焦距影响观者在场景中的参与程度：远摄把主体拉远、显得冷静，广角把观者带入场景。
+  page: p101
+  quote: "焦距可以影响观者在场景中的参与程度，因此远摄镜头常将主体拉远，广角镜头则将观者带入场景中。"
+  stance: 结构派
+  domain: 器材与后期
+  operational: principle
+  single_source: true
+
+- id: fs36
+  claim: 远摄压缩图像平面、减弱深度感，因此便于把场景整理成一组平面来构图。
+  page: p055
+  quote: "广角镜头往往会增强线性透视，而远摄镜头则将它扁平化。"
+  stance: 结构派
+  domain: 空间
+  operational: principle
+  single_source: true
+
+- id: fs37
+  claim: 高色调黑白显得明亮生动，但高色调彩色常被读成发白与曝光错误——同一明度策略在彩色里会失效。
+  page: p111
+  quote: "高色调的黑白图像看起来明亮、生动（主体选择正确的话），但高色调的彩色图像就经常被负面解读，例如是发白和曝光错误。"
+  stance: 结构派
+  domain: 明度
+  operational: principle
+  single_source: true
+
+- id: fs38
+  claim: 歌德是第一个给色相赋亮度值的人：黄 9、橙 8、红 6、绿 6、蓝 4、紫 3。
+  page: p121
+  quote: "是第一个给色调赋值的人黄色为9，橙色为8，红色和绿色为6，蓝色为4，紫色为3"
+  stance: 结构派
+  domain: 明度
+  operational: calculation
+  single_source: false
+  note: 阿尔伯斯把这一组值归为叔本华改写歌德六色环的产物，口径不同。
+  contested_hint: K2
+
+- id: fs39
+  claim: 小面积的对比色具有与「点」相似的聚焦效果，但面积差异越大效果越弱。
+  page: p122
+  quote: "就如同从背景中清晰突出的细小物体在图形上发挥着一个点的功能，小区域的对比色也具有相似的聚焦效果。"
+  stance: 结构派
+  domain: 数量与面积
+  operational: principle
+  single_source: true
+
+- id: fs40
+  claim: 柔和色占据的视觉空间远大于强烈色彩，这是风光构图的默认底色。
+  page: p123
+  quote: "它们所占的视觉空间远小于柔和的绿色、褐色、赭色、肉色、石蓝色、灰色"
+  stance: 结构派
+  domain: 饱和度
+  operational: principle
+  single_source: true
+
+- id: fs41
+  claim: 通道混合能把任何色相渲染为黑白之间的任意值，故数码时代的黑白控制不再依赖彩色滤镜。
+  page: p127
+  quote: "如今Photoshop和类似应用中的通道混合能够把任何色相渲染为黑与白之间的任意值。"
+  stance: 结构派
+  domain: 器材与后期
+  operational: procedure
+  single_source: true
+
+- id: fs43
+  claim: 功效不是规则——某样东西适合一般人的口味，并不能使它变得更好。
+  page: p131
+  quote: "然而，重要的是要记住，功效并不是规则。"
+  stance: 结构派
+  domain: 方法论
+  operational: principle
+  single_source: true
+  contested_hint: K1
+
+- id: fs44
+  claim: 兴趣点增加到一定数量后会结合成「场景」图像，于是再次变得简单。
+  page: p139
+  quote: "在画幅中添加（或找到）更多的兴趣点会增加复杂性，也很费力，但是达到一定数量之后，兴趣点就会结合为“场景”图像，继而再次变得简单"
+  stance: 结构派
+  domain: 构图与结构
+  operational: principle
+  single_source: true
+
+- id: fs45
+  claim: 清晰的图像有力但要求低；模糊的图像要求较慢的阅读，可能吸引更久的注意力。
+  page: p141
+  quote: "清晰性强而有力，是新闻摄影的目标之一，但是比较模糊的图像要求较慢的阅读速度，可能会吸引更多的注意力"
+  stance: 结构派
+  domain: 构图与结构
+  operational: principle
+  single_source: true
+
+- id: fs47
+  claim: 并置之所以有效，是因为我们天生假设并排的事物之间存在关系。
+  page: p177
+  quote: "我们天生就倾向于假设并排的事物之间存在有关系"
+  stance: 结构派
+  domain: 构图与结构
+  operational: principle
+  single_source: true
+
+- id: fs48
+  claim: 探索必须有限制，摄影师要自己决定何时停止。
+  page: p167
+  quote: "探索必须是有限制的，这意味着摄影师必须决定何时停止。"
+  stance: 结构派
+  domain: 方法论
+  operational: heuristic
+  single_source: true
+
+- id: fs49
+  claim: 广角在探索上有天然优势：很小的视点变化就能对图像做出巨大改变。
+  page: p167
+  quote: "广角镜头在这里有着天然优势它只需要很小的视点变化就可以对图像做出巨大改变。"
+  stance: 结构派
+  domain: 器材与后期
+  operational: principle
+  single_source: true
+
+- id: fs50
+  claim: 回访有风险：最初吸引你的事物与拍摄可能性之间的组合，在另一个时间可能根本不存在。
+  page: p171
+  quote: "依靠回访来实现改进存在相当大的风险，因为最初吸引摄影师的事物与拍摄图像的可能性之间的组合不仅可能相当微妙，也可能在另一个时间里根本不存在。"
+  stance: 结构派
+  domain: 方法论
+  operational: heuristic
+  single_source: true

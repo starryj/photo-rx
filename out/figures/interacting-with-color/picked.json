@@ -1,0 +1,656 @@
+{
+  "slug": "interacting-with-color",
+  "n": 59,
+  "candidates": 59,
+  "items": [
+    {
+      "page_idx": 0,
+      "img": "a5c3e5898205e47a324cd4cc3908e345e582d2e35c7cbd0fd8a3090b771629a4.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\a5c3e5898205e47a324cd4cc3908e345e582d2e35c7cbd0fd8a3090b771629a4.jpg",
+      "frac": 0.714,
+      "px": [
+        1515,
+        1984
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 5,
+      "img": "2b5db90f53f584e94377bb488f7b016066b99acc700280803e5b1f7087e19e57.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\2b5db90f53f584e94377bb488f7b016066b99acc700280803e5b1f7087e19e57.jpg",
+      "frac": 0.1416,
+      "px": [
+        904,
+        607
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 7,
+      "img": "dd85f86ed8d6412410a91ecbda3eaa0f98e1fcbf9ee559bec33cf7a1257a9c7d.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\dd85f86ed8d6412410a91ecbda3eaa0f98e1fcbf9ee559bec33cf7a1257a9c7d.jpg",
+      "frac": 0.1624,
+      "px": [
+        906,
+        693
+      ],
+      "caption": "Josef Albers, Plate IV-1 from Interaction of Color, 1963,"
+    },
+    {
+      "page_idx": 8,
+      "img": "be7f891825b1ec90b060ca99e65d813ae7771d6a49a5a51c0eb6b47f8fc2d48d.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\be7f891825b1ec90b060ca99e65d813ae7771d6a49a5a51c0eb6b47f8fc2d48d.jpg",
+      "frac": 0.1594,
+      "px": [
+        898,
+        687
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 9,
+      "img": "80eff710b0169367eaca9d8f2e2e6ac7a479bfc61ce73d908098a4b8fc873578.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\80eff710b0169367eaca9d8f2e2e6ac7a479bfc61ce73d908098a4b8fc873578.jpg",
+      "frac": 0.1203,
+      "px": [
+        785,
+        595
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 9,
+      "img": "e0c57be77d298378b8f989190fdda085efe33d206391bdc3782b53306ab67b19.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\e0c57be77d298378b8f989190fdda085efe33d206391bdc3782b53306ab67b19.jpg",
+      "frac": 0.1065,
+      "px": [
+        904,
+        457
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 10,
+      "img": "d8b321c5b3e7a31ba99b5b78084dadad7752f7ee3b3b29c23a59e76d4a3935ad.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\d8b321c5b3e7a31ba99b5b78084dadad7752f7ee3b3b29c23a59e76d4a3935ad.jpg",
+      "frac": 0.14,
+      "px": [
+        901,
+        607
+      ],
+      "caption": "Participants in a 2023 workshop held at Western Connecticut State University begin to choose colors to experiment with color relativity, Photo by Sabrina Marques."
+    },
+    {
+      "page_idx": 12,
+      "img": "6fada20ae1b4294c8d78ee0372ae473c8e70a2c8ec80f1f4169fd8445016294b.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\6fada20ae1b4294c8d78ee0372ae473c8e70a2c8ec80f1f4169fd8445016294b.jpg",
+      "frac": 0.179,
+      "px": [
+        903,
+        773
+      ],
+      "caption": "Josef Albers's color course at Black Mountain College, 1944. Photo by Josef Breitenbach."
+    },
+    {
+      "page_idx": 12,
+      "img": "1a83390a38f6cb872f7566c98adc52514eafda1d2ab875b484e6992079c783ec.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\1a83390a38f6cb872f7566c98adc52514eafda1d2ab875b484e6992079c783ec.jpg",
+      "frac": 0.1708,
+      "px": [
+        901,
+        740
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 15,
+      "img": "55e51bcf59b545874b4dd5e284560a08f14366c9d666be647169c315581594dd.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\55e51bcf59b545874b4dd5e284560a08f14366c9d666be647169c315581594dd.jpg",
+      "frac": 0.1053,
+      "px": [
+        901,
+        454
+      ],
+      "caption": "Free study by Yale University student Stephen Chapman, ca. 1966, in which the small central rectangles appear to be three separate colors, but are in fact a single color."
+    },
+    {
+      "page_idx": 16,
+      "img": "1bb0fd90baa9b195a6f11fc26f83fc9bfe7a933734fbc549e8edc35e6d50f80b.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\1bb0fd90baa9b195a6f11fc26f83fc9bfe7a933734fbc549e8edc35e6d50f80b.jpg",
+      "frac": 0.1414,
+      "px": [
+        690,
+        798
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 18,
+      "img": "f2eaacbc72a1712531803a1cf55d1f9b513f32e888b9336018dfb6b75741826c.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\f2eaacbc72a1712531803a1cf55d1f9b513f32e888b9336018dfb6b75741826c.jpg",
+      "frac": 0.2235,
+      "px": [
+        904,
+        965
+      ],
+      "caption": "Snippets cut from newspapers and magazines are arranged to create a smooth gradation from dark gray to light gray."
+    },
+    {
+      "page_idx": 19,
+      "img": "b24a57aaeee39de42fafb7412f369e1ba3d6ee62f421ad6f7b2ddac4b82b4042.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\b24a57aaeee39de42fafb7412f369e1ba3d6ee62f421ad6f7b2ddac4b82b4042.jpg",
+      "frac": 0.1489,
+      "px": [
+        904,
+        643
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 19,
+      "img": "4eb3b98dfeb198cf54363f13b566bae5eb9b6c9328984aee24711a7fad371694.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\4eb3b98dfeb198cf54363f13b566bae5eb9b6c9328984aee24711a7fad371694.jpg",
+      "frac": 0.1235,
+      "px": [
+        898,
+        537
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 20,
+      "img": "b743e107b147898b57fe144089a7c2c9d5b0f3fc6e1b773f7af2d5263fc2bcd1.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\b743e107b147898b57fe144089a7c2c9d5b0f3fc6e1b773f7af2d5263fc2bcd1.jpg",
+      "frac": 0.1543,
+      "px": [
+        476,
+        1265
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 21,
+      "img": "f5fcf10a713a1ba144ca132b7aeeb5d32c51a7f5ffb849eef68a8a66666fa3df.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\f5fcf10a713a1ba144ca132b7aeeb5d32c51a7f5ffb849eef68a8a66666fa3df.jpg",
+      "frac": 0.2142,
+      "px": [
+        904,
+        926
+      ],
+      "caption": "Color gradation study by Princeton University student Jessica Zheng for Anya Klepikov's color class, 2017. Color-aid on paper. Because of color relativity, the thin triangle appears to be darker at the bottom and lighter at the top, though it is a single color of green throughout."
+    },
+    {
+      "page_idx": 21,
+      "img": "31948b8c06f09e2c6ebf49807050474b7f9472e7034cd4dd850ed1f17f902200.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\31948b8c06f09e2c6ebf49807050474b7f9472e7034cd4dd850ed1f17f902200.jpg",
+      "frac": 0.1366,
+      "px": [
+        659,
+        809
+      ],
+      "caption": "Josef Albers, Plate V-1a from Interaction of Color, 1963."
+    },
+    {
+      "page_idx": 23,
+      "img": "e18c62b35fab2756c0a45136d06dcd750d080cba7319ae6443b33a014f93726b.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\e18c62b35fab2756c0a45136d06dcd750d080cba7319ae6443b33a014f93726b.jpg",
+      "frac": 0.2048,
+      "px": [
+        892,
+        893
+      ],
+      "caption": "Josef Albers, Homage to the Square, 1971. Oil on Masonite, 40 × 40 in. (102 × 102 cm). Private collection."
+    },
+    {
+      "page_idx": 25,
+      "img": "0410fc9fc4494120b6d2449dfce59a57e32050cd89e3651f6f9c259b41f20fb7.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\0410fc9fc4494120b6d2449dfce59a57e32050cd89e3651f6f9c259b41f20fb7.jpg",
+      "frac": 0.1265,
+      "px": [
+        907,
+        545
+      ],
+      "caption": "Josef Albers, Plate VI-1a from Interaction of Color, 1963. A bar of middle blue has been added at the bottom of the image to make it clearer that the two small rectangles are the same color."
+    },
+    {
+      "page_idx": 26,
+      "img": "aa8b9ab93ce9da7e2727cf4e0300c04b09c32f451bca13ac9affdff598d285d0.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\aa8b9ab93ce9da7e2727cf4e0300c04b09c32f451bca13ac9affdff598d285d0.jpg",
+      "frac": 0.1179,
+      "px": [
+        904,
+        509
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 26,
+      "img": "424fe1b8d122d234ae0eb41579cd5d6269a12dae65663df98729d2ba0952ca08.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\424fe1b8d122d234ae0eb41579cd5d6269a12dae65663df98729d2ba0952ca08.jpg",
+      "frac": 0.1179,
+      "px": [
+        904,
+        509
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 27,
+      "img": "93e46ab56df0cfd51c63ead1b1ec29d3471dd604ff81eff19cede44f5b34034a.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\93e46ab56df0cfd51c63ead1b1ec29d3471dd604ff81eff19cede44f5b34034a.jpg",
+      "frac": 0.1027,
+      "px": [
+        468,
+        854
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 28,
+      "img": "bbc2665863256a9646d6a53f40ad8d541687ebd31f7fbb88eadaa8603765877b.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\bbc2665863256a9646d6a53f40ad8d541687ebd31f7fbb88eadaa8603765877b.jpg",
+      "frac": 0.1183,
+      "px": [
+        526,
+        879
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 29,
+      "img": "61424d2434d8dcbd6e5bf9a1e3d931b0d4c33841a17298f90011223dd6a87e2a.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\61424d2434d8dcbd6e5bf9a1e3d931b0d4c33841a17298f90011223dd6a87e2a.jpg",
+      "frac": 0.1576,
+      "px": [
+        904,
+        681
+      ],
+      "caption": "Josef Albers, Plate VI-3a from Interaction of Color, 1963."
+    },
+    {
+      "page_idx": 29,
+      "img": "66ad9b78b17d340d32eb29bf55f00caeecc453d65fc5b45bbd33b4b8872e32e1.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\66ad9b78b17d340d32eb29bf55f00caeecc453d65fc5b45bbd33b4b8872e32e1.jpg",
+      "frac": 0.1013,
+      "px": [
+        723,
+        548
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 30,
+      "img": "84b3251e48bae5d70ca62466edebc12b58c86fd80eaaf05dbaebe78ff0adb3f6.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\84b3251e48bae5d70ca62466edebc12b58c86fd80eaaf05dbaebe78ff0adb3f6.jpg",
+      "frac": 0.1478,
+      "px": [
+        873,
+        659
+      ],
+      "caption": "If you focus on the center of the U, its arms appear yellow on top of the green, and green on top of the yellow"
+    },
+    {
+      "page_idx": 30,
+      "img": "99c299ea6232e07f4c9134c3af001d68e8216a0903b56f0fad34bcf09fa3fabd.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\99c299ea6232e07f4c9134c3af001d68e8216a0903b56f0fad34bcf09fa3fabd.jpg",
+      "frac": 0.1099,
+      "px": [
+        912,
+        470
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 31,
+      "img": "eed0b5d8a0e15d30139c706b208e4fbe79175da1dec51dcd67ad73c97a675a09.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\eed0b5d8a0e15d30139c706b208e4fbe79175da1dec51dcd67ad73c97a675a09.jpg",
+      "frac": 0.2842,
+      "px": [
+        804,
+        1207
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 32,
+      "img": "eb4a150882a1c4299623e1e6add79e6cedab4b2c8b5ccdbd99133dce018f7cb4.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\eb4a150882a1c4299623e1e6add79e6cedab4b2c8b5ccdbd99133dce018f7cb4.jpg",
+      "frac": 0.1327,
+      "px": [
+        901,
+        576
+      ],
+      "caption": "Josef Albers, Plate VIII-1a from Interaction of Color, 1963."
+    },
+    {
+      "page_idx": 34,
+      "img": "4f306a16cc2e3ef7681ad04aed25911adeec9974c318dbdfd9b23785fb374e9d.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\4f306a16cc2e3ef7681ad04aed25911adeec9974c318dbdfd9b23785fb374e9d.jpg",
+      "frac": 0.9728,
+      "px": [
+        2246,
+        1842
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 37,
+      "img": "fafd222f2b2d8c7a62e1a1ce1354d5f6ac7f60c5944679286f9ab7417b120ad2.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\fafd222f2b2d8c7a62e1a1ce1354d5f6ac7f60c5944679286f9ab7417b120ad2.jpg",
+      "frac": 0.1407,
+      "px": [
+        901,
+        609
+      ],
+      "caption": "Western Connecticut State University students hold their eyes on the strip of orange for several seconds before the red paper is slowly slid to reveal more orange, creating an after-image effect. Photo by Sabrina Marques."
+    },
+    {
+      "page_idx": 39,
+      "img": "c00ce0f716927d994fd09fa155c3c638a863cbc77d34ec2e7d0ed6d7f53f7d2a.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\c00ce0f716927d994fd09fa155c3c638a863cbc77d34ec2e7d0ed6d7f53f7d2a.jpg",
+      "frac": 0.2113,
+      "px": [
+        909,
+        912
+      ],
+      "caption": "Josef Albers, Plate IX-1b from Interaction of Color, 1963."
+    },
+    {
+      "page_idx": 40,
+      "img": "6973e51759a6ed7b8713f6ac36d219ef633946fdfdaf1e0092a390c64150a370.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\6973e51759a6ed7b8713f6ac36d219ef633946fdfdaf1e0092a390c64150a370.jpg",
+      "frac": 0.1103,
+      "px": [
+        509,
+        842
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 43,
+      "img": "43c73299f95252c113cb6f12ffaa9dcc210402c0842f451d5042c7ffac79dc73.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\43c73299f95252c113cb6f12ffaa9dcc210402c0842f451d5042c7ffac79dc73.jpg",
+      "frac": 0.1985,
+      "px": [
+        929,
+        835
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 43,
+      "img": "4455ef190ddceb90beaea9f6bbd7c8157a359007a8bdc26c33c05a737874fb55.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\4455ef190ddceb90beaea9f6bbd7c8157a359007a8bdc26c33c05a737874fb55.jpg",
+      "frac": 0.1969,
+      "px": [
+        918,
+        837
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 44,
+      "img": "f52e46292f6b3cfaeb084940ceceebc49998ba5c5fdf6966c6fb9222e3768640.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\f52e46292f6b3cfaeb084940ceceebc49998ba5c5fdf6966c6fb9222e3768640.jpg",
+      "frac": 0.1689,
+      "px": [
+        903,
+        728
+      ],
+      "caption": "Illusion of transparence color study by Yale University Art School student Roland Paegle, ca. 1951-63. Color-aid paper on cardboard, Paegle found three yellows that created the appearance of the overlapping folds of an envelope and three different light greens that made it appear as if a note is tucked into the envelope."
+    },
+    {
+      "page_idx": 44,
+      "img": "2feb6b4de221dba231e3d7c0881ab4460354ac587b8093f92ed7282cbf2aea91.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\2feb6b4de221dba231e3d7c0881ab4460354ac587b8093f92ed7282cbf2aea91.jpg",
+      "frac": 0.1465,
+      "px": [
+        909,
+        629
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 45,
+      "img": "a4534eaaf35fe46791618b5556919b8225ed0d56205dd3401ded59ee916bf672.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\a4534eaaf35fe46791618b5556919b8225ed0d56205dd3401ded59ee916bf672.jpg",
+      "frac": 0.2053,
+      "px": [
+        934,
+        856
+      ],
+      "caption": "A maroon hand wraps around a light-pink glass. Where the hand is seen through the glass, it is a middle mixture of light pink and maroon."
+    },
+    {
+      "page_idx": 46,
+      "img": "ac24d3b6438b6fa8aa19493e2404091e32f47fac132da55d410197268aeb8295.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\ac24d3b6438b6fa8aa19493e2404091e32f47fac132da55d410197268aeb8295.jpg",
+      "frac": 0.21,
+      "px": [
+        901,
+        906
+      ],
+      "caption": "Josef Albers, Study for Homage to the Square: Lone Whites, 1963. Oil on Masonite, 24 × 24 in. (61 × 61 cm). The Josef and Anni Albers Foundation,"
+    },
+    {
+      "page_idx": 50,
+      "img": "f477faf46fcbe281c732c2a448180b0e84f1c7a718cc2a5fe798d3cf5d5a5e4b.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\f477faf46fcbe281c732c2a448180b0e84f1c7a718cc2a5fe798d3cf5d5a5e4b.jpg",
+      "frac": 0.153,
+      "px": [
+        912,
+        654
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 50,
+      "img": "0201d966b24255d42db2c2c3bb9955b7b0e3a6c596403ace09353f389c4aa609.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\0201d966b24255d42db2c2c3bb9955b7b0e3a6c596403ace09353f389c4aa609.jpg",
+      "frac": 0.1404,
+      "px": [
+        803,
+        681
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 51,
+      "img": "2ed93f0f86c754d54e00811f1db2402ec211de9fae7a2d564b17228dee208e30.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\2ed93f0f86c754d54e00811f1db2402ec211de9fae7a2d564b17228dee208e30.jpg",
+      "frac": 0.169,
+      "px": [
+        904,
+        728
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 52,
+      "img": "ca244494bb8ca6878ff69c435e819883ccd8a1e2f29a021911faec37c187d808.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\ca244494bb8ca6878ff69c435e819883ccd8a1e2f29a021911faec37c187d808.jpg",
+      "frac": 0.1582,
+      "px": [
+        906,
+        684
+      ],
+      "caption": "Josef Albers, Plate XIV-3b from Interaction of Color, 1963,"
+    },
+    {
+      "page_idx": 53,
+      "img": "2aeae99ac9c074692949f63c80cdf2d2e17308b77d552434d553d29774e3ab9c.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\2aeae99ac9c074692949f63c80cdf2d2e17308b77d552434d553d29774e3ab9c.jpg",
+      "frac": 0.1727,
+      "px": [
+        892,
+        753
+      ],
+      "caption": "Quilter Robin Green created a study of intervals using fabric. The difference in color between the dark-blue fabric and the gray fabric, for example, is the same as the difference between the dark-green and tan fabrics."
+    },
+    {
+      "page_idx": 53,
+      "img": "24bddd115536e7ee8c77d58bb29b0b8302df9ef63184720374aed95f0e411c88.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\24bddd115536e7ee8c77d58bb29b0b8302df9ef63184720374aed95f0e411c88.jpg",
+      "frac": 0.1052,
+      "px": [
+        906,
+        451
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 54,
+      "img": "4ad4f11067461b99d4a421582f91d94acb5b61983a52505f8004571cc6d9dc08.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\4ad4f11067461b99d4a421582f91d94acb5b61983a52505f8004571cc6d9dc08.jpg",
+      "frac": 0.1453,
+      "px": [
+        900,
+        623
+      ],
+      "caption": "Josef Albers, Reds + Ochre with Pink, 1948. Oil on Masonite, 17 3/4 × 25 5/8 in. (45 × 65 cm). Private collection."
+    },
+    {
+      "page_idx": 55,
+      "img": "d276f323ea16adb297545d2ba8f24db5572d7cfe87a46275ab0cb1640b2cc2ee.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\d276f323ea16adb297545d2ba8f24db5572d7cfe87a46275ab0cb1640b2cc2ee.jpg",
+      "frac": 0.1833,
+      "px": [
+        779,
+        779
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 57,
+      "img": "0cd956e4fcb31661a77662f043bc23c54df9c732a4ca62c2b91be13dcb304cb9.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\0cd956e4fcb31661a77662f043bc23c54df9c732a4ca62c2b91be13dcb304cb9.jpg",
+      "frac": 0.1161,
+      "px": [
+        749,
+        606
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 59,
+      "img": "45f68aa8cd805baeb2fd3cf6d64468d8bbc83551fd2e43c97bc9d3f7d338bd3d.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\45f68aa8cd805baeb2fd3cf6d64468d8bbc83551fd2e43c97bc9d3f7d338bd3d.jpg",
+      "frac": 0.3193,
+      "px": [
+        1035,
+        1201
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 60,
+      "img": "b6c399a0c06a394fb3d53d9f64b4581834cb08f3a6dc9e7f075aa2ed69019315.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\b6c399a0c06a394fb3d53d9f64b4581834cb08f3a6dc9e7f075aa2ed69019315.jpg",
+      "frac": 0.2434,
+      "px": [
+        920,
+        917
+      ],
+      "caption": "Josef Albers, Formulation: Articulation, Folio II / Folders 32 and 33, 1972. Silkscreen. The Josef and Anni Albers Foundation,"
+    },
+    {
+      "page_idx": 61,
+      "img": "1f1e219be6f6f9345809339fb63a9c36b37c7d3d3878566b222af63251851f50.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\1f1e219be6f6f9345809339fb63a9c36b37c7d3d3878566b222af63251851f50.jpg",
+      "frac": 0.1437,
+      "px": [
+        906,
+        612
+      ],
+      "caption": "Josef Albers, Plate XXV-2 from Interaction of Color, 1963."
+    },
+    {
+      "page_idx": 62,
+      "img": "75a33335d54612db86c1c792d84985eedbb9740aa70c073f00136e046f4e766a.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\75a33335d54612db86c1c792d84985eedbb9740aa70c073f00136e046f4e766a.jpg",
+      "frac": 0.1745,
+      "px": [
+        904,
+        742
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 63,
+      "img": "3a1a3020ad279fb14bdfc6a9e4a09762d3d4a6c3e5f35cf734ad529f17bd1a50.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\3a1a3020ad279fb14bdfc6a9e4a09762d3d4a6c3e5f35cf734ad529f17bd1a50.jpg",
+      "frac": 0.1557,
+      "px": [
+        892,
+        670
+      ],
+      "caption": "Maple leaves arranged in a gradation from small to large create a spiral. The natural shapes of the leaves are arranged to create a series of rectangular voids."
+    },
+    {
+      "page_idx": 63,
+      "img": "9ce9b233fe24fb44a13a5da11004d592e95f8a9d13cf7765eb30d8f07d35c806.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\9ce9b233fe24fb44a13a5da11004d592e95f8a9d13cf7765eb30d8f07d35c806.jpg",
+      "frac": 0.1409,
+      "px": [
+        901,
+        604
+      ],
+      "caption": "Leaves can be used whole or can be easily torn into smaller pieces or cut like paper."
+    },
+    {
+      "page_idx": 64,
+      "img": "af3b793ce566709f4177e38d08968cd02b15bea41dfc34c0ff036bff418c9198.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\af3b793ce566709f4177e38d08968cd02b15bea41dfc34c0ff036bff418c9198.jpg",
+      "frac": 0.1555,
+      "px": [
+        901,
+        665
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 64,
+      "img": "bfe9f03b63946f2c10c59ebef17fe35ff4dd2dea563b779316a052060135cf1e.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\bfe9f03b63946f2c10c59ebef17fe35ff4dd2dea563b779316a052060135cf1e.jpg",
+      "frac": 0.154,
+      "px": [
+        884,
+        673
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 66,
+      "img": "672144da99158396389a5d79a16e904f71306badca822392c2cdb7106a0c253f.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\672144da99158396389a5d79a16e904f71306badca822392c2cdb7106a0c253f.jpg",
+      "frac": 0.1385,
+      "px": [
+        900,
+        603
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 67,
+      "img": "8dfdf8cc906d35e8a1bf679d010a73ba7955f6051ed40df3120627cdf3c72d06.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\8dfdf8cc906d35e8a1bf679d010a73ba7955f6051ed40df3120627cdf3c72d06.jpg",
+      "frac": 0.1406,
+      "px": [
+        903,
+        610
+      ],
+      "caption": "Josef Albers discussing color temperature, Yale University, 1955-56. Photo by John Cohen."
+    },
+    {
+      "page_idx": 68,
+      "img": "80b5d3bc4aff55d030825a3c08d02c29c99b094acc466fdcc9fca240831a5fe6.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\interacting-with-color\\images\\80b5d3bc4aff55d030825a3c08d02c29c99b094acc466fdcc9fca240831a5fe6.jpg",
+      "frac": 0.1015,
+      "px": [
+        629,
+        634
+      ],
+      "caption": ""
+    }
+  ]
+}

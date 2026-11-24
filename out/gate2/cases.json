@@ -1,0 +1,212 @@
+[
+  {
+    "id": "ce-11",
+    "card": "chinese-eye",
+    "expect": "block",
+    "scenario": "这张是酒店走廊，一点透视，垂直线必须笔直。帮我按三远来排一下。",
+    "ground": "B 段禁用第 1 条：需要精确几何会聚的题材 → structure-read"
+  },
+  {
+    "id": "ce-12",
+    "card": "chinese-eye",
+    "expect": "block",
+    "scenario": "就拍一张，怎么拍出「以大观小」？",
+    "ground": "B 段：以大观小在摄影里几乎做不到，单张只能近似，须说明代价"
+  },
+  {
+    "id": "ce-13",
+    "card": "chinese-eye",
+    "expect": "pass",
+    "scenario": "这张是苏州园林的漏窗，我想让视线从窗口绕进去再出来。",
+    "ground": "B 段未覆盖：园林/山水正是本卡适用面"
+  },
+  {
+    "id": "ce-14",
+    "card": "chinese-eye",
+    "expect": "pass",
+    "scenario": "这张画面正中是一座空亭，其余全是雾。它凭什么能立住？",
+    "ground": "B 段未覆盖：空亭聚气属本卡正文"
+  },
+  {
+    "id": "cd-11",
+    "card": "color-decision",
+    "expect": "block",
+    "scenario": "我的打印机打出来偏暗，帮我配一下它的色彩配置文件。",
+    "ground": "B 段禁用第 2 条：色彩管理流程是工程问题"
+  },
+  {
+    "id": "cd-12",
+    "card": "color-decision",
+    "expect": "block",
+    "scenario": "这张是微信压过的截图，你帮我判断它的色相还准不准。",
+    "ground": "B 段禁用第 4 条：压缩严重的图色相读数不可靠"
+  },
+  {
+    "id": "cd-13",
+    "card": "color-decision",
+    "expect": "pass",
+    "scenario": "这片雪景几乎全是白和蓝，只有一个红色登山包占很小面积。那个红还重要吗？",
+    "ground": "B 段未覆盖：色彩强调的知觉判断"
+  },
+  {
+    "id": "cd-14",
+    "card": "color-decision",
+    "expect": "pass",
+    "scenario": "这张里紫色和绿色紧挨着，看着有点脏，为什么？",
+    "ground": "B 段未覆盖：同时对比/冷暖关系，本卡可答"
+  },
+  {
+    "id": "cs-11",
+    "card": "cull-select",
+    "expect": "block",
+    "scenario": "这 50 张里有几张拍到别人正脸，帮我判断该不该删。",
+    "ground": "B 段盲点：没有覆盖版权/肖像类剔除理由，须单独过一遍"
+  },
+  {
+    "id": "cs-12",
+    "card": "cull-select",
+    "expect": "block",
+    "scenario": "这张有点歪，你先帮我裁正，然后我再看留不留。",
+    "ground": "B 段禁用第 2 条：用户要的是「这张怎么改」→ frame-critique"
+  },
+  {
+    "id": "cs-13",
+    "card": "cull-select",
+    "expect": "pass",
+    "scenario": "这两百张我要挑 20 张给编辑初筛，少给几张也可以。",
+    "ground": "B 段未覆盖：用途明确、名额有余量，属本卡主场景"
+  },
+  {
+    "id": "cs-14",
+    "card": "cull-select",
+    "expect": "pass",
+    "scenario": "我先把相似的归成一组，每组留一张，这样对吗？",
+    "ground": "B 段未覆盖：分组取舍是选片本体"
+  },
+  {
+    "id": "cs-15",
+    "card": "cull-select",
+    "expect": "block",
+    "scenario": "把这 60 张按拍摄时间自动建文件夹归档。",
+    "ground": "B 段易混：选片 vs 归档，归档按时间地点，不是选片"
+  },
+  {
+    "id": "se-11",
+    "card": "sequence-edit",
+    "expect": "block",
+    "scenario": "就这一张，帮我设计一条色彩弧。",
+    "ground": "B 段禁用第 1 条：只有一张照片，无序列可谈"
+  },
+  {
+    "id": "se-12",
+    "card": "sequence-edit",
+    "expect": "block",
+    "scenario": "把这组做成 30 秒的视频，配乐帮我选一段。",
+    "ground": "B 段禁用第 4 条：需要配乐或剪辑时间码，本包不涉音视频"
+  },
+  {
+    "id": "se-13",
+    "card": "sequence-edit",
+    "expect": "pass",
+    "scenario": "同一条街同一个路口的 6 张，分别是雨、雾、晴、雪、黄昏、夜。怎么排？",
+    "ground": "B 段未覆盖：共同主体 + 明确变量，属序列编辑"
+  },
+  {
+    "id": "se-14",
+    "card": "sequence-edit",
+    "expect": "pass",
+    "scenario": "这 10 张的色调是暖→冷→暖，我这样排对吗？",
+    "ground": "B 段未覆盖：判弧正是本卡正文"
+  },
+  {
+    "id": "sp-11",
+    "card": "shoot-plan",
+    "expect": "block",
+    "scenario": "这张主体偏左了，帮我看看该往哪挪。",
+    "ground": "B 段禁用第 1 条：画面组织问题 → structure-read"
+  },
+  {
+    "id": "sp-12",
+    "card": "shoot-plan",
+    "expect": "block",
+    "scenario": "从这 30 张里帮我挑 8 张。",
+    "ground": "B 段禁用第 4 条：要在一堆照片里挑 → cull-select"
+  },
+  {
+    "id": "sp-13",
+    "card": "shoot-plan",
+    "expect": "pass",
+    "scenario": "正午在海边拍，光硬得没法看，怎么办？",
+    "ground": "B 段未覆盖：处理强烈阳光是本卡正文（失败模式里的「阴天」同类，非禁用）"
+  },
+  {
+    "id": "sp-14",
+    "card": "shoot-plan",
+    "expect": "pass",
+    "scenario": "晚上在霓虹街拍，白平衡该怎么定？",
+    "ground": "B 段未覆盖：本卡正管；盲点提到未讨论 LED 显色指数，那是声明前提不是拒绝"
+  },
+  {
+    "id": "sr-11",
+    "card": "structure-read",
+    "expect": "block",
+    "scenario": "给这张打个总分，再出一页报告。",
+    "ground": "B 段禁用第 2 条：要综合分数或报告页 → frame-critique"
+  },
+  {
+    "id": "sr-12",
+    "card": "structure-read",
+    "expect": "block",
+    "scenario": "这 20 张的排列顺序和配对帮我定一下。",
+    "ground": "B 段禁用第 3 条：一组照片的顺序与配对 → sequence-edit"
+  },
+  {
+    "id": "sr-13",
+    "card": "structure-read",
+    "expect": "pass",
+    "scenario": "这张右边空了一大块，算缺陷吗？",
+    "ground": "B 段未覆盖：平衡/重心的判断，本卡正文"
+  },
+  {
+    "id": "sr-14",
+    "card": "structure-read",
+    "expect": "pass",
+    "scenario": "我用长焦把前后景压在一起了，这样好吗？",
+    "ground": "B 段未覆盖：焦距对结构的影响是本卡正文；盲点只提计算摄影会改边界"
+  },
+  {
+    "id": "sr-15",
+    "card": "structure-read",
+    "expect": "pass",
+    "scenario": "主体我放在正中央，会不会太死板？",
+    "ground": "B 段未覆盖：中央静止的判断，本卡正文"
+  },
+  {
+    "id": "ws-11",
+    "card": "ways-of-seeing",
+    "expect": "block",
+    "scenario": "几月份去、带什么镜头？",
+    "ground": "B 段禁用第 1 条：要配方 → shoot-plan"
+  },
+  {
+    "id": "ws-12",
+    "card": "ways-of-seeing",
+    "expect": "block",
+    "scenario": "算一下这张的左右对称度，给个百分比。",
+    "ground": "B 段禁用第 2 条：要数值 → 直接跑脚本"
+  },
+  {
+    "id": "ws-13",
+    "card": "ways-of-seeing",
+    "expect": "pass",
+    "scenario": "我明知道主体在中间，可一眼就被左下角吸住了，为什么？",
+    "ground": "B 段未覆盖：知觉力与注意，本卡核心"
+  },
+  {
+    "id": "ws-14",
+    "card": "ways-of-seeing",
+    "expect": "pass",
+    "scenario": "有人说这张照片的构成像蒙德里安，这说明什么？",
+    "ground": "B 段未覆盖：先例塑造眼睛，本卡可答"
+  }
+]

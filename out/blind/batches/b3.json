@@ -1,0 +1,163 @@
+[
+ {
+  "n": 1,
+  "src": "color-decision",
+  "expect": "color-decision",
+  "prompt": "两张片子放一起，颜色关系完全不一样，是哪里变了",
+  "note": ""
+ },
+ {
+  "n": 2,
+  "src": "color-decision",
+  "expect": "color-decision",
+  "prompt": "同一个红，放黑底和白底完全不同，该怎么取舍",
+  "note": ""
+ },
+ {
+  "n": 3,
+  "src": "color-decision",
+  "expect": "none",
+  "prompt": "帮我把这张图的 RAW 转成 JPG",
+  "note": ""
+ },
+ {
+  "n": 4,
+  "src": "structure-read",
+  "expect": "structure-read",
+  "prompt": "这张为什么看着很散，是元素太多了吗",
+  "note": ""
+ },
+ {
+  "n": 5,
+  "src": "structure-read",
+  "expect": "structure-read",
+  "prompt": "照片里的节奏感是怎么来的",
+  "note": ""
+ },
+ {
+  "n": 6,
+  "src": "structure-read",
+  "expect": "none",
+  "prompt": "帮我把这张转成 4:5 并加上白边",
+  "note": ""
+ },
+ {
+  "n": 7,
+  "src": "shoot-plan",
+  "expect": "shoot-plan",
+  "prompt": "逆光拍人像，脸黑怎么办",
+  "note": ""
+ },
+ {
+  "n": 8,
+  "src": "shoot-plan",
+  "expect": "shoot-plan",
+  "prompt": "拍金属表面怎么布光才不出死白",
+  "note": ""
+ },
+ {
+  "n": 9,
+  "src": "shoot-plan",
+  "expect": "none",
+  "prompt": "帮我下载一个免费的 LUT 包",
+  "note": ""
+ },
+ {
+  "n": 10,
+  "src": "ways-of-seeing",
+  "expect": "ways-of-seeing",
+  "prompt": "两条建议互相打架，该信哪条",
+  "note": ""
+ },
+ {
+  "n": 11,
+  "src": "ways-of-seeing",
+  "expect": "ways-of-seeing",
+  "prompt": "客户说不喜欢，但说不出哪里不对，我想搞明白机制",
+  "note": ""
+ },
+ {
+  "n": 12,
+  "src": "ways-of-seeing",
+  "expect": "none",
+  "prompt": "帮我总结一下这本书的第三章",
+  "note": ""
+ },
+ {
+  "n": 13,
+  "src": "chinese-eye",
+  "expect": "chinese-eye",
+  "prompt": "三远里我这张算哪一种",
+  "note": ""
+ },
+ {
+  "n": 14,
+  "src": "chinese-eye",
+  "expect": "chinese-eye",
+  "prompt": "拍摄点换一下，是不是更像平远",
+  "note": ""
+ },
+ {
+  "n": 15,
+  "src": "chinese-eye",
+  "expect": "none",
+  "prompt": "帮我找一首写山的古诗",
+  "note": ""
+ },
+ {
+  "n": 16,
+  "src": "sequence-edit",
+  "expect": "sequence-edit",
+  "prompt": "中间有一段太平了，怎么救",
+  "note": ""
+ },
+ {
+  "n": 17,
+  "src": "sequence-edit",
+  "expect": "sequence-edit",
+  "prompt": "组照和单张的标准一样吗",
+  "note": ""
+ },
+ {
+  "n": 18,
+  "src": "sequence-edit",
+  "expect": "none",
+  "prompt": "帮我把这组照片排版成画册",
+  "note": ""
+ },
+ {
+  "n": 19,
+  "src": "cull-select",
+  "expect": "cull-select",
+  "prompt": "这张技术上没问题，但我不想用，算不算理由",
+  "note": ""
+ },
+ {
+  "n": 20,
+  "src": "cull-select",
+  "expect": "cull-select",
+  "prompt": "封面用哪张",
+  "note": ""
+ },
+ {
+  "n": 21,
+  "src": "cull-select",
+  "expect": "none",
+  "prompt": "帮我把这批照片按人脸分组",
+  "note": ""
+ },
+ {
+  "n": 22,
+  "src": "photo-vision",
+  "expect": "photo-vision",
+  "prompt": "这张照片我总觉得不对，但说不清是构图还是颜色",
+  "note": ""
+ },
+ {
+  "n": 23,
+  "src": "photo-vision",
+  "expect": "photo-vision",
+  "prompt": "帮我看看我这半年的片子整体问题在哪",
+  "note": ""
+ }
+]

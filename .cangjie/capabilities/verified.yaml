@@ -1,0 +1,444 @@
+schema_version: 1
+bundle_id: bundle.photo-vision
+book:
+  title: photo-vision 批一至批八：摄影色彩圣经 / Interacting with Color / Interaction of Color / 摄影师的视界 / 光线与用光 / 艺术与视知觉 / 艺术与错觉 / 中国美学史大纲 / 美学散步 / The Art of Pixar / 林泉高致 / 摄影构图与色彩设计 / 观看之道 / 秩序感
+  author: Jeff Wignall / Fritz Horstman / Josef Albers / Michael Freeman / Michael Freeman & Catherine Quinn / Rudolf Arnheim / E.H. Gombrich / 叶朗 / 宗白华 / Amid Amidi / 郭熙（杨伯 编著） / 哈拉尔德·曼特 / 约翰·伯格 / E.H. 贡布里希（秩序感）
+  source_pack: books/{linquan-gaozhi,color-bible,interacting-with-color,interaction-of-color,freeman-sight,freeman-light,arnheim-art,gombrich-illusion,chinese-aesthetics,meixue-sanbu,art-of-pixar,photo-composition-color,ways-of-seeing,sense-of-order}/source/book.md
+  baseline_tag: 人民邮电 2013 中译本（张悦时译）/ Yale UP 2024 / Yale UP 第50周年版 / 人民邮电 2020.10 中译本（梁波译）/ 人民邮电 2013.1 中译本（梅菲译）/ 四川人民 2019 中译本（滕守尧译）/ 第六版 / 上海人民 1985（2006 印）/ 上海人民 2015 彩图本 / Chronicle Books 2011（epub
+    转 HTML） / 中华书局（杨伯 编著，含注释·译文·点评） / 中国青年出版社 2013.12 第 2 版（赵嫣／梅叶挺／梅蒋巧 译） / 广西师范大学出版社 2005.1（戴行钺译，ISBN 7-5633-5096-9） / 广西美术出版社 2014.12（杨思梁、徐一维、范景中译，ISBN 978-7-5494-1236-5）
+entry:
+  name: photo-vision
+  description: 把十四本书蒸馏成「色彩—结构—光线—视看机制—中国观看—序列编排」六条判断线：色彩线量事实、定主导对比、判数量并按意图分岔；结构线判画幅、分割、平衡、纵深与引导；光线线定光质、光位、时段、曝光与白平衡；机制层回答「为什么会这样看」；中国观看线回答「为什么这张空／该怎么留」；序列线回答「一批怎么排、留哪些、删哪些」。曼特补进的是可数规则：点数与分割块数、八等分 3:5、面积和谐的亮度反比、组照 10–15 张的起点。批八两本只进知识层：《观看之道》补视看的语境（复制、裸像、广告），《秩序感》补预期与显著点。跨书冲突（K1 和谐、K5 规则、K6 自我表达、K7 照片能否裁决、K11
+    视点、K12 虚实、K13 逼真、K14 单张与整体的尺、K15 色彩意义的层）在运行时按 branch / downgrade / qualify / split 处置，不做折中。
+  core_principles:
+  - 视觉里看到的色几乎从不是它物理上实际是的那色——色彩是最相对的媒介。
+  - 任何色都能与任何色搭配，前提是数量合适；和谐不是唯一可欲的关系。
+  - 看是建构不是接收：整体大于部分之和，第一层知觉是方向性的力。
+  - 构图的两个基本原则是对比与平衡，但「功效不是规则」——规则是条件判词。
+  - 光质决定阴影边缘，光位决定形状与质感，时段与天气决定可用范围。
+  - 画幅先于一切，分割是比例，元素可降到点线面三级。
+  - 点线面的组合是可数的：点数、分割块数、方向后果与面积占比都能当场数出来；数出来的是事实，判断仍要看意图。
+  - 色彩的面积和谐可按亮度值反比估算（歌德值取反），但那是理论基准，实际以训练过的眼睛为准。
+  - 视觉判断不能被照片裁决：数值以仪器为准，色相以眼睛为准，模型描述不得冒充测量。
+  - 三远是三种观看方式而非三个机位；虚实相生，空要由实来显。
+  - 逼真只是西方再现传统内的选择，不是评价照片的通用轴。
+  - 单张有单张的尺，序列有序列的尺；序列里的弱帧可以是正确的，但它的缺陷仍要被指出。
+  - 选片先定用途再定去留：删的理由只有重复、离题、技术不可用、破坏整体四类。
+  - 比例按量级算，不按观感算：山大于木、木大于人，且必须大出数十百倍才显其大（郭熙「三大」）；没有共同单位时先找最小可辨识物当尺。
+  - 秩序感来自预期与偏差：完全符合预期的画面没有信息，显著点是延续的中断。
+  - 观看先于言语；取景是选择，复制与配文会重写影像的含义。
+  - 一张照片同时问到两个域（如色彩与构图）时，先结构后色彩、合成一页回答；问到三个以上域时，先问用户最想解决哪一个，不许一口气全给。
+  - 多张照片先问是不是同一组：同组再分「怎么排」（sequence-edit）与「留哪些」（cull-select）；不同组不按组照处理。
+  out_of_scope:
+  - 色彩管理工程（显示器校准、ICC 特性文件、打印机配置）。
+  - 器材选购、镜头评测与相机推荐。
+  - 客户与市场口味判断、奖项与商业价值预测。
+  - 影像的真伪鉴别（单帧取证、AI 生成判定）。
+  - 编排与选片的具体操作（读卡、批量重命名、导入导出、相册同步、代删文件）。
+  - 不解释「照片为什么会被这样看」的知觉机制之外的美学流派争论
+  stop_conditions:
+  - 用户只要一句「好看／不好看」，不接受关系分析时，停止。
+  - 画面信息不足（截图过小、压缩严重、只有文字描述无图像）时，先声明色相与结构读数不可靠，只给相对结论；不得凭空填数值。
+  - 用户问的是「内容好不好」，属于内容轨，本包不回答，也不许拿色彩或结构替内容辩护。
+  - 需要具体软件参数（某版本滑块数值、某相机预设）时，说明这需要按用户器材确认，不虚构。
+  - 用户要求出分数或报告页时，只按 frame-critique 的量表口径给，并声明维度表尚未统一识别。
+router_entry:
+  name: photo-vision
+  description: 当用户拿照片问「哪里不对／怎么改」「为什么看着不舒服」「颜色怎么调」「留白该怎么留」，或要定拍摄计划、判断一张照片成不成立、给一批照片排序与取舍时使用；覆盖色彩关系、构图结构、光线时段、视看机制、中国观看与序列编排六条线。也用于用户没有具体照片、只问该从哪里入手、先练什么、给自己定一套检查标准、或问某个题材该往哪个方向深挖这类学习路径与方向问题；也用于用户问某个概念或术语本身是什么意思（如「气韵生动」「三远」「虚实相生」「三大」），此时按术语表作解释，不必有照片。不适用于影像真伪鉴别、色彩管理工程、修图软件操作与纯器材评测。
+promotion_budget: 8
+capabilities:
+- capability_id: cap.photo-vision.color-decision
+  revision: 5
+  status: active
+  slug: color-decision
+  title: 色彩关系诊断与取色决策
+  importance: critical
+  importance_rationale: 色彩四书（色彩圣经、Interacting with Color、Interaction of Color、曼特《摄影构图与色彩设计》）的可操作部分都由它承接；它把「色彩不对」拆成测量、数量、关系三类问题，并用主导对比与数量两维度给出可执行路径，遗漏它色彩这一路就没有可调用的产出。
+  one_liner: 先量事实，再定主导对比，判数量，按意图分岔，最后只改数量与明暗、慎改色相。
+  intents:
+  - 诊断一张照片的色彩关系
+  - 给一组配色定方向
+  - 判断两色该各占多大面积
+  - 统一一组照片的色彩基调
+  - 决定要和谐还是要张力
+  keywords:
+  - 配色
+  - 色彩诊断
+  - 主导对比
+  - 饱和度
+  - 色调统一
+  - color palette
+  - color harmony
+  - dominant contrast
+  also_read:
+  - structure-read
+  - shoot-plan
+  card: cards/color-decision.md
+  frontmatter:
+    description: 当用户拿一张照片或一组照片问「颜色怎么不对劲／怎么调／该往哪个方向改」，或要定一组配色、判断两色面积、 统一一组照片的色调时使用。做法是先量事实（面积、L 值、色相族）、再定主导对比、判数量，然后按「协调／张力」意图分岔， 最后给 2–4 条调整路径并写明失效条件。不适用于色彩管理工程、构图结构诊断、拍摄时段的用光计划与「好看不好看」的口味争论。
+    tags:
+    - color
+    - diagnosis
+    - decision
+    - measurement
+  source_evidence:
+  - source_id: src-color-bible
+    location: 色彩圣经 p046、p050、p055、p124、p138、p176
+  - source_id: src-interacting
+    location: Interacting with Color p017、p021、p046、p050、p057
+  - source_id: src-albers
+    location: Interaction of Color p016、p017、p024、p029、p037、p059、p082
+  - source_id: src-freeman-sight
+    location: 摄影师的视界 p121、p122、p123、p127
+  - source_id: src-mant
+    location: 摄影构图与色彩设计 p122、p127、p128、p130、p131、p133、p137、p147、p150
+  - source_id: src-sense-of-order
+    location: 秩序感 p172（相邻色的同时对比）
+  promotion:
+    destination: promoted
+    gate:
+      independent_intent: true
+      independent_contract: true
+      independent_run: true
+      independent_reuse: true
+      independent_eval: true
+    notes: 批一唯一晋级能力；批二补入歌德亮度赋值与通道混合两条，revision 升到 2。独立意图＝「色彩关系成立吗」；独立契约＝事实表＋主导对比＋数量＋路径＋失效条件；独立运行＝可用单张照片走完六步；复用＝同一流程用于定配色与统一基调；评测＝24 条触发用例 + 16 条输出断言。
+- capability_id: cap.photo-vision.structure-read
+  revision: 3
+  status: active
+  slug: structure-read
+  title: 画面骨架读取
+  importance: critical
+  importance_rationale: 批二新增、批七补入曼特点线面计数与八等分的结构能力；它承接《摄影师的视界》与曼特《摄影构图与色彩设计》的可操作部分，回答的是「这张照片靠什么立住、哪里散」，是色彩诊断之外另一半判断，缺它则所有非色彩的问题（空、挤、平、剪裁、机位）都无处安放。批八又补入《秩序感》的显著点与边框中断，用来解释「为什么这处先被看见」。
+  one_liner: 画幅→分割→元素→关系→纵深→引导，六段各给判据与一个可数的量。
+  intents:
+  - 诊断一张照片的结构问题
+  - 判断主体该放哪、偏离中心要不要理由
+  - 决定横竖与画幅
+  - 判断地平线高低与剪裁取舍
+  - 判断画面是节奏还是图案
+  - 判断纵深与视觉引导是否成立
+  keywords:
+  - 构图
+  - 骨架
+  - 画幅
+  - 分割
+  - 平衡
+  - 节奏
+  - 纵深
+  - composition
+  - framing
+  - visual weight
+  also_read:
+  - color-decision
+  - shoot-plan
+  card: cards/structure-read.md
+  frontmatter:
+    description: 当用户拿一张照片说「看着有点乱／散／挤／平／空」，或问主体放哪、横竖怎么选、地平线放多高、裁到哪合适、 三分法与黄金分割在具体照片上成不成立时使用。做法是按画幅—分割—元素—关系—纵深—引导六段各给判据与一个可数的量， 收束成一句「靠什么立住」加 2–3 条按代价排序的改动。不适用于色彩关系诊断、综合打分、一组照片的顺序编排与拍摄时段的用光计划。
+    tags:
+    - composition
+    - structure
+    - framing
+    - diagnosis
+  source_evidence:
+  - source_id: src-freeman-sight
+    location: 摄影师的视界 p003、p013、p017、p019、p021、p029、p031、p043、p049、p051、p077、p091、p095、p157、p169
+  - source_id: src-mant
+    location: 摄影构图与色彩设计 p024、p029、p035、p041、p045、p051、p055、p057、p061、p065、p068、p071、p075、p111、p115
+  - source_id: src-sense-of-order
+    location: 秩序感 p127、p138、p139、p141、p144、p146、p150、p155、p158、p159、p162、p180、p187、p188、p201、p294、p328、p330
+  promotion:
+    destination: promoted
+    gate:
+      independent_intent: true
+      independent_contract: true
+      independent_run: true
+      independent_reuse: true
+      independent_eval: false
+    notes: 独立意图＝「骨架成立吗」；独立契约＝六段判据＋一句主导判断＋按代价排序的改动；独立运行＝可用单张照片走完七步；复用＝同一流程用于拍前看现场与拍后诊断；评测未做（批二暂不重跑盲测，待批五统一验收）。
+- capability_id: cap.photo-vision.shoot-plan
+  revision: 2
+  status: active
+  slug: shoot-plan
+  title: 光线与时段计划
+  importance: high
+  importance_rationale: 批二新增的光线能力，承接《光线与用光》全部可操作部分，批七补入曼特的快门前八项清单与画幅语义；它把「光不好」这种感受拆成光质、光位、时刻、曝光、色彩、配件六段可执行计划，是唯一面向「拍之前」的能力，缺它则整个包只能事后诊断。
+  one_liner: 先定光质与光位，再定时段与天气，然后定曝光、色彩与配件，最后收成一张能照着执行的时段表。
+  intents:
+  - 计划一次拍摄的时段与用光
+  - 判断阴天正午逆光各自能拍什么
+  - 决定用什么光质与光位拍出某种质感
+  - 决定白平衡该校正还是刻意偏移
+  - 决定要不要偏振镜、渐变镜、反光板或闪光
+  keywords:
+  - 光线
+  - 时段
+  - 金色时刻
+  - 硬光
+  - 柔光
+  - 逆光
+  - 白平衡
+  - lighting
+  - golden hour
+  - hard light
+  - backlight
+  also_read:
+  - structure-read
+  - color-decision
+  card: cards/shoot-plan.md
+  frontmatter:
+    description: 当用户问「几点去拍最好」「阴天能拍什么」「正午怎么拍」「怎么拍出质感」「逆光怎么曝」「白平衡要不要校正」 「闪光灯和环境光怎么配」时使用。做法是先定光质与光位、再定时段与天气，然后定曝光、色彩与配件， 最后收成一张时段表并给每条的失效条件。不适用于画面组织与剪裁、色彩关系诊断、事后打分与器材购买推荐。
+    tags:
+    - lighting
+    - planning
+    - exposure
+    - white-balance
+  source_evidence:
+  - source_id: src-freeman-light
+    location: 光线与用光 p024、p027、p030、p032、p042、p045、p052、p057、p064、p065、p080、p123、p125、p131、p133、p141、p142
+  - source_id: src-mant
+    location: 摄影构图与色彩设计 p157、p158、p168
+  promotion:
+    destination: promoted
+    gate:
+      independent_intent: true
+      independent_contract: true
+      independent_run: true
+      independent_reuse: true
+      independent_eval: false
+    notes: 独立意图＝「这次拍摄的光该怎么安排」；独立契约＝六段判据＋时段表＋器材清单＋失效条件；独立运行＝可对一个真实地点走完八步；复用＝同一流程用于风光、人像、夜景与室内；评测未做（批二暂不重跑盲测，待批五统一验收）。
+- capability_id: cap.photo-vision.ways-of-seeing
+  revision: 2
+  status: active
+  slug: ways-of-seeing
+  title: 视看机制：为什么会被看成这样
+  importance: high
+  importance_rationale: 批三新增的机制层，来自阿恩海姆与贡布里希。它不产生新配方，而是给前四张卡提供上游解释：当两条规则打架、当判断被质疑、当照片合规却不好看时，只有它能回答「为什么」。缺它则整个包只能给建议、不能自证，也无法处理「违规却站得住」这类真实情况。批八补入伯格《观看之道》，在知觉机制之外再加一层语境：复制、收藏、配文与广告都会改写影像的含义。
+  one_liner: 用格式塔与再现心理学解释一张照片为什么被读成这样，并只给一条能改变力结构的动作。
+  intents:
+  - 解释一张照片为什么看着别扭
+  - 解释明明对称为什么不稳
+  - 判断两条互相矛盾的建议该听哪条的上游
+  - 说明一个判断凭什么成立
+  - 向别人讲清原理而不是替别人做决定
+  keywords:
+  - 为什么
+  - 原理
+  - 机制
+  - 格式塔
+  - 张力
+  - 视觉重量
+  - 错觉
+  - 图式
+  - why
+  - mechanism
+  - gestalt
+  - tension
+  - illusion
+  - schema
+  card: cards/ways-of-seeing.md
+  also_read:
+  - structure-read
+  - color-decision
+  source_evidence:
+  - source_id: src-arnheim-art
+    location: 艺术与视知觉 p011、p024、p030–p034、p045–p052、p056、p064、p108、p116、p118、p128、p146、p054
+  - source_id: src-gombrich-illusion
+    location: 艺术与错觉 p028、p180、p235、p016、p140
+  - source_id: src-ways-of-seeing
+    location: 观看之道 p006、p007、p008、p016、p020、p031、p036、p052、p060、p061、p072、p092、p098、p109、p118、p122、p147、p149、p151、p158、p163
+  frontmatter:
+    description: 当用户问「为什么这张看着别扭」「为什么明明对称却不稳」「凭什么说这里重」「合规为什么不好看」「这条规则和那条打架听谁的」时使用。做法是先说力再说物体、找抵消点与不稳点、查分离线索、判读法是被图式带走还是被画面逼出，最后收成一句因果并至多给一条改变力结构的动作。不适用于要配方、要数值、要打分，不适用于讲理论源流、学派与心理学史（那类只要知识不要诊断），也不适用于同时牵涉构图与颜色的整体整改——那种多线请求交给包入口统一分派。
+    tags:
+    - mechanism
+    - gestalt
+    - explanation
+    - critique
+  promotion:
+    destination: promoted
+    gate:
+      independent_intent: true
+      independent_contract: true
+      independent_run: true
+      independent_reuse: true
+      independent_eval: false
+    notes: 独立意图＝「为什么会这样」；独立契约＝五步流程＋只给一条动作＋不产出数值与分数；独立运行＝可对一张真实照片走完五步；复用＝同一流程用于解释位置、边界、冷暖、模糊度四类问题；评测未做（批三暂不重跑盲测，待批五统一验收）。
+- capability_id: cap.photo-vision.chinese-eye
+  revision: 1
+  status: active
+  slug: chinese-eye
+  title: 中国观看体系：三远、留白与多角度观照
+  importance: high
+  importance_rationale: 前八本书全部是西方的（色彩学、再现心理学、格式塔、器材实操），包在「空、散、气、意境」这类问法上完全无语料。批四补上的正是另一套空间观：三远、虚实相生、多角度观照。它不替代 structure-read，而是在用户问「为什么这张空」时给出结构派给不出的答案，并与 K11/K12 两条对抗绑定。 batch 6 把郭熙《林泉高致》收进来之后，三远、三大、远近分工、景外意都改由第一手支撑；此前全靠宗白华与叶朗的转引，且两处措辞与原文有差（「冲融而缥缈」「矫侈之目」），已按原文改正。
+  one_liner: 先定这套画面走哪一套空间，再选一远、查远近分工、验虚实承重、找气眼，最后只给换机位与加减虚实两条动作。
+  intents:
+  - 判断一张照片为什么显得空或散
+  - 决定留白留多少、往哪儿留
+  - 想做出中国画式的空间感
+  - 反复换机位却不知道换到哪
+  - 被「压中线」与「留白」两种说法夹住时选边
+  keywords:
+  - 留白
+  - 空白
+  - 空
+  - 散
+  - 气韵
+  - 意境
+  - 三远
+  - 高远
+  - 深远
+  - 平远
+  - 散点透视
+  - 以大观小
+  - 虚实
+  - 空亭
+  - 气眼
+  - 中国画
+  - negative space
+  - empty
+  - Chinese painting
+  - three distances
+  - shifting viewpoint
+  also_read:
+  - structure-read
+  - ways-of-seeing
+  - color-decision
+  card: cards/chinese-eye.md
+  frontmatter:
+    description: 当用户问「这张为什么显得空／散／没气」「留白该怎么留」「总想换机位但不知道换到哪」「想拍出中国画那种空间感」，或在中式观看与西式构图之间拿不定主意时使用。做法是先判这套画面走单点收束还是游走折返，再定哪一远、查远近分工（势与质）、验虚实承重（一鳞一爪能否使全体宛然）、找气眼，最后只给换机位与加减虚实两类动作。不适用于需要精确几何会聚的建筑与产品、曝光与色温问题、色彩面积配比，也不适用于用户明确只接受西式构图规则的场合。
+      也可用于按郭熙「三大」量级比例（山大于木、木大于人）自查主次。
+    tags:
+    - chinese
+    - space
+    - composition
+    - negative-space
+  source_evidence:
+  - source_id: src-linquan-gaozhi
+    location: 林泉高致 p023、p027、p047、p050、p054、p063、p079、p081、p087、p108
+  - source_id: src-meixue
+    location: 美学散步 p102、p107、p108、p111、p112、p124、p129、p131、p132、p133、p138
+  - source_id: src-chinese-aesthetics
+    location: 中国美学史大纲 p287、p288、p290、p291、p293、p298
+  promotion:
+    destination: promoted
+    gate:
+      independent_intent: true
+      independent_contract: true
+      independent_run: true
+      independent_reuse: true
+      independent_eval: false
+    notes: 独立意图＝「这张为什么空／该怎么留」；独立契约＝空间归属判定＋一远＋远近分工＋虚实承重＋气眼＋两条动作；独立运行＝可用单张照片或一段画面描述走完六步；复用＝风景、建筑、静物、街拍都能用（人像需翻译，已在 B 段声明）；评测未做——批四只有单卡，样本不足，留到批五统一盲测。
+- capability_id: cap.photo-vision.sequence-edit
+  revision: 2
+  status: active
+  slug: sequence-edit
+  title: 序列编排：色彩弧、减法与专有意义
+  importance: high
+  importance_rationale: 前九本书全部在讲单张（怎么拍、怎么评、怎么配色），没有一本回答「一批照片怎么排」。批五的 Pixar colorscript 正好是唯一系统化讲这件事的材料：它把全片色彩压成一条胶片，靠换调色板制造起伏。批七的曼特又补了组照张数、整组评判与连续摄影三条可操作判据。缺了它，包只能评单张、不能评作品。
+  one_liner: 先定用途与读者，再把每张压成只看色与明暗，读出当前弧的方向，定一对贯穿的对抗关系，做减法与位移，最后收成一句弧的描述加三条动作。
+  intents:
+  - 一批照片怎么排顺序
+  - 整组照片色调该怎么走
+  - 单张都不错放一起却显得散
+  - 组照里该不该放一张明显较弱的片子
+  - 要把照片配音乐或文字做成短片
+  keywords:
+  - 组照
+  - 排序
+  - 顺序
+  - 序列
+  - 色彩弧
+  - 调性
+  - 编排
+  - 画册
+  - 短片
+  - 选片排序
+  - sequence
+  - edit
+  - color arc
+  - picture edit
+  - slideshow
+  - body of work
+  also_read:
+  - cull-select
+  - frame-critique
+  - chinese-eye
+  card: cards/sequence-edit.md
+  frontmatter:
+    description: 当用户手里有一批照片要排成组照、画册、网页或配乐短片，问「怎么排／顺序有没有讲究／放在一起为什么散」，或要给一部作品定整体色调走向时使用。做法是先定用途与读者，把每张压成只看色与明暗的三格数据，读出当前弧的升/降/平，定一对贯穿的对抗关系，再做减法与位移，最后交出一句弧的描述加至多三条动作。只管顺序、段落与整体色调走向；不管排版制作（画册开本、出血、软件里的页序）、起标题写说明与具体配乐或剪辑时间码——那几类是制作与文案，不是编排判断。也不适用于单张诊断与打分（用
+      frame-critique）与只问淘汰不问顺序（用 cull-select）。
+    tags:
+    - sequence
+    - editing
+    - color-arc
+    - series
+  source_evidence:
+  - source_id: src-pixar
+    location: The Art of Pixar p006、p007
+  - source_id: src-mant
+    location: 摄影构图与色彩设计 p187、p190、p202、p203
+  promotion:
+    destination: promoted
+    gate:
+      independent_intent: true
+      independent_contract: true
+      independent_run: true
+      independent_reuse: true
+      independent_eval: false
+    notes: 独立意图＝「一批怎么排」；独立契约＝用途＋三格数据表＋弧方向＋对抗关系＋增删换位＋一句弧；独立运行＝用两张实拍（DSC_3836 / DSC_4902）已走通并写出两种顺序两种语义；复用＝任何有共同主题的一批片子都能用；评测未做——与批四同样的原因（单卡样本不足），统一留到全部批次结束后的盲测。
+- capability_id: cap.photo-vision.cull-select
+  revision: 1
+  status: active
+  slug: cull-select
+  title: 选片：按用途取舍，而不是按好看排序
+  importance: high
+  importance_rationale: 选片是摄影里发生频率最高的判断（每次都拍多于能用），但九本书里只有零散纪律（探索必须有界限、不要拿裁剪当借口、别把高饱和图当成品）。batch 5 的 Pixar 材料给出了一条最锋利的判据：这不是做漂亮的图。这条把选片从审美排序改写成功能取舍，是包里唯一能回答「留哪些」的能力。
+  one_liner: 先问清用途与名额，再分组不排序，按重复/离题/技术不可用/破坏整体四类硬理由删，做缩略图复核，三轮停机，最后把留下的交给 sequence-edit。
+  intents:
+  - 拍了一堆挑不出来
+  - 只能交五张，选哪五张
+  - 这些里留哪几张
+  - 两张之间选不出来
+  - 整批都不满意但说不上为什么
+  keywords:
+  - 选片
+  - 筛片
+  - 留哪张
+  - 删哪张
+  - 挑照片
+  - 淘汰
+  - 名额
+  - 投稿选片
+  - cull
+  - select
+  - pick
+  - narrow down
+  - keep or delete
+  also_read:
+  - sequence-edit
+  - frame-critique
+  - shoot-plan
+  card: cards/cull-select.md
+  frontmatter:
+    description: 当用户拍完一批要挑出能用的，问「这些留哪几张／只能交五张／这两张选哪个／拍了一堆挑不出来」，或要在组照前筛素材、给封面选一张时使用。做法是先问清用途与名额，再按内容/色彩/密度分堆（不排序），逐堆用重复、离题、技术不可用、破坏整体四类硬理由删，做缩略图复核，三轮停机后把留下的交给 sequence-edit。不适用于单张缺陷诊断与打分（用 frame-critique）、已定留片只问顺序（用
+      sequence-edit）、以及需要自动批量评分排序的场合（本包分数维度表尚未统一）。
+    tags:
+    - culling
+    - selection
+    - workflow
+  source_evidence:
+  - source_id: src-pixar
+    location: The Art of Pixar p007
+  - source_id: src-freeman-sight
+    location: 摄影师的视界 p021、p131、p167
+  - source_id: src-color-bible
+    location: 摄影色彩圣经 p060、p176
+  promotion:
+    destination: promoted
+    gate:
+      independent_intent: true
+      independent_contract: true
+      independent_run: true
+      independent_reuse: true
+      independent_eval: false
+    notes: 独立意图＝「留哪些」；独立契约＝用途＋分堆＋四类硬理由＋缩略图复核＋三轮停机＋交接；独立运行＝用日本和尚三张候选（两种尺同时成立）与两张实拍（三种用途三种答案）走通；复用＝任何批量拍摄都能用；评测未做，理由同上。

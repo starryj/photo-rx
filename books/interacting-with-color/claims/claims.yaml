@@ -1,0 +1,279 @@
+# Interacting with Color (Horstman 2024) · claims（阶段 1 独立抽取，不参照另两本）
+# stance：相对派执行层——不给公式，只给可做的实验与判据
+# operational：可操作 = 能进 E 段步骤；描述性 = 只能进 I 段；经验断言 = 只能进 B 段
+# 原文为英文；OCR 偶有错字（bali / cotrast / appropríate / nane），引用保留原文并在 note 注明
+
+- id: hc01
+  claim: 教学的首要目标是把问题问对，而不是把学生引向某个特定答案
+  page: p006
+  quote: "He believed it was more important to ask the right questions than to direct students toward a specific answer."
+  stance: 相对派
+  domain: 方法论
+  operational: 描述性
+  single_source: false
+
+- id: hc02
+  claim: 视觉里看到的色几乎从来不是它物理上实际是的那色——这条事实使色彩成为艺术中最相对的媒介
+  page: p008
+  quote: "In visual perception a color is almost never seen as it really is—-as it physically is."
+  stance: 相对派
+  domain: 语境与相对性
+  operational: 描述性
+  single_source: false
+
+- id: hc03
+  claim: 处理色彩相对性或错觉时，须把「事实事实」与「实际事实」分开
+  page: p014
+  quote: "In dealing with color relativity or color illusion, it is practical to distinguish factual facts from actual facts."
+  stance: 相对派
+  domain: 语境与相对性
+  operational: 可操作
+  single_source: false
+
+- id: hc04
+  claim: 两色外观上的差异叫间隔（interval）
+  page: p021
+  quote: "The difference in appearance between two colors can be called the interval."
+  stance: 相对派
+  domain: 对比
+  operational: 可操作
+  single_source: false
+
+- id: hc05
+  claim: 估量间隔是测量色彩之间对比的一种方式
+  page: p021
+  quote: "Gauging intervals is a way to measure the cotrast between colors."
+  stance: 相对派
+  domain: 对比
+  operational: 可操作
+  single_source: false
+  note: 原文 OCR 把 contrast 印作 cotrast，引用保留
+
+- id: hc06
+  claim: 两块灰差别越小间隔越小，浅灰与深灰之间间隔大得多
+  page: p021
+  quote: "Two grays that are very similar to one another have a small interval between them."
+  stance: 相对派
+  domain: 对比
+  operational: 可操作
+  single_source: false
+
+- id: hc07
+  claim: 竖放白色细条把横跨两背景的色块视觉上一分为二，使它分别与两个背景发生作用
+  page: p010
+  quote: "Place a vertical white strip on top so that the horizontally placed color is visually divided and can be seen interacting separately with the two background colors."
+  stance: 相对派
+  domain: 方法论
+  operational: 可操作
+  single_source: false
+
+- id: hc08
+  claim: 相对性练习的问题定义：找出那个在两个不同背景上都失去自身身份的颜色
+  page: p026
+  quote: "Find that color which on 2 different grounds loses its identity."
+  stance: 相对派
+  domain: 语境与相对性
+  operational: 可操作
+  single_source: false
+
+- id: hc09
+  claim: 反转背景练习里，两个给定背景之间只有一个颜色恰好在半途——解唯一
+  page: p029
+  quote: "In this exercise about reversed grounds, there is only one color that is halfway between two given background colors."
+  stance: 相对派
+  domain: 语境与相对性
+  operational: 可操作
+  single_source: false
+
+- id: hc10
+  claim: 某边界更硬更锐说明中色离那一侧母色更远，这是判断中间混合是否到位的边界判据
+  page: p029
+  quote: "If one boundary feels harder or crisper than the other, the middle color is further from that parent than from the parent with which it shares a softer boundary."
+  stance: 相对派
+  domain: 语境与相对性
+  operational: 可操作
+  single_source: false
+
+- id: hc11
+  claim: 黄紫背景上的 X 是同一色，它既不是黄也不是紫——看似两色的画面其实是三色
+  page: p030
+  quote: "But! Following the X's to where they connect, we see that they are a single color, which is neither yellow nor purple."
+  stance: 相对派
+  domain: 语境与相对性
+  operational: 描述性
+  single_source: false
+
+- id: hc12
+  claim: 对大多数人来说，红的后像色是蓝绿
+  page: p033
+  quote: "For most people, the after-image of red is blue-green."
+  stance: 相对派
+  domain: 机制
+  operational: 可操作
+  single_source: false
+
+- id: hc13
+  claim: 后像实验的操作是注视色块中心三十秒，然后迅速把视线移到白纸中心
+  page: p034
+  quote: "hold your eyes on the dot in the center of the colored paper for thirty seconds, then quickly move your eyes to the dot in the center of the white paper"
+  stance: 相对派
+  domain: 机制
+  operational: 可操作
+  single_source: false
+
+- id: hc14
+  claim: 硬对比指两个相邻色之间存在很大的间隔
+  page: p050
+  quote: "A hard contrast is one in which there is a large interval between two adjacent colors."
+  stance: 相对派
+  domain: 对比
+  operational: 可操作
+  single_source: false
+
+- id: hc15
+  claim: 四个粉之间的关系与四个蓝之间的关系完全相同——间隔关系可整体移调
+  page: p049
+  quote: "The relationship of the four pinks is identical to the relationship between the four blues."
+  stance: 相对派
+  domain: 和谐
+  operational: 可操作
+  single_source: false
+
+- id: hc16
+  claim: 阿尔伯斯的结论是：只要数量合适，任何颜色都能与任何其他颜色搭配或成立
+  page: p057
+  quote: "any color 'goes' or 'works' with any other color, presupposing that their quantities are appropríate."
+  stance: 相对派
+  domain: 和谐
+  operational: 描述性
+  single_source: false
+  note: 原文 OCR 把 appropriate 印作 appropríate；内层引号原文为单引号，已按原样保留
+  contested_hint: K1（色彩圣经给和谐四型；曼特给可算面积比）
+
+- id: hc17
+  claim: 色球北极是纯白、南极是纯黑；赤道与北极之间的那圈是各色相被白去饱和的色轮
+  page: p069
+  quote: "The circle between the equator and the white north pole is another color wheel, but in this one each hue has been desaturated with white."
+  stance: 相对派
+  domain: 色彩属性
+  operational: 可操作
+  single_source: false
+
+- id: hc18
+  claim: 在色球上定位任两色、连线取中点，即得两者的混合色
+  page: p069
+  quote: "if we locate any two colors, we can draw a line between them, and halfway down that line find the color that is the mixture of the two endpoints."
+  stance: 相对派
+  domain: 和谐
+  operational: 可操作
+  single_source: false
+
+- id: hc19
+  claim: 中色偏离某一母色会让那一侧显得更近或更远，从而产生深度错觉
+  page: p043
+  quote: "which made it appear that one or the other color was nearer or farther away, creating a sense of depth."
+  stance: 相对派
+  domain: 空间
+  operational: 可操作
+  single_source: false
+
+- id: hc20
+  claim: 重叠区越接近某一母色，那个物体就显得越靠前；重叠区是中间混合时则与三角同平面
+  page: p046
+  quote: "Because the overlapping area of the largest bali is closest to orange, that ball appears to be in front of the triangle."
+  stance: 相对派
+  domain: 空间
+  operational: 可操作
+  single_source: false
+  note: 原文 OCR 把 ball 印作 bali
+
+- id: hc21
+  claim: 能看见并控制色与色之间的间隔以造出透明与深度错觉，本身就是诗，可移用于别的思考与制作
+  page: p047
+  quote: "An ability to see and control the intervals between colors to create illusions of transparence and depth is itself poetic and can be transposed into countless other modes of thinking and making."
+  stance: 相对派
+  domain: 方法论
+  operational: 描述性
+  single_source: false
+
+- id: hc22
+  claim: 同一组三色只改数量与位置就能产出四幅显然不同但同源的作品
+  page: p061
+  quote: "Each of the four uses the same three colors—blue, green, and blue-green—but in different quantities and in different positions."
+  stance: 相对派
+  domain: 数量
+  operational: 可操作
+  single_source: false
+
+- id: hc23
+  claim: 同一系列的作品在观感上可以极为不同
+  page: p061
+  quote: "Though they are clearly from the same series, they feel remarkably different from one another."
+  stance: 相对派
+  domain: 数量
+  operational: 描述性
+  single_source: false
+
+- id: hc24
+  claim: 阿尔伯斯课程里的构图严格禁止再现
+  page: p065
+  quote: "Compositions in Interaction of Color were strictly nonrepresentational."
+  stance: 相对派
+  domain: 方法论
+  operational: 描述性
+  single_source: false
+  contested_hint: K6（色彩圣经全书谈情绪与象征）
+
+- id: hc25
+  claim: 颜色之所以呈现某种样子，是因为它与别的颜色的关系
+  page: p013
+  quote: "These observations emphasized the idea that colors appear in certain ways because of their relationships with other colors"
+  stance: 相对派
+  domain: 语境与相对性
+  operational: 描述性
+  single_source: false
+
+- id: hc26
+  claim: 材料极简：为省材料，可先不用剪刀与胶水做一段探索
+  page: p010
+  quote: "To preserve supplies, allow this stage of inquiry to continue for a while without using scissors and glue."
+  stance: 相对派
+  domain: 方法论
+  operational: 可操作
+  single_source: false
+
+- id: hc27
+  claim: 阿尔伯斯确信再现性作品会分散人对色彩本身的注意
+  page: p070
+  quote: "Albers's conviction that representational work would distract from looking just at color."
+  stance: 相对派
+  domain: 方法论
+  operational: 描述性
+  single_source: false
+
+- id: hc28
+  claim: 色彩感知发生在眼与心之间，是物理事实与心理效应的平衡
+  page: p070
+  quote: "Albers frequently reminded students that color perception happens between the eye and the mind. It is a balance of physical fact and psychological effect."
+  stance: 相对派
+  domain: 机制
+  operational: 描述性
+  single_source: false
+
+- id: hc29
+  claim: 同时对比通常指相邻颜色使某色外观相对周围发生移动（色彩相对性）
+  page: p033
+  quote: "Simultaneous contrast is most often understood to be a description of the tendency of adjacent colors to shift in appearance relative to the colors around them"
+  stance: 相对派
+  domain: 机制
+  operational: 描述性
+  single_source: false
+
+- id: hc30
+  claim: 本书把同时对比限定为色彩相对性，后像另立一名
+  page: p067
+  quote: "we will limit the use of simultaneous contrast in this book to refer to color relativity."
+  stance: 相对派
+  domain: 方法论
+  operational: 描述性
+  single_source: false

@@ -1,0 +1,13 @@
+{
+  "generated_by": "cangjie-tools v2.5.0",
+  "bundle_id": "bundle.photo-vision",
+  "router_entrypoint": "photo-vision",
+  "entrypoint_count": 2,
+  "capability_count": 1,
+  "destinations": {
+    "cap.photo-vision.color-decision": {
+      "promoted_to": "color-decision",
+      "router_view": "photo-vision/references/capabilities/color-decision.md"
+    }
+  }
+}

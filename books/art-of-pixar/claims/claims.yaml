@@ -1,0 +1,230 @@
+# art-of-pixar · claims
+# 源：books/art-of-pixar/source/book.md（Amid Amidi, The Art of Pixar, Chronicle 2011）
+# 说明：画册正文以图版为主，可用散文集中在 p006（Lasseter Foreword）、p007（Amidi Introduction）、p035（Worlds）。所有引文逐字，未做任何改写与删节（截断处一律取连续子串，不加省略号）。
+
+- id: px01
+  page: p006
+  type: framework
+  claim: colorscript 是 Pixar 为一部电影产出的最重要的一件作品，它把全片色彩结构放在一处。
+  source_chapter: Foreword (John Lasseter)
+  quote: "One of the most important pieces of art produced for any film at Pixar is the colorscript."
+  domain: 方法论
+  stance: 规则派
+
+- id: px02
+  page: p006
+  type: procedure
+  claim: colorscript 的形态是把不同场次画成邮票大小的小图连成一条胶片，让人一眼看到整段旅程。
+  source_chapter: Foreword (John Lasseter)
+  quote: "On his desk was a series of very small, postage-stamp-sized images—each from a different scene in the story—all connected together, like a filmstrip of the movie."
+  domain: 方法论
+  stance: 规则派
+
+- id: px03
+  page: p006
+  type: principle
+  claim: 一部片里每个元素都要支撑主角的情感弧，而最能传达底层情绪的两样东西是音乐与色彩。
+  source_chapter: Foreword (John Lasseter)
+  quote: "Every single element in a film must support the emotional arc of the story, which is really the emotional journey of the main character, and I've always felt that the two things that communicate the underlying emotion of a movie better than anything else are music and color."
+  domain: 情绪与象征
+  stance: 规则派
+
+- id: px04
+  page: p007
+  type: framework
+  claim: colorscript 是色彩（因而也是情绪）在全片如何铺设的一张路线图，同时给出各场的光线设想。
+  source_chapter: The Colorscripts (Amid Amidi)
+  quote: "In an inspired spurt of a week or so, he painted the colorscript, a roadmap for the way the color (and thus emotion) would be applied throughout the film."
+  domain: 方法论
+  stance: 规则派
+
+- id: px05
+  page: p007
+  type: counter
+  claim: colorscript 的目标不是把各场打扮成最漂亮或最和谐的配色。
+  source_chapter: The Colorscripts (Amid Amidi)
+  quote: "isn't to dress scenes in the prettiest or most harmonious color combinations"
+  domain: 和谐与协调
+  stance: 相对派
+  note: K1 相关：这一句把「和谐」从目标位上撤下来。
+
+- id: px06
+  page: p007
+  type: framework
+  claim: colorscript 被比作作曲；调色板的变化相当于速度、节奏与配器的变化。
+  source_chapter: The Colorscripts (Amid Amidi)
+  quote: "The colorscript, Eggleston feels, is akin to composing a symphony, which is comparable to Kalmus's assertion that the color chart is like a musical score."
+  domain: 方法论
+  stance: 规则派
+
+- id: px07
+  page: p007
+  type: procedure
+  claim: 情绪起伏靠换调色板制造，而不是靠单场把颜色堆满。
+  source_chapter: The Colorscripts (Amid Amidi)
+  quote: "And like a composer who arouses aural interest through variations of tempo, rhythm, and instrumentation, Eggleston heightens the emotions in a film by varying his color palettes."
+  domain: 方法论
+  stance: 规则派
+
+- id: px08
+  page: p007
+  type: case
+  claim: 《海底总动员》下潜段把调色板逐步推到极简与不祥，作为主角神经质的图形化强化。
+  source_chapter: The Colorscripts (Amid Amidi)
+  quote: "In Finding Nemo, as Marlin and Dory descend into the murky depths of the ocean, Eggleston shifts to an increasingly minimalist and ominous palette—a graphic intensification of Marlin's neuroses."
+  domain: 情绪与象征
+  stance: 规则派
+
+- id: px09
+  page: p007
+  type: principle
+  claim: 一场戏的力量有时不来自加了多少色，而来自减了多少色。
+  source_chapter: The Colorscripts (Amid Amidi)
+  quote: "Cone discovered that sometimes a scene's strength is derived not from how many colors are added but from how many are subtracted."
+  domain: 饱和度
+  stance: 相对派
+
+- id: px10
+  page: p007
+  type: case
+  claim: 夜景不是「没有颜色」，在限定的调色板里同样能找到色彩机会。
+  source_chapter: The Colorscripts (Amid Amidi)
+  quote: "Even when the palette was limited, as in the film's numerous night scenes, he found opportunities for color."
+  domain: 光与时段
+  stance: 规则派
+
+- id: px11
+  page: p007
+  type: framework
+  claim: 高明的色彩设计建立全片性的对抗关系，用对比去挑动故事里本就存在的紧张。
+  source_chapter: The Colorscripts (Amid Amidi)
+  quote: "Jessup's discerning taste as a designer is reflected in the way he sets up universal color relationships that exploit contrasts and heighten tensions inherent in the stories."
+  domain: 对比
+  stance: 规则派
+
+- id: px12
+  page: p007
+  type: case
+  claim: 《怪兽电力公司》用灰暗的工业小镇对撞糖果色怪兽，制造视觉上的矛盾。
+  source_chapter: The Colorscripts (Amid Amidi)
+  quote: "On Monsters, Inc., he teamed with art director Dominique Louis and lighting director Jean-Claude Kalache to explore the visual contradictions between a drably colored, workaday industrial town setting and its population of bright, candy-colored monsters straight out of a child's imagination."
+  domain: 对比
+  stance: 规则派
+
+- id: px13
+  page: p007
+  type: principle
+  claim: 色彩可以被赋予只属于这一部作品的意义，而不必沿用通用象征。
+  source_chapter: The Colorscripts (Amid Amidi)
+  quote: "Tsutsumi infused certain colors with meaning specific only to the film."
+  domain: 情绪与象征
+  stance: 相对派
+
+- id: px14
+  page: p007
+  type: case
+  claim: 《霍顿与无名氏》把粉色变成毁灭的化身，第三幕由粉、品红、紫驱动，直到结局才转黄。
+  source_chapter: The Colorscripts (Amid Amidi)
+  quote: "So, pink became the unlikely embodiment of devastation, and during Horton's climactic third act, the entire palette is driven by pink, magenta, and violet before shifting to yellow (a complementary color to the others) as the film reaches its happy resolution."
+  domain: 情绪与象征
+  stance: 相对派
+
+- id: px15
+  page: p007
+  type: case
+  claim: 《玩具总动员 3》把蓝定义为安全与家，并在需要不安的地方刻意避开蓝。
+  source_chapter: The Colorscripts (Amid Amidi)
+  quote: "We came up with the concept of blue connoting safety and home."
+  domain: 情绪与象征
+  stance: 相对派
+
+- id: px16
+  page: p007
+  type: principle
+  claim: colorscript 的格式风格可以千变万化，但所有作者都同意一条：它不在于画得多好，而在于能不能支撑故事。
+  source_chapter: The Colorscripts (Amid Amidi)
+  quote: "Colorscripts can be painted in a multitude of formats and styles, but there is one tenet that every artist agrees on"
+  domain: 方法论
+  stance: 相对派
+
+- id: px17
+  page: p007
+  type: principle
+  claim: 这项工作不是做漂亮的图，而是用图像与光线概念支撑故事。
+  source_chapter: The Colorscripts (Amid Amidi)
+  quote: "Your job is not to make beautiful pictures. It's about how you can support the story with these images and lighting concepts."
+  domain: 方法论
+  stance: 相对派
+
+- id: px18
+  page: p007
+  type: framework
+  claim: 在 Pixar 之前，没有动画公司把色彩与光线系统性地对着故事与人物排布过。
+  source_chapter: The Colorscripts (Amid Amidi)
+  quote: "Prior to Pixar, no animation studio consistently mapped out color and lighting in relation to story and character through a formal colorscripting phase."
+  domain: 方法论
+  stance: 规则派
+
+- id: px19
+  page: p007
+  type: framework
+  claim: 导演偏爱 colorscript，因为这是制作中第一次能把整部片子的颜色集中看在一块板上。
+  source_chapter: The Colorscripts (Amid Amidi)
+  quote: "For the first time in the production, they are able to see their entire film in color, in one place, on a single board."
+  domain: 方法论
+  stance: 规则派
+
+- id: px20
+  page: p007
+  type: principle
+  claim: 在碎片化的电脑动画流程里，「把所有东西放在一处看」本身是稀有事件，这正是它的价值。
+  source_chapter: The Colorscripts (Amid Amidi)
+  quote: "Seeing things in one place is a rare event in the fragmented computer-animated filmmaking process."
+  domain: 方法论
+  stance: 规则派
+
+- id: px21
+  page: p007
+  type: counter
+  claim: 什么算 colorscript、该在前制哪个阶段做，长期没有定论——有多少作者就有多少种做法。
+  source_chapter: The Colorscripts (Amid Amidi)
+  quote: "There is enduring ambiguity about what constitutes a colorscript in animation or at what stage in the pre-production process it should be done, with as many versions of the process as there are artists who create them."
+  domain: 方法论
+  stance: 相对派
+
+- id: px22
+  page: p007
+  type: case
+  claim: 《飞屋环游记》年轻夫妻段落原打算用怀旧棕褐降饱和，Lasseter 否掉——该像初恋时那样鲜活。
+  source_chapter: The Colorscripts (Amid Amidi)
+  quote: "instead of desaturation, those scenes should be as vibrant"
+  domain: 饱和度
+  stance: 规则派
+  note: 原句后接引号内 "as when you first fall in love."，此处取连续子串至引号前。
+
+- id: px23
+  page: p007
+  type: case
+  claim: 《飞屋环游记》的婚后段落由灯光美术 Romano 与美术指导 Nierva 起初设想成怀旧棕褐。
+  source_chapter: The Colorscripts (Amid Amidi)
+  quote: "envisioned draping the sequence in nostalgic sepia tones"
+  domain: 饱和度
+  stance: 规则派
+
+- id: px24
+  page: p035
+  type: framework
+  claim: 一个角色的最终形象是从无数可能性里削出来的，观众看到的「一直如此」是结果不是起点。
+  source_chapter: The Worlds
+  quote: "It is an exhaustive process whittling myriad possibilities into the endearing and distinctive personalities that eventually appear on screen."
+  domain: 方法论
+  stance: 规则派
+
+- id: px25
+  page: p006
+  type: principle
+  claim: colorscript 本身也是独立的作品，与探索单场观感的视觉开发稿同样有启发性。
+  source_chapter: Foreword (John Lasseter)
+  quote: "the colorscripts for Pixar's films are also works of art in their own right"
+  domain: 方法论
+  stance: 规则派

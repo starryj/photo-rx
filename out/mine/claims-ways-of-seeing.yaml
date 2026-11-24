@@ -1,0 +1,169 @@
+- id: w01
+  page: p006
+  type: framework
+  claim: 读图先于命名：先看整体，再辨认对象，最后才用语言解释，顺序不能倒
+  source_chapter: 第一章 观看之道
+  quote: 观看先于言语。儿童先观看，后辨认，再说话。
+  domain: 方法论
+- id: w02
+  page: p007
+  type: principle
+  claim: 注视是选择：拍摄前先写下自己要看的对象和主动排除的东西
+  source_chapter: 第一章 观看之道
+  quote: 我们只看见我们注视的东西，注视是一种选择行为。
+  domain: 构图与结构
+- id: w03
+  page: p008
+  type: principle
+  claim: 照片不是机械记录，取景角度是摄影师从无数景观里挑出的一次选择
+  source_chapter: 第一章 观看之道
+  quote: 每次我们观看一张照片，多少觉察到摄影师是从无数可供选择的景观中，挑选了眼前这角度。
+  domain: 构图与结构
+- id: w04
+  page: p016
+  type: mechanism
+  claim: 透视把所有景物收拢到单一视点，构图因此先要回答谁在画面中心看
+  source_chapter: 第一章 观看之道
+  quote: 透视法使那独一无二的眼睛成为世界万象的中心。一切都向眼睛聚拢，直至视点在远处消失。
+  domain: 空间
+- id: w05
+  page: p020
+  type: mechanism
+  claim: 复制会拆掉原作的独特性，同一影像换载体就增生新含义，不能只算一份拷贝
+  source_chapter: 第一章 观看之道
+  quote: 照相机复制图画时，即破坏了该画的独特性。结果，图画的意义也起了变化。
+  domain: 语境与相对性
+- id: w06
+  page: p031
+  type: mechanism
+  claim: 配文会重写照片的含义，写说明前先定好文字是服从影像还是统领影像
+  source_chapter: 第一章 观看之道
+  quote: 我们很难确切地说明这段文字如何改变了影像，但毫无疑问，它做到了这点。此刻，是影像在解释文字。
+  domain: 语境与相对性
+- id: w07
+  page: p036
+  type: mechanism
+  claim: 复制把影像搬出原来的收藏地，权威随之瓦解，使用权也就跟着重新分配
+  source_chapter: 第一章 观看之道
+  quote: 现代的复制手段摧毁了艺术的权威性，将它从一切收藏处搬开
+  domain: 语境与相对性
+- id: w08
+  page: p015
+  type: mechanism
+  claim: 把照片讲得玄妙常是替清楚事实开脱，评图要还原它刻意回避的那组对立
+  source_chapter: 第一章 观看之道
+  quote: 神秘化是为原来极清楚的事实进行辩解的过程。
+  domain: 方法论
+- id: w09
+  page: p052
+  type: framework
+  claim: 同一具身体，被拍成自我呈现还是公开展品，决定它是裸体还是裸像
+  source_chapter: 第三章 裸像
+  quote: 男性观察女性，女性注意自己被别人观察。这不仅决定了大多数的男女关系，还决定了女性自己的内在关系，女性自身的观察者是男性，而被观察者为女性。
+  domain: 语境与相对性
+- id: w10
+  page: p060
+  type: case
+  claim: 成为展品是把皮肤与毛发变成展览必需的掩饰，裸像因此也是一种衣着
+  source_chapter: 第三章 裸像
+  quote: 成为展品就是把自己的皮肤和毛发变为展览中必然的掩饰。裸像绝非裸体。裸像也是衣着的一种形式。
+  domain: 情绪与象征
+- id: w11
+  page: p061
+  type: mechanism
+  claim: 画中身体的姿势是摆给画外男人看的，与画中女人自己的欲望无关
+  source_chapter: 第三章 裸像
+  quote: 她身体的姿势，是摆给赏画的男人看的。为的是激起他的性欲，而同她的性欲毫不相干。
+  domain: 情绪与象征
+- id: w12
+  page: p065
+  type: counter-example
+  claim: 例外来自拍摄者与被摄者的排他关系：观众被明确挡在外面，无法代入
+  source_chapter: 第三章 裸像
+  quote: 在每幅画中，画家对他描绘的女子，倾注了极强烈的个人想像，以致没有给观众留有任何遐想的余地。
+  domain: 情绪与象征
+- id: w13
+  page: p072
+  type: framework
+  claim: 检验人像是否默认男性观看：把被摄者性别换掉，看画面是否立刻失衡
+  source_chapter: 第三章 裸像
+  quote: 从本书选取一幅传统裸像作品，无论是靠想像还是在复制品上作画，把画中女人变为男人，然后注意这变化造成的冲击。
+  domain: 方法论
+- id: w14
+  page: p092
+  type: framework
+  claim: 油画以写物为主，买下一幅画等于买回画中所绘物品的表象
+  source_chapter: 第五章 油画与财产
+  quote: 油画以写物为主。实际上，物品是可以购买的。描绘物品在画布上，同把它买回家中没有区别。
+  domain: 语境与相对性
+- id: w15
+  page: p098
+  type: principle
+  claim: 油画靠质感、纹理、光泽的实感说话，观者会觉得伸手就能摸到画中之物
+  source_chapter: 第五章 油画与财产
+  quote: 油画有别于其他绘画形式的地方，在于它能表现所绘物品的质感、纹理、光泽和结实的感觉。它明确画出实物，使你觉得仿佛可以用手触摸。
+  domain: 机制
+- id: w16
+  page: p099
+  type: case
+  claim: 让视线在糙与滑、软与硬的材质间依次落脚，相邻对比替画面造出触感
+  source_chapter: 第五章 油画与财产
+  quote: 视线由裘皮移动到丝绸、金属、木材、丝绒、大理石、纸张、毛毡，目光所及者皆已在图画内部转译成为触觉性的语言。
+  domain: 对比
+- id: w17
+  page: p109
+  type: principle
+  claim: 画中题材必须同时经得起近看与远看，这种双重要求把矫揉造作写进了观察方法
+  source_chapter: 第五章 油画与财产
+  quote: 矫揉造作的毛病深入到绘画的观察方法，因为画中题材必须同时从近处和远处看。
+  domain: 构图与结构
+- id: w18
+  page: p118
+  type: principle
+  claim: 天空没有可触摸的表面，风景照的成败首先在于怎么处理天空和距离
+  source_chapter: 第五章 油画与财产
+  quote: 天空没有表面，又是无法触摸的；天空不能变成一件物体，也不能量化。而风景画首先遇到的难题，便是如何描绘天空和距离。
+  domain: 空间
+- id: w19
+  page: p122
+  type: framework
+  claim: 油画的模式不像开向世界的窗，更像嵌在墙上收藏景观的保险箱
+  source_chapter: 第五章 油画与财产
+  quote: 油画的模式并不十分像窗框中开向世界的一扇窗，倒像是嵌在墙上用以收藏景观的保险箱。
+  domain: 语境与相对性
+- id: w20
+  page: p147
+  type: framework
+  claim: 广告卖的不是享乐，是被人羡慕的快乐；魅力就是由外界判断的快乐
+  source_chapter: 第七章 广告与羡慕
+  quote: 它许诺的并非享乐，而是快乐—由外界判断的快乐。这种被人羡慕的快乐就是魅力。
+  domain: 情绪与象征
+- id: w21
+  page: p149
+  type: mechanism
+  claim: 被羡慕者要冷眼看世界；一旦显得投入，别人对他的羡慕就会降低
+  source_chapter: 第七章 广告与羡慕
+  quote: 别人饶有兴趣地观察你，而你却冷眼看世界—假若你也带点兴趣，人们对你的羡慕就会降低。
+  domain: 情绪与象征
+- id: w22
+  page: p151
+  type: mechanism
+  claim: 广告借用艺术，因为艺术本身是富裕生活的标志，能为商品添一层身份
+  source_chapter: 第七章 广告与羡慕
+  quote: 艺术是富裕的标志：它属于美好的生活，也是世界赐予富人和美女的装饰品。
+  domain: 语境与相对性
+- id: w23
+  page: p158
+  type: mechanism
+  claim: 彩色摄影重现色彩、纹理与实质感，做到以前只有油画颜料才达到的一步
+  source_chapter: 第七章 广告与羡慕
+  quote: 这种摄影能重现物体的色彩、纹理及实质感，以前只有油画颜料才能达到这一步。
+  domain: 器材与后期
+- id: w24
+  page: p163
+  type: framework
+  claim: 广告只用未来时态许诺：有了它你将会受欢迎，现在因此被定义成不足
+  source_chapter: 第七章 广告与羡慕
+  quote: 昙花一现的广告形象只用未来时态：有了它，你将会受人欢迎；置身于这种环境之中，你与人交接的种种关系将会圆融生辉。
+  domain: 情绪与象征
+# 自检：24/24 命中

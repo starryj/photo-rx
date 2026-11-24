@@ -1,0 +1,156 @@
+[
+ {
+  "n": 1,
+  "src": "color-decision",
+  "expect": "color-decision",
+  "prompt": "同一块灰布在深绿背景和浅绿背景下看着是两个颜色，正常吗",
+  "note": ""
+ },
+ {
+  "n": 2,
+  "src": "color-decision",
+  "expect": "structure-read",
+  "prompt": "这个建筑横着拍还是竖着拍更有劲",
+  "note": ""
+ },
+ {
+  "n": 3,
+  "src": "color-decision",
+  "expect": "none",
+  "prompt": "把这批照片按拍摄日期重命名",
+  "note": ""
+ },
+ {
+  "n": 4,
+  "src": "structure-read",
+  "expect": "structure-read",
+  "prompt": "画面被切成几块，比例该怎么看",
+  "note": ""
+ },
+ {
+  "n": 5,
+  "src": "structure-read",
+  "expect": "color-decision",
+  "prompt": "这张颜色太杂了，怎么精简",
+  "note": ""
+ },
+ {
+  "n": 6,
+  "src": "structure-read",
+  "expect": "none",
+  "prompt": "这台电脑能跑得动 Capture One 吗",
+  "note": ""
+ },
+ {
+  "n": 7,
+  "src": "shoot-plan",
+  "expect": "shoot-plan",
+  "prompt": "室内两种灯混着，颜色怎么定",
+  "note": ""
+ },
+ {
+  "n": 8,
+  "src": "shoot-plan",
+  "expect": "structure-read",
+  "prompt": "这面墙该怎么取景",
+  "note": ""
+ },
+ {
+  "n": 9,
+  "src": "shoot-plan",
+  "expect": "none",
+  "prompt": "把这张的暗部提亮一点",
+  "note": ""
+ },
+ {
+  "n": 10,
+  "src": "ways-of-seeing",
+  "expect": "ways-of-seeing",
+  "prompt": "为什么亮的东西看着比暗的离我近",
+  "note": ""
+ },
+ {
+  "n": 11,
+  "src": "ways-of-seeing",
+  "expect": "structure-read",
+  "prompt": "这张该怎么改构图",
+  "note": ""
+ },
+ {
+  "n": 12,
+  "src": "ways-of-seeing",
+  "expect": "none",
+  "prompt": "帮我写个摄影学习计划",
+  "note": ""
+ },
+ {
+  "n": 13,
+  "src": "chinese-eye",
+  "expect": "chinese-eye",
+  "prompt": "为什么古画里的山看着比照片深",
+  "note": ""
+ },
+ {
+  "n": 14,
+  "src": "chinese-eye",
+  "expect": "structure-read",
+  "prompt": "这张的骨架怎么拆",
+  "note": ""
+ },
+ {
+  "n": 15,
+  "src": "chinese-eye",
+  "expect": "none",
+  "prompt": "帮我把这张调成水墨风",
+  "note": ""
+ },
+ {
+  "n": 16,
+  "src": "sequence-edit",
+  "expect": "sequence-edit",
+  "prompt": "两张放一起和反过来放，意思一样吗",
+  "note": ""
+ },
+ {
+  "n": 17,
+  "src": "sequence-edit",
+  "expect": "structure-read",
+  "prompt": "单看这一张怎么改",
+  "note": ""
+ },
+ {
+  "n": 18,
+  "src": "sequence-edit",
+  "expect": "none",
+  "prompt": "给这组照片起个标题",
+  "note": ""
+ },
+ {
+  "n": 19,
+  "src": "cull-select",
+  "expect": "cull-select",
+  "prompt": "同一场景拍了八张，是不是只留一张",
+  "note": ""
+ },
+ {
+  "n": 20,
+  "src": "cull-select",
+  "expect": "structure-read",
+  "prompt": "留下的那张构图怎么改",
+  "note": ""
+ },
+ {
+  "n": 21,
+  "src": "cull-select",
+  "expect": "none",
+  "prompt": "批量改文件名加序号",
+  "note": ""
+ },
+ {
+  "n": 22,
+  "src": "photo-vision",
+  "expect": "photo-vision",
+  "prompt": "我拍了一年，想找个框架检查自己的进步",
+  "note": ""
+ }
+]

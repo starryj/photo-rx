@@ -1,0 +1,162 @@
+[
+ {
+  "prompt": "这张留白留得对吗",
+  "expect": "chinese-eye",
+  "src": "color-decision"
+ },
+ {
+  "prompt": "这张是不是太满了",
+  "expect": "chinese-eye",
+  "src": "structure-read"
+ },
+ {
+  "prompt": "雾天怎么拍才有那个意境",
+  "expect": "chinese-eye",
+  "src": "shoot-plan"
+ },
+ {
+  "prompt": "修掉细节之后反而更像了，这是为什么",
+  "expect": "ways-of-seeing",
+  "src": "ways-of-seeing"
+ },
+ {
+  "prompt": "为什么留白会让人觉得安静",
+  "expect": "ways-of-seeing",
+  "src": "ways-of-seeing"
+ },
+ {
+  "prompt": "什么叫气韵生动",
+  "expect": "chinese-eye",
+  "src": "ways-of-seeing"
+ },
+ {
+  "prompt": "这张算不算留白，还是就是没拍满",
+  "expect": "chinese-eye",
+  "src": "chinese-eye"
+ },
+ {
+  "prompt": "我想拍出高远的感觉，是该站低还是站高",
+  "expect": "chinese-eye",
+  "src": "chinese-eye"
+ },
+ {
+  "prompt": "三远里我这张算哪一种",
+  "expect": "chinese-eye",
+  "src": "chinese-eye"
+ },
+ {
+  "prompt": "画面太空了，是不是要加点东西进去",
+  "expect": "chinese-eye",
+  "src": "chinese-eye"
+ },
+ {
+  "prompt": "为什么古画里的山看着比照片深",
+  "expect": "chinese-eye",
+  "src": "chinese-eye"
+ },
+ {
+  "prompt": "这张照片有气眼吗",
+  "expect": "chinese-eye",
+  "src": "chinese-eye"
+ },
+ {
+  "prompt": "同一座山，走近拍和走远拍，意境差在哪",
+  "expect": "chinese-eye",
+  "src": "chinese-eye"
+ },
+ {
+  "prompt": "留出来的白该怎么安排才不空",
+  "expect": "chinese-eye",
+  "src": "chinese-eye"
+ },
+ {
+  "prompt": "中国画为什么不画全",
+  "expect": "chinese-eye",
+  "src": "chinese-eye"
+ },
+ {
+  "prompt": "雾天这张算不算虚实相生",
+  "expect": "chinese-eye",
+  "src": "chinese-eye"
+ },
+ {
+  "prompt": "拍摄点换一下，是不是更像平远",
+  "expect": "chinese-eye",
+  "src": "chinese-eye"
+ },
+ {
+  "prompt": "这张的远景和近景该怎么分工",
+  "expect": "chinese-eye",
+  "src": "chinese-eye"
+ },
+ {
+  "prompt": "这张的骨架怎么拆",
+  "expect": "structure-read",
+  "src": "chinese-eye"
+ },
+ {
+  "prompt": "这张颜色怎么调",
+  "expect": "color-decision",
+  "src": "chinese-eye"
+ },
+ {
+  "prompt": "这个天什么时候拍最好",
+  "expect": "shoot-plan",
+  "src": "chinese-eye"
+ },
+ {
+  "prompt": "为什么这张会让人觉得空",
+  "expect": "ways-of-seeing",
+  "src": "chinese-eye"
+ },
+ {
+  "prompt": "这组山水怎么排",
+  "expect": "sequence-edit",
+  "src": "chinese-eye"
+ },
+ {
+  "prompt": "这几张留哪张",
+  "expect": "cull-select",
+  "src": "chinese-eye"
+ },
+ {
+  "prompt": "帮我找一首写山的古诗",
+  "expect": "none",
+  "src": "chinese-eye"
+ },
+ {
+  "prompt": "中国画用的宣纸哪里买",
+  "expect": "none",
+  "src": "chinese-eye"
+ },
+ {
+  "prompt": "帮我把这张调成水墨风",
+  "expect": "none",
+  "src": "chinese-eye"
+ },
+ {
+  "prompt": "这本书的译者是谁",
+  "expect": "none",
+  "src": "chinese-eye"
+ },
+ {
+  "prompt": "推荐几个国内的山水摄影展",
+  "expect": "none",
+  "src": "chinese-eye"
+ },
+ {
+  "prompt": "帮我写一段展览导言",
+  "expect": "none",
+  "src": "chinese-eye"
+ },
+ {
+  "prompt": "这组要不要留白多一点",
+  "expect": "chinese-eye",
+  "src": "sequence-edit"
+ },
+ {
+  "prompt": "留白不够的那张要不要删",
+  "expect": "chinese-eye",
+  "src": "cull-select"
+ }
+]

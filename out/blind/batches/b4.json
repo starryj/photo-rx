@@ -1,0 +1,163 @@
+[
+ {
+  "n": 1,
+  "src": "color-decision",
+  "expect": "color-decision",
+  "prompt": "我这张黑白版看着挺稳，彩色版反而散，问题在色彩上吗",
+  "note": ""
+ },
+ {
+  "n": 2,
+  "src": "color-decision",
+  "expect": "color-decision",
+  "prompt": "我需要给这张写一句色彩判断，说清主导对比是哪一类",
+  "note": ""
+ },
+ {
+  "n": 3,
+  "src": "color-decision",
+  "expect": "none",
+  "prompt": "这台相机怎么设连拍",
+  "note": ""
+ },
+ {
+  "n": 4,
+  "src": "structure-read",
+  "expect": "structure-read",
+  "prompt": "三分法用错了会被看出来吗",
+  "note": ""
+ },
+ {
+  "n": 5,
+  "src": "structure-read",
+  "expect": "structure-read",
+  "prompt": "帮我拆一下这张的骨架，别给我改图建议",
+  "note": ""
+ },
+ {
+  "n": 6,
+  "src": "structure-read",
+  "expect": "none",
+  "prompt": "教我用 Lightroom 的蒙版",
+  "note": ""
+ },
+ {
+  "n": 7,
+  "src": "shoot-plan",
+  "expect": "shoot-plan",
+  "prompt": "想要硬一点的影子，该怎么安排",
+  "note": ""
+ },
+ {
+  "n": 8,
+  "src": "shoot-plan",
+  "expect": "shoot-plan",
+  "prompt": "帮我排一下明天外拍的时段表",
+  "note": ""
+ },
+ {
+  "n": 9,
+  "src": "shoot-plan",
+  "expect": "none",
+  "prompt": "闪光灯电池在哪买",
+  "note": ""
+ },
+ {
+  "n": 10,
+  "src": "ways-of-seeing",
+  "expect": "ways-of-seeing",
+  "prompt": "为什么主体放在中间就是没劲",
+  "note": ""
+ },
+ {
+  "n": 11,
+  "src": "ways-of-seeing",
+  "expect": "ways-of-seeing",
+  "prompt": "为什么留白会让人觉得安静",
+  "note": ""
+ },
+ {
+  "n": 12,
+  "src": "ways-of-seeing",
+  "expect": "none",
+  "prompt": "推荐几本讲色彩理论的书",
+  "note": ""
+ },
+ {
+  "n": 13,
+  "src": "chinese-eye",
+  "expect": "chinese-eye",
+  "prompt": "画面太空了，是不是要加点东西进去",
+  "note": ""
+ },
+ {
+  "n": 14,
+  "src": "chinese-eye",
+  "expect": "chinese-eye",
+  "prompt": "这张的远景和近景该怎么分工",
+  "note": ""
+ },
+ {
+  "n": 15,
+  "src": "chinese-eye",
+  "expect": "none",
+  "prompt": "中国画用的宣纸哪里买",
+  "note": ""
+ },
+ {
+  "n": 16,
+  "src": "sequence-edit",
+  "expect": "sequence-edit",
+  "prompt": "这组色彩调子不统一，要不要都调成一个方向",
+  "note": ""
+ },
+ {
+  "n": 17,
+  "src": "sequence-edit",
+  "expect": "sequence-edit",
+  "prompt": "这套片子投比赛，顺序该怎么定",
+  "note": ""
+ },
+ {
+  "n": 18,
+  "src": "sequence-edit",
+  "expect": "none",
+  "prompt": "这批照片的 EXIF 帮我导成表格",
+  "note": ""
+ },
+ {
+  "n": 19,
+  "src": "cull-select",
+  "expect": "cull-select",
+  "prompt": "选片要不要打分排序",
+  "note": ""
+ },
+ {
+  "n": 20,
+  "src": "cull-select",
+  "expect": "cull-select",
+  "prompt": "原片都留着还是删掉一部分",
+  "note": ""
+ },
+ {
+  "n": 21,
+  "src": "cull-select",
+  "expect": "none",
+  "prompt": "这些照片占了多少硬盘",
+  "note": ""
+ },
+ {
+  "n": 22,
+  "src": "photo-vision",
+  "expect": "photo-vision",
+  "prompt": "同一张照片，有人说构图好有人说颜色差，我听谁的",
+  "note": ""
+ },
+ {
+  "n": 23,
+  "src": "photo-vision",
+  "expect": "photo-vision",
+  "prompt": "有没有一套从看片到成组的完整方法",
+  "note": ""
+ }
+]

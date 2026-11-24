@@ -1,0 +1,123 @@
+[
+ {
+  "sample_id": "S02",
+  "book": "linquan-gaozhi",
+  "claim_id": "lq02",
+  "md_anchor": "p027",
+  "pdf_page_idx": 26,
+  "pdf_page_1based": 27,
+  "quote": "铺舒为宏图而无余；消缩为小景而不少。",
+  "block_text": "画山水有体①：铺舒为宏图而无余；消缩为小景而不少。看山水亦有体：以林泉之心临之②，则价高；以矫侈之目临之③，则价低。",
+  "locate": "block"
+ },
+ {
+  "sample_id": "S03",
+  "book": "linquan-gaozhi",
+  "claim_id": "lq03",
+  "md_anchor": "p027",
+  "pdf_page_idx": 26,
+  "pdf_page_1based": 27,
+  "quote": "看山水亦有体：以林泉之心临之",
+  "block_text": "画山水有体①：铺舒为宏图而无余；消缩为小景而不少。看山水亦有体：以林泉之心临之②，则价高；以矫侈之目临之③，则价低。",
+  "locate": "block"
+ },
+ {
+  "sample_id": "S12",
+  "book": "linquan-gaozhi",
+  "claim_id": "lq12",
+  "md_anchor": "p054",
+  "pdf_page_idx": 53,
+  "pdf_page_1based": 54,
+  "quote": "看此画，令人生此意，如真在此山中，此画之景外意也。",
+  "block_text": "坦坦，秋山明净摇落人肃肃，冬山昏霾翳塞人寂寂。看此画，令人生此意，如真在此山中，此画之景外意也。见青烟白道而思行，见平川落照而思望，见幽人山客而思居，见岩扃泉石而思游。看此画令人起此心，如将真即其处，此画之意外妙也。",
+  "locate": "block"
+ },
+ {
+  "sample_id": "S13",
+  "book": "linquan-gaozhi",
+  "claim_id": "lq13",
+  "md_anchor": "p054",
+  "pdf_page_idx": 53,
+  "pdf_page_1based": 54,
+  "quote": "见青烟白道而思行，见平川落照而思望，见幽人山客而思居，见岩扃泉石而思游",
+  "block_text": "坦坦，秋山明净摇落人肃肃，冬山昏霾翳塞人寂寂。看此画，令人生此意，如真在此山中，此画之景外意也。见青烟白道而思行，见平川落照而思望，见幽人山客而思居，见岩扃泉石而思游。看此画令人起此心，如将真即其处，此画之意外妙也。",
+  "locate": "block"
+ },
+ {
+  "sample_id": "S16",
+  "book": "linquan-gaozhi",
+  "claim_id": "lq16",
+  "md_anchor": "p079",
+  "pdf_page_idx": 78,
+  "pdf_page_1based": 79,
+  "quote": "石者，天地之骨也，骨贵坚深而不浅露；水者，天地之血也，血贵周流而不凝滞。",
+  "block_text": "石者，天地之骨也，骨贵坚深而不浅露；水者，天地之血也，血贵周流而不凝滞。",
+  "locate": "block"
+ },
+ {
+  "sample_id": "S17",
+  "book": "linquan-gaozhi",
+  "claim_id": "lq17",
+  "md_anchor": "p079",
+  "pdf_page_idx": 78,
+  "pdf_page_1based": 79,
+  "quote": "山得水而活，水得山而媚。",
+  "block_text": "山得水而活，水得山而媚。",
+  "locate": "block"
+ },
+ {
+  "sample_id": "S18",
+  "book": "linquan-gaozhi",
+  "claim_id": "lq18",
+  "md_anchor": "p079",
+  "pdf_page_idx": 78,
+  "pdf_page_1based": 79,
+  "quote": "山无烟云，如春无花草。",
+  "block_text": "山无烟云，如春无花草。",
+  "locate": "block"
+ },
+ {
+  "sample_id": "S23",
+  "book": "linquan-gaozhi",
+  "claim_id": "lq23",
+  "md_anchor": "p082",
+  "pdf_page_idx": 81,
+  "pdf_page_1based": 82,
+  "quote": "此而皆中程度。此三大也。",
+  "block_text": "此而皆中程度。此三大也。",
+  "locate": "block"
+ },
+ {
+  "sample_id": "S24",
+  "book": "linquan-gaozhi",
+  "claim_id": "lq24",
+  "md_anchor": "p087",
+  "pdf_page_idx": 86,
+  "pdf_page_1based": 87,
+  "quote": "远水无波，远人无目。非无也，如无尔。",
+  "block_text": "远山无皴①，远水无波，远人无目。非无也，如无尔。",
+  "locate": "block"
+ },
+ {
+  "sample_id": "S25",
+  "book": "linquan-gaozhi",
+  "claim_id": "lq25",
+  "md_anchor": "p108",
+  "pdf_page_idx": 107,
+  "pdf_page_1based": 108,
+  "quote": "山有戴石。土山戴石，林木瘦耸；石山戴土，林木肥茂。",
+  "block_text": "山有戴土①，山有戴石。土山戴石，林木瘦耸；石山戴土，林木肥茂。木有在山，木有在水。在山者土厚之处，有千尺之松；在水者土薄之处，有数尺之蘖②。水有流水，石有盘石。水有瀑布，石有怪石。瀑布练飞于林表③，怪石常蹲于路隅④。",
+  "locate": "block"
+ },
+ {
+  "sample_id": "S27",
+  "book": "linquan-gaozhi",
+  "claim_id": "lq27",
+  "md_anchor": "p191",
+  "pdf_page_idx": 190,
+  "pdf_page_1based": 191,
+  "quote": "凡画山水，意在笔先。丈山尺树，寸马豆人。此其格也。",
+  "block_text": "凡画山水，意在笔先。丈山尺树，寸马豆人。此其格也。远人无目，远树无枝，远山无石，高与云齐；远水无波，隐隐似眉。此其式也。山腰云塞，石壁泉塞，楼台树塞，道路人塞。石分三面，路看两蹊，树看顶脖，水看岸基。此其法也。",
+  "locate": "block"
+ }
+]

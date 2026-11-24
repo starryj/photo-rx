@@ -1,0 +1,156 @@
+[
+ {
+  "n": 1,
+  "src": "color-decision",
+  "expect": "color-decision",
+  "prompt": "室内这盏灯拍的，颜色发闷，是色温还是别的",
+  "note": ""
+ },
+ {
+  "n": 2,
+  "src": "color-decision",
+  "expect": "ways-of-seeing",
+  "prompt": "为什么我明明按规则摆了，看着还是不舒服",
+  "note": ""
+ },
+ {
+  "n": 3,
+  "src": "color-decision",
+  "expect": "none",
+  "prompt": "帮我把背景里那根电线杆 P 掉",
+  "note": ""
+ },
+ {
+  "n": 4,
+  "src": "structure-read",
+  "expect": "structure-read",
+  "prompt": "这张有没有引导线，眼睛会先看哪里",
+  "note": ""
+ },
+ {
+  "n": 5,
+  "src": "structure-read",
+  "expect": "ways-of-seeing",
+  "prompt": "为什么我看不出这张哪里好",
+  "note": ""
+ },
+ {
+  "n": 6,
+  "src": "structure-read",
+  "expect": "none",
+  "prompt": "我的照片存在哪个盘比较好",
+  "note": ""
+ },
+ {
+  "n": 7,
+  "src": "shoot-plan",
+  "expect": "shoot-plan",
+  "prompt": "日落前一小时到，够不够拍完整组",
+  "note": ""
+ },
+ {
+  "n": 8,
+  "src": "shoot-plan",
+  "expect": "ways-of-seeing",
+  "prompt": "为什么别人的阴天照就有味道",
+  "note": ""
+ },
+ {
+  "n": 9,
+  "src": "shoot-plan",
+  "expect": "none",
+  "prompt": "这个镜头的口径是多少毫米",
+  "note": ""
+ },
+ {
+  "n": 10,
+  "src": "ways-of-seeing",
+  "expect": "ways-of-seeing",
+  "prompt": "为什么一张照片会让我觉得紧张",
+  "note": ""
+ },
+ {
+  "n": 11,
+  "src": "ways-of-seeing",
+  "expect": "shoot-plan",
+  "prompt": "现在这个光能不能拍",
+  "note": ""
+ },
+ {
+  "n": 12,
+  "src": "ways-of-seeing",
+  "expect": "none",
+  "prompt": "帮我查一下这个作者的履历",
+  "note": ""
+ },
+ {
+  "n": 13,
+  "src": "chinese-eye",
+  "expect": "chinese-eye",
+  "prompt": "同一座山，走近拍和走远拍，意境差在哪",
+  "note": ""
+ },
+ {
+  "n": 14,
+  "src": "chinese-eye",
+  "expect": "shoot-plan",
+  "prompt": "这个天什么时候拍最好",
+  "note": ""
+ },
+ {
+  "n": 15,
+  "src": "chinese-eye",
+  "expect": "none",
+  "prompt": "推荐几个国内的山水摄影展",
+  "note": ""
+ },
+ {
+  "n": 16,
+  "src": "sequence-edit",
+  "expect": "sequence-edit",
+  "prompt": "横竖混着排会不会乱",
+  "note": ""
+ },
+ {
+  "n": 17,
+  "src": "sequence-edit",
+  "expect": "shoot-plan",
+  "prompt": "补拍的话挑什么天气",
+  "note": ""
+ },
+ {
+  "n": 18,
+  "src": "sequence-edit",
+  "expect": "none",
+  "prompt": "这组照片上传到哪个平台好",
+  "note": ""
+ },
+ {
+  "n": 19,
+  "src": "cull-select",
+  "expect": "cull-select",
+  "prompt": "给别人看和留给自己，留下的会不一样吗",
+  "note": ""
+ },
+ {
+  "n": 20,
+  "src": "cull-select",
+  "expect": "shoot-plan",
+  "prompt": "这几张是补拍好还是留现有的",
+  "note": ""
+ },
+ {
+  "n": 21,
+  "src": "cull-select",
+  "expect": "none",
+  "prompt": "这批照片的拍摄地点在哪",
+  "note": ""
+ },
+ {
+  "n": 22,
+  "src": "photo-vision",
+  "expect": "photo-vision",
+  "prompt": "我该先练构图还是先练用光",
+  "note": ""
+ }
+]

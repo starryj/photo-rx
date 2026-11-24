@@ -1,0 +1,4 @@
+  File "G:\AI_Workspace\04-MadeMySkills\photo-vision\tools\ocr_verify.py", line 28
+    'def levenshtein(a, b):
+    ^
+SyntaxError: unterminated string literal (detected at line 28)

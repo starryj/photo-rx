@@ -1,0 +1,163 @@
+[
+ {
+  "n": 1,
+  "src": "color-decision",
+  "expect": "color-decision",
+  "prompt": "画面里那块红太抢了，是该缩小还是换个位置",
+  "note": ""
+ },
+ {
+  "n": 2,
+  "src": "color-decision",
+  "expect": "color-decision",
+  "prompt": "这张的纯度对比是不是太弱了",
+  "note": ""
+ },
+ {
+  "n": 3,
+  "src": "color-decision",
+  "expect": "cull-select",
+  "prompt": "二十张里留哪几张",
+  "note": ""
+ },
+ {
+  "n": 4,
+  "src": "structure-read",
+  "expect": "structure-read",
+  "prompt": "主体偏左下，这样放着有没有理由",
+  "note": ""
+ },
+ {
+  "n": 5,
+  "src": "structure-read",
+  "expect": "structure-read",
+  "prompt": "主体和画框边缘的距离，有讲究吗",
+  "note": ""
+ },
+ {
+  "n": 6,
+  "src": "structure-read",
+  "expect": "cull-select",
+  "prompt": "这三十张里哪些是同质重复",
+  "note": ""
+ },
+ {
+  "n": 7,
+  "src": "shoot-plan",
+  "expect": "shoot-plan",
+  "prompt": "这个院子下午几点光线最好",
+  "note": ""
+ },
+ {
+  "n": 8,
+  "src": "shoot-plan",
+  "expect": "shoot-plan",
+  "prompt": "这个季节的金色光大概什么时段",
+  "note": ""
+ },
+ {
+  "n": 9,
+  "src": "shoot-plan",
+  "expect": "cull-select",
+  "prompt": "这批虚焦的要不要全删",
+  "note": ""
+ },
+ {
+  "n": 10,
+  "src": "ways-of-seeing",
+  "expect": "ways-of-seeing",
+  "prompt": "这张明明符合所有规则，为什么我不喜欢",
+  "note": ""
+ },
+ {
+  "n": 11,
+  "src": "ways-of-seeing",
+  "expect": "ways-of-seeing",
+  "prompt": "为什么我看画册能看懂，看自己的照片看不懂",
+  "note": ""
+ },
+ {
+  "n": 12,
+  "src": "ways-of-seeing",
+  "expect": "cull-select",
+  "prompt": "怎么判断一张片子该不该留",
+  "note": ""
+ },
+ {
+  "n": 13,
+  "src": "chinese-eye",
+  "expect": "chinese-eye",
+  "prompt": "我想拍出高远的感觉，是该站低还是站高",
+  "note": ""
+ },
+ {
+  "n": 14,
+  "src": "chinese-eye",
+  "expect": "chinese-eye",
+  "prompt": "雾天这张算不算虚实相生",
+  "note": ""
+ },
+ {
+  "n": 15,
+  "src": "chinese-eye",
+  "expect": "cull-select",
+  "prompt": "这几张留哪张",
+  "note": ""
+ },
+ {
+  "n": 16,
+  "src": "sequence-edit",
+  "expect": "sequence-edit",
+  "prompt": "组照要有几张开场几张收尾",
+  "note": ""
+ },
+ {
+  "n": 17,
+  "src": "sequence-edit",
+  "expect": "sequence-edit",
+  "prompt": "连续拍的一个动作，几张够",
+  "note": ""
+ },
+ {
+  "n": 18,
+  "src": "sequence-edit",
+  "expect": "cull-select",
+  "prompt": "这四十张先删哪些",
+  "note": ""
+ },
+ {
+  "n": 19,
+  "src": "cull-select",
+  "expect": "cull-select",
+  "prompt": "这两张几乎一样，留哪张",
+  "note": ""
+ },
+ {
+  "n": 20,
+  "src": "cull-select",
+  "expect": "cull-select",
+  "prompt": "这批里重复的有多少",
+  "note": ""
+ },
+ {
+  "n": 21,
+  "src": "cull-select",
+  "expect": "sequence-edit",
+  "prompt": "留下的这几张怎么排",
+  "note": ""
+ },
+ {
+  "n": 22,
+  "src": "photo-vision",
+  "expect": "photo-vision",
+  "prompt": "帮我建立一套自己的评图标准",
+  "note": ""
+ },
+ {
+  "n": 23,
+  "src": "photo-vision",
+  "expect": "photo-vision",
+  "prompt": "我这个题材该往哪个方向深挖",
+  "note": ""
+ }
+]

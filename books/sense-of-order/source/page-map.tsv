@@ -1,0 +1,475 @@
+md_page	book_page	images	chars	note
+p001		0	136	
+p002		1	134	
+p003		0	1001	
+p004		0	802	
+p005		0	1191	header,page_footnote
+p006	IV	0	1413	header
+p007		0	1312	header
+p008	VI	0	1598	header
+p009		0	573	header
+p010		0	1158	
+p011	X	0	796	header
+p012		0	1175	
+p013		0	0	
+p014		0	1229	
+p015	2	0	1495	header
+p016	3	0	1098	header
+p017		0	1491	header
+p018	5	0	1183	header
+p019		3	1230	header
+p020	7	0	1409	header
+p021	8	1	1241	header
+p022	9	4	444	header
+p023	10	1	1883	header
+p024	11	0	1550	header
+p025		0	472	header
+p026	13	0	1120	aside_text,header
+p027	14	0	723	header,table
+p028	15	3	1348	header
+p029	16	1	706	header
+p030	17	2	650	header
+p031	18	0	1258	header
+p032		0	50	
+p033		0	0	
+p034		1	1093	
+p035	22	1	1152	header
+p036	23	0	1109	header
+p037	24	1	1155	header
+p038	25	1	907	header
+p039	26	1	998	header
+p040	27	0	1167	header
+p041	28	2	313	header
+p042	29	0	1462	header
+p043	30	1	597	header
+p044	31	0	1154	header
+p045	32	2	226	header
+p046	33	1	978	header
+p047	34	2	72	header
+p048	35	1	708	aside_text,header
+p049	36	0	1075	header
+p050	37	1	405	header
+p051	38	1	457	header
+p052		0	1026	page_footnote
+p053	40	0	1719	header
+p054	41	2	393	header
+p055	42	4	875	header
+p056	43	1	1466	header
+p057	44	1	748	header
+p058	45	1	1580	header
+p059	46	2	392	header
+p060	47	1	733	header
+p061	48	0	1228	header
+p062	49	1	1334	header
+p063	50	1	624	header
+p064	51	0	1313	header,page_footnote
+p065	52	1	601	header,page_footnote
+p066	53	0	1329	header,page_footnote
+p067	54	1	1832	header
+p068	55	1	149	header
+p069	56	1	691	header
+p070	57	5	566	header
+p071	58	3	1230	header
+p072	59	0	1372	header,page_footnote
+p073	60	7	1124	header
+p074	61	0	1258	header
+p075	62	2	719	header
+p076	63	0	1246	header
+p077	64	4	198	header
+p078	65	0	1416	header,page_footnote
+p079	66	1	1080	header
+p080	67	0	1210	header
+p081	68	0	1298	header,page_footnote
+p082	69	0	1417	header
+p083	70	0	467	header
+p084		0	1038	
+p085	72	2	790	header
+p086	73	0	1442	header,page_footnote
+p087	74	0	1277	header
+p088	75	1	726	header
+p089	76	6	955	header
+p090	77	3	347	header
+p091	78	0	78	equation,footer,header
+p092	79	3	899	footer,header,table
+p093	80	2	27	header,table
+p094	81	0	1868	aside_text,header
+p095	82	1	608	header
+p096	83	1	1135	header
+p097	84	0	54	header,table
+p098	85	0	24	header,table
+p099	86	0	1536	header
+p100	87	0	1252	header
+p101	88	2	1151	header
+p102	89	7	778	header
+p103	90	3	445	header
+p104	91	0	1289	aside_text,header,page_footnote
+p105	92	1	838	header
+p106	93	8	41	header
+p107	94	4	498	header
+p108	95	1	921	header
+p109	96	4	276	header
+p110	97	2	847	header
+p111	98	1	803	header
+p112	99	1	665	aside_text,header
+p113	100	5	105	header
+p114	101	0	836	header
+p115	102	3	191	header
+p116	103	1	858	header
+p117	104	2	339	header
+p118	105	0	138	header
+p119		0	0	
+p120		0	40	
+p121		0	0	
+p122		0	1095	
+p123	110	1	1271	header
+p124	111	0	1517	header
+p125	112	1	1338	header
+p126	113	0	991	header
+p127	114	2	772	header
+p128	115	1	732	header
+p129	116	1	1252	header
+p130	117	0	1614	header
+p131	118	0	677	header,page_footnote
+p132	119	0	1348	header
+p133	120	0	1231	header
+p134	121	0	1284	header
+p135	122	2	1396	header
+p136	123	0	853	aside_text,header
+p137	124	1	558	header
+p138	125	2	1006	header,table
+p139	126	0	1381	header
+p140	127	2	44	header
+p141	128	0	1687	header
+p142	129	0	954	header
+p143	130	1	709	header
+p144	131	0	1151	header
+p145		0	0	
+p146		1	715	header
+p147	134	2	895	header,page_footnote
+p148	135	0	1338	aside_text,header
+p149	136	4	15	header
+p150	137	2	1303	header
+p151	138	2	1147	header,page_footnote
+p152	139	0	978	header
+p153	140	0	1293	header
+p154	141	2	773	header
+p155	142	1	861	header
+p156	143	2	37	header
+p157	144	1	38	header
+p158	145	0	1371	header
+p159	146	1	925	header
+p160	147	2	53	header
+p161	148	2	790	header
+p162	149	0	1080	header
+p163	150	4	184	header
+p164	151	1	963	header
+p165	152	2	224	header
+p166	153	1	37	header
+p167	154	1	343	header
+p168	155	2	948	aside_text,header
+p169	156	4	1393	header
+p170	157	7	381	header
+p171	158	2	908	header
+p172	159	5	1141	header
+p173	160	0	642	header
+p174	161	1	1201	header
+p175	162	2	45	header
+p176	163	1	1033	header
+p177	164	0	721	header
+p178	165	4	68	header
+p179	166	0	292	header
+p180		0	1243	
+p181	168	2	474	header
+p182	169	0	1401	header
+p183	170	1	636	header
+p184	171	2	77	header
+p185	172	2	459	header
+p186	173	1	828	header
+p187	174	2	394	header
+p188	175	0	1403	aside_text,header
+p189	176	2	511	header
+p190	177	1	923	aside_text,header
+p191	178	3	841	header
+p192	179	4	78	header
+p193	180	2	56	header
+p194	181	0	1235	header
+p195	182	0	1306	header
+p196	183	0	1413	aside_text,header
+p197	184	2	1042	header
+p198	185	4	310	header
+p199	186	2	598	header
+p200	187	2	1089	header,page_footnote
+p201	188	4	550	header
+p202	189	1	114	header
+p203		0	0	
+p204		0	42	
+p205		0	0	
+p206		0	1033	header
+p207	194	9	353	header
+p208	195	0	1277	header,page_footnote
+p209	196	1	760	header
+p210	197	1	889	header
+p211	198	0	1302	aside_text,header
+p212	199	2	578	header
+p213	200	4	378	header
+p214	201	1	902	header
+p215	202	2	1149	aside_text,header
+p216	203	0	1165	header
+p217	204	3	732	header
+p218	205	5	1390	header
+p219	206	5	444	header
+p220	207	0	1790	header
+p221	208	3	230	header
+p222	209	4	154	header
+p223	210	2	983	header
+p224	211	2	848	header,page_footnote
+p225	212	2	386	header
+p226	213	0	1276	header
+p227	214	1	274	header
+p228	215	4	47	header
+p229	216	1	84	header
+p230	217	0	1736	aside_text,header
+p231	218	0	662	header
+p232		0	1374	
+p233	220	0	1165	aside_text,header
+p234	221	4	1052	header
+p235		1	971	header
+p236	223	0	839	aside_text,header
+p237	224	0	1290	header
+p238	225	6	1820	header
+p239	226	1	1383	header
+p240	227	0	1183	header
+p241	228	2	137	header
+p242	229	1	891	header
+p243	230	0	787	aside_text,header
+p244	231	0	1189	aside_text,header
+p245	232	2	1179	header
+p246	233	0	911	aside_text,header
+p247	234	0	1330	header
+p248	235	0	1414	header
+p249	236	2	694	header
+p250	237	0	1865	aside_text,header
+p251	238	0	807	header
+p252	239	2	868	header
+p253	240	0	872	header,page_footnote
+p254	241	2	732	header
+p255	242	0	668	header
+p256		1	1381	
+p257	244	2	404	header
+p258	245	2	688	header
+p259	246	0	1378	header
+p260	247	1	725	header
+p261	248	1	746	header
+p262	249	1	1420	header
+p263	250	1	603	header
+p264	251	0	1165	header
+p265	252	0	1285	header
+p266	253	1	452	aside_text,header
+p267	254	0	1346	header
+p268	255	1	351	header
+p269	256	0	1215	header
+p270	257	0	1267	header
+p271	258	2	35	header
+p272	259	0	1395	header
+p273	260	11	304	header
+p274	261	0	1155	aside_text,header
+p275	262	1	457	header
+p276	263	1	502	header
+p277	264	3	885	header
+p278	265	2	231	header
+p279	266	2	389	header
+p280	267	3	516	header
+p281	268	1	477	header
+p282	269	2	1072	header
+p283	270	2	228	header
+p284	271	1	862	header
+p285	272	2	496	header
+p286	273	2	413	header
+p287	274	2	818	header
+p288	275	0	1004	header
+p289	276	1	1291	header
+p290	277	1	37	header
+p291	278	1	313	header
+p292	279	1	191	header
+p293		0	0	
+p294		0	1260	
+p295	282	3	240	header
+p296	283	1	390	footer,header
+p297	284	1	722	header
+p298	285	0	1195	header
+p299	286	1	846	header
+p300	287	1	895	header
+p301	288	0	1382	header,page_footnote
+p302	289	2	74	header
+p303	290	1	737	header
+p304	291	3	453	header
+p305	292	2	253	header
+p306	293	2	1549	header
+p307	294	0	1378	header
+p308	295	3	361	header
+p309	296	1	720	header
+p310	297	1	402	header
+p311	298	1	686	header
+p312	299	1	336	header
+p313	300	2	736	header
+p314	301	0	1287	aside_text,header
+p315	302	0	1221	header
+p316	303	5	1051	header
+p317	304	0	1356	header
+p318	305	0	1500	header
+p319	306	2	441	header
+p320	307	3	92	header
+p321	308	1	804	header
+p322	309	3	609	header
+p323	310	1	873	header
+p324	311	1	1033	header
+p325	312	1	599	header
+p326	313	1	588	header
+p327	314	1	463	header
+p328	315	2	810	header
+p329	316	1	11	header
+p330	317	0	492	header
+p331		0	0	
+p332	[285]	0	1013	
+p333		0	926	header
+p334	321	0	1209	header
+p335		0	1226	header
+p336	323	0	1297	aside_text,header
+p337		0	1442	header
+p338	325	0	959	header
+p339		0	1238	header
+p340	327	0	1034	aside_text,header,table
+p341		0	482	header
+p342	329	0	1625	aside_text,header
+p343		0	658	header
+p344	331	0	880	header
+p345		0	1404	header
+p346	333	0	944	header
+p347		0	1194	header
+p348	335	0	1822	aside_text,header
+p349		1	511	aside_text,header
+p350	337	0	1011	header
+p351	338	2	751	header
+p352	339	1	626	aside_text,header
+p353		1	665	header
+p354	341	0	1149	aside_text,header
+p355		0	1476	header
+p356	343	0	198	header
+p357		0	0	
+p358		0	3414	
+p359	346	0	4273	header
+p360		0	4108	header
+p361		0	3712	header
+p362		0	4620	header
+p363		0	4168	header
+p364	351	0	4136	header
+p365		0	3759	header
+p366		0	4512	header
+p367		0	4825	header
+p368	355	0	4137	header
+p369	356	0	4807	header
+p370	357	0	3730	header
+p371	358	0	4292	header
+p372	359	0	4041	header
+p373		0	0	
+p374		0	25	
+p375		0	0	
+p376		1	38	
+p377		1	13	
+p378		2	87	
+p379		1	50	
+p380		1	36	
+p381		2	59	
+p382		2	83	
+p383		1	57	
+p384		1	81	
+p385		2	125	
+p386		1	33	
+p387		1	29	
+p388		1	39	
+p389		1	31	
+p390		3	99	
+p391		1	42	
+p392		1	43	
+p393		2	71	
+p394		1	43	
+p395		1	46	
+p396		1	33	
+p397		2	45	
+p398		1	30	
+p399		1	32	
+p400		2	66	
+p401		1	48	
+p402		1	0	
+p403		2	106	
+p404		1	50	
+p405		1	41	
+p406		1	35	
+p407		1	37	
+p408		1	29	
+p409		1	49	
+p410		1	17	
+p411		1	30	
+p412		3	68	
+p413		1	51	
+p414		1	51	
+p415		2	93	
+p416		1	38	
+p417		2	80	
+p418		2	73	
+p419		1	31	
+p420		1	31	
+p421		2	65	
+p422		2	100	
+p423		3	106	
+p424		3	108	
+p425		1	35	
+p426		1	37	
+p427		2	82	
+p428		1	48	
+p429		2	74	
+p430		1	42	
+p431		2	86	
+p432		2	65	
+p433		3	123	
+p434		1	39	
+p435		1	44	
+p436		2	23	
+p437		2	93	
+p438		1	46	
+p439		2	79	
+p440		1	41	
+p441		1	44	
+p442		1	44	
+p443		0	365	header
+p444		3	66	
+p445		2	74	
+p446		5	144	
+p447		2	87	
+p448		0	4446	
+p449		0	39	
+p450	437	0	4	header
+p451	438	0	69	header
+p452	439	0	776	header
+p453	440	0	230	header
+p454		0	302	header
+p455		0	27	header
+p456		0	27	header
+p457	444	0	943	header
+p458		0	2122	header
+p459		0	64	header
+p460		0	4383	header
+p461		0	4371	header
+p462		0	286	header
+p463		0	4202	header
+p464		0	7	header
+p465		0	4300	header
+p466		0	36	header
+p467		0	3660	header
+p468		0	473	header
+p469		0	319	header
+p470	457	0	103	header
+p471		0	1409	
+p472	459	0	1150	header
+p473	460	0	467	header
+p474		0	836	footer

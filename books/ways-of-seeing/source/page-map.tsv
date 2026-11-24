@@ -1,0 +1,189 @@
+md_page	book_page	images	chars	note
+p001		1	18	header
+p002		2	479	footer
+p003		0	27	footer
+p004	re	0	642	
+p005		0	428	
+p006		1	240	
+p007	2	0	642	footer
+p008		1	313	footer
+p009	4	0	393	footer
+p010		0	751	
+p011	6	2	113	footer
+p012		0	435	
+p013	8	2	278	footer
+p014	9	1	252	footer
+p015	10	0	482	footer
+p016	11	1	357	footer
+p017	12	1	312	footer
+p018	13	1	411	footer
+p019	14	1	170	footer
+p020	15	1	400	footer
+p021	16	1	252	footer
+p022	17	0	716	footer
+p023	18	2	98	footer
+p024	19	1	429	footer
+p025	20	0	413	footer,table
+p026	21	0	14	footer,table
+p027	22	2	163	footer
+p028	23	6	67	footer
+p029	24	1	144	footer
+p030	25	1	102	footer
+p031	26	1	269	footer
+p032	27	3	139	footer
+p033	28	1	369	footer
+p034	29	1	510	footer
+p035	30	1	43	footer
+p036		0	760	footer
+p037	32	0	561	footer
+p038	33	1	140	footer
+p039		0	0	
+p040	2	1	14	footer
+p041	36	1	4	footer
+p042	37	2	14	
+p043	38	1	4	footer
+p044	39	1	14	footer
+p045	40	1	4	footer
+p046	41	1	14	footer
+p047	42	1	4	footer
+p048	43	2	14	
+p049		0	0	
+p050	3	1	270	footer
+p051	46	0	811	footer
+p052		0	380	footer
+p053	48	1	369	footer
+p054	49	3	131	footer
+p055	50	1	295	footer
+p056	51	2	116	footer
+p057	52	1	247	footer
+p058	53	2	206	footer
+p059	54	3	466	footer
+p060	55	2	379	footer
+p061	56	1	343	footer
+p062	57	2	174	footer
+p063	58	1	249	footer
+p064	59	1	194	footer
+p065	60	1	263	footer
+p066	61	0	726	footer
+p067	62	0	704	footer
+p068	63	1	197	footer
+p069	64	1	442	footer
+p070	65	1	325	footer
+p071	66	2	212	footer
+p072	67	0	254	footer
+p073		0	0	
+p074	69	1	35	footer
+p075	70	3	82	footer
+p076	71	3	72	footer
+p077	72	2	50	footer
+p078	73	3	81	footer
+p079	74	2	4	footer
+p080	75	2	14	footer
+p081	76	1	34	footer
+p082	77	2	57	footer
+p083	78	2	69	footer
+p084	79	2	122	footer
+p085	80	1	4	footer
+p086	81	3	14	footer
+p087	82	2	4	footer
+p088	83	3	14	footer
+p089	84	2	4	footer
+p090	85	2	14	footer
+p091		0	0	
+p092	5	1	129	footer
+p093	88	0	628	footer
+p094	89	1	264	footer
+p095	90	1	297	footer
+p096	91	1	377	footer
+p097	92	1	467	footer
+p098	93	0	529	footer
+p099	94	1	222	footer
+p100	95	1	549	footer
+p101	96	1	126	aside_text,footer
+p102	97	3	270	footer
+p103	98	1	349	footer
+p104	99	1	70	footer
+p105	100	1	273	footer
+p106		0	475	footer
+p107	102	2	246	footer
+p108	103	1	313	footer
+p109	104	1	224	footer
+p110	105	2	116	footer
+p111	106	1	326	footer
+p112	107	3	246	footer
+p113	108	2	419	footer
+p114	109	1	317	footer
+p115	110	1	303	footer
+p116	111	3	232	footer
+p117	112	1	226	footer
+p118	113	1	186	footer
+p119	114	1	417	footer
+p120		0	572	
+p121	116	2	478	footer
+p122		0	557	footer
+p123	118	0	554	footer
+p124	119	2	385	footer
+p125	120	1	154	footer
+p126		1	134	
+p127		0	0	
+p128	123	1	52	footer,header
+p129	124	1	4	footer
+p130	125	1	42	footer
+p131	126	2	65	footer
+p132	127	3	14	footer
+p133	128	1	4	footer
+p134	129	1	14	footer
+p135	130	2	4	footer
+p136	131	4	14	footer
+p137	132	6	4	footer
+p138	133	4	14	footer
+p139	134	1	30	footer
+p140	135	1	44	footer
+p141	136	4	80	footer
+p142	137	4	80	footer
+p143		0	0	
+p144		1	70	
+p145	140	2	488	footer
+p146	141	1	138	footer
+p147	142	1	683	footer
+p148	143	1	14	footer
+p149	144	3	459	footer
+p150	145	2	196	footer
+p151	146	2	534	footer
+p152	147	1	289	footer
+p153	148	4	19	footer
+p154	149	6	14	footer
+p155	150	0	383	footer
+p156	151	2	212	footer
+p157	152	2	337	footer
+p158		1	286	footer
+p159	154	2	91	footer
+p160	155	1	209	footer
+p161	156	4	153	footer
+p162	157	5	1520	footer
+p163	158	1	744	footer
+p164	159	2	436	footer
+p165	160	1	159	footer
+p166	161	1	226	footer
+p167	162	1	296	footer
+p168	163	1	168	footer
+p169	164	3	429	footer
+p170	165	3	101	footer
+p171	166	1	20	footer
+p172	167	1	14	footer
+p173	168	3	613	footer
+p174	169	0	702	footer
+p175	170	0	337	footer
+p176	171	1	68	footer
+p177	172	0	12	footer
+p178	173	0	800	footer
+p179	174	0	71	footer
+p180	175	0	14	footer
+p181	176	0	790	footer
+p182	177	0	14	footer
+p183	178	0	4	footer
+p184	179	0	14	footer
+p185	180	0	18	footer
+p186	181	0	64	footer
+p187	182	0	950	footer
+p188		0	60	

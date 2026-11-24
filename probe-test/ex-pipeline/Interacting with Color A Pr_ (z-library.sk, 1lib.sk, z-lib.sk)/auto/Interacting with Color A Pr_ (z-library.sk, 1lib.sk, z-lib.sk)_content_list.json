@@ -1,0 +1,975 @@
+[
+    {
+        "type": "text",
+        "text": "FRITZ HORSTMAN",
+        "bbox": [
+            78,
+            78,
+            346,
+            98
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Interacting with Color",
+        "text_level": 2,
+        "bbox": [
+            394,
+            64,
+            922,
+            104
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A Practical Guide to Josef Albers's Color Experiments",
+        "bbox": [
+            392,
+            118,
+            922,
+            179
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/a5c3e5898205e47a324cd4cc3908e345e582d2e35c7cbd0fd8a3090b771629a4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            80,
+            196,
+            919,
+            910
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ALSO AVAILABLE",
+        "bbox": [
+            32,
+            201,
+            126,
+            218
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Interaction of Color: 5oth Anniversary Edition",
+        "bbox": [
+            32,
+            230,
+            256,
+            251
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Interaction of Color: New Complete Edition",
+        "bbox": [
+            32,
+            261,
+            242,
+            282
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Interaction of Color: Complete Digital Edition Available online: interactionofcolor.com",
+        "bbox": [
+            31,
+            291,
+            254,
+            335
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FRItz HorstmAN Interacting with Color",
+        "bbox": [
+            542,
+            189,
+            940,
+            227
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A Practical Guide to Josef Albers's Color Experiments",
+        "bbox": [
+            695,
+            240,
+            937,
+            305
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "YALE UNIVERSITY PRESS New Haven & London",
+        "bbox": [
+            695,
+            848,
+            841,
+            888
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Copyright © 2024 by Fritz Horstman.   \nAll rights reserved.",
+        "bbox": [
+            32,
+            485,
+            190,
+            518
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This book may not be reproduced, in whole or in part, including illustrations, in any form (beyond that copying permitted by Sections 107 and 1o8 of the U.S. Copyright Law and except by reviewers for the public press), without written permission from the publishers.",
+        "bbox": [
+            32,
+            523,
+            330,
+            595
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "yalebooks.com/art",
+        "bbox": [
+            31,
+            613,
+            114,
+            628
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Designed and set in New Baskerville type by BW&A Books, Inc. Printed in China by ioio Printing International Limited",
+        "bbox": [
+            31,
+            649,
+            300,
+            684
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Library of Congress Control Number: 2023946583   \nISBN 978-0-300-27243-7",
+        "bbox": [
+            31,
+            703,
+            248,
+            738
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A catalogue record for this book is available from the British Library.",
+        "bbox": [
+            29,
+            757,
+            326,
+            774
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This paper meets the requirements of ANSI/NISO Z39.48-1992 (Permanence of Paper).",
+        "bbox": [
+            31,
+            793,
+            303,
+            828
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "10 9 8 76 5 4 3 21",
+        "bbox": [
+            31,
+            849,
+            131,
+            866
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CONTENTS",
+        "bbox": [
+            619,
+            81,
+            706,
+            99
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Foreword | Nicholas Fox Weber vii",
+        "bbox": [
+            618,
+            198,
+            792,
+            218
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Introduction 1",
+        "bbox": [
+            619,
+            227,
+            699,
+            243
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The exercises in this book are based on the following chapters or sections of chapters of Interaction of Color:",
+        "bbox": [
+            618,
+            266,
+            874,
+            305
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c7164e9b3ab89366de7b8730af2e0cd00752884704f5b0f5345c6e70a43278ad.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            564,
+            315,
+            606,
+            357
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "IV A color has many faces—the relativity of color 3",
+        "bbox": [
+            619,
+            342,
+            877,
+            360
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4938169afc0b60a51eac4b0b93fbabb99f583e3924b2336ecc4e381001e0eff8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            564,
+            377,
+            606,
+            421
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "V Gradation studies—new presentations 25",
+        "bbox": [
+            621,
+            407,
+            840,
+            424
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ee0f32ef370df4e826721939ffd6d5af5cdca35655d754c0738a2dd8b3600d62.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            564,
+            440,
+            605,
+            481
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "VI1 color appears as 2—looking like the reversed grounds 39",
+        "bbox": [
+            619,
+            464,
+            927,
+            484
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef7402ea2947ac02ad2b3cf93066c14e3cffd91ef5013dea41375cc7c4132821.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            564,
+            500,
+            606,
+            535
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "VII Why color deception?—after-image 53",
+        "bbox": [
+            619,
+            518,
+            844,
+            538
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a76f225d93dc677f60ebda630520a6a8f76af0dd2d7db26bda52f89d83c3db53.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            564,
+            554,
+            605,
+            606
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "IX, XI Color mixture in paper— illusion of transparence, illusion of depth 67",
+        "bbox": [
+            620,
+            571,
+            843,
+            610
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/94eed0a10f2f5e534da61c337248437419dd0d9b5dde958d1b889099d93ca1dc.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            563,
+            628,
+            606,
+            657
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "XIV Color intervals and transformation 85",
+        "bbox": [
+            618,
+            640,
+            842,
+            658
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/341e3669bd4b67d6e7ea1e018d8f89bdcf3ee75aeba7c629f26483cd5e64a4f1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            564,
+            675,
+            606,
+            705
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "XVI Color juxtaposition—harmony—quantity 1o1",
+        "bbox": [
+            618,
+            688,
+            875,
+            708
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b571629ec1c51bfce821aa11e1599984db13606091951c9d0cf082db23799ed.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            564,
+            724,
+            605,
+            759
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "XVIII Fall leaf studies—an American discovery 111",
+        "bbox": [
+            619,
+            745,
+            880,
+            762
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Appendix 121",
+        "bbox": [
+            619,
+            793,
+            694,
+            810
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments 131",
+        "bbox": [
+            619,
+            821,
+            733,
+            839
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Image Credits 133",
+        "bbox": [
+            619,
+            848,
+            714,
+            866
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "FOREWORD",
+        "text_level": 1,
+        "bbox": [
+            547,
+            82,
+            637,
+            102
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Interaction of Color is a masterpiece that fulfills the goal of Josef Albers's life: \"to open eyes.\" His was a straightforward, heartfelt intention: Albers wanted people to further their appreciation of life itself through the joys of seeing. With messianic zeal, he longed for everyone—regardless of education or circumstances—to go with him to the enchanted territory of color performance and to savor the offerings of vision. Albers's revelations were accessible to one and all, for they are timeless and apprehensible universally.",
+        "bbox": [
+            545,
+            201,
+            930,
+            339
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The alchemy presented in Interaction is glorious in its simplicity, its dependability, and the sense of wonder it bestows on us. Colors are not merely what they first appear to be. They change—which is to say that our perception of them changes—according to their settings. A blue that is luminous and ethereal when surrounded by a dark red may seem solid, even brooding, when encased in a pale yellow. An X that looks gray on a yellow background appears to be yellow on a gray background, yet it is always the same exact hue. The miracles are endless.",
+        "bbox": [
+            545,
+            357,
+            935,
+            497
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Exult in the mysteries! Relish the way that there is no one truth. Celebrate the way that just about everything we see depends on context. Albers beckons you with his immense generosity of heart to enter his kingdom of delights.",
+        "bbox": [
+            545,
+            515,
+            921,
+            575
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The first Interaction of Color, published by Yale University Press in 1963, was a large, precious object: produced to be exquisite thanks to the quality of its design and printing and presentation. But its contents were meant to be distributed to the entire world. Soon enough, Interaction began to proliferate: in paperback editions, with its text translated into seventeen different languages, as well as in electronic form. Its theories became influential in the teaching of art. Albers's students became teachers of its ideas to their students, and the number of apostles multiplied. The mutability of hues and the means of demonstrating it became central to the teaching of art on every level.",
+        "bbox": [
+            545,
+            593,
+            935,
+            771
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Yet color transformation is not simply taught; it is experienced directly. Albers's goal was for us to engage in our own explorations. Interaction guides its readers to be activated. And in making that green look one way in one environment and different in another, the participants in this glorious search come to feel the extraordinary happenings acutely.",
+        "bbox": [
+            545,
+            789,
+            931,
+            890
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "vii",
+        "bbox": [
+            948,
+            924,
+            963,
+            939
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Interacting with Color: A Practical Guide to Josef Albers's Color Experiments is a fantastic step forward in the realization of Albers's dream. With its straightforward exercises, explained with eloquence and clarity, it expands the territory of perception. Its exercises are succinct and realizable for everyone, from small children to university professors; it fulfills a need that has existed ever since the original Interaction of Color was published. For the nearly twenty years to date that Fritz Horstman has been associated with the Josef and Anni Albers Foundation, he has been teaching this subject matter in museums, community centers, and educational institutions of every level. In so doing, he has developed the means to make the experimentation Albers encouraged more accessible than it has ever been before. Diligently, excitedly, Horstman has found the ways with which, with limited tools and materials, the larger audience can feel Albers's alchemy in full force. The exercises presented here succeed completely: this is a tremendous achievement. This lucid book advances human knowledge and pleasure as Josef Albers intended.",
+        "bbox": [
+            31,
+            82,
+            421,
+            375
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Nicholas Fox Weber",
+        "bbox": [
+            321,
+            396,
+            409,
+            413
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Interacting with Color",
+        "bbox": [
+            695,
+            195,
+            875,
+            224
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b5db90f53f584e94377bb488f7b016066b99acc700280803e5b1f7087e19e57.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            34,
+            206,
+            422,
+            533
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION",
+        "text_level": 1,
+        "bbox": [
+            545,
+            84,
+            671,
+            102
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Josef Albers (1888-1976) dedicated Interaction of Color, first published in 1963, to his students. It was alongside them that he developed his ideas about color, and it was with them that the exercises that make up the book were given shape. Most of the book's illustrations are reproductions of students' solutions to the problems that Albers put forward in the classroom. Albers began his teaching career in elementary schools and then went on to work with design students at the Bauhaus in Germany and university students at Black Mountain College in North Carolina and Yale University in New Haven, Connecticut. He believed it was more important to ask the right questions than to direct students toward a specific answer. The same is true in this book. While engaging with the exercises, you will likely come up with unique solutions that might even have surprised Albers. His genius as a teacher was to lead students to their own discoveries, which inspired a deeper understanding of the material.",
+        "bbox": [
+            542,
+            203,
+            934,
+            460
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This book sets out to make Interaction of Color accessible to artists, teachers, and learners from all kinds of backgrounds and to hasten the moment when readers are actively experimenting with color. Albers's ideas about color are not a set of precepts or rules but a playful, approachable, and flexible way to explore color and visual perception. Readers will gain more nuanced ways to see color and will be able to talk about color and to appreciate its ever-changing relativity in every aspect of their lives. No memorizing of complicated theories is required, only the simplest of materials and a willingness to experiment.",
+        "bbox": [
+            540,
+            478,
+            931,
+            637
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Albers included twenty exercises in Interaction of Color. The present book focuses on eight essential exercises, with the hope that the reader will then have easier access to the rest. Interaction of Color begins with the relativity of color—how one color can appear very differently when surrounded by different background colors. This is the basis on which the rest of the book is built, and it is naturally where we also begin.",
+        "bbox": [
+            540,
+            655,
+            926,
+            772
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "1",
+        "bbox": [
+            943,
+            930,
+            951,
+            942
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A color has many faces the relativity of color",
+        "bbox": [
+            650,
+            195,
+            852,
+            255
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/dd85f86ed8d6412410a91ecbda3eaa0f98e1fcbf9ee559bec33cf7a1257a9c7d.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "Josef Albers, Plate IV-1 from Interaction of Color, 1963,"
+        ],
+        "bbox": [
+            35,
+            200,
+            424,
+            574
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In visual perception a color is almost never seen as it really is—as it physically is. This fact makes color the most relative medium in art. —JOSEF ALBERS",
+        "bbox": [
+            542,
+            198,
+            892,
+            258
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "At the heart of both Interaction of Colorand Albers's color course is the concept of color relativity. On the previous page the two small brown areas are identical in color, but they appear very different from one another because of their relationships with the surrounding colors. Focus your eyes on the line where dark blue and yellow meet, while observing the brown squares in your peripheral vision. Does one appear darker than the other? The same image is shown below with the yellow and dark blue removed to show that the brown is a single color, though it appears to be two different colors when it is surrounded by different background colors. Albers framed the idea of color relativity in an exercise that gives students access to the basic concept quickly and allows them to build upon it following their own curiosity. It can be done in many ways. What follows is a description of one possible approach.",
+        "bbox": [
+            539,
+            297,
+            930,
+            535
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/b2d6a056a98a4cf89fd0c5f2d042a68f54f3d717752b4500cca07fdde7f2df34.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            571,
+            578,
+            806,
+            803
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "4",
+        "bbox": [
+            14,
+            929,
+            22,
+            942
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "5",
+        "bbox": [
+            941,
+            930,
+            949,
+            944
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Materials",
+        "text_level": 2,
+        "bbox": [
+            540,
+            81,
+            607,
+            103
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/be7f891825b1ec90b060ca99e65d813ae7771d6a49a5a51c0eb6b47f8fc2d48d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            45,
+            204,
+            430,
+            575
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "• Colored paper—the more the better. Albers's students often used a specific brand called Color-aid. Paint swatch samples, wrapping paper, paper from magazines, or construction paper also work well.",
+        "bbox": [
+            569,
+            203,
+            916,
+            261
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "• Scissors",
+        "bbox": [
+            570,
+            266,
+            620,
+            284
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "• White card stock or sturdy paper",
+        "bbox": [
+            569,
+            290,
+            738,
+            308
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "• Glue. Glue sticks are good, as is liquid glue.",
+        "bbox": [
+            569,
+            314,
+            786,
+            333
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "• A strip of white paper for each student, approximately two inches wide",
+        "bbox": [
+            569,
+            338,
+            914,
+            359
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Having a good selection of colored paper is the best way to start, but don't worry if you can't get your hands on Color-aid or something similar. While Color-aid packets can include as many as 314 colors, having just 2o is enough to begin.",
+        "bbox": [
+            539,
+            378,
+            926,
+            439
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Albers was clear that the experiments in Interaction of Color should be done with paper and not paint. Applying paint to paper evenly with clean lines requires a set of skills and takes time, preventing a student from immediately engaging with color. Further, with a wide variety of colored paper in front of them, students can work quickly and change directions easily. Pieces of paper that are around three by four inches work well, but any size can be used. Materials can be shared. A table of eight students could all work from one large set of colored paper.",
+        "bbox": [
+            539,
+            455,
+            930,
+            596
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Although the exercise described here uses colored paper, don't let a lack of materials hold you back. Wonderful results cau be discovered by experimenting with fabric, digital tools, and any other colorful material, including paint, despite Albers's direction.",
+        "bbox": [
+            539,
+            613,
+            931,
+            691
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Once you've started, you will see color possibilities all around you!",
+        "bbox": [
+            539,
+            711,
+            859,
+            730
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "6",
+        "bbox": [
+            22,
+            926,
+            32,
+            941
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "7",
+        "bbox": [
+            942,
+            929,
+            951,
+            942
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Getting started",
+        "text_level": 2,
+        "bbox": [
+            45,
+            78,
+            149,
+            102
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Spread the papers out so that you can see as many colors as possible at the same time. Choose sets of three colors, arranging them in the orientation used in the demonstration to the right (two vertical pieces in the background with one horizontal across the middle). Place a vertical white strip on top so that the horizontally placed color is visually divided and can be seen interacting separately with the two background colors. Experiment by swapping colors out and observing the differences. In the following example of blue, blue-green, and green, any of the three colors could be changed. The blue could be exchanged for a very pale blue, the green for a yellow, or the blue-green for gray or even red. Experiment and note how the relationship between the colors changes. To preserve supplies, allow this stage of inquiry to continue for a while without using scissors and glue. If you've found something that works, set those colors aside and find another combination that also works, perhaps in a different way.",
+        "bbox": [
+            41,
+            200,
+            436,
+            458
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/e0c57be77d298378b8f989190fdda085efe33d206391bdc3782b53306ab67b19.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            45,
+            503,
+            433,
+            750
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/80eff710b0169367eaca9d8f2e2e6ac7a479bfc61ce73d908098a4b8fc873578.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            570,
+            106,
+            906,
+            428
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 2,
+        "bbox": [
+            569,
+            505,
+            912,
+            914
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "8",
+        "bbox": [
+            23,
+            924,
+            32,
+            939
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "9",
+        "bbox": [
+            943,
+            929,
+            953,
+            944
+        ],
+        "page_idx": 9
+    }
+]

@@ -1,0 +1,106 @@
+## p074
+![p074-f1 445x731](images/74ebdd7bfefca0b30a75bcf1a060c251aa46a96d82efaa06311f9b6cb959987c.jpg)
+CIMABUE C. 1240-1302?
+[footer] Ways of Seeing
+
+## p075
+PIERO DELLA FRANCESCA 1410/20-1492
+![p075-f1 665x901](images/f155b8b5dd3b6c7b77a87dfdc14f06bfb52f39fbc53f71faef2f3d94e4d892e4.jpg)
+![p075-f2 509x529](images/b4ece5c9d6d30e2435972177f90be71ae12e9c66c8680b52a8d4de53c1b6d43a.jpg)
+*图注*：GERARDDAVID 1523
+![p075-f3 359x529](images/45f176fb129545767d67e76f05edd5b45dd580b6e37343f28254db291a517216.jpg)
+*图注*：FRA  FILIPPOLIPPI1457/8-1504
+[footer] 观看之道
+
+## p076
+![p076-f1 445x656](images/fe5305d97529270489ce544b3392fef2a232921be82128022735bc372fb46465.jpg)
+*图注*：MURILLO1617-1682 FORD MADOXBROWN 1821-1893
+RAPHAEL1483-1520
+![p076-f2 478x651](images/6358d18c05cf1ca9a6bfadc2dc6100a49515b7ccc3e61549762882e93505d556.jpg)
+![p076-f3 965x782](images/dfd9d25e068030f84e28ec68810d0088bd649af1a375525a8c48e163363340e7.jpg)
+[footer] Ways of Seeing
+
+## p077
+GIOTTO 1266/7-1337
+![p077-f1 962x579](images/9ddb160a9095c681b9a7fd65b599ee397aceeab132bb433ad58979846cbfaabf.jpg)
+*图注*：PIETER BREUGHEL 1525/30-1569
+![p077-f2 921x848](images/60d2a9531c016cdbccb0f1a4d740f317320c3ec5a9840fd972745887c87a112f.jpg)
+[footer] 观看之道
+
+## p078
+HANS BALDUNGGRIEN1483-1545
+![p078-f1 285x723](images/1209504e1c7b836c479b834d5314e82bb0f2097d6101f046a05be6a5181ea2c4.jpg)
+*图注*：EDOUARDMANET 1832-1883
+GERICAULT 1791-1824
+![p078-f2 626x523](images/5043f92bdb89ad9a8eb60f6d6fd3be7e27e05793628b12513a1107a609f3ef9c.jpg)
+![p078-f3 967x462](images/cdaef8bb57941ab5b9ae72496e541b7aab3ff5019195c247e132bc899fcb0df3.jpg)
+[footer] Ways of Seeing
+
+## p079
+![p079-f1 765x631](images/501c85dc724a2921c577e9cd887ec4c9f3fc9afe95747865082c1e5401e50493.jpg)
+![p079-f2 968x718](images/b360163a10eeab7a7d015d827b1410c545389d2e8718af2e67d4d2dae7d72ca3.jpg)
+[footer] 观看之道
+
+## p080
+![p080-f1 962x743](images/c861bb572d495d7017ec98fa0de24dbcbde5e1975166293e7087b8ea8d493b28.jpg)
+![p080-f2 965x581](images/c06ed3f9f901d561b88626d4560482fa82e916b4394fb66ad47a9d772723f79f.jpg)
+[footer] Ways of Seeing
+
+## p081
+DAPHNIS AND CHLOE 15TH CENTURY
+![p081-f1 962x1317](images/4edeb161f30a4f105c1a6b3768e62b6c301ab43d3e84783edcc3462ef81ffdd5.jpg)
+[footer] 观看之道
+
+## p082
+![p082-f1 965x389](images/775f75670b41f9e258b4bdeac5d094adfe2305cdd54c9b0ee85bc410eec073f2.jpg)
+*图注*：VENUS AND MARS 15TH CENTURY
+![p082-f2 962x698](images/9f91523f36e7316c0659fd586e62066cb34c6a694cc5d8dc37443212361931bf.jpg)
+*图注*：PAN 15TH CENTURY
+[footer] Ways of Seeing
+
+## p083
+ANGELICA SAVED BY RUGGIERO 19TH CENTURY
+![p083-f1 592x717](images/ef6ea304ae005fb4a59831cca54ed9054e89c5e2e7de5e44a40e3a43a04486e5.jpg)
+*图注*：A ROMAN FEAST 19TH CENTURY
+![p083-f2 876x720](images/981f96b29a6cb2b2f9f21437367527cccf29f4cd5431c276433e2073c836d730.jpg)
+[footer] 观看之道
+
+## p084
+![p084-f1 881x701](images/0cfcfd07d603bb825c146e99370d2f51701c21f89b55d1966b8e1d9d74df9ad4.jpg)
+*图注*：PAN AND SYRINX 18TH CENTURY FOLLOWING 18TH CENTURY LOVE SEDUCING INNOCENCE, PLEASURE LEADING HER ON, REMORSE
+![p084-f2 595x748](images/aeffab5f8ac17682ca5a27be49f0000f47003034b850c76bf5b9dd2f0fc13b60.jpg)
+[footer] Ways of Seeing
+
+## p085
+![p085-f1 1151x945](images/14026a63a7c8df3fa96a9e53bbf98a2c8521ec770d5f70b50396f8ffe551dd72.jpg)
+[footer] 观看之道
+
+## p086
+![p086-f1 487x618](images/68a7f1fbb7cad0dc1c6bda915d8ce9a42d9bedbbfbf9eace6979faa936b6d540.jpg)
+![p086-f2 434x732](images/17bdcb75581b54a474d0f55b54b5137e6e20b9db1e203ad7da203b5a629378a7.jpg)
+![p086-f3 487x576](images/e6bbde7e0bc182b5ec244d6cc91e96ff9b53c61e123bea93b30779d8994baf59.jpg)
+[footer] Ways of Seeing
+
+## p087
+![p087-f1 484x645](images/70346434a1d503c62ca9c4580e8a7af84e5fd7724c298d169b5f6c8a6fc9d3d8.jpg)
+![p087-f2 490x687](images/3e416f4603e6ef0aa33ee19979a4650e00a89b142e2bf5f736a38fa664962373.jpg)
+[footer] 观看之道
+
+## p088
+![p088-f1 551x709](images/030d450845c6bba7d8836e07aa8d3daacccc3885582b9b4cf42f93cc92e0f7f6.jpg)
+![p088-f2 373x665](images/518efbd20ddc3ce9f6a5f228299d276059b44d3a2e846c1db7f2a9e8c8933844.jpg)
+![p088-f3 509x642](images/f667b3f53e1d9e062b3dcea6848da320031099556ce76c0f73354fb68f9dc2db.jpg)
+[footer] Ways of Seeing
+
+## p089
+![p089-f1 534x710](images/6522e329eb47bfb8e1e61cedfc0ddb5bb81bd75c23ae90a78d8e75c7d728de8c.jpg)
+![p089-f2 548x612](images/546646bf2dc1f14142bcdf08c0cb756f2dbceeb2167b423bd7f45521a7c4d7c7.jpg)
+[footer] 观看之道
+
+## p090
+![p090-f1 495x656](images/565e7142706d65671a04e5a46f5d033654c56ae3f99041c2cc460821941a3b92.jpg)
+![p090-f2 499x673](images/a55bd9e7bc4bce266dbcb52938f688291b4294514e56da4d141c45611e937a2f.jpg)
+[footer] Ways of Seeing
+
+## p091
+

@@ -1,0 +1,1064 @@
+{
+ "Interacting with Color A Pr_ (z-library.sk, 1lib.sk, z-lib.sk).pdf": {
+  "pages": 73,
+  "samples": 16,
+  "top": [
+   {
+    "page": 1,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.318,
+    "colored": 0.463,
+    "lum": 185.3
+   },
+   {
+    "page": 31,
+    "chars": 0,
+    "imgs": 3,
+    "sat": 0.133,
+    "colored": 0.218,
+    "lum": 225.6
+   },
+   {
+    "page": 16,
+    "chars": 0,
+    "imgs": 3,
+    "sat": 0.149,
+    "colored": 0.207,
+    "lum": 217.5
+   },
+   {
+    "page": 61,
+    "chars": 0,
+    "imgs": 2,
+    "sat": 0.15,
+    "colored": 0.185,
+    "lum": 218.9
+   },
+   {
+    "page": 46,
+    "chars": 0,
+    "imgs": 2,
+    "sat": 0.12,
+    "colored": 0.184,
+    "lum": 223.1
+   },
+   {
+    "page": 51,
+    "chars": 0,
+    "imgs": 3,
+    "sat": 0.1,
+    "colored": 0.137,
+    "lum": 227.6
+   },
+   {
+    "page": 56,
+    "chars": 0,
+    "imgs": 2,
+    "sat": 0.114,
+    "colored": 0.136,
+    "lum": 231.8
+   },
+   {
+    "page": 26,
+    "chars": 0,
+    "imgs": 2,
+    "sat": 0.061,
+    "colored": 0.124,
+    "lum": 242.0
+   },
+   {
+    "page": 41,
+    "chars": 0,
+    "imgs": 3,
+    "sat": 0.057,
+    "colored": 0.086,
+    "lum": 246.0
+   },
+   {
+    "page": 11,
+    "chars": 0,
+    "imgs": 2,
+    "sat": 0.063,
+    "colored": 0.061,
+    "lum": 232.4
+   },
+   {
+    "page": 6,
+    "chars": 0,
+    "imgs": 3,
+    "sat": 0.042,
+    "colored": 0.042,
+    "lum": 233.3
+   },
+   {
+    "page": 36,
+    "chars": 0,
+    "imgs": 2,
+    "sat": 0.027,
+    "colored": 0.04,
+    "lum": 249.9
+   },
+   {
+    "page": 21,
+    "chars": 0,
+    "imgs": 2,
+    "sat": 0.022,
+    "colored": 0.016,
+    "lum": 231.5
+   },
+   {
+    "page": 71,
+    "chars": 0,
+    "imgs": 2,
+    "sat": 0.009,
+    "colored": 0.01,
+    "lum": 248.6
+   }
+  ]
+ },
+ "Interaction of Color 50th A_ (z-library.sk, 1lib.sk, z-lib.sk).pdf": {
+  "pages": 210,
+  "samples": 43,
+  "top": [
+   {
+    "page": 126,
+    "chars": 3,
+    "imgs": 2,
+    "sat": 0.23,
+    "colored": 0.524,
+    "lum": 216.1
+   },
+   {
+    "page": 106,
+    "chars": 2,
+    "imgs": 2,
+    "sat": 0.246,
+    "colored": 0.51,
+    "lum": 179.2
+   },
+   {
+    "page": 210,
+    "chars": 62,
+    "imgs": 2,
+    "sat": 0.304,
+    "colored": 0.486,
+    "lum": 181.0
+   },
+   {
+    "page": 1,
+    "chars": 59,
+    "imgs": 2,
+    "sat": 0.421,
+    "colored": 0.482,
+    "lum": 180.8
+   },
+   {
+    "page": 96,
+    "chars": 0,
+    "imgs": 2,
+    "sat": 0.273,
+    "colored": 0.437,
+    "lum": 192.6
+   },
+   {
+    "page": 186,
+    "chars": 0,
+    "imgs": 2,
+    "sat": 0.292,
+    "colored": 0.436,
+    "lum": 187.3
+   },
+   {
+    "page": 196,
+    "chars": 0,
+    "imgs": 2,
+    "sat": 0.253,
+    "colored": 0.364,
+    "lum": 196.2
+   },
+   {
+    "page": 176,
+    "chars": 3,
+    "imgs": 2,
+    "sat": 0.146,
+    "colored": 0.286,
+    "lum": 191.8
+   },
+   {
+    "page": 136,
+    "chars": 3,
+    "imgs": 2,
+    "sat": 0.202,
+    "colored": 0.284,
+    "lum": 221.5
+   },
+   {
+    "page": 166,
+    "chars": 0,
+    "imgs": 2,
+    "sat": 0.166,
+    "colored": 0.282,
+    "lum": 213.4
+   },
+   {
+    "page": 156,
+    "chars": 3,
+    "imgs": 2,
+    "sat": 0.086,
+    "colored": 0.235,
+    "lum": 226.7
+   },
+   {
+    "page": 206,
+    "chars": 0,
+    "imgs": 2,
+    "sat": 0.15,
+    "colored": 0.213,
+    "lum": 221.2
+   },
+   {
+    "page": 11,
+    "chars": 3109,
+    "imgs": 2,
+    "sat": 0.038,
+    "colored": 0.077,
+    "lum": 233.6
+   },
+   {
+    "page": 21,
+    "chars": 1888,
+    "imgs": 2,
+    "sat": 0.023,
+    "colored": 0.042,
+    "lum": 241.9
+   }
+  ]
+ },
+ "中国美学史大纲 (叶朗) (z-library.sk, 1lib.sk, z-lib.sk).pdf": {
+  "pages": 675,
+  "samples": 136,
+  "top": [
+   {
+    "page": 1,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.237,
+    "colored": 0.137,
+    "lum": 66.3
+   },
+   {
+    "page": 286,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.06,
+    "colored": 0.109,
+    "lum": 227.9
+   },
+   {
+    "page": 236,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.056,
+    "colored": 0.108,
+    "lum": 229.0
+   },
+   {
+    "page": 161,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.054,
+    "colored": 0.107,
+    "lum": 230.5
+   },
+   {
+    "page": 251,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.059,
+    "colored": 0.105,
+    "lum": 228.5
+   },
+   {
+    "page": 16,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.051,
+    "colored": 0.104,
+    "lum": 230.6
+   },
+   {
+    "page": 431,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.055,
+    "colored": 0.104,
+    "lum": 228.9
+   },
+   {
+    "page": 101,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.053,
+    "colored": 0.103,
+    "lum": 230.9
+   },
+   {
+    "page": 186,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.055,
+    "colored": 0.103,
+    "lum": 229.7
+   },
+   {
+    "page": 241,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.054,
+    "colored": 0.103,
+    "lum": 228.6
+   },
+   {
+    "page": 271,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.053,
+    "colored": 0.102,
+    "lum": 230.5
+   },
+   {
+    "page": 376,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.053,
+    "colored": 0.102,
+    "lum": 230.6
+   },
+   {
+    "page": 411,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.048,
+    "colored": 0.102,
+    "lum": 233.0
+   },
+   {
+    "page": 396,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.052,
+    "colored": 0.101,
+    "lum": 231.6
+   }
+  ]
+ },
+ "摄影师的视界迈克尔·弗里曼摄影构图与设计(10周年纪念_ (z-library.sk, 1lib.sk, z-lib.sk).pdf": {
+  "pages": 189,
+  "samples": 39,
+  "top": [
+   {
+    "page": 166,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.291,
+    "colored": 0.343,
+    "lum": 103.7
+   },
+   {
+    "page": 121,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.237,
+    "colored": 0.33,
+    "lum": 193.5
+   },
+   {
+    "page": 71,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.153,
+    "colored": 0.302,
+    "lum": 215.4
+   },
+   {
+    "page": 1,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.303,
+    "colored": 0.259,
+    "lum": 148.8
+   },
+   {
+    "page": 176,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.255,
+    "colored": 0.255,
+    "lum": 146.7
+   },
+   {
+    "page": 106,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.213,
+    "colored": 0.245,
+    "lum": 178.2
+   },
+   {
+    "page": 151,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.242,
+    "colored": 0.243,
+    "lum": 128.4
+   },
+   {
+    "page": 46,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.171,
+    "colored": 0.241,
+    "lum": 200.4
+   },
+   {
+    "page": 36,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.217,
+    "colored": 0.228,
+    "lum": 180.8
+   },
+   {
+    "page": 156,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.313,
+    "colored": 0.223,
+    "lum": 133.1
+   },
+   {
+    "page": 126,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.201,
+    "colored": 0.221,
+    "lum": 174.4
+   },
+   {
+    "page": 86,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.177,
+    "colored": 0.169,
+    "lum": 88.6
+   },
+   {
+    "page": 26,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.192,
+    "colored": 0.144,
+    "lum": 92.3
+   },
+   {
+    "page": 146,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.163,
+    "colored": 0.141,
+    "lum": 186.4
+   }
+  ]
+ },
+ "摄影色彩圣经 摄影师的色彩视觉必修课=THE PHOT_ (z-library.sk, 1lib.sk, z-lib.sk).pdf": {
+  "pages": 181,
+  "samples": 37,
+  "top": [
+   {
+    "page": 121,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.975,
+    "colored": 0.994,
+    "lum": 124.3
+   },
+   {
+    "page": 96,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.394,
+    "colored": 0.665,
+    "lum": 157.8
+   },
+   {
+    "page": 1,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.62,
+    "colored": 0.657,
+    "lum": 81.8
+   },
+   {
+    "page": 41,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.457,
+    "colored": 0.436,
+    "lum": 58.3
+   },
+   {
+    "page": 131,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.336,
+    "colored": 0.433,
+    "lum": 167.1
+   },
+   {
+    "page": 76,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.256,
+    "colored": 0.37,
+    "lum": 181.7
+   },
+   {
+    "page": 166,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.287,
+    "colored": 0.36,
+    "lum": 183.9
+   },
+   {
+    "page": 136,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.327,
+    "colored": 0.351,
+    "lum": 179.1
+   },
+   {
+    "page": 111,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.373,
+    "colored": 0.348,
+    "lum": 137.9
+   },
+   {
+    "page": 106,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.272,
+    "colored": 0.319,
+    "lum": 197.5
+   },
+   {
+    "page": 161,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.295,
+    "colored": 0.304,
+    "lum": 167.5
+   },
+   {
+    "page": 51,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.457,
+    "colored": 0.299,
+    "lum": 37.6
+   },
+   {
+    "page": 91,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.276,
+    "colored": 0.281,
+    "lum": 162.6
+   },
+   {
+    "page": 81,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.274,
+    "colored": 0.279,
+    "lum": 143.3
+   }
+  ]
+ },
+ "美学散步（彩图本） (宗白华) (z-library.sk, 1lib.sk, z-lib.sk)-1.pdf": {
+  "pages": 360,
+  "samples": 73,
+  "top": [
+   {
+    "page": 111,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.339,
+    "colored": 0.502,
+    "lum": 155.0
+   },
+   {
+    "page": 241,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.263,
+    "colored": 0.422,
+    "lum": 200.7
+   },
+   {
+    "page": 176,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.229,
+    "colored": 0.415,
+    "lum": 206.4
+   },
+   {
+    "page": 131,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.221,
+    "colored": 0.37,
+    "lum": 168.5
+   },
+   {
+    "page": 21,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.201,
+    "colored": 0.345,
+    "lum": 178.8
+   },
+   {
+    "page": 96,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.221,
+    "colored": 0.33,
+    "lum": 210.2
+   },
+   {
+    "page": 201,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.258,
+    "colored": 0.328,
+    "lum": 147.0
+   },
+   {
+    "page": 136,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.201,
+    "colored": 0.314,
+    "lum": 206.0
+   },
+   {
+    "page": 66,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.139,
+    "colored": 0.24,
+    "lum": 212.9
+   },
+   {
+    "page": 276,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.158,
+    "colored": 0.228,
+    "lum": 195.0
+   },
+   {
+    "page": 236,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.126,
+    "colored": 0.181,
+    "lum": 196.8
+   },
+   {
+    "page": 261,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.187,
+    "colored": 0.179,
+    "lum": 158.1
+   },
+   {
+    "page": 116,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.183,
+    "colored": 0.147,
+    "lum": 170.2
+   },
+   {
+    "page": 81,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.098,
+    "colored": 0.122,
+    "lum": 211.1
+   }
+  ]
+ },
+ "艺术与视知觉（35周年纪念版） (鲁道夫·阿恩海姆) (z-library.sk, 1lib.sk, z-lib.sk).pdf": {
+  "pages": 530,
+  "samples": 107,
+  "top": [
+   {
+    "page": 530,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.836,
+    "colored": 0.96,
+    "lum": 63.0
+   },
+   {
+    "page": 1,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.46,
+    "colored": 0.936,
+    "lum": 177.0
+   },
+   {
+    "page": 26,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.023,
+    "colored": 0.044,
+    "lum": 240.7
+   },
+   {
+    "page": 51,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.024,
+    "colored": 0.043,
+    "lum": 240.6
+   },
+   {
+    "page": 56,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.03,
+    "colored": 0.042,
+    "lum": 224.3
+   },
+   {
+    "page": 356,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.025,
+    "colored": 0.041,
+    "lum": 236.8
+   },
+   {
+    "page": 311,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.032,
+    "colored": 0.04,
+    "lum": 223.4
+   },
+   {
+    "page": 271,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.023,
+    "colored": 0.038,
+    "lum": 242.2
+   },
+   {
+    "page": 136,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.024,
+    "colored": 0.037,
+    "lum": 240.1
+   },
+   {
+    "page": 171,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.023,
+    "colored": 0.037,
+    "lum": 240.1
+   },
+   {
+    "page": 201,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.021,
+    "colored": 0.037,
+    "lum": 241.5
+   },
+   {
+    "page": 301,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.023,
+    "colored": 0.036,
+    "lum": 240.7
+   },
+   {
+    "page": 41,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.022,
+    "colored": 0.035,
+    "lum": 240.5
+   },
+   {
+    "page": 131,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.023,
+    "colored": 0.035,
+    "lum": 241.2
+   }
+  ]
+ },
+ "艺术与错觉：图画再现的心理学研究 (（英）E·H·贡布_ (z-library.sk, 1lib.sk, z-lib.sk)-1.pdf": {
+  "pages": 415,
+  "samples": 84,
+  "top": [
+   {
+    "page": 415,
+    "chars": 845,
+    "imgs": 3,
+    "sat": 0.411,
+    "colored": 0.789,
+    "lum": 199.2
+   },
+   {
+    "page": 1,
+    "chars": 0,
+    "imgs": 3,
+    "sat": 0.136,
+    "colored": 0.185,
+    "lum": 185.1
+   },
+   {
+    "page": 56,
+    "chars": 1269,
+    "imgs": 1,
+    "sat": 0.046,
+    "colored": 0.103,
+    "lum": 231.1
+   },
+   {
+    "page": 186,
+    "chars": 1246,
+    "imgs": 1,
+    "sat": 0.047,
+    "colored": 0.1,
+    "lum": 230.3
+   },
+   {
+    "page": 281,
+    "chars": 1268,
+    "imgs": 1,
+    "sat": 0.046,
+    "colored": 0.1,
+    "lum": 231.0
+   },
+   {
+    "page": 366,
+    "chars": 3752,
+    "imgs": 1,
+    "sat": 0.049,
+    "colored": 0.1,
+    "lum": 230.6
+   },
+   {
+    "page": 6,
+    "chars": 1158,
+    "imgs": 1,
+    "sat": 0.045,
+    "colored": 0.099,
+    "lum": 231.6
+   },
+   {
+    "page": 211,
+    "chars": 1273,
+    "imgs": 1,
+    "sat": 0.046,
+    "colored": 0.098,
+    "lum": 230.5
+   },
+   {
+    "page": 256,
+    "chars": 1128,
+    "imgs": 1,
+    "sat": 0.045,
+    "colored": 0.096,
+    "lum": 231.0
+   },
+   {
+    "page": 176,
+    "chars": 1277,
+    "imgs": 1,
+    "sat": 0.045,
+    "colored": 0.096,
+    "lum": 232.0
+   },
+   {
+    "page": 141,
+    "chars": 1275,
+    "imgs": 1,
+    "sat": 0.044,
+    "colored": 0.095,
+    "lum": 231.9
+   },
+   {
+    "page": 291,
+    "chars": 1319,
+    "imgs": 1,
+    "sat": 0.043,
+    "colored": 0.095,
+    "lum": 232.8
+   },
+   {
+    "page": 371,
+    "chars": 3852,
+    "imgs": 1,
+    "sat": 0.045,
+    "colored": 0.095,
+    "lum": 232.6
+   },
+   {
+    "page": 61,
+    "chars": 1304,
+    "imgs": 3,
+    "sat": 0.053,
+    "colored": 0.093,
+    "lum": 208.3
+   }
+  ]
+ },
+ "迈克尔·弗里曼摄影大师班 光线与用光 彩印 (宋杰，张_ (z-library.sk, 1lib.sk, z-lib.sk).pdf": {
+  "pages": 163,
+  "samples": 34,
+  "top": [
+   {
+    "page": 121,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.409,
+    "colored": 0.54,
+    "lum": 91.2
+   },
+   {
+    "page": 136,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.252,
+    "colored": 0.385,
+    "lum": 74.9
+   },
+   {
+    "page": 41,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.211,
+    "colored": 0.252,
+    "lum": 48.5
+   },
+   {
+    "page": 146,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.256,
+    "colored": 0.24,
+    "lum": 131.0
+   },
+   {
+    "page": 81,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.21,
+    "colored": 0.23,
+    "lum": 44.5
+   },
+   {
+    "page": 71,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.134,
+    "colored": 0.188,
+    "lum": 49.4
+   },
+   {
+    "page": 126,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.135,
+    "colored": 0.18,
+    "lum": 189.2
+   },
+   {
+    "page": 111,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.146,
+    "colored": 0.175,
+    "lum": 43.1
+   },
+   {
+    "page": 61,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.165,
+    "colored": 0.169,
+    "lum": 148.9
+   },
+   {
+    "page": 131,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.138,
+    "colored": 0.151,
+    "lum": 185.3
+   },
+   {
+    "page": 1,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.132,
+    "colored": 0.146,
+    "lum": 86.6
+   },
+   {
+    "page": 141,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.107,
+    "colored": 0.123,
+    "lum": 168.2
+   },
+   {
+    "page": 116,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.098,
+    "colored": 0.116,
+    "lum": 233.0
+   },
+   {
+    "page": 11,
+    "chars": 0,
+    "imgs": 1,
+    "sat": 0.104,
+    "colored": 0.115,
+    "lum": 206.0
+   }
+  ]
+ }
+}

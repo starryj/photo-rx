@@ -1,0 +1,674 @@
+md_page	book_page	images	chars	note
+p001		1	13	header
+p002		0	18	
+p003		0	362	
+p004	1	0	4365	
+p005	2	0	0	
+p006	3	0	0	
+p007	4	0	0	
+p008	5	0	0	
+p009	6	0	2256	
+p010	7	0	0	
+p011	8	0	0	
+p012	1	0	409	
+p013	2	0	655	
+p014	3	0	578	
+p015	4	0	877	
+p016	5	0	733	
+p017	6	0	492	equation,page_footnote
+p018	7	0	736	
+p019	8	0	770	
+p020	9	0	659	
+p021	10	0	450	
+p022	11	0	676	
+p023	12	0	1006	
+p024	13	0	411	page_footnote
+p025	14	0	963	page_footnote
+p026	15	0	597	
+p027	16	0	120	
+p028		0	14	
+p029		0	0	
+p030	19	0	489	
+p031	20	0	907	page_footnote
+p032	21	0	638	
+p033	22	0	697	
+p034	23	0	639	page_footnote
+p035	24	0	593	page_footnote
+p036	25	0	780	page_footnote
+p037	26	0	533	page_footnote
+p038	27	0	732	page_footnote
+p039	28	0	644	
+p040	29	0	653	page_footnote
+p041	30	0	738	page_footnote
+p042	31	0	606	
+p043	32	0	563	page_footnote
+p044	33	0	635	page_footnote
+p045	34	0	838	
+p046	35	0	915	
+p047	36	0	668	page_footnote
+p048	37	0	349	page_footnote
+p049	38	0	817	
+p050	39	0	500	page_footnote
+p051	40	0	698	page_footnote
+p052	41	0	351	page_footnote
+p053	42	0	506	
+p054	43	0	581	page_footnote
+p055	44	0	856	page_footnote
+p056	45	0	376	
+p057	46	0	562	
+p058	47	0	643	page_footnote
+p059	48	0	736	
+p060	49	0	545	page_footnote
+p061	50	0	727	page_footnote
+p062	51	0	687	page_footnote
+p063	52	0	820	page_footnote
+p064	53	0	466	page_footnote
+p065	54	0	573	page_footnote
+p066	55	0	858	page_footnote
+p067	56	0	498	page_footnote
+p068	57	0	599	
+p069	58	0	881	page_footnote
+p070	59	0	381	page_footnote
+p071	60	0	644	page_footnote
+p072	61	0	635	page_footnote
+p073	62	0	695	
+p074	63	0	428	
+p075	64	0	450	
+p076	65	0	839	page_footnote
+p077	66	0	648	
+p078	67	0	1130	page_footnote
+p079	68	0	302	page_footnote
+p080	69	0	693	page_footnote
+p081	70	0	740	
+p082	71	0	828	page_footnote
+p083	72	0	527	page_footnote
+p084	73	0	777	
+p085	74	0	419	page_footnote
+p086	75	0	533	
+p087	76	0	802	
+p088	77	0	457	page_footnote
+p089	78	0	739	
+p090	79	0	551	
+p091	80	0	882	
+p092	81	0	608	page_footnote
+p093	82	0	624	
+p094	83	0	563	
+p095	84	0	746	page_footnote
+p096	85	0	711	page_footnote
+p097	86	0	550	
+p098	87	0	698	page_footnote
+p099	88	0	929	page_footnote
+p100	89	0	485	
+p101	90	0	1051	page_footnote
+p102	91	0	755	page_footnote
+p103	92	0	563	page_footnote
+p104	93	0	638	page_footnote
+p105	94	0	423	page_footnote
+p106	95	0	570	page_footnote
+p107	96	0	868	page_footnote
+p108	97	0	452	page_footnote
+p109	98	0	550	page_footnote
+p110	99	0	677	
+p111	100	0	728	page_footnote
+p112	101	0	571	page_footnote
+p113	102	0	659	page_footnote
+p114	103	0	804	page_footnote
+p115	104	0	479	page_footnote
+p116	105	0	400	page_footnote
+p117	106	0	602	
+p118	107	0	853	page_footnote
+p119	108	0	946	page_footnote
+p120	109	0	364	page_footnote
+p121	110	0	705	page_footnote
+p122	111	0	548	page_footnote
+p123	112	0	521	page_footnote
+p124	113	0	652	page_footnote
+p125	114	0	733	page_footnote
+p126	115	0	1033	page_footnote
+p127	116	0	444	page_footnote
+p128	117	0	1038	
+p129	118	0	481	page_footnote
+p130	119	0	539	page_footnote
+p131	120	0	939	page_footnote
+p132	121	0	737	
+p133	122	0	564	
+p134	123	0	595	
+p135	124	0	647	
+p136	125	0	800	
+p137	126	0	544	page_footnote
+p138	127	0	787	page_footnote
+p139	128	0	799	page_footnote
+p140	129	0	536	page_footnote
+p141	130	0	480	page_footnote
+p142	131	0	697	page_footnote
+p143	132	0	1013	
+p144	133	0	70	
+p145	134	0	461	page_footnote
+p146	135	0	604	
+p147	136	0	618	
+p148	137	0	651	
+p149	138	0	654	
+p150	139	0	572	
+p151	140	0	693	
+p152	141	0	877	page_footnote
+p153	142	0	544	page_footnote
+p154	143	0	755	page_footnote
+p155	144	0	575	page_footnote
+p156	145	0	670	page_footnote
+p157	146	0	623	
+p158	147	0	354	page_footnote
+p159	148	0	538	
+p160	149	0	697	
+p161	150	0	607	
+p162	151	0	752	page_footnote
+p163	152	0	567	page_footnote
+p164	153	0	574	
+p165	154	0	1013	
+p166	155	0	229	page_footnote
+p167	156	0	823	
+p168	157	0	996	page_footnote
+p169	158	0	73	page_footnote
+p170	159	0	400	
+p171	160	0	873	page_footnote
+p172	161	0	357	
+p173	162	0	834	page_footnote
+p174	163	0	353	page_footnote
+p175	164	0	578	page_footnote
+p176	165	0	578	page_footnote
+p177	166	0	623	
+p178	167	0	530	
+p179	168	0	673	page_footnote
+p180	169	0	456	
+p181	170	0	610	
+p182	171	0	597	
+p183	172	0	789	page_footnote
+p184	173	0	451	page_footnote
+p185	174	0	802	page_footnote
+p186	175	0	786	
+p187	176	0	432	
+p188	177	0	719	page_footnote
+p189	178	0	855	
+p190	179	0	146	page_footnote
+p191		0	0	
+p192		0	14	
+p193	183	0	526	
+p194	184	0	555	page_footnote
+p195	185	0	681	
+p196	186	0	633	page_footnote
+p197	187	0	668	page_footnote
+p198	188	0	637	
+p199	189	0	618	page_footnote
+p200	190	0	631	page_footnote
+p201	191	0	705	
+p202	192	0	660	
+p203	193	0	956	
+p204	194	0	771	page_footnote
+p205	195	0	921	
+p206	196	0	218	
+p207	197	0	648	page_footnote
+p208	198	0	571	
+p209	199	0	862	
+p210	200	0	397	page_footnote
+p211	201	0	791	page_footnote
+p212	202	0	790	page_footnote
+p213	203	0	532	
+p214	204	0	619	page_footnote
+p215	205	0	850	
+p216	206	0	688	
+p217	207	0	489	page_footnote
+p218	208	0	681	
+p219	209	0	1104	
+p220	210	0	697	
+p221	211	0	393	
+p222	212	0	741	page_footnote
+p223	213	0	634	page_footnote
+p224	214	0	514	page_footnote
+p225	215	0	677	page_footnote
+p226	216	0	615	page_footnote
+p227	217	0	639	page_footnote
+p228	218	0	648	page_footnote
+p229	219	0	735	page_footnote
+p230	220	0	600	page_footnote
+p231	221	0	1075	page_footnote
+p232	222	0	426	page_footnote
+p233	223	0	692	page_footnote
+p234	224	0	630	page_footnote
+p235	225	0	136	
+p236	226	0	534	page_footnote
+p237	227	0	759	page_footnote
+p238	228	0	644	page_footnote
+p239	229	0	662	page_footnote
+p240	230	0	637	page_footnote
+p241	231	0	763	
+p242	232	0	1002	
+p243	233	0	470	page_footnote
+p244	234	0	672	
+p245	235	1	521	
+p246	236	0	524	
+p247	237	0	624	
+p248	238	0	633	
+p249	239	0	667	
+p250	240	0	701	
+p251	241	0	436	
+p252	242	0	774	page_footnote
+p253	243	0	520	
+p254	244	0	835	page_footnote
+p255	245	0	768	
+p256	246	0	467	
+p257	247	0	726	
+p258	248	0	896	
+p259	249	0	449	page_footnote
+p260	250	0	842	
+p261	251	0	537	
+p262	252	0	717	
+p263	253	0	625	
+p264	254	0	419	
+p265	255	0	1235	page_footnote
+p266	256	0	425	page_footnote
+p267	257	0	615	
+p268	258	0	688	page_footnote
+p269	259	0	589	
+p270	260	0	565	page_footnote
+p271	261	0	687	
+p272	262	0	694	page_footnote
+p273	263	0	839	
+p274	264	0	506	
+p275	265	0	659	page_footnote
+p276	266	0	872	page_footnote
+p277	267	0	724	
+p278	268	0	537	
+p279	269	0	767	page_footnote
+p280	270	0	887	page_footnote
+p281	271	0	512	
+p282	272	0	907	
+p283	273	0	494	page_footnote
+p284	274	0	989	
+p285	275	0	697	page_footnote
+p286	276	0	200	
+p287	277	0	571	page_footnote
+p288	278	0	705	
+p289	279	0	560	
+p290	280	0	771	
+p291	2S1	0	772	page_footnote
+p292	282	0	610	page_footnote
+p293	283	0	600	page_footnote
+p294	284	0	958	
+p295	285	0	947	
+p296	286	0	130	page_footnote
+p297	287	0	610	
+p298	288	0	915	
+p299	289	0	459	page_footnote
+p300	290	0	625	page_footnote
+p301	291	0	646	page_footnote
+p302	292	0	853	page_footnote
+p303	293	0	825	page_footnote
+p304	294	0	316	
+p305	295	0	592	page_footnote
+p306	298	0	706	
+p307	297	0	561	page_footnote
+p308	298	0	644	
+p309	299	0	768	page_footnote
+p310	300	0	538	
+p311	301	0	546	
+p312	302	0	748	page_footnote
+p313	303	0	796	page_footnote
+p314	304	0	841	page_footnote
+p315	305	0	325	page_footnote
+p316	306	0	782	
+p317	307	0	560	
+p318	308	0	1491	page_footnote
+p319	309	0	0	
+p320	310	0	660	page_footnote
+p321	311	0	592	page_footnote
+p322	312	0	690	page_footnote
+p323	313	0	715	page_footnote
+p324	314	0	881	
+p325	315	0	612	
+p326	316	0	695	
+p327	317	0	619	page_footnote
+p328	318	0	579	page_footnote
+p329	319	0	1203	page_footnote
+p330	320	0	182	page_footnote
+p331	321	0	566	
+p332	322	0	576	page_footnote
+p333	323	0	610	
+p334	324	0	908	
+p335	325	0	352	
+p336	326	0	620	page_footnote
+p337	327	0	700	page_footnote
+p338	328	0	1103	page_footnote
+p339	329	0	247	page_footnote
+p340	330	0	540	
+p341	331	0	668	page_footnote
+p342	332	0	720	
+p343	333	0	793	
+p344	334	0	448	
+p345	335	0	595	
+p346	336	0	1113	page_footnote
+p347	337	0	209	page_footnote
+p348	338	0	745	page_footnote
+p349	339	0	521	page_footnote
+p350	340	0	666	
+p351	341	0	742	page_footnote
+p352	342	0	545	page_footnote
+p353	343	0	632	
+p354	344	0	562	
+p355	345	0	560	page_footnote
+p356	346	0	768	
+p357	347	0	565	
+p358	348	0	788	
+p359	349	0	518	page_footnote
+p360	350	0	719	
+p361	351	0	593	page_footnote
+p362	352	0	590	
+p363	353	0	616	page_footnote
+p364	354	0	791	page_footnote
+p365	355	0	625	page_footnote
+p366	356	0	178	
+p367	357	0	474	
+p368	358	0	742	
+p369	359	0	664	page_footnote
+p370	360	0	687	
+p371	361	0	790	page_footnote
+p372	362	0	587	page_footnote
+p373	363	0	788	page_footnote
+p374	364	0	558	
+p375	365	0	485	page_footnote
+p376	366	0	645	
+p377	367	0	608	
+p378	368	0	688	
+p379	369	0	615	
+p380	370	0	920	
+p381	371	0	511	
+p382	372	0	755	
+p383	373	0	757	
+p384	374	0	566	page_footnote
+p385	375	0	904	
+p386	376	0	514	
+p387	377	0	714	
+p388	378	0	630	
+p389	379	0	671	
+p390	380	0	808	
+p391	381	0	781	
+p392	382	0	471	
+p393	383	0	768	
+p394	384	0	1367	
+p395	385	0	89	page_footnote
+p396	386	0	481	
+p397	387	0	493	
+p398	388	0	689	
+p399	389	0	1046	page_footnote
+p400	390	0	276	
+p401	391	0	621	
+p402	392	0	747	page_footnote
+p403	393	0	751	page_footnote
+p404	394	0	590	
+p405	395	0	674	page_footnote
+p406	396	0	600	
+p407	397	0	713	
+p408	398	0	876	page_footnote
+p409	399	0	529	
+p410	400	0	505	
+p411	401	0	648	page_footnote
+p412	402	0	693	
+p413	403	0	661	
+p414	404	0	1108	
+p415	405	0	557	page_footnote
+p416	406	0	514	page_footnote
+p417	407	0	925	
+p418	408	0	556	
+p419	409	0	725	
+p420	410	0	403	
+p421	411	0	628	
+p422	412	0	746	page_footnote
+p423	413	0	881	
+p424	414	0	308	
+p425	415	0	609	
+p426	416	0	627	
+p427	417	0	726	page_footnote
+p428	418	0	707	page_footnote
+p429	419	0	577	page_footnote
+p430	420	0	598	page_footnote
+p431	421	0	848	page_footnote
+p432	422	0	602	page_footnote
+p433	423	0	580	page_footnote
+p434	424	0	550	page_footnote
+p435	425	0	608	page_footnote
+p436	426	0	825	page_footnote
+p437	427	0	645	page_footnote
+p438	428	0	626	
+p439	429	0	612	
+p440	430	0	541	page_footnote
+p441	431	0	760	
+p442	432	0	602	page_footnote
+p443	433	0	509	page_footnote
+p444	434	0	757	page_footnote
+p445	435	0	480	page_footnote
+p446	436	0	1196	page_footnote
+p447	437	0	564	page_footnote
+p448	438	0	191	
+p449	439	0	569	
+p450	440	0	642	page_footnote
+p451	441	0	682	page_footnote
+p452	442	0	647	page_footnote
+p453	443	0	653	page_footnote
+p454	444	0	706	page_footnote
+p455	445	0	621	page_footnote
+p456	446	0	710	page_footnote
+p457	447	0	577	
+p458	448	0	738	
+p459		0	14	
+p460		0	0	
+p461	451	0	527	page_footnote
+p462	452	0	638	page_footnote
+p463	453	0	697	page_footnote
+p464	454	0	638	page_footnote
+p465	455	0	606	
+p466	456	0	736	page_footnote
+p467	457	0	636	page_footnote
+p468	458	0	718	page_footnote
+p469	459	0	662	page_footnote
+p470	460	0	497	
+p471	4G1	0	856	page_footnote
+p472	462	0	645	page_footnote
+p473	463	0	622	
+p474	464	0	707	
+p475	465	0	551	page_footnote
+p476	466	0	782	
+p477	467	0	816	page_footnote
+p478	468	0	359	page_footnote
+p479	469	0	658	page_footnote
+p480	470	0	756	page_footnote
+p481	471	0	543	page_footnote
+p482	472	0	1040	page_footnote
+p483	473	0	348	
+p484	474	0	985	
+p485	475	0	326	page_footnote
+p486	476	0	709	page_footnote
+p487	477	0	718	
+p488	478	0	630	page_footnote
+p489	479	0	587	page_footnote
+p490	480	0	792	page_footnote
+p491	481	0	653	page_footnote
+p492	482	0	756	
+p493	483	0	530	page_footnote
+p494	484	0	592	page_footnote
+p495	485	0	711	
+p496	486	0	816	
+p497	487	0	0	
+p498	488	0	556	
+p499	489	0	600	page_footnote
+p500	490	0	1143	page_footnote
+p501	491	0	347	page_footnote
+p502	492	0	601	page_footnote
+p503	493	0	680	page_footnote
+p504	494	0	708	page_footnote
+p505	495	0	588	
+p506	496	0	658	page_footnote
+p507	497	0	732	
+p508	498	0	611	
+p509	499	0	679	
+p510	500	0	691	
+p511	501	0	603	
+p512	502	0	738	
+p513	503	0	529	page_footnote
+p514	504	0	729	
+p515	505	0	750	
+p516	506	0	686	page_footnote
+p517	507	0	501	
+p518	508	0	712	
+p519	509	0	747	page_footnote
+p520	510	0	681	
+p521	511	0	654	
+p522	512	0	740	page_footnote
+p523	513	0	791	page_footnote
+p524	514	0	386	page_footnote
+p525	515	0	662	page_footnote
+p526	516	0	1024	
+p527	517	0	458	
+p528	518	0	981	page_footnote
+p529	519	0	196	page_footnote
+p530	520	0	665	
+p531	521	0	1266	
+p532	522	0	202	
+p533	523	0	631	page_footnote
+p534	524	0	668	page_footnote
+p535	525	0	646	page_footnote
+p536	526	0	797	
+p537	527	0	759	page_footnote
+p538	528	0	353	page_footnote
+p539	529	0	504	page_footnote
+p540	530	0	683	page_footnote
+p541	531	0	635	page_footnote
+p542	532	0	593	
+p543	533	0	599	
+p544	534	0	624	
+p545	535	0	822	
+p546	536	0	670	
+p547	537	0	486	
+p548	538	0	596	
+p549	539	0	745	
+p550	540	0	483	
+p551	541	0	730	
+p552	542	0	718	
+p553	543	0	581	page_footnote
+p554	544	0	532	page_footnote
+p555	545	0	623	
+p556	546	0	679	
+p557	547	0	463	
+p558	548	0	741	page_footnote
+p559	549	0	458	
+p560	550	0	556	
+p561	551	0	650	
+p562	552	0	598	
+p563	553	0	783	page_footnote
+p564	554	0	559	
+p565	555	0	585	
+p566	556	0	640	
+p567	557	0	557	
+p568	558	0	612	
+p569	559	0	592	
+p570	560	0	618	
+p571	561	0	625	
+p572	562	0	482	
+p573	563	0	604	
+p574	564	0	688	
+p575	565	0	540	page_footnote
+p576	566	0	618	
+p577	567	0	591	
+p578	568	0	599	
+p579	569	0	511	
+p580	570	0	819	
+p581	571	0	363	
+p582	572	0	571	
+p583	573	0	165	
+p584		0	0	
+p585		0	11	
+p586		0	0	
+p587	577	0	837	page_footnote
+p588	578	0	391	
+p589	579	0	893	
+p590	580	0	345	
+p591	581	0	731	page_footnote
+p592	582	0	594	
+p593	583	0	609	
+p594	584	0	709	
+p595	585	0	484	
+p596	5S6	0	577	page_footnote
+p597	587	0	909	page_footnote
+p598	588	0	443	page_footnote
+p599	589	0	633	page_footnote
+p600	590	0	715	page_footnote
+p601	591	0	664	
+p602	592	0	495	
+p603	593	0	742	page_footnote
+p604	594	0	770	
+p605	595	0	438	page_footnote
+p606	596	0	984	page_footnote
+p607	597	0	403	page_footnote
+p608	598	0	715	
+p609	599	0	889	
+p610	600	0	403	
+p611	601	0	685	
+p612	602	0	0	
+p613	603	0	530	page_footnote
+p614	604	0	686	page_footnote
+p615	605	0	784	page_footnote
+p616	606	0	577	page_footnote
+p617	607	0	854	page_footnote
+p618	608	0	541	
+p619	609	0	923	
+p620	610	0	342	
+p621	611	0	1012	
+p622	612	0	315	
+p623	613	0	630	
+p624	614	0	650	page_footnote
+p625	615	0	744	
+p626	616	0	573	
+p627	617	0	725	page_footnote
+p628	618	0	900	
+p629	619	0	659	page_footnote
+p630	620	0	378	page_footnote
+p631	621	0	763	
+p632	622	0	795	page_footnote
+p633	623	0	546	page_footnote
+p634	624	0	573	
+p635	625	0	655	page_footnote
+p636	626	0	976	page_footnote
+p637	627	0	724	page_footnote
+p638	628	0	375	page_footnote
+p639	629	0	893	page_footnote
+p640	630	0	644	
+p641	631	0	552	
+p642	632	0	513	
+p643	633	0	826	page_footnote
+p644	634	0	487	page_footnote
+p645	635	0	607	page_footnote
+p646	636	0	607	page_footnote
+p647	637	0	820	
+p648	638	0	884	
+p649	639	0	672	page_footnote
+p650	G40	0	564	page_footnote
+p651	641	0	334	
+p652	642	0	515	page_footnote
+p653	643	0	593	
+p654	G44	0	547	page_footnote
+p655	645	0	958	
+p656	646	0	534	page_footnote
+p657	647	0	639	
+p658	648	0	770	
+p659	649	0	491	page_footnote
+p660	650	0	849	
+p661	651	0	596	page_footnote
+p662	652	0	556	page_footnote
+p663	653	0	776	
+p664	654	0	665	
+p665	655	0	553	
+p666	656	0	662	
+p667	657	0	516	
+p668	658	0	428	
+p669	659	0	592	
+p670	660	0	243	
+p671	661	0	729	
+p672	662	0	761	
+p673	663	0	448	

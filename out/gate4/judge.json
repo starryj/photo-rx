@@ -1,0 +1,14 @@
+[
+  {"id": "ci-01", "route": "direct:color-decision"},
+  {"id": "ci-02", "route": "direct:structure-read"},
+  {"id": "ci-03", "route": "pair:structure-read→color-decision"},
+  {"id": "ci-04", "route": "pair:structure-read→color-decision"},
+  {"id": "ci-05", "route": "ask-primary"},
+  {"id": "ci-06", "route": "ask-primary"},
+  {"id": "ci-07", "route": "direct:sequence-edit"},
+  {"id": "ci-08", "route": "direct:cull-select"},
+  {"id": "ci-09", "route": "ask-group"},
+  {"id": "ci-10", "route": "direct:sequence-edit"},
+  {"id": "ci-11", "route": "clarify"},
+  {"id": "ci-12", "route": "direct:photo-vision"}
+]

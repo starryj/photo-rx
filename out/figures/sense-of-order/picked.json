@@ -1,0 +1,447 @@
+{
+  "slug": "sense-of-order",
+  "n": 40,
+  "candidates": 331,
+  "items": [
+    {
+      "page_idx": 28,
+      "img": "1a63a6bc58315782aedda7c46b637c5a4d85d988296b655f781d06be2a3a9656.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\1a63a6bc58315782aedda7c46b637c5a4d85d988296b655f781d06be2a3a9656.jpg",
+      "frac": 0.1959,
+      "px": [
+        1414,
+        400
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 44,
+      "img": "532b7eec981dc9a893ca1f462ce4d9450dd7695f6778f7d7a9cc5e4197efadd9.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\532b7eec981dc9a893ca1f462ce4d9450dd7695f6778f7d7a9cc5e4197efadd9.jpg",
+      "frac": 0.2641,
+      "px": [
+        1112,
+        659
+      ],
+      "caption": "图25 赫克兰尼姆的壁饰，版画，刻于1757年"
+    },
+    {
+      "page_idx": 53,
+      "img": "fd11439079aaccb12bd7ecd70ce8d54d09fbd5739ef3d4938d285ca449f5e769.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\fd11439079aaccb12bd7ecd70ce8d54d09fbd5739ef3d4938d285ca449f5e769.jpg",
+      "frac": 0.2246,
+      "px": [
+        657,
+        970
+      ],
+      "caption": "图33 A. W. 普金：壁纸设计，约1848年 图34 出自“大博览会展品目录册”的地毯图案，1851年"
+    },
+    {
+      "page_idx": 66,
+      "img": "e37724e125cdaf1d38e6572a62329673f8a6dcb4f2ba8724ba9d9cc39542cbbe.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\e37724e125cdaf1d38e6572a62329673f8a6dcb4f2ba8724ba9d9cc39542cbbe.jpg",
+      "frac": 0.1537,
+      "px": [
+        670,
+        531
+      ],
+      "caption": "图46 为盛混合饮料的大碗作的设计(哥特弗里德·桑佩尔，1860年)"
+    },
+    {
+      "page_idx": 76,
+      "img": "49448a38e05fd3b5b362613be708d202fe3507c919b0f7157abf4162f7f26ca1.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\49448a38e05fd3b5b362613be708d202fe3507c919b0f7157abf4162f7f26ca1.jpg",
+      "frac": 0.1725,
+      "px": [
+        512,
+        770
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 92,
+      "img": "af33ce384269f64da3eb777f041a82d57699bc546472d088cd43c81c945b61dc.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\af33ce384269f64da3eb777f041a82d57699bc546472d088cd43c81c945b61dc.jpg",
+      "frac": 0.1778,
+      "px": [
+        551,
+        743
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 104,
+      "img": "0cd6232ea485355e7a2a4682235d306a6340f013e91a988fb591c3331cb25c07.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\0cd6232ea485355e7a2a4682235d306a6340f013e91a988fb591c3331cb25c07.jpg",
+      "frac": 0.3252,
+      "px": [
+        898,
+        829
+      ],
+      "caption": "图89 花边图案(J. 弗雷特，1598年）"
+    },
+    {
+      "page_idx": 110,
+      "img": "6053bb66ef2af0298343a099d560470b19d21e2b0a93784fd721154fbd4a1373.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\6053bb66ef2af0298343a099d560470b19d21e2b0a93784fd721154fbd4a1373.jpg",
+      "frac": 0.2012,
+      "px": [
+        554,
+        834
+      ],
+      "caption": "图98“垂画”（L.F.戴，1890年）"
+    },
+    {
+      "page_idx": 126,
+      "img": "84157aca9e2ef084bfb5dbc29a6ee4b5b493f893cab6775dba267266bdd69a1a.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\84157aca9e2ef084bfb5dbc29a6ee4b5b493f893cab6775dba267266bdd69a1a.jpg",
+      "frac": 0.2243,
+      "px": [
+        575,
+        881
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 145,
+      "img": "22ac033744ffb91cf767c6f652e9f0caaafef0ced1842bc961159f65215176c9.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\22ac033744ffb91cf767c6f652e9f0caaafef0ced1842bc961159f65215176c9.jpg",
+      "frac": 0.1621,
+      "px": [
+        1124,
+        406
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 155,
+      "img": "2664c3233ad8fb101284708b397652aab1956a3361e6123e5afee557bb5e7bca.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\2664c3233ad8fb101284708b397652aab1956a3361e6123e5afee557bb5e7bca.jpg",
+      "frac": 0.3374,
+      "px": [
+        543,
+        1734
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 165,
+      "img": "2700b016644f1da46fd451d1febd4e252a7adc91c70784bd4e0ffe26050d8c60.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\2700b016644f1da46fd451d1febd4e252a7adc91c70784bd4e0ffe26050d8c60.jpg",
+      "frac": 0.7357,
+      "px": [
+        1193,
+        1757
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 177,
+      "img": "3ee02c8a0028d03c8f7a46438e58f50f8f4fbacf40dea0f4795c51e376a609d3.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\3ee02c8a0028d03c8f7a46438e58f50f8f4fbacf40dea0f4795c51e376a609d3.jpg",
+      "frac": 0.2438,
+      "px": [
+        701,
+        981
+      ],
+      "caption": "图166大理石的窗花格，出自大马士革的“大清真寺”，约715年"
+    },
+    {
+      "page_idx": 185,
+      "img": "fd693e7edc6a6bbc0994e5ba74d0fdbb5ba32fe375f23b0fa007c30207a38b00.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\fd693e7edc6a6bbc0994e5ba74d0fdbb5ba32fe375f23b0fa007c30207a38b00.jpg",
+      "frac": 0.1664,
+      "px": [
+        582,
+        807
+      ],
+      "caption": "图175 出自F.G.杰克逊的《装饰设计》，1897年"
+    },
+    {
+      "page_idx": 192,
+      "img": "5321710b73525ee0ec6134d94281e25264b4eaddcefa12a0535c0cb4bda9b638.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\5321710b73525ee0ec6134d94281e25264b4eaddcefa12a0535c0cb4bda9b638.jpg",
+      "frac": 0.4871,
+      "px": [
+        1115,
+        1003
+      ],
+      "caption": "图188灰泥装饰，出自埃尔希尔的“富拉顿宅院”，约1730年"
+    },
+    {
+      "page_idx": 206,
+      "img": "f69be40db0e7a2d3e4593ebbf00f57b39e8cef02a91926951ee63ba6c42379bf.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\f69be40db0e7a2d3e4593ebbf00f57b39e8cef02a91926951ee63ba6c42379bf.jpg",
+      "frac": 0.2293,
+      "px": [
+        1279,
+        504
+      ],
+      "caption": "图202 动物脚形装饰：a.埃及的雪橇，公元前2000年；b.罗马的桌子，1世纪；c.18世纪的桌子"
+    },
+    {
+      "page_idx": 214,
+      "img": "9613669bafb3ef3a72b53ed5e2c78a65aa951236bdfb2f6da37c7df9b365b4c3.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\9613669bafb3ef3a72b53ed5e2c78a65aa951236bdfb2f6da37c7df9b365b4c3.jpg",
+      "frac": 0.149,
+      "px": [
+        623,
+        674
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 223,
+      "img": "05a5e4b20917d680ded8c19477ac46c2234b9a22f4414345c6db0d20ce0a9af1.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\05a5e4b20917d680ded8c19477ac46c2234b9a22f4414345c6db0d20ce0a9af1.jpg",
+      "frac": 0.1862,
+      "px": [
+        787,
+        668
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 237,
+      "img": "405a646383c14095a705021ab22e96af0473d6b2a7a422578eef66e335ce56ed.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\405a646383c14095a705021ab22e96af0473d6b2a7a422578eef66e335ce56ed.jpg",
+      "frac": 0.1523,
+      "px": [
+        528,
+        818
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 251,
+      "img": "f87666ecf83ab2f4726116b5b4f61a97a4d90fca82b85c929b94f6aa58c76fbe.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\f87666ecf83ab2f4726116b5b4f61a97a4d90fca82b85c929b94f6aa58c76fbe.jpg",
+      "frac": 0.1895,
+      "px": [
+        648,
+        826
+      ],
+      "caption": "图255 壁炉架，出自P.J.马里埃特的《建筑的发展》，1760年(初版1735年)"
+    },
+    {
+      "page_idx": 260,
+      "img": "a6b60859971f26453314e12592298b118fd8c19c484862605feda2872ba0e4d5.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\a6b60859971f26453314e12592298b118fd8c19c484862605feda2872ba0e4d5.jpg",
+      "frac": 0.2752,
+      "px": [
+        1010,
+        673
+      ],
+      "caption": "图263 史前陶器上的图案(J.B. 华林，1874年)"
+    },
+    {
+      "page_idx": 274,
+      "img": "16d6d8bcf5492b972a8908c83da91642b41163d495bd9d765b6d42615adf6223.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\16d6d8bcf5492b972a8908c83da91642b41163d495bd9d765b6d42615adf6223.jpg",
+      "frac": 0.4195,
+      "px": [
+        945,
+        1106
+      ],
+      "caption": "图273 英国皇家军队的纹章(R. 普力克，1674年)"
+    },
+    {
+      "page_idx": 280,
+      "img": "f331f9a9f380b7f9ac7367b3a42937da1f8f70e459c550aa5905d1fae117a559.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\f331f9a9f380b7f9ac7367b3a42937da1f8f70e459c550aa5905d1fae117a559.jpg",
+      "frac": 0.3203,
+      "px": [
+        1062,
+        748
+      ],
+      "caption": "图283b 爱德华·科克尔：旋涡形大写字母，伦敦，1657年"
+    },
+    {
+      "page_idx": 288,
+      "img": "c09546d654b1fe27dd4bedf45f38b42434c58abc8d0de941f01b2babc4f4adeb.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\c09546d654b1fe27dd4bedf45f38b42434c58abc8d0de941f01b2babc4f4adeb.jpg",
+      "frac": 0.2854,
+      "px": [
+        1131,
+        631
+      ],
+      "caption": "图297 公元前2000年以前的十字纹样（弗林德斯·皮特里，1930年）"
+    },
+    {
+      "page_idx": 299,
+      "img": "5cd597efa0cde5827320bf25f6c7f5a65230a8fd1bd3dc5a348dd482775d831d.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\5cd597efa0cde5827320bf25f6c7f5a65230a8fd1bd3dc5a348dd482775d831d.jpg",
+      "frac": 0.1818,
+      "px": [
+        962,
+        529
+      ],
+      "caption": "图305 奥斯提亚的地面镶嵌图案《海神沐浴》，1世纪"
+    },
+    {
+      "page_idx": 307,
+      "img": "11330e36ed436eed51eba244fbd10ad878d80040b8649ab4dace76a7937fa719.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\11330e36ed436eed51eba244fbd10ad878d80040b8649ab4dace76a7937fa719.jpg",
+      "frac": 0.1655,
+      "px": [
+        448,
+        1051
+      ],
+      "caption": "图321空心金手镯的细部，出自德国的瓦尔达尔格夏姆，公元前4世纪末"
+    },
+    {
+      "page_idx": 319,
+      "img": "ccf1733c31e143575ca5b5edd69ab02845baa699803159ce969eb45a4ab32028.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\ccf1733c31e143575ca5b5edd69ab02845baa699803159ce969eb45a4ab32028.jpg",
+      "frac": 0.1884,
+      "px": [
+        559,
+        951
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 326,
+      "img": "dabd32cd24f5ba3c10990dfebc6f7251b814823ae1ed76b3970be135c3938d46.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\dabd32cd24f5ba3c10990dfebc6f7251b814823ae1ed76b3970be135c3938d46.jpg",
+      "frac": 0.3545,
+      "px": [
+        798,
+        1017
+      ],
+      "caption": "图346科耐里斯·博斯：怪诞图像，1546年"
+    },
+    {
+      "page_idx": 352,
+      "img": "974ff0f372c5a2ad24ff3614d00368eb1b33de779943ced5eb84be8dbd46a77d.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\974ff0f372c5a2ad24ff3614d00368eb1b33de779943ced5eb84be8dbd46a77d.jpg",
+      "frac": 0.2708,
+      "px": [
+        673,
+        998
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 381,
+      "img": "c64ba1392749c64a336fa789fc1f6653ebacf905ab3e2a2fa25688bac1004ff1.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\c64ba1392749c64a336fa789fc1f6653ebacf905ab3e2a2fa25688bac1004ff1.jpg",
+      "frac": 0.6597,
+      "px": [
+        1451,
+        1265
+      ],
+      "caption": "彩图10中国帝王龙袍的细部，18世纪末或19世纪初，伦敦维多利亚和艾伯特博物馆。见269页"
+    },
+    {
+      "page_idx": 388,
+      "img": "b48ab59d15d1572e723032472db2b1f0ae33b891f85d804c0ae890e30e0c5311.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\b48ab59d15d1572e723032472db2b1f0ae33b891f85d804c0ae890e30e0c5311.jpg",
+      "frac": 0.921,
+      "px": [
+        1456,
+        1773
+      ],
+      "caption": "图版7菲耶索莱的巴迪亚教堂内景，1460—1467年。见22页"
+    },
+    {
+      "page_idx": 394,
+      "img": "b2aa85d783bdd2d737ca76c0f9949861b9b16f301be0d314bd9852ff2013268a.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\b2aa85d783bdd2d737ca76c0f9949861b9b16f301be0d314bd9852ff2013268a.jpg",
+      "frac": 0.9093,
+      "px": [
+        1459,
+        1762
+      ],
+      "caption": "图版16格里林·吉本斯：椴木刻镶花领巾，伦敦维多利亚和艾伯特博物馆。见74、186、326页"
+    },
+    {
+      "page_idx": 400,
+      "img": "ea3f2e8a70242bdc89517552fdae1e0cc9627b9fba54a5c6159c3513004aaa18.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\ea3f2e8a70242bdc89517552fdae1e0cc9627b9fba54a5c6159c3513004aaa18.jpg",
+      "frac": 0.9029,
+      "px": [
+        1457,
+        1737
+      ],
+      "caption": "图版23、24雪花晶体图案，W.A.本特利和W.H.汉弗莱斯，1931年。见10、81、340页"
+    },
+    {
+      "page_idx": 408,
+      "img": "c75828e3f6c7bb7477fd9cce038294514fd885e60904c3b3d6ee9ba03cdd2fc7.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\c75828e3f6c7bb7477fd9cce038294514fd885e60904c3b3d6ee9ba03cdd2fc7.jpg",
+      "frac": 0.9222,
+      "px": [
+        1379,
+        1782
+      ],
+      "caption": "图版32“凯罗”扉页图案，出自《凯尔斯书》，9世纪初，都柏林的三位一体学院。见49、91、236页"
+    },
+    {
+      "page_idx": 414,
+      "img": "156083243414994bf0e04b51fdafe7da256e90e5d8a156934c41f4bdaf2a14b4.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\156083243414994bf0e04b51fdafe7da256e90e5d8a156934c41f4bdaf2a14b4.jpg",
+      "frac": 0.2543,
+      "px": [
+        749,
+        806
+      ],
+      "caption": "图版39a波蒂切利：《东方博士的朝拜》的局部，约1475年，伦敦国家美术馆。见113页"
+    },
+    {
+      "page_idx": 420,
+      "img": "2bad3152f359b94687aac940b084359b93f1a4a6668b5bc43ebbad17cba7b3ba.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\2bad3152f359b94687aac940b084359b93f1a4a6668b5bc43ebbad17cba7b3ba.jpg",
+      "frac": 0.3472,
+      "px": [
+        815,
+        1004
+      ],
+      "caption": "图版47茛苕叶，出自《柯蒂斯植物学杂志》，1816年。见208页"
+    },
+    {
+      "page_idx": 424,
+      "img": "b9295ab69b8fdb3577c37a29496f31bccdb66522ee5aeb7f8224af4630484048.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\b9295ab69b8fdb3577c37a29496f31bccdb66522ee5aeb7f8224af4630484048.jpg",
+      "frac": 0.9221,
+      "px": [
+        1456,
+        1779
+      ],
+      "caption": "图版57出自印度迈所的哈莱比德的浮雕，1141—1182年。见213页"
+    },
+    {
+      "page_idx": 430,
+      "img": "9f12020e597a20bf31cd396da7fed6062d7cb981b1f63b19f34da48d27ca60bc.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\9f12020e597a20bf31cd396da7fed6062d7cb981b1f63b19f34da48d27ca60bc.jpg",
+      "frac": 0.1829,
+      "px": [
+        676,
+        634
+      ],
+      "caption": ""
+    },
+    {
+      "page_idx": 435,
+      "img": "ad24d4d2eb9c5c218929e4844920bd57380faf59682a8904c2478614d30f74e7.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\ad24d4d2eb9c5c218929e4844920bd57380faf59682a8904c2478614d30f74e7.jpg",
+      "frac": 0.4225,
+      "px": [
+        684,
+        1142
+      ],
+      "caption": "图版74维罗纳的炮台门，1687年。见244页"
+    },
+    {
+      "page_idx": 441,
+      "img": "e9a292c1cabc10b7b7c6f698c9385054cce1d9c2dda23ecf3a8441a7bf56f740.jpg",
+      "path": "G:\\AI_Workspace\\04-MadeMySkills\\photo-vision\\out\\parse\\sense-of-order\\images\\e9a292c1cabc10b7b7c6f698c9385054cce1d9c2dda23ecf3a8441a7bf56f740.jpg",
+      "frac": 0.8758,
+      "px": [
+        1307,
+        1768
+      ],
+      "caption": "图版82《圣岛福音书》里的十字图案，约700年，伦敦大英图书馆。见49、276、294页"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+  skill: color-decision                165 行   15415 字节
+  skill: photo-vision                   57 行    3778 字节
+
+共扫描 5 个 .md，其中 2 个 SKILL.md
+ERROR [broken-ref] G:\AI_Workspace\04-MadeMySkills\photo-vision\out\.staging-run-20261123-155643-4032e2-dist\photo-vision\SKILL.md: `references/overview.md` 不存在
+ERROR [broken-ref] G:\AI_Workspace\04-MadeMySkills\photo-vision\out\.staging-run-20261123-155643-4032e2-dist\photo-vision\SKILL.md: `references/glossary.md` 不存在
+
+结果: 2 errors, 0 warnings

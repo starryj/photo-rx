@@ -1,0 +1,6 @@
+out/parse/
+out/jobs/
+__pycache__/
+*.pyc
+*.bak-*
+.cangjie/snapshots/

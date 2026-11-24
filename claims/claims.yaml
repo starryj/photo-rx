@@ -1,0 +1,4201 @@
+- id: C001
+  claim: 视觉里看到的色几乎从来不是它物理上实际是的那色，这条事实使色彩成为艺术中最相对的媒介；这也是本课程的核心命题
+  domain: 语境与相对性
+  stance: 相对派
+  operational: 描述性
+  merged_from:
+  - hc02
+  - oc01
+  - oc02
+  - oc03
+  single_source: false
+  sources:
+  - book: interacting-with-color
+    id: hc02
+    page: p008
+    quote: In visual perception a color is almost never seen as it really is—-as it physically is.
+  - book: interaction-of-color
+    id: oc02
+    page: p023
+    quote: 'On the blackboard and in our notebooks we write: Color is the most relative medium in art.'
+  - book: interaction-of-color
+    id: oc03
+    page: p086
+    quote: The purpose of most of our color studies is to prove that color is the most relative medium in art, that we almost never perceive what color is physically.
+  - book: interaction-of-color
+    id: oc01
+    page: p016
+    quote: This fact makes color the most relative medium in art.
+- id: C002
+  claim: 处理色彩相对性或错觉时，须把「事实事实」（可测量的物理量）与「实际事实」（知觉上真实发生的效果）分开，两者同时成立且都要承认
+  domain: 语境与相对性
+  stance: 相对派
+  operational: 可操作
+  merged_from:
+  - hc03
+  - oc04
+  single_source: false
+  sources:
+  - book: interacting-with-color
+    id: hc03
+    page: p014
+    quote: In dealing with color relativity or color illusion, it is practical to distinguish factual facts from actual facts.
+  - book: interaction-of-color
+    id: oc04
+    page: p086
+    quote: In dealing with color relativity or color illusion, it is practical to distinguish factual facts from actual facts.
+- id: C003
+  claim: 相对性练习的问题定义是「找出那个在两个不同背景上都失去自身身份的颜色」；做法是把同一个色块横跨两块不同的背景，用一道竖白细条把它视觉上一分为二
+  domain: 语境与相对性
+  stance: 相对派
+  operational: 可操作
+  merged_from:
+  - hc08
+  - hc07
+  single_source: false
+  sources:
+  - book: interacting-with-color
+    id: hc08
+    page: p026
+    quote: Find that color which on 2 different grounds loses its identity.
+  - book: interacting-with-color
+    id: hc07
+    page: p010
+    quote: Place a vertical white strip on top so that the horizontally placed color is visually divided and can be seen interacting separately with the two background colors.
+- id: C004
+  claim: 反转背景练习（三色读成两色）的解是唯一的：中色必须恰好是两背景色的中途混合，而相对性练习有无数解
+  domain: 语境与相对性
+  stance: 相对派
+  operational: 可操作
+  merged_from:
+  - hc09
+  single_source: true
+  sources:
+  - book: interacting-with-color
+    id: hc09
+    page: p029
+    quote: In this exercise about reversed grounds, there is only one color that is halfway between two given background colors.
+- id: C005
+  claim: 边界即度量——较软的边界透露接近与连接，较硬的边界指示距离与分离；某侧边界更硬说明中色离那一侧母色更远
+  domain: 空间
+  stance: 相对派
+  operational: 可操作
+  merged_from:
+  - hc10
+  - oc05
+  single_source: false
+  sources:
+  - book: interacting-with-color
+    id: hc10
+    page: p029
+    quote: If one boundary feels harder or crisper than the other, the middle color is further from that parent than from the parent with which it shares a softer boundary.
+  - book: interaction-of-color
+    id: oc05
+    page: p046
+    quote: Since softer boundaries disclose nearness implying connection, harder boundaries indicate distance, separation.
+- id: C006
+  claim: 中间混合四周的边界同等软硬，故它显得正面、像一种自身的颜色，并不产生空间前后；中色偏离某一侧才造出深度，重叠区越接近某母色则该物越靠前
+  domain: 空间
+  stance: 相对派
+  operational: 可操作
+  merged_from:
+  - oc06
+  - hc19
+  - hc20
+  single_source: false
+  sources:
+  - book: interaction-of-color
+    id: oc06
+    page: p047
+    quote: Thus, with a middle mixture all boundaries are equally soft or hard As a consequence, a middle mixture appears frontal, as a color by itself.
+  - book: interacting-with-color
+    id: hc20
+    page: p046
+    quote: Because the overlapping area of the largest bali is closest to orange, that ball appears to be in front of the triangle.
+  - book: interacting-with-color
+    id: hc19
+    page: p043
+    quote: which made it appear that one or the other color was nearer or farther away, creating a sense of depth.
+- id: C007
+  claim: 塞尚很省地使用强化边框，主要用在需要与相邻色域作空间分离之处
+  domain: 空间
+  stance: 相对派
+  operational: 描述性
+  merged_from:
+  - oc07
+  single_source: true
+  sources:
+  - book: interaction-of-color
+    id: oc07
+    page: p047
+    quote: he used emphasized borders sparingly, mainly where he needed a spatial separation from adjacent color areas.
+- id: C008
+  claim: 黄紫背景上的 X 是同一色，它既不是黄也不是紫——看似两色的画面其实是三色
+  domain: 语境与相对性
+  stance: 相对派
+  operational: 描述性
+  merged_from:
+  - hc11
+  single_source: true
+  sources:
+  - book: interacting-with-color
+    id: hc11
+    page: p030
+    quote: But! Following the X's to where they connect, we see that they are a single color, which is neither yellow nor purple.
+- id: C009
+  claim: 颜色之所以呈现某种样子，是因为它与别的颜色的关系，而不是因为它本身是什么
+  domain: 语境与相对性
+  stance: 相对派
+  operational: 描述性
+  merged_from:
+  - hc25
+  single_source: true
+  sources:
+  - book: interacting-with-color
+    id: hc25
+    page: p013
+    quote: These observations emphasized the idea that colors appear in certain ways because of their relationships with other colors
+- id: C010
+  claim: 色球是人眼可见色的三维模型：赤道是全饱和色相，北极纯白、南极纯黑，向轴心越走越浑浊；赤道与北极之间那圈是被白去饱和的色轮
+  domain: 色相与色环
+  stance: 相对派
+  operational: 可操作
+  merged_from:
+  - hc17
+  single_source: true
+  sources:
+  - book: interacting-with-color
+    id: hc17
+    page: p069
+    quote: The circle between the equator and the white north pole is another color wheel, but in this one each hue has been desaturated with white.
+- id: C011
+  claim: 在色球上定位任意两色、连线取中点，即得两者的混合色
+  domain: 色相与色环
+  stance: 相对派
+  operational: 可操作
+  merged_from:
+  - hc18
+  single_source: true
+  sources:
+  - book: interacting-with-color
+    id: hc18
+    page: p069
+    quote: if we locate any two colors, we can draw a line between them, and halfway down that line find the color that is the mixture of the two endpoints.
+- id: C012
+  claim: 两色外观上的差异叫间隔（interval），估量间隔就是测量对比；两块灰差别越小间隔越小，浅灰与深灰之间间隔大得多；硬对比指相邻两色之间存在很大的间隔
+  domain: 对比
+  stance: 相对派
+  operational: 可操作
+  merged_from:
+  - hc04
+  - hc05
+  - hc06
+  - hc14
+  single_source: true
+  sources:
+  - book: interacting-with-color
+    id: hc04
+    page: p021
+    quote: The difference in appearance between two colors can be called the interval.
+  - book: interacting-with-color
+    id: hc14
+    page: p050
+    quote: A hard contrast is one in which there is a large interval between two adjacent colors.
+  - book: interacting-with-color
+    id: hc05
+    page: p021
+    quote: Gauging intervals is a way to measure the cotrast between colors.
+  - book: interacting-with-color
+    id: hc06
+    page: p021
+    quote: Two grays that are very similar to one another have a small interval between them.
+- id: C013
+  claim: 四个粉之间的关系与四个蓝之间的关系完全相同——间隔关系可整体移调（transposition），就像四音列换到另一件乐器
+  domain: 和谐与协调
+  stance: 相对派
+  operational: 可操作
+  merged_from:
+  - hc15
+  single_source: true
+  sources:
+  - book: interacting-with-color
+    id: hc15
+    page: p049
+    quote: The relationship of the four pinks is identical to the relationship between the four blues.
+- id: C014
+  claim: 阿尔伯斯的结论是：只要数量合适，任何颜色都能与任何其他颜色搭配或成立
+  domain: 和谐与协调
+  stance: 相对派
+  operational: 描述性
+  merged_from:
+  - hc16
+  single_source: true
+  conflicts:
+  - K1
+  sources:
+  - book: interacting-with-color
+    id: hc16
+    page: p057
+    quote: any color 'goes' or 'works' with any other color, presupposing that their quantities are appropríate.
+- id: C015
+  claim: 通常被色彩体系当作目标的色彩和谐，并不是唯一可欲的关系；如音乐里的音，不协和与协和同样可欲
+  domain: 和谐与协调
+  stance: 相对派
+  operational: 描述性
+  merged_from:
+  - oc22
+  - oc23
+  single_source: false
+  conflicts:
+  - K1
+  sources:
+  - book: interaction-of-color
+    id: oc22
+    page: p082
+    quote: We emphasize that color harmonies, usually the special interest or aim of color systems, are not the only desirable relationship.
+  - book: interaction-of-color
+    id: oc23
+    page: p082
+    quote: As with tones in music, so with color—dissonance is as desirable as its opposite, consonance.
+- id: C016
+  claim: 自然界存在色彩和谐，但要由摄影师用观察力以组合的方式把它呈现出来
+  domain: 和谐与协调
+  stance: 规则派
+  operational: 描述性
+  merged_from:
+  - cb09
+  single_source: true
+  conflicts:
+  - K1
+  sources:
+  - book: color-bible
+    id: cb09
+    page: p050
+    quote: 虽然在我们身边能够看到自然形成的色彩和谐，我们还是需要摄影师用他们敏锐的观察力，以一种组合的方式来将这些色彩进行呈现。
+- id: C017
+  claim: 后像实验的操作是注视色块中心约三十秒，然后迅速把视线移到白纸中心；对大多数人来说，红的后像色是蓝绿
+  domain: 机制
+  stance: 相对派
+  operational: 可操作
+  merged_from:
+  - hc12
+  - hc13
+  - m31
+  single_source: false
+  sources:
+  - book: interacting-with-color
+    id: hc13
+    page: p034
+    quote: hold your eyes on the dot in the center of the colored paper for thirty seconds, then quickly move your eyes to the dot in the center of the white paper
+  - book: interacting-with-color
+    id: hc12
+    page: p033
+    quote: For most people, the after-image of red is blue-green.
+  - book: photo-composition-color
+    id: m31
+    page: p147
+    quote: '"如果你聚精会神地看，聚焦画面而忽略细节，用一只眼睛看图 C1 20 秒左右，然后迅速将目光移至图 C2 的中心点"'
+- id: C018
+  claim: 看到绿而不是白的现象叫后像，或同时对比；基础的后像呈现即同时对比，是一切色彩欺骗的成因
+  domain: 机制
+  stance: 相对派
+  operational: 描述性
+  merged_from:
+  - oc17
+  - oc18
+  single_source: false
+  conflicts:
+  - K8
+  sources:
+  - book: interaction-of-color
+    id: oc17
+    page: p037
+    quote: The phenomenon of seeing green (in this case) instead of white is called after-image, or simultaneous contrast.
+  - book: interaction-of-color
+    id: oc18
+    page: p053
+    quote: These exercises remind us that the basic after-image presentation, the simultaneous contrast, is the cause of all color deception.
+- id: C019
+  claim: 色彩感知发生在你的眼与你的心之间，是物理事实与心理效应的平衡
+  domain: 机制
+  stance: 相对派
+  operational: 描述性
+  merged_from:
+  - hc28
+  single_source: true
+  sources:
+  - book: interacting-with-color
+    id: hc28
+    page: p070
+    quote: Albers frequently reminded students that color perception happens between the eye and the mind. It is a balance of physical fact and psychological effect.
+- id: C020
+  claim: 视锥细胞约 600–700 万个且对色敏感，视杆细胞负责暗光辨形但不分色
+  domain: 机制
+  stance: 规则派
+  operational: 描述性
+  merged_from:
+  - cb04
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb04
+    page: p033
+    quote: 我们每只眼睛中大约有六百至七百万个对色彩敏感的视锥细胞。
+- id: C021
+  claim: 传感器每个图素只覆盖一种色彩滤镜，靠反马赛克处理用邻域解析出另两色
+  domain: 机制
+  stance: 规则派
+  operational: 描述性
+  merged_from:
+  - cb05
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb05
+    page: p037
+    quote: 这个传感器上的每一个像素都只覆盖一种色彩的滤镜，然后相机通过一种被称为反马赛克的处理来解析色彩。
+- id: C022
+  claim: 判断两色明暗的自测里，60% 的答案错、只有 40% 对（不计弃权），多年结果不变
+  domain: 明度
+  stance: 相对派
+  operational: 描述性
+  merged_from:
+  - oc10
+  single_source: true
+  sources:
+  - book: interaction-of-color
+    id: oc10
+    page: p028
+    quote: 60% of the answers are wrong and only 40% are right, not counting the undecided cases.
+- id: C023
+  claim: 任何存疑的情况下都应弃权——不判断也可以有正面意义
+  domain: 明度
+  stance: 相对派
+  operational: 可操作
+  merged_from:
+  - oc11
+  single_source: true
+  sources:
+  - book: interaction-of-color
+    id: oc11
+    page: p028
+    quote: It should be mentioned that the students are encouraged to abstain from making a judgment in any case of doubt.
+- id: C024
+  claim: 「等明度」被谈论得远多于被真正实现、被真正看见
+  domain: 明度
+  stance: 相对派
+  operational: 描述性
+  merged_from:
+  - oc08
+  single_source: true
+  sources:
+  - book: interaction-of-color
+    id: oc08
+    page: p077
+    quote: In this way, “equal values” are more spoken about than realized—than actually seen.
+- id: C025
+  claim: 等明度的两块纸必须用嵌接（inlay／intarsia）装裱，以免纸厚与阴影破坏错觉
+  domain: 明度
+  stance: 相对派
+  operational: 可操作
+  merged_from:
+  - oc09
+  single_source: true
+  sources:
+  - book: interaction-of-color
+    id: oc09
+    page: p078
+    quote: Therefore, the 2 papers of equal light intensity must be mounted as inlay (known as “intarsia").
+- id: C026
+  claim: 韦伯-费希纳定律：对算术级数的视觉感知依赖物理上的等比级数；该定律能给出等步进，但会被色彩相对性偏转
+  domain: 明度
+  stance: 相对派
+  operational: 可操作
+  merged_from:
+  - oc28
+  - oc29
+  single_source: true
+  sources:
+  - book: interaction-of-color
+    id: oc28
+    page: p070
+    quote: 'It is formulated in the so-called Weber-Fechner Law: The visual perception of an arithmetical progression depends upon a physical geometric progression.'
+  - book: interaction-of-color
+    id: oc29
+    page: p072
+    quote: Though the Weber-Fechner Law enables “equal stepping up" (in light and in dark, within specific hues), it is deflected by the relativity of color.
+- id: C027
+  claim: 令人意外且遗憾的是，韦伯-费希纳定律在色彩研究者中几乎无人知晓
+  domain: 明度
+  stance: 相对派
+  operational: 描述性
+  merged_from:
+  - oc30
+  single_source: true
+  sources:
+  - book: interaction-of-color
+    id: oc30
+    page: p073
+    quote: It is surprising and unfortunate that the Weber-Fechner Law is almost unknown among colorists.
+- id: C028
+  claim: 照片不能裁决视觉判断：摄影记录明暗的方式不同于眼睛（亮更亮、暗更暗，中间灰被压平），彩色摄影偏离更多，眼睛另有暗视觉
+  domain: 器材与后期
+  stance: 相对派
+  operational: 描述性
+  merged_from:
+  - oc12
+  - oc13
+  - oc14
+  - oc15
+  - oc16
+  - oc31
+  single_source: true
+  conflicts:
+  - K7
+  sources:
+  - book: interaction-of-color
+    id: oc12
+    page: p029
+    quote: 'Another unavoidable question is: will a photograph of these colors reveal their true relationship and thus give the final proof?'
+  - book: interaction-of-color
+    id: oc13
+    page: p029
+    quote: Normally, black-and-white photography registers all lights lighter and all darks darker than the more adjustable eye perceives them.
+  - book: interaction-of-color
+    id: oc14
+    page: p029
+    quote: The eye also distinguishes better the so-called middle greys, which in photography often are flattened if not lost.
+  - book: interaction-of-color
+    id: oc15
+    page: p030
+    quote: The greatest advantage the eye has over photography is its scotopic seeing in addition to its photopic seeing.
+  - book: interaction-of-color
+    id: oc16
+    page: p030
+    quote: Color photography deviates still more from eye vision than black-and-white photography.
+  - book: interaction-of-color
+    id: oc31
+    page: p031
+    quote: photography registers and measures light and dark differently from our eyes.
+- id: C029
+  claim: 数量包含两个维度：面积延伸与／或数目，其中含重复（recurrence）
+  domain: 数量与面积
+  stance: 相对派
+  operational: 可操作
+  merged_from:
+  - oc25
+  single_source: true
+  sources:
+  - book: interaction-of-color
+    id: oc25
+    page: p017
+    quote: with quantity (which measures amount, respectively extension and / or number, including recurrence);
+- id: C030
+  claim: 只有蒙赛尔体系按面积延伸计算色彩量，但不计入重复带来的附加效应
+  domain: 数量与面积
+  stance: 相对派
+  operational: 描述性
+  merged_from:
+  - oc24
+  single_source: true
+  sources:
+  - book: interaction-of-color
+    id: oc24
+    page: p082
+    quote: Only the Munsell System presents a calculation of color quantity with regard to area extension, without counting an additional effect through recurrence.
+- id: C031
+  claim: 主导权、重复与位置的转移主要靠改变数量实现；图能通过重复加数量压过底而占据主导
+  domain: 数量与面积
+  stance: 相对派
+  operational: 可操作
+  merged_from:
+  - oc26
+  - oc27
+  single_source: true
+  sources:
+  - book: interaction-of-color
+    id: oc26
+    page: p169
+    quote: Here, the figure above the ground dominates through recurrence plus amount, or repetition plus extension.
+  - book: interaction-of-color
+    id: oc27
+    page: p059
+    quote: And all this can be achieved mainly through changes in quantity which result in shifts of dominance, of recurrence, and consequently of placement.
+- id: C032
+  claim: 同一组三色只改数量与位置就能产出四幅显然不同但同源的作品
+  domain: 数量与面积
+  stance: 相对派
+  operational: 可操作
+  merged_from:
+  - hc22
+  - hc23
+  single_source: true
+  sources:
+  - book: interacting-with-color
+    id: hc22
+    page: p061
+    quote: Each of the four uses the same three colors—blue, green, and blue-green—but in different quantities and in different positions.
+  - book: interacting-with-color
+    id: hc23
+    page: p061
+    quote: Though they are clearly from the same series, they feel remarkably different from one another.
+- id: C033
+  claim: 单一主要色彩（尤其特别醒目的）常比色彩又多又鲜艳的照片更有戏剧性
+  domain: 数量与面积
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - cb13
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb13
+    page: p060
+    quote: 很多诱人的照片其实是通过一个单一的主要色彩进行构图的，而通常情况下，单一的色彩尤其是特别醒目的色彩，可能比那些色彩又多又鲜艳的照片更有戏剧性。
+- id: C034
+  claim: 效果最强的对比不是「互补」本身，而是参与各色从强度到亮度都相等的时候
+  domain: 对比
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - cb07
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb07
+    page: p046
+    quote: 因为色彩对比的想法是让两种或者多种色彩相互对比，那效果最强的对比，就是这些色彩从强度到亮度都相等的时候。
+- id: C035
+  claim: 简化色彩范围后构图更有戏剧性，原因是色彩之间的对比更明显
+  domain: 对比
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - cb08
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb08
+    page: p046
+    quote: 而另一种情况下，虽然我们可以同时使用多种明亮的色彩，通过色彩对比来创造风格强烈的设计效果，但是当我们对色彩的范围进行简化以后，这种构图反而会更加具有戏剧性，原因就是色彩之间的对比会更加明显。
+- id: C036
+  claim: 拍摄与修图处在透射光的 RGB 域，打印才进入颜料与反射光域；RYB／RGB／CMYK 三套原色系统互不等价，加色靠叠加、减色靠吸收
+  domain: 色相与色环
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - cb01
+  - cb02
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb01
+    page: p020
+    quote: 我们使用透射光（红/绿/蓝）色彩模型，用于拍摄和编辑照片，当需要打印我们的照片时，由于在纸张上的墨和色彩就是反射色彩源的实例，我们就进入了颜料和反射光的领域。
+  - book: color-bible
+    id: cb02
+    page: p026
+    quote: 这些颜色的名字是加色法原色，因为它们实际上创造新色彩的方式，是相互叠加，而非减去色彩。
+- id: C037
+  claim: 色彩三属性为色相、饱和度（纯度）与亮度，三者可分别描述与调节
+  domain: 色相与色环
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - cb03
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb03
+    page: p078
+    quote: 色彩具有三种性质:色相（也就是大多数人认为的物体的色彩)，饱和度(色彩的纯度)以及亮度。
+- id: C038
+  claim: 冷色在构图中后退、暖色前进，这是心理与视觉的双重效果
+  domain: 冷暖
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - cb06
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb06
+    page: p043
+    quote: 不论是从心理的角度，还是从视觉的角度，冷色调在构图中都会有一种让人感觉“后退”的效果，而非暖色调一样有更靠近观众的感觉。
+- id: C039
+  claim: 中性色与大部分色彩组合时，在视觉与心理上都退居幕后
+  domain: 构图与结构
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - cb11
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb11
+    page: p056
+    quote: 在和大部分色彩进行组合的时候，中性色彩不论是在视觉上，还是在心理上都退居幕后。
+- id: C040
+  claim: 图案靠重复任何种类的图形创造——线条、形状、形态、纹理与色彩都可以重复
+  domain: 构图与结构
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - cb12
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb12
+    page: p062
+    quote: 图案可以通过重复使用任何种类的图形来创造线条、形状、形态、纹理，以及色彩都可以进行创作。
+- id: C041
+  claim: 天空饱和度最高的时刻多在日落时、太阳完全落到地平线前二十多分钟
+  domain: 光与时段
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - cb10
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb10
+    page: p030
+    quote: 天空饱和度最高的时刻，大多都是在日落十分，太阳完全下降到地平线前20多分钟的时候。
+- id: C042
+  claim: 正午直晒光过强且呆板，但能加强色彩饱和度，尤其明亮色与暗调相对时
+  domain: 光与时段
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - cb14
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb14
+    page: p049
+    quote: 虽然在很多的户外环境下，正午直晒的阳光有些过强，而且会显得十分呆板，但是这样的光线能够加强色彩的饱和度，尤其是当明亮的色彩和暗色调相对比的时候效果更佳明显
+- id: C043
+  claim: 黄金时段金光的持续时间取决于季节、地球位置、云层与污染等大气因素，无法预先确定
+  domain: 光与时段
+  stance: 规则派
+  operational: 描述性
+  merged_from:
+  - cb15
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb15
+    page: p072
+    quote: 而这束金光的持续时间取决于几点因素：一年中的季节，地球的位置以及云层、污染等的大气因素。
+- id: C044
+  claim: 白天污染重的地方日落更多彩，因为更多蓝波被散射、偏暖红光照射到地面
+  domain: 光与时段
+  stance: 规则派
+  operational: 描述性
+  merged_from:
+  - cb16
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb16
+    page: p074
+    quote: 而白天因为交通和工业产生了更多的污染，日落就会变得更加多彩。
+- id: C045
+  claim: 逆光勾勒轮廓并以强烈方式增加色彩，透明物体从中获得内部发光感
+  domain: 光与时段
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - cb17
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb17
+    page: p082
+    quote: 逆光当光线从我们被摄物体的后面照射过来的时候，尤其是在拍摄风景和微距照片的情况下，这种光线就能构成十分戏剧性的照明效果，会勾勒出物体的轮廓，同时也能够以一种十分强烈的方式增加物体的色彩。
+- id: C046
+  claim: 雾天拍摄的最大挑战是让对比重新出现，以强调雾的效果并带来纵深
+  domain: 光与时段
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - cb18
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb18
+    page: p084
+    quote: 实际上，当我们在雾天拍摄照片时遇到的最大挑战，实际上是让一些对比重新出现在照片中，进而强调雾的效果，并给照片带来更强的纵深感。
+- id: C047
+  claim: 直接对雪测光会让整个场景严重曝光不足，因为测光表被明亮的雪欺骗
+  domain: 器材与后期
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - cb19
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb19
+    page: p094
+    quote: 如果我们直接对雪进行测光，那整个场景就会严重地曝光不足，主要是因为测光表会被明亮的雪所欺骗。
+- id: C048
+  claim: 所有测光表都是通过读取纯中灰信息来提供准确曝光；灰卡照片在后期应读出 50% 亮度、三通道各 128
+  domain: 器材与后期
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - cb25
+  - cb26
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb25
+    page: p058
+    quote: 了解灰色的真正含义对于设定曝光有非常高的实际意义，因为所有测光表都是通过读取纯中灰色的信息，从而来提供准确的曝光。
+  - book: color-bible
+    id: cb26
+    page: p116
+    quote: 一张灰卡的照片，应当在后期编辑软件中提供50%的亮度色阶，而三个通道(红、绿、蓝)的每一个通道的读数应该为128
+- id: C049
+  claim: 曝光补偿可用来控制饱和度——轻微的曝光不足会降低色彩的饱和度
+  domain: 饱和度
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - cb28
+  single_source: true
+  conflicts:
+  - K3
+  sources:
+  - book: color-bible
+    id: cb28
+    page: p055
+    quote: 我们可以使用曝光补偿控制，轻松地通过轻微的曝光不足来降低色彩的饱和度。
+- id: C050
+  claim: 高位深编辑可避免色带——平滑连续色调区域出现的粗糙色调分割
+  domain: 器材与后期
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - cb22
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb22
+    page: p107
+    quote: 因为我们在高位数深度情况下进行编辑，可以避免很多常见的瑕疵，例如色带一经常在平滑连续的色调区域出现的粗糙的色调分割（例如色调较轻的天空)。
+- id: C051
+  claim: HDRI 的做法是分区域各拍一张——阴影一张、中间调一张、高光一张
+  domain: 器材与后期
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - cb27
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb27
+    page: p078
+    quote: 例如在拍摄了三张不同曝光的照片时，我们可以为阴影部分拍摄一张，中间调拍摄一张，然后为高光区域拍摄一张。
+- id: C052
+  claim: 改黄色通道时绿色物体受到的影响比改绿色通道还大
+  domain: 器材与后期
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - cb34
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb34
+    page: p177
+    quote: 有趣的是，绿色的物体在修改黄色通道的时候，所受到的影响比通过绿色通道修改的效果还要大
+- id: C053
+  claim: 高饱和图片在分享网站会显得过于花哨，并很快让观众失去兴趣
+  domain: 饱和度
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - cb29
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb29
+    page: p176
+    quote: 如果我们将高饱和度的图片上传到图片分享网站，例如Flickr或者个人网页，它们看起来会过于花哨，而且会很快让观众失去兴趣。
+- id: C054
+  claim: 微距用黑背景最明显的好处是色彩与黑色对比时饱和度成倍增加
+  domain: 饱和度
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - cb31
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb31
+    page: p127
+    quote: 使用黑色背景来拍摄微距物体有很多明显的好处，其中最明显的就是，色彩在和黑色环境进行对比的时候，饱和度会成倍地增加。
+- id: C055
+  claim: 填满照片——明亮色彩占据构图主要部分时效果最佳
+  domain: 饱和度
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - cb33
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb33
+    page: p049
+    quote: 填满照片：明亮的色彩在它们占有构图中主要部分的时候效果最佳。
+- id: C056
+  claim: 日出日落前后日光色温偏冷约 10000K，清晨与午后太阳角度低时偏暖约 2000–4000K
+  domain: 器材与后期
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - cb20
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb20
+    page: p098
+    quote: 例如在日出或日落时分，在太阳升起前，或者暮日时刻，日光的色温相对较冷，大约为1000OK，但是在清晨或者午后时分，太阳角度较低的时候却有着更接近金黄色的色彩，色温就会被认为是暖色，大约有2000~4000K。
+- id: C057
+  claim: 清晨拍暖色花朵时不宜用自动白平衡，否则相机会加蓝中和过度的暖色调
+  domain: 器材与后期
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - cb21
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb21
+    page: p044
+    quote: 假设说我们在清晨拍摄一丛黄色的花朵，那就最好不用使用自动白平衡设置，不然相机就会通过增加蓝色来中和过度的暖色调。
+- id: C058
+  claim: 室内混合光在理论上无法完全平衡，最实际做法是对主光源设白平衡并忽略其余
+  domain: 器材与后期
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - cb23
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb23
+    page: p108
+    quote: 想要通过合理的方法来解决不同光源的色彩平衡问题，理论上是不可能的，而最实际的一种方法，就是对主光源设置白平衡，然后忽略其他剩下的光线。
+- id: C059
+  claim: 偏振镜靠减少表面反光与压暗蓝天在户外增强饱和度
+  domain: 器材与后期
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - cb24
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb24
+    page: p049
+    quote: 偏振镜通过减少物体表面的反光，并且压暗蓝色的天空这样的手段，在很多户外场景下能够增强饱和度
+- id: C060
+  claim: 拍剪影时黑色形状成为构图主要物体，其他所有色彩都退为次要元素
+  domain: 构图与结构
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - cb30
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb30
+    page: p058
+    quote: 而当我们拍摄剪影照片的时候，黑色的形状实际上会成为构图中的主要物体，而照片中所包含的所有其他色彩（例如44页渔船绳索后的日落）都会成为次要元素。
+- id: C061
+  claim: 鲜艳背景容易压倒前面主体，除非主体在视觉上足够醒目
+  domain: 构图与结构
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - cb32
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb32
+    page: p124
+    quote: 鲜艳的背景很容易压倒前面的主体，如果主体在视觉上足够醒目就不会有这个问题。
+- id: C062
+  claim: 人像的独特好处是可以改变人物所处场景与服装，自由改变色彩组合
+  domain: 情绪与象征
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - cb36
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb36
+    page: p134
+    quote: 最后，拍摄人像的好处之一，就是我们可以改变人物所处的场景和服装，而不像拍摄其他主题照片一样，我们可以自由地改变色彩的组合。
+- id: C063
+  claim: 地区色彩常与当地农业相关（薰衣草庄园、向日葵农场），另有建筑材料供应与气候两条成因
+  domain: 情绪与象征
+  stance: 规则派
+  operational: 描述性
+  merged_from:
+  - cb37
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb37
+    page: p136
+    quote: 而一个地区的色彩通常和当地的农业有关，法国的薰衣草庄园、向日葵农场都是可以立刻被人们认出的例子。
+- id: C064
+  claim: 红色与其他较弱色彩的竞争，经常导致注意力从重要内容上分散
+  domain: 情绪与象征
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - cb38
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb38
+    page: p138
+    quote: 而红色与其他较弱色彩的竞争，经常导致注意力从重要内容上的分散。
+- id: C065
+  claim: 教学的首要目标是把问题问对，而不是把学生引向某个特定答案
+  domain: 方法论
+  stance: 相对派
+  operational: 描述性
+  merged_from:
+  - hc01
+  single_source: true
+  sources:
+  - book: interacting-with-color
+    id: hc01
+    page: p006
+    quote: He believed it was more important to ask the right questions than to direct students toward a specific answer.
+- id: C066
+  claim: 阿尔伯斯课程里的构图严格禁止再现
+  domain: 方法论
+  stance: 相对派
+  operational: 描述性
+  merged_from:
+  - hc24
+  single_source: true
+  conflicts:
+  - K6
+  sources:
+  - book: interacting-with-color
+    id: hc24
+    page: p065
+    quote: Compositions in Interaction of Color were strictly nonrepresentational.
+- id: C067
+  claim: 阿尔伯斯确信再现性作品会分散人对色彩本身的注意
+  domain: 方法论
+  stance: 相对派
+  operational: 描述性
+  merged_from:
+  - hc27
+  single_source: true
+  conflicts:
+  - K6
+  sources:
+  - book: interacting-with-color
+    id: hc27
+    page: p070
+    quote: Albers's conviction that representational work would distract from looking just at color.
+- id: C068
+  claim: 材料极简：为省材料，可先不用剪刀与胶水做一段探索
+  domain: 方法论
+  stance: 相对派
+  operational: 可操作
+  merged_from:
+  - hc26
+  single_source: true
+  sources:
+  - book: interacting-with-color
+    id: hc26
+    page: p010
+    quote: To preserve supplies, allow this stage of inquiry to continue for a while without using scissors and glue.
+- id: C069
+  claim: 实践不是先于理论，而是理论跟随实践
+  domain: 方法论
+  stance: 相对派
+  operational: 描述性
+  merged_from:
+  - oc19
+  single_source: true
+  sources:
+  - book: interaction-of-color
+    id: oc19
+    page: p083
+    quote: Naturally, practice is not preceded but followed by theory.
+- id: C070
+  claim: 课程目标是发展由发现与发明实现的创造性，其手段是持续的对比—观察—在情境中思考
+  domain: 方法论
+  stance: 相对派
+  operational: 可操作
+  merged_from:
+  - oc20
+  - oc21
+  single_source: true
+  sources:
+  - book: interaction-of-color
+    id: oc20
+    page: p083
+    quote: Its aim is development of creativeness realized in discovery and invention—the criteria of creativity, or flexibility, being imagination and fantasy.
+  - book: interaction-of-color
+    id: oc21
+    page: p024
+    quote: Thus, continuing comparison—observation—“thinking in situations" — is promoted, making the class aware that discovery and invention are the criteria of creativeness.
+- id: C071
+  claim: 能看见并控制色与色之间的间隔以造出透明与深度错觉，本身就是诗，可移用于别的思考与制作
+  domain: 方法论
+  stance: 相对派
+  operational: 描述性
+  merged_from:
+  - hc21
+  single_source: true
+  sources:
+  - book: interacting-with-color
+    id: hc21
+    page: p047
+    quote: An ability to see and control the intervals between colors to create illusions of transparence and depth is itself poetic and can be transposed into countless other modes of thinking and making.
+- id: C072
+  claim: 极端色调范围（暗调／亮调）的目的是改变照片情绪，在第一眼控制观者反应；不必所有物体都在该范围内，色调占主导即可
+  domain: 明度
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - cb35
+  single_source: true
+  sources:
+  - book: color-bible
+    id: cb35
+    page: p132
+    quote: 也许我有点夸大了这种概念，但是使用这种极端色调范围的目的，正是对照片的情绪进行改变：在人们第一眼看到照片的时候控制他们的反应。
+- id: C073
+  claim: 画幅是第一个设计决定：水平格式符合双眼视场因而「正常」，正方形因四边等长而在形式上显得刻板，全景则让眼睛一次只看一部分、延长观看。
+  domain: 构图与结构
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - fs03
+  - fs05
+  - fs06
+  - m37
+  - m39
+  single_source: false
+  sources:
+  - book: freeman-sight
+    id: fs03
+    quote: 我们通过双眼观察世界的自然视场是以水平方式呈现的，因此水平格式看上去完全正常。
+    page: p013
+  - book: freeman-sight
+    id: fs05
+    quote: 这也是正方形画幅不讨人喜欢的第二个原因：它们让图像在形式上很刻板。
+    page: p017
+  - book: freeman-sight
+    id: fs06
+    quote: 然而，全景图让眼睛一次只能关注图像的一个部分，但这绝不是一件坏事，因为它复制了我们观看真实场景的方式。
+    page: p019
+  - book: photo-composition-color
+    id: m37
+    page: p168
+    quote: '"数世纪以来，画家一般都采用横向长方形画风景画，而用竖向长方形画肖像和人物。因此，相对应的格式又被称为“风景格式”和“人像格式”。"'
+  - book: photo-composition-color
+    id: m39
+    page: p175
+    quote: '"正方形格式照片由于太窄而无法传达宽度，也由于太矮而无法传达深度。"'
+- id: C074
+  claim: 裁剪可以推迟决定，但不能替代拍摄时的果断，多数图像得益于制作过程的视觉连续性。
+  domain: 构图与结构
+  stance: 结构派
+  operational: heuristic
+  merged_from:
+  - fs07
+  single_source: true
+  sources:
+  - book: freeman-sight
+    id: fs07
+    quote: 重要的是，不要将裁剪当作设计的万能药，或是拍摄时不够果断的借口。
+    page: p021
+- id: C075
+  claim: 中央是静止位置、通常也无趣；主体偏离中心必须有理由，主体越小这个理由越重要。
+  domain: 构图与结构
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - fs09
+  - fs28
+  single_source: true
+  sources:
+  - book: freeman-sight
+    id: fs09
+    quote: 靠近边缘明显地偏离中心，需要一些理由。
+    page: p067
+  - book: freeman-sight
+    id: fs28
+    quote: 中央静止，通常也很无趣。
+    page: p067
+- id: C076
+  claim: 分割的本质是比例：1:1、2:1、3:2 这类简单数字给出静态分割，黄金分割要求「小:大 = 大:整体」约 1.618，动态需要更复杂的比例。
+  domain: 构图与结构
+  stance: 结构派
+  operational: calculation
+  merged_from:
+  - fs10
+  - fs11
+  - m10
+  single_source: false
+  sources:
+  - book: freeman-sight
+    id: fs10
+    quote: 文艺复兴期间，许多画家发现由简单数字组成的分割比例（如1:1、2:1或3:2）形成的基本上是静态的分割。
+    page: p027
+  - book: freeman-sight
+    id: fs11
+    quote: 如果整体（两部分的总和）与较大部分之间的比值和较大部分与较小部分之间的比值相同，两个部分则被认为具备黄金比例。
+    page: p027
+  - book: photo-composition-color
+    id: m10
+    page: p055
+    quote: 要找到黄金分割点并不难，将一张纸对折三次，将它的长或宽分成八等分(如图H和1)，便可找到3:5的比例。
+- id: C077
+  claim: 不存在理想的地平线位置；地平线放哪由内容与图形需要决定，单纯上移下移没有意义。
+  domain: 构图与结构
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - fs12
+  single_source: true
+  sources:
+  - book: freeman-sight
+    id: fs12
+    quote: 无须多言的是，任何场景和视角都不存在理想的地平线位置。
+    page: p029
+- id: C078
+  claim: 框中框把视线从一个平面转到另一个平面，从而增强照片的维度。
+  domain: 空间
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - fs13
+  - m16
+  single_source: false
+  sources:
+  - book: freeman-sight
+    id: fs13
+    quote: 框架让观者将视线从一个平面转移到另一个平面，增强了照片的维度。
+    page: p031
+  - book: photo-composition-color
+    id: m16
+    page: p103
+    quote: '"透过一个缺口（中空形）观察的视觉效果（即前文所述的“框架中的框架”）可以通过暗形状框架的三到四个角来实现。"'
+- id: C079
+  claim: 设计只有对比与平衡两个基本原则；眼睛追求和谐感是事实，但不能升级为构图规则，功效不是规则。
+  domain: 和谐与协调
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - fs14
+  - fs15
+  - fs43
+  single_source: false
+  conflicts:
+  - K1
+  sources:
+  - book: freeman-sight
+    id: fs14
+    quote: 两个最基本的原则是对比和平衡。
+    page: p034
+  - book: freeman-sight
+    id: fs15
+    quote: 我们的眼睛追求和谐感，但这并不能成为一条构图规则。
+    page: p034
+  - book: freeman-sight
+    id: fs43
+    quote: 然而，重要的是要记住，功效并不是规则。
+    page: p131
+- id: C080
+  claim: 观者兴趣与必须付出的努力成正比；平衡太完美则眼睛无事可做，适度的不平衡反而制造张力。
+  domain: 构图与结构
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - fs17
+  single_source: true
+  sources:
+  - book: freeman-sight
+    id: fs17
+    quote: 观者对图像的兴趣与他必须付出的努力成正比，平衡若太过完美，眼睛则无事可做。
+    page: p043
+- id: C081
+  claim: 靠动态张力成立的图像缺乏持久力，效果转瞬即逝，频繁使用会做作。
+  domain: 构图与结构
+  stance: 结构派
+  operational: heuristic
+  merged_from:
+  - fs18
+  single_source: true
+  sources:
+  - book: freeman-sight
+    id: fs18
+    quote: 同其他令人一眼看上去感觉强烈、明显的设计技巧一样，它缺乏持久力，其效果往往转瞬即逝
+    page: p045
+- id: C082
+  claim: 节奏不是重复本身：最强节奏是每个节拍都在引导眼睛移动。
+  domain: 构图与结构
+  stance: 结构派
+  operational: metric
+  merged_from:
+  - fs20
+  single_source: true
+  sources:
+  - book: freeman-sight
+    id: fs20
+    quote: 当每个节拍周期引导眼睛移动(如此处图例所示)时，节奏最强。
+    page: p049
+- id: C083
+  claim: 图案与节奏都基于重复，但图案关涉范围而非方向，所以眼睛在图案里四处漫游。
+  domain: 构图与结构
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - fs21
+  single_source: true
+  sources:
+  - book: freeman-sight
+    id: fs21
+    quote: 图案与节奏一样建立在重复的基础上，但与节奏不同的是，与图案相关的是范围而不是方向。
+    page: p051
+- id: C084
+  claim: 纹理是结构而非色调或色彩的特征，主要吸引触觉，因此靠倾斜而清晰的光显出起伏。
+  domain: 构图与结构
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - fs22
+  single_source: true
+  sources:
+  - book: freeman-sight
+    id: fs22
+    quote: 纹理是结构而不是色调或色彩的特征，因此主要吸引触觉。
+    page: p051
+- id: C085
+  claim: 斜线与画幅长边形成的角度越大越具动态，这是可判断的量化关系。
+  domain: 构图与结构
+  stance: 结构派
+  operational: metric
+  merged_from:
+  - fs30
+  single_source: true
+  sources:
+  - book: freeman-sight
+    id: fs30
+    quote: 斜线与画幅长边形成的角度越大，就越具动态。
+    page: p077
+- id: C086
+  claim: 向量是为眼睛安排路线：先让注意力被预期点吸引，再提供线条暗示方向运动。
+  domain: 构图与结构
+  stance: 结构派
+  operational: procedure
+  merged_from:
+  - fs27
+  single_source: true
+  sources:
+  - book: freeman-sight
+    id: fs27
+    quote: 如果你能平衡一张照片，让注意力首先被一个预期的点吸引，然后提供一条线条来暗示某个方向的运动，那么你就已经为眼睛安排了一条路线。
+    page: p091
+- id: C087
+  claim: 清晰度几乎是无可置疑的标准，因此落在焦点上的任何事物都会成为关注点；有意误用焦点很有效，因为它打破常规。
+  domain: 构图与结构
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - fs33
+  single_source: true
+  sources:
+  - book: freeman-sight
+    id: fs33
+    quote: 清晰度几乎是无可置疑的标准，这一事实足以表明，焦点上的任何事物都会成为关注点。
+    page: p095
+- id: C088
+  claim: 焦距改变的不只是视角：广角增强线性透视并把观者带入场景，远摄把平面压缩、把主体拉远、显得冷静。
+  domain: 空间
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - fs35
+  - fs36
+  - fs49
+  - m22
+  single_source: false
+  sources:
+  - book: freeman-sight
+    id: fs35
+    quote: 焦距可以影响观者在场景中的参与程度，因此远摄镜头常将主体拉远，广角镜头则将观者带入场景中。
+    page: p101
+  - book: freeman-sight
+    id: fs36
+    quote: 广角镜头往往会增强线性透视，而远摄镜头则将它扁平化。
+    page: p055
+  - book: freeman-sight
+    id: fs49
+    quote: 广角镜头在这里有着天然优势它只需要很小的视点变化就可以对图像做出巨大改变。
+    page: p167
+  - book: photo-composition-color
+    id: m22
+    page: p115
+    quote: '"所有的广角镜头都能通过增强透视效果、改变拍摄对象与前景和背景之间的距离来在二维平面上表现出空间感。而长焦镜头只能通过镜头焦点处的敏锐细节和镜头焦点外的模糊背景的对比来表现形状之间清晰的重叠，表现纵深感。"'
+- id: C089
+  claim: 并置之所以有效，是因为我们天生假设并排的事物之间存在关系；观者无法从成片判断它是计划还是巧合。
+  domain: 构图与结构
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - fs47
+  single_source: true
+  sources:
+  - book: freeman-sight
+    id: fs47
+    quote: 我们天生就倾向于假设并排的事物之间存在有关系
+    page: p177
+- id: C090
+  claim: 兴趣点增加到一定数量后会结合成「场景」图像，复杂性于是再次变简单。
+  domain: 构图与结构
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - fs44
+  single_source: true
+  sources:
+  - book: freeman-sight
+    id: fs44
+    quote: 在画幅中添加（或找到）更多的兴趣点会增加复杂性，也很费力，但是达到一定数量之后，兴趣点就会结合为“场景”图像，继而再次变得简单
+    page: p139
+- id: C091
+  claim: 清晰的图像有力但对观者要求低；模糊的图像要求较慢的阅读，可能吸引更久的注意力。
+  domain: 构图与结构
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - fs45
+  single_source: true
+  sources:
+  - book: freeman-sight
+    id: fs45
+    quote: 清晰性强而有力，是新闻摄影的目标之一，但是比较模糊的图像要求较慢的阅读速度，可能会吸引更多的注意力
+    page: p141
+- id: C092
+  claim: 同一明度策略在黑白与彩色里不等价：高色调黑白显得明亮生动，高色调彩色常被读成发白与曝光错误。
+  domain: 明度
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - fs37
+  single_source: true
+  sources:
+  - book: freeman-sight
+    id: fs37
+    quote: 高色调的黑白图像看起来明亮、生动（主体选择正确的话），但高色调的彩色图像就经常被负面解读，例如是发白和曝光错误。
+    page: p111
+- id: C093
+  claim: 色相亮度值：黄 9、橙 8、红 6、绿 6、蓝 4、紫 3；要获得最可预见的和谐需将光值成反比组合。
+  domain: 明度
+  stance: 结构派
+  operational: calculation
+  merged_from:
+  - fs38
+  - m27
+  - m28
+  single_source: false
+  conflicts:
+  - K2
+  sources:
+  - book: freeman-sight
+    id: fs38
+    quote: 是第一个给色调赋值的人黄色为9，橙色为8，红色和绿色为6，蓝色为4，紫色为3
+    page: p121
+  - book: photo-composition-color
+    id: m27
+    page: p131
+    quote: '"因此要使得黄色和紫色之间达到相同的视觉比重，三倍亮度值的黄色所占的空间面积应该是亮度值最低的紫色所占空间面积的三分之一。"'
+  - book: photo-composition-color
+    id: m28
+    page: p133
+    quote: '"因此互补色的数量和谐值正好和亮度值相反：黄色=3，橙色=4，红色=6，紫色=9，蓝色=8，绿色=6。"'
+- id: C094
+  claim: 小面积对比色具有与「点」相似的聚焦效果，但两区面积差异越大效果越弱。
+  domain: 数量与面积
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - fs39
+  single_source: true
+  sources:
+  - book: freeman-sight
+    id: fs39
+    quote: 就如同从背景中清晰突出的细小物体在图形上发挥着一个点的功能，小区域的对比色也具有相似的聚焦效果。
+    page: p122
+- id: C095
+  claim: 柔和色占据的视觉空间远大于强烈色彩，是自然场景的默认底色。
+  domain: 饱和度
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - fs40
+  single_source: true
+  sources:
+  - book: freeman-sight
+    id: fs40
+    quote: 它们所占的视觉空间远小于柔和的绿色、褐色、赭色、肉色、石蓝色、灰色
+    page: p123
+- id: C096
+  claim: 数码通道混合能把任何色相渲染为黑白之间的任意值，故黑白控制不再依赖拍摄时的彩色滤镜。
+  domain: 器材与后期
+  stance: 结构派
+  operational: procedure
+  merged_from:
+  - fs41
+  single_source: true
+  sources:
+  - book: freeman-sight
+    id: fs41
+    quote: 如今Photoshop和类似应用中的通道混合能够把任何色相渲染为黑与白之间的任意值。
+    page: p127
+- id: C097
+  claim: 格式塔的基本原则是整体大于部分之和；视觉注意的主要因素是重要性加权，人脸尤其眼睛与嘴巴权重最高。
+  domain: 机制
+  stance: 结构派
+  operational: framework
+  merged_from:
+  - fs16
+  - fs26
+  single_source: true
+  sources:
+  - book: freeman-sight
+    id: fs16
+    quote: 现代格式塔理论对认知采用的是整体观，其基本原则为整体大于部分之和
+    page: p039
+  - book: freeman-sight
+    id: fs26
+    quote: 两位多伊奇在1963年提出“重要性加权”是视觉注意的主要因素。
+    page: p059
+- id: C098
+  claim: 深度感靠知觉机制建立：大小恒常让大脑同时接受「显得小」与「实际大」，选择性聚焦靠注意力被吸向清晰区与失焦层被读作在前两个触发点。
+  domain: 空间
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - fs24
+  - fs25
+  single_source: true
+  sources:
+  - book: freeman-sight
+    id: fs24
+    quote: 其中的解释被称为“大小恒常”，这个我们了解甚少的知觉机制让大脑可以解决深度不一致的问题。
+    page: p053
+  - book: freeman-sight
+    id: fs25
+    quote: 选择性聚焦利用两个知觉上的触发点来建立深度感。
+    page: p058
+- id: C099
+  claim: 书法里笔画之间的留白与黑色文字一样具备动态与连贯性：负形与正形同等主动。
+  domain: 构图与结构
+  stance: 结构派
+  operational: case
+  merged_from:
+  - fs19
+  single_source: true
+  sources:
+  - book: freeman-sight
+    id: fs19
+    quote: 最能体现这种模棱两可的主体-背景关系的例子可以在中文和日文的书法中找到，它们笔画之间的留白就跟黑色文字一样具备动态和连贯性。
+    page: p047
+- id: C100
+  claim: 「决定性瞬间」指各元素处于平衡的那一瞬（布列松转引雷兹），但纽曼反驳「每时每刻都是决定性瞬间」；作者认为后者是妥协。
+  domain: 方法论
+  stance: 结构派
+  operational: case
+  merged_from:
+  - fs34
+  single_source: true
+  sources:
+  - book: freeman-sight
+    id: fs34
+    quote: 他引用了17世纪红衣主教雷兹的那句“世间万物皆有其决定性瞬间”
+    page: p099
+- id: C101
+  claim: 探索必须自设界限、摄影师要自己决定何时停止；回访有风险，最初吸引你的事物与拍摄可能性之间的组合可能不再存在。
+  domain: 方法论
+  stance: 结构派
+  operational: heuristic
+  merged_from:
+  - fs48
+  - fs50
+  single_source: true
+  sources:
+  - book: freeman-sight
+    id: fs48
+    quote: 探索必须是有限制的，这意味着摄影师必须决定何时停止。
+    page: p167
+  - book: freeman-sight
+    id: fs50
+    quote: 依靠回访来实现改进存在相当大的风险，因为最初吸引摄影师的事物与拍摄图像的可能性之间的组合不仅可能相当微妙，也可能在另一个时间里根本不存在。
+    page: p171
+- id: C102
+  claim: 构图是把眼前混乱景象组织成引人的图像，这是摄影的关键技能，也是判断一张照片组织质量的落点。
+  domain: 方法论
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - fs01
+  single_source: true
+  sources:
+  - book: freeman-sight
+    id: fs01
+    quote: 从眼前的景象中捕捉到潜在的不同凡响的画面，然后将各种视觉元素组织成引人入胜的构图，一直是摄影的关键技能。
+    page: p003
+- id: C103
+  claim: 金色光辉出现在太阳高于地平线但角度不足 20° 时，色温介乎 3500K–4500K，每天只有日出与日落各约一小时。
+  domain: 光与时段
+  stance: 技术派
+  operational: metric
+  merged_from:
+  - fl01
+  single_source: true
+  sources:
+  - book: freeman-light
+    id: fl01
+    quote: 当太阳还在地平线以上，但照射角度不足20°的时候，它就可以提供温暖的金色光辉，其色温介乎3500K和4500K。
+    page: p057
+- id: C104
+  claim: 积云遮日会把 5200K 的阳光降到 6000K 左右，让被照亮的前景带上头顶天空的蓝色调。
+  domain: 光与时段
+  stance: 技术派
+  operational: calculation
+  merged_from:
+  - fl05
+  single_source: true
+  conflicts:
+  - K10
+  sources:
+  - book: freeman-light
+    id: fl05
+    quote: 在开阔的场景中，蓝天的反射光（10000K）通常都会被强烈的阳光（5200K）盖过，但积云会遮挡和降低强烈的阳光，使色温立刻变为6000K左右，让被照亮的前景带有头顶天空的蓝色调。
+    page: p064
+- id: C105
+  claim: 硬光＝光源与对象之间没有任何阻隔；柔光的最有效形态几乎察觉不到，光线本身不成为构图元素。
+  domain: 光与时段
+  stance: 技术派
+  operational: definition
+  merged_from:
+  - fl23
+  - fl24
+  single_source: true
+  sources:
+  - book: freeman-light
+    id: fl23
+    quote: 硬光意味着光源与拍摄对象之间没有阻隔没有云，没有柔光板，没有反光板。
+    page: p131
+  - book: freeman-light
+    id: fl24
+    quote: 实际上，最有效的柔光是几乎察觉不到的也就是说，光线本身不会成为照片中的实质构图元素。
+    page: p123
+- id: C106
+  claim: 明暗对照法不是最硬的光，而是硬光与柔光之间的平衡：既有浓重阴影，又有从高光到阴影的渐变。
+  domain: 光与时段
+  stance: 技术派
+  operational: framework
+  merged_from:
+  - fl13
+  single_source: false
+  sources:
+  - book: freeman-light
+    id: fl13
+    quote: 明暗对照法其实是硬光和柔光之间的一种平衡。
+    page: p133
+- id: C107
+  claim: 质感靠微观阴影显现，只有小角度的强烈侧光才能在表面投出这些阴影；形状靠明暗渐变，质感靠侧光。
+  domain: 光与时段
+  stance: 技术派
+  operational: principle
+  merged_from:
+  - fl28
+  - fl14
+  single_source: true
+  sources:
+  - book: freeman-light
+    id: fl28
+    quote: 明暗对比法通过明暗渐变来做到这一点，它能够很好地表现形状和体态，但质感却比形状精细得多，只有用小角度的强烈侧光照射到物体表面上，才能投射出无数微观尺度的小阴影，从而表现出质感。
+    page: p142
+  - book: freeman-light
+    id: fl14
+    quote: 日出的强烈侧光最能表现巨柱和雕像的不朽形状。
+    page: p141
+- id: C108
+  claim: 包围光在大自然中很少见，因此人像若用包围光会显得超现实和失真；它更适合静物与强反光物体。
+  domain: 光与时段
+  stance: 技术派
+  operational: principle
+  merged_from:
+  - fl11
+  - fl30
+  single_source: true
+  sources:
+  - book: freeman-light
+    id: fl11
+    quote: 既然柔光是人像摄影的理想光线，那么用包围光拍摄就是最好的了，但是这样拍摄出来的人像却显得超现实和失真。
+    page: p125
+  - book: freeman-light
+    id: fl30
+    quote: 你要记住，包围光在大自然中是很少见的，你的眼睛会认为这是很奇特的东西。
+    page: p125
+- id: C109
+  claim: 阴天的挑战不是光差，而是必须找出适合柔和扩散光的题材。
+  domain: 光与时段
+  stance: 技术派
+  operational: heuristic
+  merged_from:
+  - fl25
+  single_source: true
+  sources:
+  - book: freeman-light
+    id: fl25
+    quote: 相反，这个挑战在于寻找适合阴天柔和的扩散光的拍摄题材。
+    page: p065
+- id: C110
+  claim: 眩光本质是镜头再现光线时的像差，但可以被有意利用来强化图形感与色彩。
+  domain: 光与时段
+  stance: 技术派
+  operational: principle
+  merged_from:
+  - fl08
+  single_source: true
+  sources:
+  - book: freeman-light
+    id: fl08
+    quote: 从技术上说，眩光是一种像差，即镜头再现某一场景的光线时产生的误差。
+    page: p052
+- id: C111
+  claim: 位深与动态范围是两件事：位深可以在给定动态范围内增加，但动态范围不能扩大。
+  domain: 器材与后期
+  stance: 技术派
+  operational: principle
+  merged_from:
+  - fl17
+  single_source: true
+  sources:
+  - book: freeman-light
+    id: fl17
+    quote: 请注意，动态范围和位深之间有明确的区别：我们可以在给定的动态范围内增加位深，但我们不能扩大动态范围。
+    page: p024
+- id: C112
+  claim: 点测光只测量占画面约 2% 的圆形区域，其余全部忽略；这既是它的精度也是它的风险。
+  domain: 器材与后期
+  stance: 技术派
+  operational: metric
+  merged_from:
+  - fl19
+  single_source: true
+  sources:
+  - book: freeman-light
+    id: fl19
+    quote: 点测光只对占整个画面2%的细小圆形区域内进行测量，而圆形外的所有区域都会被忽略。
+    page: p032
+- id: C113
+  claim: 混合光源下最安全的做法是用灰卡设置自定义白平衡并拍 RAW，给后期留调整余地。
+  domain: 器材与后期
+  stance: 技术派
+  operational: procedure
+  merged_from:
+  - fl21
+  single_source: false
+  sources:
+  - book: freeman-light
+    id: fl21
+    quote: 最安全的方法还是利用灰卡设置自定义白平衡并拍摄RAW格式的照片
+    page: p080
+- id: C114
+  claim: 偏光镜提高天空饱和度有角度前提（镜头与太阳成合适角度效果最强）；渐变滤镜的效果可在直方图右侧靠近边界而不剪切这样判读。
+  domain: 器材与后期
+  stance: 技术派
+  operational: procedure
+  merged_from:
+  - fl06
+  - fl07
+  single_source: true
+  sources:
+  - book: freeman-light
+    id: fl06
+    quote: 如果想让天空的饱和度更高，则应该在镜头上装一个偏光镜。
+    page: p042
+  - book: freeman-light
+    id: fl07
+    quote: 你可以在直方图上观察渐变滤镜的效果：随着滤镜向下移动，直方图的右侧会慢慢向右边界靠近。
+    page: p045
+- id: C115
+  claim: 白平衡有两条用法：按感官精确再现场景（校正），或刻意偏移以加入自己的演绎（表达）。
+  domain: 色相与色环
+  stance: 技术派
+  operational: principle
+  merged_from:
+  - fl26
+  - fl32
+  - fl22
+  single_source: true
+  conflicts:
+  - K1
+  sources:
+  - book: freeman-light
+    id: fl26
+    quote: 然而，你也可以利用白平衡在照片中加入自己的演绎。
+    page: p027
+  - book: freeman-light
+    id: fl32
+    quote: 理想的白平衡应该按照你的感官完美、精确地再现场景。
+    page: p027
+  - book: freeman-light
+    id: fl22
+    quote: 我不需要温暖、诱人的效果，而是希望把这个空旷的城市广场表现得更冷、更短暂，所以我大大地降低了色温。
+    page: p030
+- id: C116
+  claim: 视觉不是对外界刺激的机械复制，而是抓结构特征的创造性把握；整体不能由部分相加得到，因此元素清单式的点评在原理上就不成立。
+  domain: 机制
+  stance: mechanism
+  operational: principle
+  merged_from:
+  - ar20
+  - ar21
+  - ar24
+  single_source: false
+  sources:
+  - book: arnheim-art
+    id: ar20
+    page: p011
+    quote: 所有这些试验都证明了，视觉形象永远不是对于感性材料的机械复制，而是对现实的一种创造性把握，它把握到的形象是含有丰富的想象性、创造性、敏锐性的美的形象。
+  - book: arnheim-art
+    id: ar21
+    page: p011
+    quote: 对于大多数艺术家来说，“整体不能通过各部分相加的和来达到”的思想，并不算什么新奇的东西了。
+  - book: arnheim-art
+    id: ar24
+    page: p064
+    quote: 如果以上描述是有效的，我们就不得不承认，知觉过程就是“知觉概念”形成的过程。
+- id: C117
+  claim: 视觉平衡只由重量与方向两件事决定，且视觉重量与物理量（面积、像素）并不一致——不能按大小直接换算平衡。
+  domain: 构图与结构
+  stance: mechanism
+  operational: principle
+  merged_from:
+  - ar02
+  - ar03
+  - ar22
+  - ar23
+  single_source: false
+  sources:
+  - book: arnheim-art
+    id: ar02
+    page: p030
+    quote: 至于我们是否将这种知觉力称为“幻觉”，都是无关紧要的，只要我们承认，知觉力是我们看到的每一事物或图像的真实性质，那就足够了。
+  - book: arnheim-art
+    id: ar03
+    page: p038
+    quote: 这两种性质就是重力和方向。
+  - book: arnheim-art
+    id: ar22
+    page: p035
+    quote: 也就是说，对于一件平衡的构图来说，其形状、方向、位置诸要素之间的关系，都达到了如此确定的程度，以至于不允许这些要素有任何些微的改变。
+  - book: arnheim-art
+    id: ar23
+    page: p032
+    quote: 原因在于：诸如大小、色彩、方向等因素造成的视觉平衡值，往往与相对应的物理因素不一致。
+- id: C118
+  claim: 中心之所以稳定是因为各方向的力在这一点互相抵消，不是因为那里空；下方比上方稳定，上方位置天然不稳，需要更多支撑理由。
+  domain: 构图与结构
+  stance: mechanism
+  operational: principle
+  merged_from:
+  - ar01
+  - ar04
+  - ar27
+  - m02
+  single_source: false
+  sources:
+  - book: arnheim-art
+    id: ar01
+    page: p026
+    quote: 在中心点，所有的力都是相互平衡的，因此，在中心位置上就比较稳定。
+  - book: arnheim-art
+    id: ar04
+    page: p031
+    quote: 处在一个较为突出的位置上，即处在一个稳定的中心位置上，而处于上方的那一个圆，则处于一个不太稳定的位置上。
+  - book: arnheim-art
+    id: ar27
+    page: p025
+    quote: 我们可以通过在其中粘贴上一个黑色圆面的方式，将这个隐藏的中心点探测出来，就像用铁屑把一个磁场的磁力线显示出来一样。
+  - book: photo-composition-color
+    id: m02
+    page: p022
+    quote: '"经过精确估算，处于正方形正中心的点只有两种距离的视觉张力：一是与四个角的距离，二是与四条边（上、下、左、右）的距离。"'
+- id: C119
+  claim: 简化有两个方向——矫平（减少结构差异、提高对称、纠正倾斜）与增锐（强化差异、增加倾斜）；简化还分主观易识认与客观结构少两层。
+  domain: 构图与结构
+  stance: mechanism
+  operational: procedure
+  merged_from:
+  - ar05
+  - ar06
+  - ar07
+  - ar08
+  single_source: false
+  sources:
+  - book: arnheim-art
+    id: ar05
+    page: p074
+    quote: 我们还须通过分析这些图样的形式特征来确定被观看事物的客观简化性。
+  - book: arnheim-art
+    id: ar06
+    page: p085
+    quote: 以上两种倾向，一种可称为“矫平”，另一种则为“增锐”。
+  - book: arnheim-art
+    id: ar07
+    page: p086
+    quote: “矫平”的特征就是使构图更一致、使对称程度更高、使结构特征减少重复、丢弃不适宜的细节、将倾斜纠正等。
+  - book: arnheim-art
+    id: ar08
+    page: p090
+    quote: 当正方形图43a被细分为两半时，整体（正方形）压倒了它的部分（半图），因为这个具有1:1的对称性的正方形比两个1：2的长方形更为简单。
+- id: C120
+  claim: 轮廓线不等于形状，形状由结构骨架决定；形状越连贯越容易从背景中独立，越难分离的形状越容易和背景搅在一起。
+  domain: 构图与结构
+  stance: mechanism
+  operational: principle
+  merged_from:
+  - ar09
+  - ar10
+  single_source: false
+  sources:
+  - book: arnheim-art
+    id: ar09
+    page: p111
+    quote: 虽然一个物体的视觉形状多半是由其轮廓线确定的，但轮廓线并不等于其形状。
+  - book: arnheim-art
+    id: ar10
+    page: p104
+    quote: 一个构图单位的形状愈是连贯，它就愈易于从它所处的背景中独立出来。
+- id: C121
+  claim: 深度线索有两条硬路径：梯度（倾斜被读成梯度才产生深度，源头是吉布森）与重叠（被盖住的一层必须靠深度上的分离线索引才能摆脱干扰）。
+  domain: 空间
+  stance: mechanism
+  operational: principle
+  merged_from:
+  - ar11
+  - ar25
+  single_source: false
+  sources:
+  - book: arnheim-art
+    id: ar11
+    page: p300
+    quote: 第一个使人意识到梯度具有创造深度能力的人是吉布孙(JamesJ.Gibson)。
+  - book: arnheim-art
+    id: ar25
+    page: p472
+    quote: 正如我在前面所说过的，在重叠式样中，那被掩盖的式样往往通过在深度上的分离来摆脱掩盖者的干扰。
+- id: C122
+  claim: 画框在图底关系里是「图」，画面空间是它下方的无边基底；这正是框架被称作窗口的心理学依据。世界上不存在真正二度的平面绘画。
+  domain: 空间
+  stance: mechanism
+  operational: principle
+  merged_from:
+  - ar12
+  - ar26
+  single_source: false
+  sources:
+  - book: arnheim-art
+    id: ar12
+    page: p264
+    quote: 正是在这个意义上，一幅画的框架才被称之为一个窗口。
+  - book: arnheim-art
+    id: ar26
+    page: p253
+    quote: 根本就不存在真正的平面的或二度的绘画。
+- id: C123
+  claim: 相对亮度只有在整个环境被同一强度光照亮时才能被稳定知觉；局部光比不同，亮度就会被读成别的属性。
+  domain: 光与时段
+  stance: mechanism
+  operational: principle
+  merged_from:
+  - ar13
+  single_source: false
+  sources:
+  - book: arnheim-art
+    id: ar13
+    page: p331
+    quote: 当整个环境被置于同样强的光线之下时，物体的相对亮度就可以被稳定地知觉到。
+- id: C124
+  claim: 明暗渐变一旦让观者读出一块面有曲率，它立刻被看成球体的一部分——阴影不是装饰，是形状的构造者。
+  domain: 光与时段
+  stance: mechanism
+  operational: principle
+  merged_from:
+  - ar14
+  single_source: false
+  sources:
+  - book: arnheim-art
+    id: ar14
+    page: p136
+    quote: 如果通过明暗阴影看出这一圆面有一定的曲率，我们就会把它看成一个球体的一部分。
+- id: C125
+  claim: 一切视觉形象只由色彩与亮度两种原料构成，没有第三种。
+  domain: 色相与色环
+  stance: mechanism
+  operational: principle
+  merged_from:
+  - ar15
+  single_source: false
+  sources:
+  - book: arnheim-art
+    id: ar15
+    page: p358
+    quote: 严格说来，一切视觉形象都产生于色彩和亮度。
+- id: C126
+  claim: 冷暖不是装饰性形容词：一个色的全部特性会单方面影响观者，并仅凭其出现就指向另一种不同的存在，所以冷暖永远是关系判断。
+  domain: 冷暖
+  stance: mechanism
+  operational: principle
+  merged_from:
+  - ar16
+  - m30
+  single_source: false
+  sources:
+  - book: arnheim-art
+    id: ar16
+    page: p387
+    quote: 这一特定色彩的所有特性，如冷或暖、鲜明或暗淡等，都会单方面地影响我们，并仅仅凭借其出现而指向另一种与之不同的存在。
+  - book: photo-composition-color
+    id: m30
+    page: p136
+    quote: '"而在色彩的冷暖对比中，决定其优先级的是两个颜色之间的色相对比，即两个颜色之间的色相对比是差异大（在色相环中相距远）还是差异小（在色相环中距离近）。"'
+- id: C127
+  claim: 只让平衡与和谐主导作品，等于对人类经验做出片面解释——平衡是常态不是目标。
+  domain: 和谐与协调
+  stance: mechanism
+  operational: principle
+  merged_from:
+  - ar17
+  single_source: false
+  sources:
+  - book: arnheim-art
+    id: ar17
+    page: p054
+    quote: 如果一个艺术家让平衡与和谐主导自己创作的作品时，就等于是对人类经验做出片面的解释。
+- id: C128
+  claim: 人看到的首先是方向性张力之间的相互作用，而不是事物、色彩、形状或大小；知觉力是所见事物的真实性质，叫不叫幻觉不影响这一点。艺术家的目的是让观者经验到各种力式样的表现性质。
+  domain: 机制
+  stance: mechanism
+  operational: principle
+  merged_from:
+  - ar18
+  - ar19
+  single_source: false
+  sources:
+  - book: arnheim-art
+    id: ar18
+    page: p024
+    quote: 一个人或一个动物看到的，不仅仅是那种事物，亦不仅仅是它的色彩、形状、动作和大小，而首先是方向性张力间的相互作用。
+  - book: arnheim-art
+    id: ar19
+    page: p182
+    quote: 艺术家的目的，就是让观赏者经验到各种“力”的作用式样的表现性质。
+- id: C129
+  claim: 再现是「图式 + 矫正」：先有现成公式，再拿它去试错修正；制作永远先于匹配，像不像发生在做出来之后。一个时期风格相似，是因为大家学的是同一批公式。
+  domain: 机制
+  stance: mechanism
+  operational: principle
+  merged_from:
+  - go01
+  - go02
+  - go12
+  single_source: false
+  sources:
+  - book: gombrich-illusion
+    id: go01
+    page: p006
+    quote: 正是着眼于此，我才在书中讲“图式和矫正”的过程—矫正这个词蕴涵着更为接近真实的意见，至少是消除虚伪性。
+  - book: gombrich-illusion
+    id: go02
+    page: p124
+    quote: 如果我一定要将上一章概括为一个简短的公式，那就是“先制作后匹配”
+  - book: gombrich-illusion
+    id: go12
+    page: p005
+    quote: 然而本书实际所论却是：种种再现风格一律凭图式以行，各个时期的绘画风格的相对一致是由于描绘视觉真实不能不学习的公式。
+- id: C130
+  claim: 图像只有在观者肯承担「观看者的本分」时才成立——画面的完成有一半落在观看者身上。
+  domain: 语境与相对性
+  stance: mechanism
+  operational: principle
+  merged_from:
+  - go03
+  single_source: false
+  sources:
+  - book: gombrich-illusion
+    id: go03
+    page: p180
+    quote: 我摘引这样长的一段文字，是因为它概括了我们现在转而讨论的问题—在理解艺术家描绘的图像方面，我们亦即观看者的本分。
+- id: C131
+  claim: 知觉是有选择的注意（心理定向）；看与看见、听与听见的差别来自这层过滤，没有它人会被刺激淹没。
+  domain: 机制
+  stance: mechanism
+  operational: principle
+  merged_from:
+  - go04
+  single_source: false
+  sources:
+  - book: gombrich-illusion
+    id: go04
+    page: p018
+    quote: 心理学用心理定向[mentalset]这一术语描述这种知觉调整的形式，一种有选择性的注意的形式，这种形式被描述为日常用语中观看与看见、倾听与听见之间的差别。
+- id: C132
+  claim: 错觉的本质是相信眼前这个视觉模式只有一种解释方法——不是看错，而是排他；并且错觉必须与错误信念区分，知道娃娃是假的人照样会被舞台打动。
+  domain: 语境与相对性
+  stance: mechanism
+  operational: principle
+  merged_from:
+  - go05
+  - go06
+  single_source: false
+  sources:
+  - book: gombrich-illusion
+    id: go05
+    page: p235
+    quote: 我认为错觉在于认为我们面前的视觉模式只有一种解释方法这样一种信念。
+  - book: gombrich-illusion
+    id: go06
+    page: p017
+    quote: 在我看来它是一个重要的提醒物，提醒我们这样的事实，必须把错觉与错误信念相区别；
+- id: C133
+  claim: 符号靠区别性特征表达意义，其余一概不相干；照片被读成某物，靠的也是少数区别性特征而非全部细节。
+  domain: 机制
+  stance: mechanism
+  operational: principle
+  merged_from:
+  - go07
+  single_source: false
+  sources:
+  - book: gombrich-illusion
+    id: go07
+    page: p020
+    quote: 它们依赖于这种区别性特征，其余则不相干，这是一般符号的特征。
+- id: C134
+  claim: 「透视只是一种程式」的信念来自把关系模型误当成图像；这种程式论有其根基，但不是对透视法的最终判断。
+  domain: 空间
+  stance: mechanism
+  operational: principle
+  merged_from:
+  - go08
+  - go22
+  single_source: false
+  sources:
+  - book: gombrich-illusion
+    id: go08
+    page: p239
+    quote: 透视法立足于程式这种信念，是由于混淆了关系模型跟图像而产生的。
+  - book: gombrich-illusion
+    id: go22
+    page: p240
+    quote: 认为透视法不过是一种程式，并不是按照世界的外观去再现世界，这种观念潜在的根基或许就在这里。
+- id: C135
+  claim: 知觉可以看作对一次预期所作出的矫正：先有预判，再看实际，差异驱动修正；检验解释时下一步几乎是可以预期到的。
+  domain: 机制
+  stance: mechanism
+  operational: principle
+  merged_from:
+  - go09
+  - go21
+  single_source: false
+  sources:
+  - book: gombrich-illusion
+    id: go09
+    page: p172
+    quote: 最近，有人说：“知觉本质上可以被看做是对一个预期进行的矫正。
+  - book: gombrich-illusion
+    id: go21
+    page: p280
+    quote: 换句话说，在知觉这个过程中，在我们检验我们的解释时将出现的东西，它的下一个阶段几乎是可以预期到的。
+- id: C136
+  claim: 人能学的是辨别而不是观看；学「看」很大程度上是学预测序列，而先例（看过什么程式）会直接塑造眼睛。
+  domain: 方法论
+  stance: mechanism
+  operational: principle
+  merged_from:
+  - go10
+  - go17
+  - go18
+  single_source: false
+  sources:
+  - book: gombrich-illusion
+    id: go10
+    page: p172
+    quote: 我们对于训练眼睛或学习观看的话颇有所闻，但是如果它掩盖了我们能够学习的不是观看而是辨别这个事实的话，这种措辞能把人引入歧途。
+  - book: gombrich-illusion
+    id: go17
+    page: p257
+    quote: 学习“观看”可能极大地关系到学会预测序列的次序——我们头部移动时，一把椅子或一张桌子投射到我们视网膜上的形状的先后次序。
+  - book: gombrich-illusion
+    id: go18
+    page: p128
+    quote: 如果一个人看过舍费尔对埃及程式的分析，那他便会经常想起这样一些程式化的再现法，而较少想到儿童艺术。
+- id: C137
+  claim: 投射：人会把熟悉的面目加到一个陌生形状上（云、汽车前脸），这是识别而非逐点比较。
+  domain: 机制
+  stance: mechanism
+  operational: principle
+  merged_from:
+  - go11
+  single_source: false
+  sources:
+  - book: gombrich-illusion
+    id: go11
+    page: p114
+    quote: 我们说，我们把一个熟悉的面目形状“投射”到了一辆汽车的形状上，就像我们把熟悉的图像投射到与云朵相似的形状上一样。
+- id: C138
+  claim: 他不接受「根本没有视觉现实、任何再现都不必比较谁更逼真」的相对主义；同时指出中国传统不以求逼真为目标，因为书法与绘画休戚相关——逼真不是普遍标准。
+  domain: 语境与相对性
+  stance: mechanism
+  operational: principle
+  merged_from:
+  - go13
+  - go16
+  single_source: false
+  sources:
+  - book: gombrich-illusion
+    id: go13
+    page: p006
+    quote: 我更难以接受的观点是不承认有视觉现实其物，从而竟认为我们对任何再现之作都没有理由说它是否比别的作品更为逼真。
+  - book: gombrich-illusion
+    id: go16
+    page: p005
+    quote: 由于中国的书法和绘画息息相关，恐怕已不容绘画风格独树一帜，专以惟妙惟肖地重现现实为务。
+- id: C139
+  claim: 只重复「观看 vs 知道」或「一切再现都基于程式」解决不了问题；程式论只是一半——有生命的错觉靠世代累积的图画经验与反复试验，不靠关于现实的错觉。
+  domain: 方法论
+  stance: mechanism
+  operational: principle
+  merged_from:
+  - go14
+  - go15
+  single_source: false
+  sources:
+  - book: gombrich-illusion
+    id: go14
+    page: p046
+    quote: 或者泛泛地强调一切再现都基于程式，并不足以解决我们这个学科的这些中心问题。
+  - book: gombrich-illusion
+    id: go15
+    page: p308
+    quote: 这项成就不需要任何关于现实的错觉就能制造出有生命的错觉，我认为它的成功有两个条件：一个条件是一代代艺术家对图画效果的经验；
+- id: C140
+  claim: 行动的上下文会创造错觉条件：同一块色、同一个形，在「正在发生什么」里会被读成不同的东西。
+  domain: 语境与相对性
+  stance: mechanism
+  operational: principle
+  merged_from:
+  - go25
+  single_source: false
+  sources:
+  - book: gombrich-illusion
+    id: go25
+    page: p197
+    quote: 在研究视觉图像的人看来，这些经验是颇有关系的，因为它们说明了行动的上下文[contextofaction]是怎样创造错觉条件的。
+- id: C141
+  claim: 一个公式若只能「不断修正以求与现象一致」，那种表面长处正是它致命的缺陷（托勒密体系）；而观众信不信服会反过来驱动作者修正公式。
+  domain: 方法论
+  stance: mechanism
+  operational: principle
+  merged_from:
+  - go19
+  - go20
+  single_source: false
+  sources:
+  - book: gombrich-illusion
+    id: go19
+    page: p256
+    quote: 托勒密关于天体远行周期和本轮的复杂系统永远可以进行修正，以“求得与现象一致”，但是它表面上的长处实际上却是它致命的缺陷。
+  - book: gombrich-illusion
+    id: go20
+    page: p135
+    quote: 我们不知道他的观众是否感到他的变体画法十分令人信服，但是，如果不能令人信服，那就会有充分的刺激，鼓励他再次尝试，修正那种公式，并使他的画更接近一种合乎情理的叙事。
+- id: C142
+  claim: 他愿意用「试错过程」取代「解释」：靠试错清除错觉、检验并修改我们对世界的信念。
+  domain: 方法论
+  stance: mechanism
+  operational: principle
+  merged_from:
+  - go24
+  single_source: false
+  sources:
+  - book: gombrich-illusion
+    id: go24
+    page: p011
+    quote: 我愿意用另一个名词来代替那令人不快的“解释”[interpretation]一词，只要它描述的还是同一个试错过程，还是我们只凭它—在知觉方面跟在科学方面一样——去清除种种错觉，检验和修改我们对世界、对信念的那个试错过程。
+- id: C143
+  claim: 「在生活情境里观察世界」与「读解绘画」这两件事是否可比，始终是他留作开放的问题，并不认为二者自动同一。
+  domain: 语境与相对性
+  stance: mechanism
+  operational: principle
+  merged_from:
+  - go23
+  single_source: false
+  sources:
+  - book: gombrich-illusion
+    id: go23
+    page: p257
+    quote: 但是，即使承认我们的预测和预期在知觉中所起的作用—这种作用已使一位心理学者论及运动和知觉二者的统一—这种眼光难道不妨碍对读解绘画和在生活情境中观察世界这二者进行什么比较吗？
+- id: C144
+  claim: 三远不是三种构图位置，而是三种观看方式：仰视山巅为高远、从前窥后为深远、由近望远为平远；三者的色、势、人物处理各不相同
+  domain: 空间
+  stance: 中国观看
+  operational: framework
+  merged_from:
+  - ms01
+  - ca13
+  - ca14
+  - ca15
+  - lq19
+  - lq20
+  single_source: false
+  sources:
+  - book: meixue-sanbu
+    id: ms01
+    page: p129
+    quote: 山有三远：自山下而仰山巅，谓之高远。自山前而窥山后，谓之深远。自近山而望远山，谓之平远。
+  - book: chinese-aesthetics
+    id: ca13
+    page: p298
+    quote: 高远之色清明，深远之色重晦，平远之色有明有晦
+  - book: chinese-aesthetics
+    id: ca14
+    page: p298
+    quote: 高远之势突兀，深远之色重叠，平远之意冲融而缥缥缈缈。
+  - book: chinese-aesthetics
+    id: ca15
+    page: p298
+    quote: 其人物之在三远也，高远者明了，深远者细碎，平远者冲澹
+  - book: linquan-gaozhi
+    id: lq19
+    page: p081
+    quote: 山有三远：自山下而仰山颠，谓之高远；自山前而窥山后，谓之深远；自近山而望远山，谓之平远。
+  - book: linquan-gaozhi
+    id: lq20
+    page: p081
+    quote: 高远之势突兀，深远之意重叠，平远之意冲融而缥缈
+- id: C145
+  claim: 三远的关键不在角度而在视线：它流动、转折，由高转深、由深转近、再横向于平远，是一个节奏化的行动；与西方从固定角度把握「一远」大相径庭
+  domain: 空间
+  stance: 中国观看
+  operational: framework
+  merged_from:
+  - ms03
+  - ms04
+  - ms05
+  - ms13
+  single_source: true
+  sources:
+  - book: meixue-sanbu
+    id: ms03
+    page: p129
+    quote: 而中国“三远”之法，则对于同此一片山景“仰山巅，窥山后，望远山”，我们的视线是流动的，转折的。
+  - book: meixue-sanbu
+    id: ms04
+    page: p129
+    quote: 由高转深，由深转近，再横向于平远，成了一个节奏化的行动。
+  - book: meixue-sanbu
+    id: ms05
+    page: p131
+    quote: 由这“三远法”所构的空间不复是几何学的科学性的透视空间，而是诗意的创造性的艺术空间。
+  - book: meixue-sanbu
+    id: ms13
+    page: p131
+    quote: 这与西洋透视法从一固定角度把握“一远”，大相径庭。
+- id: C146
+  claim: 西方焦点透视在画面上依几何测算构造三进向空间的幻景、一切视线集结于一个焦点；它是站在一个固定地点看出去的主观景界，而中国不发明透视法并非不会，是态度不同
+  domain: 空间
+  stance: 中国观看
+  operational: framework
+  merged_from:
+  - ms02
+  - ms12
+  - ms22
+  single_source: true
+  sources:
+  - book: meixue-sanbu
+    id: ms02
+    page: p129
+    quote: 西洋画法上的透视法是在画面上依几何学的测算构造一个三进向的空间的幻景。一切视线集结于一个焦点
+  - book: meixue-sanbu
+    id: ms12
+    page: p133
+    quote: 透视学是研究人站在一个固定地点看出去的主观景界
+  - book: meixue-sanbu
+    id: ms22
+    page: p124
+    quote: 阻碍中国人去发明透视法
+- id: C147
+  claim: 华琳的「推」法：深远不靠堆叠穿斲，靠「似离而合」——由线纹的力的方向与组织引动空间感，是力线律动所构的空间境；西方透视则是「以离为推」
+  domain: 空间
+  stance: 中国观看
+  operational: principle
+  merged_from:
+  - ms06
+  - ms07
+  - ms10
+  single_source: true
+  sources:
+  - book: meixue-sanbu
+    id: ms06
+    page: p131
+    quote: “似离而合”四字实推之神髓。
+  - book: meixue-sanbu
+    id: ms07
+    page: p131
+    quote: 案西洋透视法是以离为推也
+  - book: meixue-sanbu
+    id: ms10
+    page: p132
+    quote: 而是如沈括所说的“折高折远自有妙理”
+- id: C148
+  claim: 「以大观小」：不站在地面一点向画内看，而是从既高且远的心灵的眼睛俯仰宇宙；台阶上宽下窄就是这么看出来的，不是画错透视
+  domain: 空间
+  stance: 中国观看
+  operational: principle
+  merged_from:
+  - ms08
+  - ms09
+  - lq26
+  single_source: false
+  sources:
+  - book: meixue-sanbu
+    id: ms08
+    page: p132
+    quote: 而中国画在画台阶、楼梯时反而都是上宽而下窄
+  - book: meixue-sanbu
+    id: ms09
+    page: p132
+    quote: 我们从既高且远的心灵的眼睛“以大观小”，俯仰宇宙
+  - book: linquan-gaozhi
+    id: lq26
+    page: p084
+    quote: 若同真山之法，以下望上，只合见一重山，岂可重重奚见？
+- id: C149
+  claim: 观照必须多角度：同一座山近看、远数里看、远十数里看每远每异（山形步步移），正面侧面背面每看每异（山形面面看）
+  domain: 方法论
+  stance: 中国观看
+  operational: procedure
+  merged_from:
+  - ca02
+  - ca03
+  - lq05
+  single_source: false
+  sources:
+  - book: chinese-aesthetics
+    id: ca02
+    page: p291
+    quote: 山，近看如此，远数里看又如此，远十数里看又如此，每远每异，所谓山形步步移也
+  - book: chinese-aesthetics
+    id: ca03
+    page: p291
+    quote: 山，正面如此，侧面又如此，背面又如此，每看每异，所谓山形面面看也
+  - book: linquan-gaozhi
+    id: lq05
+    page: p047
+    quote: 学画花者，以一株花置深坑中，临其上而瞰之
+- id: C150
+  claim: 远与近各有专责：远望取其势、近看取其质；近看只能把握特点，只有远望才能把握气势，才能造出三远的意境
+  domain: 方法论
+  stance: 中国观看
+  operational: principle
+  merged_from:
+  - ca04
+  - ca05
+  - lq06
+  - lq10
+  single_source: false
+  sources:
+  - book: chinese-aesthetics
+    id: ca04
+    page: p290
+    quote: 真山水之川谷，远望之以取其势，近看之以取其质
+  - book: chinese-aesthetics
+    id: ca05
+    page: p291
+    quote: 近看可以把握山水的特点，只有远望才可以把握山水的气势
+  - book: linquan-gaozhi
+    id: lq06
+    page: p047
+    quote: 真山水之川谷，远望之以取其深，近游之以取其浅；真山水之岩石，远望之以取其势，近看之以取其质
+  - book: linquan-gaozhi
+    id: lq10
+    page: p050
+    quote: 真山水之风雨，远望可得，而近者玩习不能究一川径隧起止之势
+- id: C151
+  claim: 先要有能看的条件：须「身即山川而取之」山水之意度才见，须以「林泉之心」临之而非以「骄侈之目」临之
+  domain: 方法论
+  stance: 中国观看
+  operational: principle
+  merged_from:
+  - ca06
+  - ca07
+  - lq03
+  - lq04
+  single_source: false
+  sources:
+  - book: chinese-aesthetics
+    id: ca06
+    page: p288
+    quote: 盖身即山川而取之，则山水之意度见矣
+  - book: chinese-aesthetics
+    id: ca07
+    page: p288
+    quote: 看山水亦有体。以林泉之心临之则价高，以骄侈之目临之则价低
+  - book: linquan-gaozhi
+    id: lq03
+    page: p027
+    quote: 看山水亦有体：以林泉之心临之
+  - book: linquan-gaozhi
+    id: lq04
+    page: p047
+    quote: 盖身即山川而取之，则山水之意度见矣
+- id: C152
+  claim: 「饱游饫看」：观照要有广度与深度，这是提炼概括的前提
+  domain: 方法论
+  stance: 中国观看
+  operational: procedure
+  merged_from:
+  - ca08
+  - lq14
+  - lq15
+  single_source: false
+  sources:
+  - book: chinese-aesthetics
+    id: ca08
+    page: p291
+    quote: 莫大于饱游饫看
+  - book: linquan-gaozhi
+    id: lq14
+    page: p063
+    quote: 欲夺其造化，则莫神于好，莫精于勤，莫大于饱游饫看，历历罗列于胸中，而目不见绢素，手不知笔墨
+  - book: linquan-gaozhi
+    id: lq15
+    page: p063
+    quote: 今执笔者所养之不扩充，所览之不淳熟，所经之不众多，所求之不精粹
+- id: C153
+  claim: 四时不同不是滤镜而是对象本身：云气春融怡、夏蓊郁、秋疏薄、冬黯淡；烟岚春山淡冶而如笑、夏山苍翠而如滴、秋山明净而如妆、冬山惨淡而如睡
+  domain: 光与时段
+  stance: 中国观看
+  operational: principle
+  merged_from:
+  - ca09
+  - ca10
+  - lq08
+  single_source: false
+  sources:
+  - book: chinese-aesthetics
+    id: ca09
+    page: p290
+    quote: 真山水之云气，四时不同：春融怡，夏蓊郁，秋疏薄，冬黯淡
+  - book: chinese-aesthetics
+    id: ca10
+    page: p290
+    quote: 春山淡冶而如笑，夏山苍翠而如滴，秋山明净而如妆，冬山惨淡而如睡
+  - book: linquan-gaozhi
+    id: lq08
+    page: p050
+    quote: 春山澹冶而如笑，夏山苍翠而如滴，秋山明净而如妆，冬山惨淡而如睡。
+- id: C154
+  claim: 意象的要求是「浑然相应」——高下、大小、向背、颠顶、朝揖必须成为一个整体；更高一档是景外意与意外妙，看画令人起「如真在此山中」之意
+  domain: 构图与结构
+  stance: 中国观看
+  operational: principle
+  merged_from:
+  - ca11
+  - ca12
+  - lq12
+  - lq13
+  single_source: false
+  sources:
+  - book: chinese-aesthetics
+    id: ca11
+    page: p293
+    quote: 其体浑然相应，则山之美意足矣
+  - book: chinese-aesthetics
+    id: ca12
+    page: p293
+    quote: 看此画令人生此意，如真在此山中，此画之景外意也
+  - book: linquan-gaozhi
+    id: lq12
+    page: p054
+    quote: 看此画，令人生此意，如真在此山中，此画之景外意也。
+  - book: linquan-gaozhi
+    id: lq13
+    page: p054
+    quote: 见青烟白道而思行，见平川落照而思望，见幽人山客而思居，见岩扃泉石而思游
+- id: C155
+  claim: 「逸品」的出现反映一部分画家从重「再现」转向重「表现」，把山水作为抒发主观情趣的手段
+  domain: 情绪与象征
+  stance: 中国观看
+  operational: 描述性
+  merged_from:
+  - ca16
+  single_source: true
+  sources:
+  - book: chinese-aesthetics
+    id: ca16
+    page: p287
+    quote: 反映了一部分画家从重“再现”转向重“表现”
+- id: C156
+  claim: 三远之说对山水画的意境作了概括——它是中国观看里最早也最完整的空间纲领
+  domain: 空间
+  stance: 中国观看
+  operational: 描述性
+  merged_from:
+  - ca01
+  single_source: true
+  sources:
+  - book: chinese-aesthetics
+    id: ca01
+    page: p287
+    quote: 郭熙的“三远”之说，对山水画的意境作了概括
+- id: C157
+  claim: 「不全不粹不足以谓之美」：既须全面地表现，又须提炼去粗存精；只全不慎是自然主义，只粹不全易走上抽象形式主义
+  domain: 构图与结构
+  stance: 中国观看
+  operational: principle
+  merged_from:
+  - ms14
+  single_source: true
+  sources:
+  - book: meixue-sanbu
+    id: ms14
+    page: p107
+    quote: 不全不粹不足以谓之美
+- id: C158
+  claim: 「虚实相生，无画处皆成妙境」；「空本难图，实景清而空景现。神无可绘，真境逼而神境生」——空要靠实来显，不是省掉不画
+  domain: 空间
+  stance: 中国观看
+  operational: principle
+  merged_from:
+  - ms15
+  - ms16
+  single_source: true
+  sources:
+  - book: meixue-sanbu
+    id: ms15
+    page: p111
+    quote: 虚实相生，无画处皆成妙境。
+  - book: meixue-sanbu
+    id: ms16
+    page: p111
+    quote: 空本难图，实景清而空景现。神无可绘，真境逼而神境生。
+- id: C159
+  claim: 神龙见首不见尾：露一鳞一爪要有象征力量，使全体宛然存在——省略的效果取决于被留下的那一部分能否担起全体的重量
+  domain: 构图与结构
+  stance: 中国观看
+  operational: principle
+  merged_from:
+  - ms17
+  single_source: true
+  sources:
+  - book: meixue-sanbu
+    id: ms17
+    page: p108
+    quote: 神龙者，屈伸变化，固无定体
+- id: C160
+  claim: 八大山人画一条鱼、别无一物，令人感到满幅是水：留白不是没内容，是把内容交给观者补完
+  domain: 构图与结构
+  stance: 中国观看
+  operational: case
+  merged_from:
+  - ms18
+  single_source: true
+  sources:
+  - book: meixue-sanbu
+    id: ms18
+    page: p112
+    quote: 八大山人画一条生动的鱼在纸上，别无一物，令人感到满幅是水
+- id: C161
+  claim: 空亭是山川灵气动荡吐纳的交点与精神聚积的处所——空的结构物比实的内容更能聚拢一处风景的气
+  domain: 构图与结构
+  stance: 中国观看
+  operational: principle
+  merged_from:
+  - ms19
+  single_source: true
+  sources:
+  - book: meixue-sanbu
+    id: ms19
+    page: p102
+    quote: 一座空亭竟成为山川灵气动荡吐纳的交点和山川精神聚积的处所
+- id: C162
+  claim: 虚白不是几何学的空间间架、不是死空间、不是「顽空」，而是创化万物运行着的道；「静故了群动，空故纳万境」
+  domain: 空间
+  stance: 中国观看
+  operational: framework
+  merged_from:
+  - ms20
+  - ms21
+  single_source: true
+  sources:
+  - book: meixue-sanbu
+    id: ms20
+    page: p138
+    quote: 这个虚白不是几何学的空间间架，死的空间，所谓顽空
+  - book: meixue-sanbu
+    id: ms21
+    page: p138
+    quote: 静故了群动，空故纳万境
+- id: C163
+  claim: 虚（空间）与实（实物）联成一片波流，如决流之推波；明与暗也联成一片波动，如行云之推月
+  domain: 空间
+  stance: 中国观看
+  operational: principle
+  merged_from:
+  - ms11
+  single_source: true
+  sources:
+  - book: meixue-sanbu
+    id: ms11
+    page: p132
+    quote: 虚（空间）同实（实物）联成一片波流，如决流之推波。
+- id: C164
+  claim: 序列的单位是「段」不是「张」：把全片每场压成邮票小图连成一条胶片，目的就是让人一眼看到色彩弧；导演第一次能在同一块板上看完自己整部片子的颜色。
+  domain: 方法论
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - px01
+  - px02
+  - px19
+  - px20
+  single_source: true
+  sources:
+  - book: art-of-pixar
+    id: px01
+    page: p006
+    quote: One of the most important pieces of art produced for any film at Pixar is the colorscript.
+  - book: art-of-pixar
+    id: px02
+    page: p006
+    quote: On his desk was a series of very small, postage-stamp-sized images—each from a different scene in the story—all connected together, like a filmstrip of the movie.
+  - book: art-of-pixar
+    id: px19
+    page: p007
+    quote: For the first time in the production, they are able to see their entire film in color, in one place, on a single board.
+  - book: art-of-pixar
+    id: px20
+    page: p007
+    quote: Seeing things in one place is a rare event in the fragmented computer-animated filmmaking process.
+- id: C165
+  claim: 情绪起伏靠换调色板制造（如作曲靠速度、节奏、配器），不靠单场把颜色堆满；下潜段把调色板逐步推到极简与不祥，即主角神经质的图形化。
+  domain: 方法论
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - px03
+  - px07
+  - px08
+  single_source: true
+  sources:
+  - book: art-of-pixar
+    id: px03
+    page: p006
+    quote: Every single element in a film must support the emotional arc of the story, which is really the emotional journey of the main character, and I've always felt that the two things that communicate
+      the underlying emotion of a movie better than anything else are music and color.
+  - book: art-of-pixar
+    id: px07
+    page: p007
+    quote: And like a composer who arouses aural interest through variations of tempo, rhythm, and instrumentation, Eggleston heightens the emotions in a film by varying his color palettes.
+  - book: art-of-pixar
+    id: px08
+    page: p007
+    quote: In Finding Nemo, as Marlin and Dory descend into the murky depths of the ocean, Eggleston shifts to an increasingly minimalist and ominous palette—a graphic intensification of Marlin's neuroses.
+- id: C166
+  claim: 序列编排的目标不是把各场打扮成最漂亮或最和谐的配色，也不是做漂亮的图，而是支撑故事；但它本身也可以是独立的作品。
+  domain: 和谐与协调
+  stance: 相对派
+  operational: 描述性
+  merged_from:
+  - px05
+  - px17
+  - px25
+  single_source: true
+  sources:
+  - book: art-of-pixar
+    id: px05
+    page: p007
+    quote: isn't to dress scenes in the prettiest or most harmonious color combinations
+  - book: art-of-pixar
+    id: px17
+    page: p007
+    quote: Your job is not to make beautiful pictures. It's about how you can support the story with these images and lighting concepts.
+  - book: art-of-pixar
+    id: px25
+    page: p006
+    quote: the colorscripts for Pixar's films are also works of art in their own right
+- id: C167
+  claim: 一场戏的力量有时不来自加了多少色，而来自减了多少色——减法与加法同等是一等手法。
+  domain: 饱和度
+  stance: 相对派
+  operational: 可操作
+  merged_from:
+  - px09
+  single_source: true
+  sources:
+  - book: art-of-pixar
+    id: px09
+    page: p007
+    quote: Cone discovered that sometimes a scene's strength is derived not from how many colors are added but from how many are subtracted.
+- id: C168
+  claim: 夜景不是「没有颜色」：在限定的调色板里同样能找到色彩机会。
+  domain: 光与时段
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - px10
+  single_source: true
+  sources:
+  - book: art-of-pixar
+    id: px10
+    page: p007
+    quote: Even when the palette was limited, as in the film's numerous night scenes, he found opportunities for color.
+- id: C169
+  claim: 高明的序列建立全片性的对抗关系（灰暗日常对撞糖果色想象、冷调地下对暖调人间），用对比去挑动故事里本就存在的紧张。
+  domain: 对比
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - px11
+  - px12
+  single_source: true
+  sources:
+  - book: art-of-pixar
+    id: px11
+    page: p007
+    quote: Jessup's discerning taste as a designer is reflected in the way he sets up universal color relationships that exploit contrasts and heighten tensions inherent in the stories.
+  - book: art-of-pixar
+    id: px12
+    page: p007
+    quote: On Monsters, Inc., he teamed with art director Dominique Louis and lighting director Jean-Claude Kalache to explore the visual contradictions between a drably colored, workaday industrial town
+      setting and its population of bright, candy-colored monsters straight out of a child's imagination.
+- id: C170
+  claim: 色彩可以被赋予只属于这一部作品的意义（粉＝毁灭、蓝＝安全与家），不必沿用通用象征；一旦定义，必须全片执行并在该缺席处刻意缺席。
+  domain: 情绪与象征
+  stance: 相对派
+  operational: 可操作
+  merged_from:
+  - px13
+  - px14
+  - px15
+  single_source: true
+  sources:
+  - book: art-of-pixar
+    id: px13
+    page: p007
+    quote: Tsutsumi infused certain colors with meaning specific only to the film.
+  - book: art-of-pixar
+    id: px14
+    page: p007
+    quote: So, pink became the unlikely embodiment of devastation, and during Horton's climactic third act, the entire palette is driven by pink, magenta, and violet before shifting to yellow (a complementary
+      color to the others) as the film reaches its happy resolution.
+  - book: art-of-pixar
+    id: px15
+    page: p007
+    quote: We came up with the concept of blue connoting safety and home.
+- id: C171
+  claim: 格式与风格没有标准做法——有多少作者就有多少种版本；但所有作者同意一条：它不在于画得多好，而在于能不能支撑故事。
+  domain: 方法论
+  stance: 相对派
+  operational: 描述性
+  merged_from:
+  - px16
+  - px21
+  single_source: true
+  sources:
+  - book: art-of-pixar
+    id: px16
+    page: p007
+    quote: Colorscripts can be painted in a multitude of formats and styles, but there is one tenet that every artist agrees on
+  - book: art-of-pixar
+    id: px21
+    page: p007
+    quote: There is enduring ambiguity about what constitutes a colorscript in animation or at what stage in the pre-production process it should be done, with as many versions of the process as there are
+      artists who create them.
+- id: C172
+  claim: 在 Pixar 之前，没有动画公司把色彩与光线对着故事与人物系统排布过；colorscript 这一环节是它制度化出来的。
+  domain: 方法论
+  stance: 规则派
+  operational: 描述性
+  merged_from:
+  - px18
+  single_source: true
+  sources:
+  - book: art-of-pixar
+    id: px18
+    page: p007
+    quote: Prior to Pixar, no animation studio consistently mapped out color and lighting in relation to story and character through a formal colorscripting phase.
+- id: C173
+  claim: 怀旧不必等于降饱和：婚后段落该被画成「像你第一次坠入爱河时那样鲜活」，这一处改写重排了全片色彩弧。
+  domain: 饱和度
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - px22
+  - px23
+  single_source: true
+  sources:
+  - book: art-of-pixar
+    id: px22
+    page: p007
+    quote: instead of desaturation, those scenes should be as vibrant
+  - book: art-of-pixar
+    id: px23
+    page: p007
+    quote: envisioned draping the sequence in nostalgic sepia tones
+- id: C174
+  claim: 最终形象是从无数可能性里削出来的；观众看到的「一直如此」，是筛选结果不是起点。
+  domain: 方法论
+  stance: 规则派
+  operational: 描述性
+  merged_from:
+  - px24
+  single_source: true
+  sources:
+  - book: art-of-pixar
+    id: px24
+    page: p035
+    quote: It is an exhaustive process whittling myriad possibilities into the endearing and distinctive personalities that eventually appear on screen.
+- id: C175
+  claim: colorscript 是色彩（因而也是情绪）在全片如何铺设的一张路线图，同时给出各场的光线设想。
+  domain: 方法论
+  stance: 规则派
+  operational: 可操作
+  merged_from:
+  - px04
+  single_source: true
+  sources:
+  - book: art-of-pixar
+    id: px04
+    page: p007
+    quote: In an inspired spurt of a week or so, he painted the colorscript, a roadmap for the way the color (and thus emotion) would be applied throughout the film.
+- id: C176
+  claim: 把序列编排比作作曲：调色板对应乐章与配器，色彩图可类比乐谱。
+  domain: 方法论
+  stance: 规则派
+  operational: 描述性
+  merged_from:
+  - px06
+  single_source: true
+  sources:
+  - book: art-of-pixar
+    id: px06
+    page: p007
+    quote: The colorscript, Eggleston feels, is akin to composing a symphony, which is comparable to Kalmus's assertion that the color chart is like a musical score.
+- id: C177
+  claim: 「三大」是比例纲领：山大于木、木大于人，且必须大出数十百倍才显出「大」；落地做法是以树叶作共同单位——若干木叶可敌一人之头，据此换算人、木、山的尺寸
+  domain: 数量与面积
+  stance: 中国观看
+  operational: framework
+  merged_from:
+  - lq22
+  - lq23
+  single_source: false
+  sources:
+  - book: linquan-gaozhi
+    id: lq22
+    page: p081
+    quote: 山有三大：山大于木，木大于人。山不数十百如木之大，则山不大；木不数十百如人之大，则木不大
+  - book: linquan-gaozhi
+    id: lq23
+    page: p082
+    quote: 此而皆中程度。此三大也。
+- id: C178
+  claim: 三远各自配套人物尺度：高远者明了故不可画小，深远者细碎故不可画长，平远者冲澹故不可画大
+  domain: 数量与面积
+  stance: 中国观看
+  operational: principle
+  merged_from:
+  - lq21
+  single_source: true
+  sources:
+  - book: linquan-gaozhi
+    id: lq21
+    page: p081
+    quote: 明了者不短，细碎者不长，冲澹者不大。此三远也。
+- id: C179
+  claim: 「远山无皴，远水无波，远人无目。非无也，如无尔」——远景不是真的没有细节，而是看起来像没有；距离本身就是一次简化
+  domain: 空间
+  stance: 中国观看
+  operational: principle
+  merged_from:
+  - lq24
+  single_source: true
+  sources:
+  - book: linquan-gaozhi
+    id: lq24
+    page: p087
+    quote: 远水无波，远人无目。非无也，如无尔。
+- id: C180
+  claim: 画面里每个元素都应承担一件判读任务：人物标道路、楼观标胜概、林木映蔽分远近、溪谷继续分深浅——元素不是填充，是标注
+  domain: 构图与结构
+  stance: 中国观看
+  operational: framework
+  merged_from:
+  - lq11
+  single_source: true
+  sources:
+  - book: linquan-gaozhi
+    id: lq11
+    page: p050
+    quote: 山之人物，以标道路；山之楼观，以标胜概；山之林木映蔽，以分远近；山之溪谷继续，以分深浅
+- id: C181
+  claim: 用身体作画法判据：石为天地之骨（贵坚深而不浅露），水为天地之血（贵周流而不凝滞）；山得水而活、水得山而媚；山无烟云则如春无花草
+  domain: 构图与结构
+  stance: 中国观看
+  operational: principle
+  merged_from:
+  - lq16
+  - lq17
+  - lq18
+  single_source: false
+  sources:
+  - book: linquan-gaozhi
+    id: lq16
+    page: p079
+    quote: 石者，天地之骨也，骨贵坚深而不浅露；水者，天地之血也，血贵周流而不凝滞。
+  - book: linquan-gaozhi
+    id: lq17
+    page: p079
+    quote: 山得水而活，水得山而媚。
+  - book: linquan-gaozhi
+    id: lq18
+    page: p079
+    quote: 山无烟云，如春无花草。
+- id: C182
+  claim: 地貌决定林木形态：土山戴石则林瘦耸，石山戴土则林肥茂；土厚处有千尺之松，土薄处只有数尺之蘖
+  domain: 构图与结构
+  stance: 中国观看
+  operational: principle
+  merged_from:
+  - lq25
+  single_source: true
+  sources:
+  - book: linquan-gaozhi
+    id: lq25
+    page: p108
+    quote: 山有戴石。土山戴石，林木瘦耸；石山戴土，林木肥茂。
+- id: C183
+  claim: 尺度完整性的判据：铺成巨幅不显赘余，收成小景不觉得缺了什么——大小是完成度问题，不是画幅问题
+  domain: 构图与结构
+  stance: 中国观看
+  operational: principle
+  merged_from:
+  - lq02
+  single_source: true
+  sources:
+  - book: linquan-gaozhi
+    id: lq02
+    page: p027
+    quote: 铺舒为宏图而无余；消缩为小景而不少。
+- id: C184
+  claim: 山水画的本意是替代性满足：让人「不下堂筵，坐穷泉壑」，在画中重新获得林泉之志
+  domain: 情绪与象征
+  stance: 中国观看
+  operational: framework
+  merged_from:
+  - lq01
+  single_source: true
+  sources:
+  - book: linquan-gaozhi
+    id: lq01
+    page: p023
+    quote: 然则林泉之志、烟霞之侣，梦寐在焉，耳目断绝。今得妙手，郁然出之，不下堂筵，坐穷泉壑
+- id: C185
+  claim: 云气与烟岚都要求「见其大象而不为斩刻之形」「见其大意而不为刻画之迹」——抓总体气象、不做雕琢刻板的形，态度才活
+  domain: 光与时段
+  stance: 中国观看
+  operational: principle
+  merged_from:
+  - lq07
+  - lq09
+  single_source: false
+  sources:
+  - book: linquan-gaozhi
+    id: lq07
+    page: p050
+    quote: 画见其大象，而不为斩刻之形，则云气之态度活矣。
+  - book: linquan-gaozhi
+    id: lq09
+    page: p050
+    quote: 画见其大意，而不为刻画之迹，则烟岚之景象正矣。
+- id: C186
+  claim: 传世口诀（附录二《山水赋》，旧题荆浩，与传为王维《山水论》文字基本相同）：「凡画山水，意在笔先。丈山尺树，寸马豆人」——非郭熙本文，收作旁证
+  domain: 数量与面积
+  stance: 中国观看
+  operational: framework
+  merged_from:
+  - lq27
+  single_source: true
+  sources:
+  - book: linquan-gaozhi
+    id: lq27
+    page: p191
+    quote: 凡画山水，意在笔先。丈山尺树，寸马豆人。此其格也。
+- id: C187
+  claim: 评价照片有两条互不替代的轴：内容与陈述（信息、情感反应），以及组织质量（结构与色彩设计）
+  domain: 方法论
+  stance: 规则派
+  operational: framework
+  merged_from:
+  - m01
+  single_source: true
+  sources:
+  - book: photo-composition-color
+    id: m01
+    page: p013
+    quote: '"评价照片好坏的标准有二：一是“内容和陈述”，涉及到照片中包含的理性认识和情感反应；二是“组织的质量”，涉及到画面的结构和色彩设计。"'
+- id: C188
+  claim: 点不是小物体，而是相对面积足够小的形状；面积占比一大就已成面或形，点的位置张力不再适用
+  domain: 构图与结构
+  stance: 规则派
+  operational: principle
+  merged_from:
+  - m03
+  single_source: true
+  sources:
+  - book: photo-composition-color
+    id: m03
+    page: p023
+    quote: '"不管是什么，作为一个名副其实的点，点的区域面积与整个画面相比，必须“非常”小（如图G、H）。"'
+- id: C189
+  claim: 显著的小点是强调还是干扰没有硬判据；可操作的替代判据是看拿掉它之后主题是否更纯粹
+  domain: 方法论
+  stance: 规则派
+  operational: principle
+  merged_from:
+  - m04
+  single_source: true
+  sources:
+  - book: photo-composition-color
+    id: m04
+    page: p024
+    quote: '"虽然这样的点很醒目，但在画面构图中它到底是起强调作用还是起干扰作用要分情况而论，并且往往很难界定，因为每个观者的主观判断是不同的。"'
+- id: C190
+  claim: 两点放在虚拟对角线上时与相对的角张力最强；贴近水平或垂直边则像被边吸附，会干扰视线
+  domain: 构图与结构
+  stance: 规则派
+  operational: principle
+  merged_from:
+  - m05
+  single_source: true
+  sources:
+  - book: photo-composition-color
+    id: m05
+    page: p028
+    quote: '"两个放置在虚拟对角线上的点与相对的角产生较强的视觉张力（如图 B）。"'
+- id: C191
+  claim: 三点构图有两种读法：中间点连成视觉线、偏移过大则线感消失；成三角时若有边与画框平行则方向最强，三边都不平行则呈流动
+  domain: 构图与结构
+  stance: 规则派
+  operational: framework
+  merged_from:
+  - m06
+  - m07
+  single_source: false
+  sources:
+  - book: photo-composition-color
+    id: m06
+    page: p029
+    quote: '"把两个点之外的第三个点放置在两点的中间位置是最自然、最中立的效果（如图 D）。"'
+  - book: photo-composition-color
+    id: m07
+    page: p029
+    quote: 如果三角形的某条边与照片的边平行，此时所带来的方向指引、运动暗示感是最强烈的(如图G、H)。如果没有一条边与照片的边平行，那么形成的三角形便呈现出一定的“流动性”(如图1)，即没有指示明确的方向。
+- id: C192
+  claim: 视觉系统按最省力原则补线：两点之间补直线，散点补成最简单的图形，所以暗示线几乎总是直线
+  domain: 机制
+  stance: 规则派
+  operational: principle
+  merged_from:
+  - m08
+  single_source: true
+  sources:
+  - book: photo-composition-color
+    id: m08
+    page: p035
+    quote: '"肉眼根据简化原则将点连接在一起——在点与点之间寻找最短距离——即一条直线。因此，暗示线往往是一条直线。"'
+- id: C193
+  claim: 重复的间距结构决定动静：等距同质最静，两两成组张力增强，不规则交替产生强动势
+  domain: 构图与结构
+  stance: 规则派
+  operational: principle
+  merged_from:
+  - m09
+  single_source: true
+  sources:
+  - book: photo-composition-color
+    id: m09
+    page: p041
+    quote: '"产生视觉节奏最简单的结构是“一加一加一”的模式——即相同形状、同等尺寸的元素以同等间距简单重复排列（如图G）。"'
+- id: C194
+  claim: 水平线放在画面正中会把画面切成等份、缺乏张力；放在中间上下一个八分单元处较和谐，贴近边缘则张力最强
+  domain: 构图与结构
+  stance: 规则派
+  operational: principle
+  merged_from:
+  - m11
+  single_source: true
+  sources:
+  - book: photo-composition-color
+    id: m11
+    page: p057
+    quote: 将平面八等分的同时标示了画面的中间位置—应避免在此处放置水平线。具有和谐张力的分割点应在中间位置上下一个单元处(如图H、1)。
+- id: C195
+  claim: 下降对角线自带滑出画面的趋势，竖幅与陡角度会放大它；在右下放垂直物体作阻塞可把视线留在画面内
+  domain: 构图与结构
+  stance: 规则派
+  operational: principle
+  merged_from:
+  - m12
+  single_source: true
+  sources:
+  - book: photo-composition-color
+    id: m12
+    page: p065
+    quote: '"在竖向格式的照片中，下降对角线的“滑落效果”得以放大。这时候必须用垂直物体去限制观者的视线，以免他们的注意力从右下角转移出画面。"'
+- id: C196
+  claim: 一组线里主线条必须最粗；连贯且通常最长的线会被读成最重要的线，其余线需明显退为附属
+  domain: 构图与结构
+  stance: 规则派
+  operational: principle
+  merged_from:
+  - m13
+  single_source: true
+  sources:
+  - book: photo-composition-color
+    id: m13
+    page: p075
+    quote: '"相对于附属线条来说，主线条必须是最粗的线条（如照片2、5、9、17）。在观者看来，连贯线条——通常也是最长的线条——一般是画面中最主要、最重要的线条（如照片21）。"'
+- id: C197
+  claim: 正负形按层级判定：重叠时前为正、后为负，背景相对所有形状都是负形；可由外到内或由内到外逐层分析，同一面在不同层级身份不同
+  domain: 构图与结构
+  stance: 规则派
+  operational: framework
+  merged_from:
+  - m14
+  - m15
+  single_source: false
+  sources:
+  - book: photo-composition-color
+    id: m14
+    page: p102
+    quote: '"当我们需要分析一个作品中的正负形时，我们可以由外到内或者由内到外逐步分析画面。"'
+  - book: photo-composition-color
+    id: m15
+    page: p102
+    quote: 如果两个形状已经发生重叠，那么在后面的可见形状或物体就成了负形，而在前面的形状就成了正形。
+- id: C198
+  claim: 黑白摄影里色调是唯一可行的设计手段，色彩对比与纯度对比全部失效；明暗层级不够就撑不起画面
+  domain: 明度
+  stance: 规则派
+  operational: principle
+  merged_from:
+  - m17
+  single_source: true
+  sources:
+  - book: photo-composition-color
+    id: m17
+    page: p104
+    quote: '"在黑白摄影中，色调是刺激观者视觉感受惟一可行的设计方法。"'
+- id: C199
+  claim: 直射光、背景光和刺眼日光能支撑强色调对比，柔和迂回的光会降低色调对比与颜色强度；后期加对比不能替代光质
+  domain: 光与时段
+  stance: 规则派
+  operational: principle
+  merged_from:
+  - m18
+  single_source: true
+  sources:
+  - book: photo-composition-color
+    id: m18
+    page: p107
+    quote: '"刺眼的日光、直射光源和背景光可以支撑强烈的色调对比（如照片4、6、9、10、13、19），而柔和的、迂回的光线则能降低色调对比和颜色的强度（照片14、15、16、20）。"'
+- id: C200
+  claim: 暗背景里的亮点会被串成一条穿过画面的「光通道」，视线逐点跳跃；应先排亮点顺序再检查是否指向主体
+  domain: 构图与结构
+  stance: 规则派
+  operational: principle
+  merged_from:
+  - m19
+  single_source: true
+  sources:
+  - book: photo-composition-color
+    id: m19
+    page: p107
+    quote: '"而分布在较暗或者非常暗的背景中的亮点则会引导观者的视线沿着一条假想的、穿过画面的“光通道”，从一个亮点跳到另一个亮点。"'
+- id: C201
+  claim: 地平线靠近上边框给人俯瞰大地的印象，靠近下边框则给人仰视苍穹的印象
+  domain: 空间
+  stance: 规则派
+  operational: principle
+  merged_from:
+  - m20
+  single_source: true
+  sources:
+  - book: photo-composition-color
+    id: m20
+    page: p111
+    quote: '"地平线可以设置在画面中任意位置，但放在接近上边框的位置时给人的印象是俯瞰大地，而放在接近下边框的位置时则给人仰视苍穹的印象。"'
+- id: C202
+  claim: 纵深靠多手段叠加：重叠、大小/形状/虚实对比、冷暖与后退色、光影、暗边框；其中光影同时提供轮廓与前后层次
+  domain: 空间
+  stance: 规则派
+  operational: framework
+  merged_from:
+  - m21
+  single_source: true
+  sources:
+  - book: photo-composition-color
+    id: m21
+    page: p113
+    quote: '"表现空间感和纵深感的方法还有很多，包括使拍摄对象的形状重叠（如照片8、19），引入引人注目的大小对比、形状对比和虚实对比（如照片17），采用前景与背景的冷暖对比，以及后退色的运用（如照片8、11）等。"'
+- id: C203
+  claim: 两个色相只算「有对比」，三种颜色以上才构成真正的色相对比；三原色最响亮，加入第二梯度色可缓和
+  domain: 色相与色环
+  stance: 规则派
+  operational: principle
+  merged_from:
+  - m23
+  single_source: true
+  sources:
+  - book: photo-composition-color
+    id: m23
+    page: p122
+    quote: '"虽然两个色相之间就能产生对比，但真正的色相对比只有在画面中有三种颜色以上时才有效。"'
+- id: C204
+  claim: 质量对比是纯色与同色系渐暗、渐淡色之间的对比；画面只有一种色彩时效果最好
+  domain: 饱和度
+  stance: 规则派
+  operational: principle
+  merged_from:
+  - m24
+  single_source: true
+  sources:
+  - book: photo-composition-color
+    id: m24
+    page: p127
+    quote: '"色彩的质量对比是指画面中的纯色和它同色系色彩之间的对比（如图 C 和照片 13~15）。在只有一种色彩展示的时候，质量对比的效果是最好的。"'
+- id: C205
+  claim: 曝光不足可视为加黑、过度视为加白，改变的主要是整体色彩平衡而非只动明度；要降纯度应改光或混合，不应靠欠曝
+  domain: 饱和度
+  stance: 规则派
+  operational: principle
+  merged_from:
+  - m25
+  single_source: true
+  sources:
+  - book: photo-composition-color
+    id: m25
+    page: p128
+    quote: '"我们可以把曝光不足想成为画面增加黑色，曝光过度想成为画面增加白色，主要改变的是画面整体色彩平衡。"'
+- id: C206
+  claim: 协调的判据是中性灰：多色交互融合成中性灰即平衡；人会在瞬间扫视全画，偏色即失衡
+  domain: 和谐与协调
+  stance: 规则派
+  operational: framework
+  merged_from:
+  - m26
+  - m32
+  single_source: false
+  sources:
+  - book: photo-composition-color
+    id: m26
+    page: p130
+    quote: '"如果这样的快速均匀扫描得到的是中性灰这样一个色彩中性值，那么观者会觉得所有值的综合效果是平衡的。"'
+  - book: photo-composition-color
+    id: m32
+    page: p150
+    quote: '"“色彩协调”指两种、三种、四种或更多种颜色交互作用，在观者脑海中融合，产生中性灰调，从而形成色调的和谐平衡。"'
+- id: C207
+  claim: 先算和谐比再有意偏离可制造张力：缩小亮色面积、倒置或夸大比例；偏离没有普适最优值
+  domain: 对比
+  stance: 规则派
+  operational: principle
+  merged_from:
+  - m29
+  single_source: true
+  sources:
+  - book: photo-composition-color
+    id: m29
+    page: p135
+    quote: '"第二类靠倒置甚至夸大彼此的数量比来增强视觉张力。例如，对于和谐比率为1:2的橙色和蓝色来说，可以将数量比变成2:1、3:1或者其他比例关系（如照片13）来增强视觉张力。"'
+- id: C208
+  claim: 色相环几何取色给出协调组合：三色用互补替换法，四色用内接正方形或长方形，各得数组；前提是纯色相
+  domain: 和谐与协调
+  stance: 规则派
+  operational: framework
+  merged_from:
+  - m33
+  - m34
+  single_source: false
+  sources:
+  - book: photo-composition-color
+    id: m33
+    page: p152
+    quote: '"先找到一对在色相环上位置相对的互补色，如橙-红和蓝-绿，然后替换一个颜色，如将蓝-绿替换为与相邻的蓝色和绿色，于是新的色彩组合形成了：橙-红、蓝、绿（如图A和照片1）。"'
+  - book: photo-composition-color
+    id: m34
+    page: p154
+    quote: '"通过两对互补色产生四色协调的方式共有两种：一种方法是在十二色相环中画一个正方形，两条对角线连接两组互相垂直的互补色，如一组是黄色和紫色，另一组是蓝-绿和橙-红（如图C）。"'
+- id: C209
+  claim: 按快门前要逐项拍板八件事：相机、镜头、胶片/数码设置、光线、时间、视角、快门与光圈；每项同时是技术与艺术选择
+  domain: 方法论
+  stance: 规则派
+  operational: framework
+  merged_from:
+  - m35
+  single_source: true
+  sources:
+  - book: photo-composition-color
+    id: m35
+    page: p158
+    quote: '"8. 快门速度和光圈选择：这些参数决定了画面中移动物体的清晰度、景深大小，以及整体曝光是否“正确”：是曝光过度还是曝光不足。"'
+- id: C210
+  claim: 照片成功与否取决于内容而非画面质量；设计出众但内容平庸仍可能失败
+  domain: 方法论
+  stance: 规则派
+  operational: principle
+  merged_from:
+  - m36
+  single_source: true
+  sources:
+  - book: photo-composition-color
+    id: m36
+    page: p161
+    quote: '"判断艺术家拍摄照片的好坏，取决于照片内容而不是画面质量。"'
+- id: C211
+  claim: 失衡要分两组力看：元素与画框边、角、中点的张力，以及元素彼此之间的张力；两组修法不同
+  domain: 构图与结构
+  stance: 规则派
+  operational: framework
+  merged_from:
+  - m38
+  single_source: true
+  sources:
+  - book: photo-composition-color
+    id: m38
+    page: p173
+    quote: '"第一组是构图元素和画面边角、中点（类似于磁场力）之间的视觉张力。每个元素在画面中的位置决定了它将把观者的视线牵引到哪里。"'
+- id: C212
+  claim: 虚实对比主要作用于前景与背景：焦点对前景则前景凸显，焦点透过前景对背景则前景成虚化引导层，全幅失焦则转为氛围
+  domain: 空间
+  stance: 规则派
+  operational: principle
+  merged_from:
+  - m40
+  single_source: true
+  sources:
+  - book: photo-composition-color
+    id: m40
+    page: p180
+    quote: '"第一种情况：当摄影师将焦点对准前景而非背景时，前景清晰、背景模糊，前景从背景中凸显出来，视觉效果得以强化。"'
+- id: C213
+  claim: 想保持运动主体清晰又要动感，就让镜头跟随主体摇摄：主体相对静止、背景拉成方向性模糊
+  domain: 器材与后期
+  stance: 规则派
+  operational: principle
+  merged_from:
+  - m41
+  single_source: true
+  sources:
+  - book: photo-composition-color
+    id: m41
+    page: p182
+    quote: '"如果想始终保持画面中某部分清晰，而拍摄的是运动物体，就需要使镜头随着运动物体移动进行摇摄。"'
+- id: C214
+  claim: 组照以整组为标准，单张标准随整体重定；常见主题十到十五张起，张数取决于主题可得性与可选池
+  domain: 方法论
+  stance: 规则派
+  operational: framework
+  merged_from:
+  - m42
+  - m43
+  single_source: false
+  sources:
+  - book: photo-composition-color
+    id: m42
+    page: p187
+    quote: '"对于普通的自然或人工主题来说，像树木、云朵、窗户、楼梯、篱笆等物体很容易寻找到，因此一个成熟的组照应该由十到十五张甚至更多精挑细选的有趣照片组成。而主题不常见时，组成组照的照片也会随之减少。"'
+  - book: photo-composition-color
+    id: m43
+    page: p187
+    quote: '"而组照的质量是由所有可供挑选的照片影响的。因此，评判组照中单张照片的标准可能与评判单张照片的标准不同。"'
+- id: C215
+  claim: 连续摄影冻结除时间外的一切技术条件——视点、取景、曝光都不变，只让时间与自然条件改变画面
+  domain: 方法论
+  stance: 规则派
+  operational: principle
+  merged_from:
+  - m44
+  single_source: true
+  sources:
+  - book: photo-composition-color
+    id: m44
+    page: p190
+    quote: '"连续摄影的原则是：捕捉不变的主线以及随着时间改变的元素。"'
+- id: C216
+  claim: 分析彩色照片先定主导对比；并用黑白/彩色双版本分开评估构图与色彩，判断两者是加强还是抵消
+  domain: 方法论
+  stance: 规则派
+  operational: framework
+  merged_from:
+  - m45
+  - m46
+  single_source: false
+  sources:
+  - book: photo-composition-color
+    id: m45
+    page: p202
+    quote: '"在彩色图片中占据主导地位的形式元素是暖黄色和冷蓝色的互补色对比，甚至超过了所有明暗对比的总和。"'
+  - book: photo-composition-color
+    id: m46
+    page: p203
+    quote: '"在同一照片的黑白版本中，构图带给观者的视觉冲击远大于实际效果。而彩色版本中，明暗对比与色彩组合（所占的地位）相匹敌。"'
+- id: C217
+  claim: 同时对比通常指相邻/周围颜色使某色外观发生移动（色彩相对性）；后像是刺激撤去后仍持续数秒的另一现象，术语与操作上应分开
+  domain: 机制
+  stance: 相对派
+  operational: 描述性
+  merged_from:
+  - hc29
+  - hc30
+  single_source: false
+  sources:
+  - book: interacting-with-color
+    id: hc29
+    page: p033
+    quote: Simultaneous contrast is most often understood to be a description of the tendency of adjacent colors to shift in appearance relative to the colors around them
+  - book: interacting-with-color
+    id: hc30
+    page: p067
+    quote: we will limit the use of simultaneous contrast in this book to refer to color relativity.
+- id: C218
+  claim: 读图先于命名：先看整体，再辨认对象，最后才用语言解释，顺序不能倒
+  domain: 方法论
+  stance: 相对派
+  operational: framework
+  merged_from:
+  - w01
+  single_source: true
+  sources:
+  - book: ways-of-seeing
+    id: w01
+    page: p006
+    quote: 观看先于言语。儿童先观看，后辨认，再说话。
+- id: C219
+  claim: 注视是选择：拍摄前先写下自己要看的对象和主动排除的东西
+  domain: 构图与结构
+  stance: 相对派
+  operational: principle
+  merged_from:
+  - w02
+  single_source: true
+  sources:
+  - book: ways-of-seeing
+    id: w02
+    page: p007
+    quote: 我们只看见我们注视的东西，注视是一种选择行为。
+- id: C220
+  claim: 照片不是机械记录，取景角度是摄影师从无数景观里挑出的一次选择
+  domain: 构图与结构
+  stance: 相对派
+  operational: principle
+  merged_from:
+  - w03
+  single_source: true
+  sources:
+  - book: ways-of-seeing
+    id: w03
+    page: p008
+    quote: 每次我们观看一张照片，多少觉察到摄影师是从无数可供选择的景观中，挑选了眼前这角度。
+- id: C221
+  claim: 透视把所有景物收拢到单一视点，构图因此先要回答谁在画面中心看
+  domain: 空间
+  stance: 相对派
+  operational: principle
+  merged_from:
+  - w04
+  single_source: true
+  sources:
+  - book: ways-of-seeing
+    id: w04
+    page: p016
+    quote: 透视法使那独一无二的眼睛成为世界万象的中心。一切都向眼睛聚拢，直至视点在远处消失。
+- id: C222
+  claim: 复制会拆掉原作的独特性，同一影像换载体就增生新含义，不能只算一份拷贝
+  domain: 语境与相对性
+  stance: 相对派
+  operational: principle
+  merged_from:
+  - w05
+  single_source: true
+  sources:
+  - book: ways-of-seeing
+    id: w05
+    page: p020
+    quote: 照相机复制图画时，即破坏了该画的独特性。结果，图画的意义也起了变化。
+- id: C223
+  claim: 配文会重写照片的含义，写说明前先定好文字是服从影像还是统领影像
+  domain: 语境与相对性
+  stance: 相对派
+  operational: principle
+  merged_from:
+  - w06
+  single_source: true
+  sources:
+  - book: ways-of-seeing
+    id: w06
+    page: p031
+    quote: 我们很难确切地说明这段文字如何改变了影像，但毫无疑问，它做到了这点。此刻，是影像在解释文字。
+- id: C224
+  claim: 复制把影像搬出原来的收藏地，权威随之瓦解，使用权也就跟着重新分配
+  domain: 语境与相对性
+  stance: 相对派
+  operational: principle
+  merged_from:
+  - w07
+  single_source: true
+  sources:
+  - book: ways-of-seeing
+    id: w07
+    page: p036
+    quote: 现代的复制手段摧毁了艺术的权威性，将它从一切收藏处搬开
+- id: C225
+  claim: 把照片讲得玄妙常是替清楚事实开脱，评图要还原它刻意回避的那组对立
+  domain: 方法论
+  stance: 相对派
+  operational: principle
+  merged_from:
+  - w08
+  single_source: true
+  sources:
+  - book: ways-of-seeing
+    id: w08
+    page: p015
+    quote: 神秘化是为原来极清楚的事实进行辩解的过程。
+- id: C226
+  claim: 同一具身体，被拍成自我呈现还是公开展品，决定它是裸体还是裸像
+  domain: 语境与相对性
+  stance: 相对派
+  operational: framework
+  merged_from:
+  - w09
+  single_source: true
+  sources:
+  - book: ways-of-seeing
+    id: w09
+    page: p052
+    quote: 男性观察女性，女性注意自己被别人观察。这不仅决定了大多数的男女关系，还决定了女性自己的内在关系，女性自身的观察者是男性，而被观察者为女性。
+- id: C227
+  claim: 成为展品是把皮肤与毛发变成展览必需的掩饰，裸像因此也是一种衣着
+  domain: 情绪与象征
+  stance: 相对派
+  operational: case
+  merged_from:
+  - w10
+  single_source: true
+  sources:
+  - book: ways-of-seeing
+    id: w10
+    page: p060
+    quote: 成为展品就是把自己的皮肤和毛发变为展览中必然的掩饰。裸像绝非裸体。裸像也是衣着的一种形式。
+- id: C228
+  claim: 画中身体的姿势是摆给画外男人看的，与画中女人自己的欲望无关
+  domain: 情绪与象征
+  stance: 相对派
+  operational: principle
+  merged_from:
+  - w11
+  single_source: true
+  sources:
+  - book: ways-of-seeing
+    id: w11
+    page: p061
+    quote: 她身体的姿势，是摆给赏画的男人看的。为的是激起他的性欲，而同她的性欲毫不相干。
+- id: C229
+  claim: 例外来自拍摄者与被摄者的排他关系：观众被明确挡在外面，无法代入
+  domain: 情绪与象征
+  stance: 相对派
+  operational: case
+  merged_from:
+  - w12
+  single_source: true
+  sources:
+  - book: ways-of-seeing
+    id: w12
+    page: p065
+    quote: 在每幅画中，画家对他描绘的女子，倾注了极强烈的个人想像，以致没有给观众留有任何遐想的余地。
+- id: C230
+  claim: 检验人像是否默认男性观看：把被摄者性别换掉，看画面是否立刻失衡
+  domain: 方法论
+  stance: 相对派
+  operational: framework
+  merged_from:
+  - w13
+  single_source: true
+  sources:
+  - book: ways-of-seeing
+    id: w13
+    page: p072
+    quote: 从本书选取一幅传统裸像作品，无论是靠想像还是在复制品上作画，把画中女人变为男人，然后注意这变化造成的冲击。
+- id: C231
+  claim: 油画以写物为主，买下一幅画等于买回画中所绘物品的表象
+  domain: 语境与相对性
+  stance: 相对派
+  operational: framework
+  merged_from:
+  - w14
+  single_source: true
+  sources:
+  - book: ways-of-seeing
+    id: w14
+    page: p092
+    quote: 油画以写物为主。实际上，物品是可以购买的。描绘物品在画布上，同把它买回家中没有区别。
+- id: C232
+  claim: 油画靠质感、纹理、光泽的实感说话，观者会觉得伸手就能摸到画中之物
+  domain: 机制
+  stance: 相对派
+  operational: principle
+  merged_from:
+  - w15
+  single_source: true
+  sources:
+  - book: ways-of-seeing
+    id: w15
+    page: p098
+    quote: 油画有别于其他绘画形式的地方，在于它能表现所绘物品的质感、纹理、光泽和结实的感觉。它明确画出实物，使你觉得仿佛可以用手触摸。
+- id: C233
+  claim: 让视线在糙与滑、软与硬的材质间依次落脚，相邻对比替画面造出触感
+  domain: 对比
+  stance: 相对派
+  operational: case
+  merged_from:
+  - w16
+  single_source: true
+  sources:
+  - book: ways-of-seeing
+    id: w16
+    page: p099
+    quote: 视线由裘皮移动到丝绸、金属、木材、丝绒、大理石、纸张、毛毡，目光所及者皆已在图画内部转译成为触觉性的语言。
+- id: C234
+  claim: 画中题材必须同时经得起近看与远看，这种双重要求把矫揉造作写进了观察方法
+  domain: 构图与结构
+  stance: 相对派
+  operational: principle
+  merged_from:
+  - w17
+  single_source: true
+  sources:
+  - book: ways-of-seeing
+    id: w17
+    page: p109
+    quote: 矫揉造作的毛病深入到绘画的观察方法，因为画中题材必须同时从近处和远处看。
+- id: C235
+  claim: 天空没有可触摸的表面，风景照的成败首先在于怎么处理天空和距离
+  domain: 空间
+  stance: 相对派
+  operational: principle
+  merged_from:
+  - w18
+  single_source: true
+  sources:
+  - book: ways-of-seeing
+    id: w18
+    page: p118
+    quote: 天空没有表面，又是无法触摸的；天空不能变成一件物体，也不能量化。而风景画首先遇到的难题，便是如何描绘天空和距离。
+- id: C236
+  claim: 油画的模式不像开向世界的窗，更像嵌在墙上收藏景观的保险箱
+  domain: 语境与相对性
+  stance: 相对派
+  operational: framework
+  merged_from:
+  - w19
+  single_source: true
+  sources:
+  - book: ways-of-seeing
+    id: w19
+    page: p122
+    quote: 油画的模式并不十分像窗框中开向世界的一扇窗，倒像是嵌在墙上用以收藏景观的保险箱。
+- id: C237
+  claim: 广告卖的不是享乐，是被人羡慕的快乐；魅力就是由外界判断的快乐
+  domain: 情绪与象征
+  stance: 相对派
+  operational: framework
+  merged_from:
+  - w20
+  single_source: true
+  sources:
+  - book: ways-of-seeing
+    id: w20
+    page: p147
+    quote: 它许诺的并非享乐，而是快乐—由外界判断的快乐。这种被人羡慕的快乐就是魅力。
+- id: C238
+  claim: 被羡慕者要冷眼看世界；一旦显得投入，别人对他的羡慕就会降低
+  domain: 情绪与象征
+  stance: 相对派
+  operational: principle
+  merged_from:
+  - w21
+  single_source: true
+  sources:
+  - book: ways-of-seeing
+    id: w21
+    page: p149
+    quote: 别人饶有兴趣地观察你，而你却冷眼看世界—假若你也带点兴趣，人们对你的羡慕就会降低。
+- id: C239
+  claim: 广告借用艺术，因为艺术本身是富裕生活的标志，能为商品添一层身份
+  domain: 语境与相对性
+  stance: 相对派
+  operational: principle
+  merged_from:
+  - w22
+  single_source: true
+  sources:
+  - book: ways-of-seeing
+    id: w22
+    page: p151
+    quote: 艺术是富裕的标志：它属于美好的生活，也是世界赐予富人和美女的装饰品。
+- id: C240
+  claim: 彩色摄影重现色彩、纹理与实质感，做到以前只有油画颜料才达到的一步
+  domain: 器材与后期
+  stance: 相对派
+  operational: principle
+  merged_from:
+  - w23
+  single_source: true
+  sources:
+  - book: ways-of-seeing
+    id: w23
+    page: p158
+    quote: 这种摄影能重现物体的色彩、纹理及实质感，以前只有油画颜料才能达到这一步。
+- id: C241
+  claim: 广告只用未来时态许诺：有了它你将会受欢迎，现在因此被定义成不足
+  domain: 情绪与象征
+  stance: 相对派
+  operational: framework
+  merged_from:
+  - w24
+  single_source: true
+  sources:
+  - book: ways-of-seeing
+    id: w24
+    page: p163
+    quote: 昙花一现的广告形象只用未来时态：有了它，你将会受人欢迎；置身于这种环境之中，你与人交接的种种关系将会圆融生辉。
+- id: C242
+  claim: 观看看的是预期与画面的差：先说出你预期看到什么，再按下去拍，照片才有可读的内容。
+  domain: 机制
+  stance: 结构派
+  operational: framework
+  merged_from:
+  - so01
+  single_source: true
+  sources:
+  - book: sense-of-order
+    id: so01
+    page: p017
+    quote: 有机体必须细察它周围的环境，而且似乎还必须对照它最初对规律运动和变化所做的预测来确定它所接受到的信息的含义。
+- id: C243
+  claim: 一张显得整齐的照片，得先让人看见它周围的乱；没有乱的底子，秩序不会被看见。
+  domain: 对比
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - so02
+  single_source: true
+  sources:
+  - book: sense-of-order
+    id: so02
+    page: p019
+    quote: 正是混乱与秩序之间的对照唤醒了我们的知觉。
+- id: C244
+  claim: 画面一旦符合预期，眼睛就撤走注意力；凡是「一眼看懂」的照片都不会被再看第二眼。
+  domain: 机制
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - so03
+  single_source: true
+  sources:
+  - book: sense-of-order
+    id: so03
+    page: p022
+    quote: 就会停止对它的注意，它就会沉到我们的意识阈限之下去。
+- id: C245
+  claim: 照片的信息量等于它违背预期的程度；整张都合乎构图法则，等于没有信息。
+  domain: 机制
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - so04
+  single_source: true
+  sources:
+  - book: sense-of-order
+    id: so04
+    page: p023
+    quote: 信息量的大小是根据意外程度的高低来衡量的。
+- id: C246
+  claim: 照片两头都不讨好：太齐整让人乏味，太杂乱让人不再看，该停在两者之间。
+  domain: 和谐与协调
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - so05
+  single_source: true
+  sources:
+  - book: sense-of-order
+    id: so05
+    page: p023
+    quote: 审美经验方面的一个最基本事实，即愉悦在于乏味和杂乱之间
+- id: C247
+  claim: 拍一组题材不必停手，而是在同一套式样里逐张加一点新变，单调才被打破。
+  domain: 方法论
+  stance: 结构派
+  operational: case
+  merged_from:
+  - so06
+  single_source: true
+  sources:
+  - book: sense-of-order
+    id: so06
+    page: p027
+    quote: 打破单调的方法不是停下来不做，而是在常规的游戏中加点新的花样，以增加乐趣。
+- id: C248
+  claim: 画面里最容易被看见的，不是重复出现的纹理，而是纹理忽然断掉的那一处。
+  domain: 对比
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - so07
+  single_source: true
+  sources:
+  - book: sense-of-order
+    id: so07
+    page: p127
+    quote: 在这儿就像在远景里一样，视觉延续的中断最容易引起注意。
+- id: C249
+  claim: 想让一个元素成为视觉重点，就给它一处间断：密度变了、方向变了，它自然跳出来。
+  domain: 构图与结构
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - so08
+  single_source: true
+  sources:
+  - book: sense-of-order
+    id: so08
+    page: p138
+    quote: 视觉显著点的效果和力量都源于延续的间断，不管是结构密度上的间断、成分排列方向上的间断，还是其他无数种引人注目的间断。
+- id: C250
+  claim: 眼睛只对分布的变化报警；全画面同一密度、同一方向的照片，眼睛会整张跳过。
+  domain: 机制
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - so09
+  single_source: true
+  sources:
+  - book: sense-of-order
+    id: so09
+    page: p138
+    quote: 为了节省注意力，感官系统只监测能引起新的警觉的刺激分布变化。
+- id: C251
+  claim: 重复物按规则逐渐变小、变密，人就读出纵深；把这种递减打断，空间立刻变平。
+  domain: 空间
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - so10
+  single_source: true
+  sources:
+  - book: sense-of-order
+    id: so10
+    page: p139
+    quote: 这些重复成分有规则地减少所造成的透视效果为我们在空间的定位提供了重要的暗示。
+- id: C252
+  claim: 熟悉的东西在熟悉的位置上不会被看见；把它挪到陌生的场合，注意才会回来。
+  domain: 语境与相对性
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - so11
+  single_source: true
+  sources:
+  - book: sense-of-order
+    id: so11
+    page: p141
+    quote: 熟悉的东西就成了预期的东西，因而被我们当成读解过的东西，除非它出现在一个不熟悉的场合，而引起我们的注意。
+- id: C253
+  claim: 丰富和混乱不必逐个数；第一眼的一瞥就该能分出这是密而不乱，还是乱而无序。
+  domain: 方法论
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - so12
+  single_source: true
+  sources:
+  - book: sense-of-order
+    id: so12
+    page: p144
+    quote: 我们无须逐一检验，而只要凭感觉就能区分什么是丰富，什么是混乱。
+- id: C254
+  claim: 同一构图缩小只剩质地，放大才见秩序；同一处细节在成片与放大里是两张照片。
+  domain: 数量与面积
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - so13
+  single_source: true
+  sources:
+  - book: sense-of-order
+    id: so13
+    page: p146
+    quote: 把这件设计缩小到无法辨认的程度，它就仅能显示出质地；如果把它放大，那么质地中隐藏着的秩序就会表现出来
+- id: C255
+  claim: 照片让人「被牵引」而找不到停落点，就是不安：观者的眼一直走，落不下来。
+  domain: 构图与结构
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - so14
+  single_source: true
+  sources:
+  - book: sense-of-order
+    id: so14
+    page: p150
+    quote: 如果某个设计使我们感到“被牵引”，我们称它为“不安”。
+- id: C256
+  claim: 不是那处亮点抓住你，是你在主动找它；构图要给眼睛一条找得到的路，而不是只放一个亮块。
+  domain: 机制
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - so15
+  single_source: true
+  sources:
+  - book: sense-of-order
+    id: so15
+    page: p151
+    quote: 客观地说，不是中断在吸引眼睛，而是眼睛在寻找中断。
+- id: C257
+  claim: 画框是一次「延续的中断」：它划出范围，并预先告诉观者框内值得细看。
+  domain: 构图与结构
+  stance: 结构派
+  operational: framework
+  merged_from:
+  - so16
+  single_source: true
+  sources:
+  - book: sense-of-order
+    id: so16
+    page: p155
+    quote: 框架既可以界定装饰者和观赏者的活动范围，又是一种将设计与其周围的环境区分开来的“延续的”中断。
+- id: C258
+  claim: 对称画面里，中轴是唯一没重复的地方，所以它必然吸眼；主体压中轴，就得承担这个重量。
+  domain: 构图与结构
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - so17
+  single_source: true
+  sources:
+  - book: sense-of-order
+    id: so17
+    page: p158
+    quote: 在双边对称图形中，中心轴必须是一种“吸引眼睛的磁铁”，因为从定义上说，它是序列中唯一没重复的部分。
+- id: C259
+  claim: 对称与齐整之所以死板，是因为冗余过量；每一处都被预料到，就再没有东西可看。
+  domain: 和谐与协调
+  stance: 结构派
+  operational: case
+  merged_from:
+  - so18
+  single_source: true
+  sources:
+  - book: sense-of-order
+    id: so18
+    page: p159
+    quote: 完美显得“死板”，因为它有过量的冗余度。
+- id: C260
+  claim: 读图从边缘开始向里走；边缘先给出基调，观者才按这个基调去读中心。
+  domain: 构图与结构
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - so19
+  single_source: true
+  sources:
+  - book: sense-of-order
+    id: so19
+    page: p162
+    quote: 这儿，我们再次看到了这样一种倾向：我们看图时是从外向里看的。
+- id: C261
+  claim: 相邻两块颜色会把彼此的差异拉大：想让某色更艳，就挨着它的对立面放。
+  domain: 对比
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - so20
+  single_source: true
+  sources:
+  - book: sense-of-order
+    id: so20
+    page: p172
+    quote: 当眼睛同时看到两种邻近的颜色时，这两种颜色在光学结构和色调的高低上都会尽量显得不相同。
+- id: C262
+  claim: 人看的先是「是什么」，不是「怎么排」；东西一旦被认成实物，图案就读不出来了。
+  domain: 机制
+  stance: 结构派
+  operational: framework
+  merged_from:
+  - so21
+  single_source: true
+  sources:
+  - book: sense-of-order
+    id: so21
+    page: p180
+    quote: 感官接受的是生动的图案，但是，我们很少看图案，我们看的是事物。
+- id: C263
+  claim: 只要露出一小段就能推知整体，眼睛就不再有活干；重复图案要藏一点，让人推不完。
+  domain: 机制
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - so22
+  single_source: true
+  sources:
+  - book: sense-of-order
+    id: so22
+    page: p180
+    quote: 只要看到图案的一小部分我们就知道了整个图案的样子，这样，眼睛就没有什么东西好探索的了。
+- id: C264
+  claim: 一个特征重复够多就只剩图案，个体性消失；拍人像时不该让相似的脸并排成列。
+  domain: 数量与面积
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - so23
+  single_source: true
+  sources:
+  - book: sense-of-order
+    id: so23
+    page: p182
+    quote: 而这些成分就像在万花筒中一样，已经并入了一个新的更大的图案。一排重复的眼睛不再是某个人独特的眼睛。
+- id: C265
+  claim: 同一颗果在边上只算装饰，在中心就成了实物；位置决定观者把它当主体还是当旁物。
+  domain: 构图与结构
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - so24
+  single_source: true
+  sources:
+  - book: sense-of-order
+    id: so24
+    page: p187
+    quote: 蛋糕边上的樱桃是装饰品，而蛋糕中心的樱桃却让人觉得是一颗实实在在的樱桃
+- id: C266
+  claim: 对称会逼人给意义：一块偶然的墨迹一旦对折成对称，观者就非解释它不可。
+  domain: 情绪与象征
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - so25
+  single_source: true
+  sources:
+  - book: sense-of-order
+    id: so25
+    page: p188
+    quote: 对折后的墨迹成了对称的图形，看上去不再是一个偶然形成的图形，因而它迫使我们对它做出一种有意义的解释
+- id: C267
+  claim: 换一种裁切形状，框里的东西就换一种意思；同一张底片，方框与竖框读法不同。
+  domain: 构图与结构
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - so26
+  single_source: true
+  sources:
+  - book: sense-of-order
+    id: so26
+    page: p201
+    quote: 还有，框架的形状可以改变框架中物体的意义。
+- id: C268
+  claim: 把不相干的东西并置一处，观者会找不到范畴来归类；这股卡住的力量正是怪诞的效力来源。
+  domain: 语境与相对性
+  stance: 结构派
+  operational: framework
+  merged_from:
+  - so27
+  single_source: true
+  sources:
+  - book: sense-of-order
+    id: so27
+    page: p294
+    quote: 任何人若想作梦幻画，他必须把所有东西都混为一体。
+- id: C269
+  claim: 只要有两三个像眼睛的形状，人就会读成一张脸；石纹、云、树影里冒出来的脸都是这么来的。
+  domain: 情绪与象征
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - so28
+  single_source: true
+  sources:
+  - book: sense-of-order
+    id: so28
+    page: p308
+    quote: 假如有一种心理意向可以被我们确定的话，那就是我们总是易于把图案中那些看上去隐约像眼睛和其他相应的面部特征的图形当作脸孔。
+- id: C270
+  claim: 好的模糊是「系统的多义」：同一批形状在两种读法里都立得住；随机糊掉只是没拍清。
+  domain: 语境与相对性
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - so29
+  single_source: true
+  sources:
+  - book: sense-of-order
+    id: so29
+    page: p328
+    quote: 这些既不像鱼又不像禽鸟，既不像骨头又不像肌肉的形状可以产生系统的多义性
+- id: C271
+  claim: 边框、前景、配角的活儿是突出主体；一旦自己抢眼，就把观者的注意力带离画面。
+  domain: 构图与结构
+  stance: 结构派
+  operational: principle
+  merged_from:
+  - so30
+  single_source: true
+  sources:
+  - book: sense-of-order
+    id: so30
+    page: p330
+    quote: 这只金底画框的设计者绝不想把人们的注意力从珍贵的圣母像引到画框的花饰上去，相反，他正是要突出画面

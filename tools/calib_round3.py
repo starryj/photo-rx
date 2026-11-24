@@ -1,0 +1,42 @@
+# -*- coding: utf-8 -*-
+"""把剩下 5 条也用 v2 模板重跑一遍，让整张表口径统一。"""
+from __future__ import annotations
+
+import json
+import time
+from pathlib import Path
+
+import httpx
+
+BASE = "http://127.0.0.1:11500"
+CALIB = Path(__file__).resolve().parent.parent / "out" / "calib"
+
+ITEMS = [
+    ("C03", "arnheim_p26.png", "page_region"),
+    ("C06", "zhongguo_p286.png", "page_region"),
+    ("C08", "shengjing_p96.png", "figure_semantics"),
+    ("C09", "shijie_p166.png", "page_region"),
+    ("C10", "guangxian_p121.png", "figure_semantics"),
+]
+
+
+def main() -> int:
+    out = []
+    with httpx.Client(timeout=300) as c:
+        for cid, img, task in ITEMS:
+            t0 = time.time()
+            with open(CALIB / img, "rb") as f:
+                r = c.post(f"{BASE}/v1/describe", data={"task_id": task, "force": "true"},
+                           files={"file": (img, f, "image/png")})
+            j = r.json()
+            out.append({"id": cid, "task": task, "ms": int((time.time() - t0) * 1000),
+                        "used": j.get("used"), "text": j.get("text") or ""})
+            print(f"{cid} {out[-1]['ms']}ms chars={len(out[-1]['text'])}", flush=True)
+    dest = CALIB / "calib_run_round3.json"
+    dest.write_text(json.dumps({"vlm": out}, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"WROTE {dest}")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
