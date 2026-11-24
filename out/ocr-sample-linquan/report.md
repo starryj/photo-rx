@@ -1,6 +1,6 @@
 # OCR 引文抽样核对（27 条）
 
-> **状态说明（2026-11-24）**：实际完成 6 条——S02/S03/S04/S06 四条逐字一致（1.00）；S01 整页密排块空转写；S05 请求失败；其余 21 条未跑（本地 4B 在 S12 卡死，Ollama `Stopping...`）。表中 0.00 且标「空转写」的 S07–S27 多为未跑，不是 OCR 判错。详见同目录 `STATUS.md`。
+> 运行状态（2026-11-24 18:05）：27 条里实际尝试 12 条；6 条转写与引文逐字一致（S02/S03/S04/S06/S08/S10），2 条空转写（S01/S12），4 条请求失败（S05/S07/S09/S11），其余 15 条未跑。表中「未跑」「请求失败」不是 OCR 错，不能当引文有误的证据；空转写也只是模型没出字，不等于原文不对。
 
 方法：把 claims 里每条逐字引文回定位到 PDF 原页的文本块，裁出该区域（放大到约 1080 px 宽），
 交给视觉服务（qwen3-vl:4b，`verbatim_transcribe` 模板，只转写不解释），再把转写结果与引文做归一化比对。
@@ -8,35 +8,35 @@
 
 | 样本 | 书 | claim | 页 | 相似度 | 判定 |
 |---|---|---|---|---|---|
-| S01 | linquan-gaozhi | lq01 | pp023 | 0.00 | 空转写 |
-| S05 | linquan-gaozhi | lq05 | pp047 | 0.00 | 空转写 |
-| S07 | linquan-gaozhi | lq07 | pp050 | 0.00 | 空转写 |
-| S08 | linquan-gaozhi | lq08 | pp050 | 0.00 | 空转写 |
-| S09 | linquan-gaozhi | lq09 | pp050 | 0.00 | 空转写 |
-| S10 | linquan-gaozhi | lq10 | pp050 | 0.00 | 空转写 |
-| S11 | linquan-gaozhi | lq11 | pp050 | 0.00 | 空转写 |
-| S12 | linquan-gaozhi | lq12 | pp054 | 0.00 | 空转写 |
-| S13 | linquan-gaozhi | lq13 | pp054 | 0.00 | 空转写 |
-| S14 | linquan-gaozhi | lq14 | pp063 | 0.00 | 空转写 |
-| S15 | linquan-gaozhi | lq15 | pp063 | 0.00 | 空转写 |
-| S16 | linquan-gaozhi | lq16 | pp079 | 0.00 | 空转写 |
-| S17 | linquan-gaozhi | lq17 | pp079 | 0.00 | 空转写 |
-| S18 | linquan-gaozhi | lq18 | pp079 | 0.00 | 空转写 |
-| S19 | linquan-gaozhi | lq19 | pp081 | 0.00 | 空转写 |
-| S20 | linquan-gaozhi | lq20 | pp081 | 0.00 | 空转写 |
-| S21 | linquan-gaozhi | lq21 | pp081 | 0.00 | 空转写 |
-| S22 | linquan-gaozhi | lq22 | pp081 | 0.00 | 空转写 |
-| S23 | linquan-gaozhi | lq23 | pp082 | 0.00 | 空转写 |
-| S24 | linquan-gaozhi | lq24 | pp087 | 0.00 | 空转写 |
-| S25 | linquan-gaozhi | lq25 | pp108 | 0.00 | 空转写 |
-| S26 | linquan-gaozhi | lq26 | pp084 | 0.00 | 空转写 |
-| S27 | linquan-gaozhi | lq27 | pp191 | 0.00 | 空转写 |
-| S02 | linquan-gaozhi | lq02 | pp027 | 1.00 | 引文整句在转写内 |
-| S03 | linquan-gaozhi | lq03 | pp027 | 1.00 | 引文整句在转写内 |
-| S04 | linquan-gaozhi | lq04 | pp047 | 1.00 | 引文整句在转写内 |
-| S06 | linquan-gaozhi | lq06 | pp047 | 1.00 | 引文整句在转写内 |
+| S01 | linquan-gaozhi | lq01 | p023 | 0.00 | 空转写 |
+| S05 | linquan-gaozhi | lq05 | p047 | 0.00 | 请求失败（无转写） |
+| S07 | linquan-gaozhi | lq07 | p050 | 0.00 | 请求失败（无转写） |
+| S09 | linquan-gaozhi | lq09 | p050 | 0.00 | 请求失败（无转写） |
+| S11 | linquan-gaozhi | lq11 | p050 | 0.00 | 请求失败（无转写） |
+| S12 | linquan-gaozhi | lq12 | p054 | 0.00 | 空转写 |
+| S13 | linquan-gaozhi | lq13 | p054 | 0.00 | 未跑（非 OCR 结果） |
+| S14 | linquan-gaozhi | lq14 | p063 | 0.00 | 未跑（非 OCR 结果） |
+| S15 | linquan-gaozhi | lq15 | p063 | 0.00 | 未跑（非 OCR 结果） |
+| S16 | linquan-gaozhi | lq16 | p079 | 0.00 | 未跑（非 OCR 结果） |
+| S17 | linquan-gaozhi | lq17 | p079 | 0.00 | 未跑（非 OCR 结果） |
+| S18 | linquan-gaozhi | lq18 | p079 | 0.00 | 未跑（非 OCR 结果） |
+| S19 | linquan-gaozhi | lq19 | p081 | 0.00 | 未跑（非 OCR 结果） |
+| S20 | linquan-gaozhi | lq20 | p081 | 0.00 | 未跑（非 OCR 结果） |
+| S21 | linquan-gaozhi | lq21 | p081 | 0.00 | 未跑（非 OCR 结果） |
+| S22 | linquan-gaozhi | lq22 | p081 | 0.00 | 未跑（非 OCR 结果） |
+| S23 | linquan-gaozhi | lq23 | p082 | 0.00 | 未跑（非 OCR 结果） |
+| S24 | linquan-gaozhi | lq24 | p087 | 0.00 | 未跑（非 OCR 结果） |
+| S25 | linquan-gaozhi | lq25 | pp108 | 0.00 | 未跑（非 OCR 结果） |
+| S26 | linquan-gaozhi | lq26 | p084 | 0.00 | 未跑（非 OCR 结果） |
+| S27 | linquan-gaozhi | lq27 | pp191 | 0.00 | 未跑（非 OCR 结果） |
+| S02 | linquan-gaozhi | lq02 | p027 | 1.00 | 引文整句在转写内 |
+| S03 | linquan-gaozhi | lq03 | p027 | 1.00 | 引文整句在转写内 |
+| S04 | linquan-gaozhi | lq04 | p047 | 1.00 | 引文整句在转写内 |
+| S06 | linquan-gaozhi | lq06 | p047 | 1.00 | 引文整句在转写内 |
+| S08 | linquan-gaozhi | lq08 | p050 | 1.00 | 引文整句在转写内 |
+| S10 | linquan-gaozhi | lq10 | p050 | 1.00 | 引文整句在转写内 |
 
-## 需要人工回看的位置（相似度 ≤ 0.85）：23 条
+## 需要人工回看的位置（相似度 ≤ 0.85）：21 条
 
 ### S01 · linquan-gaozhi · lq01（0.00）
 - 引文：然则林泉之志、烟霞之侣，梦寐在焉，耳目断绝。今得妙手，郁然出之，不下堂筵，坐穷泉壑
@@ -50,16 +50,8 @@
 - 引文：画见其大象，而不为斩刻之形，则云气之态度活矣。
 - 逐字对照：
 
-### S08 · linquan-gaozhi · lq08（0.00）
-- 引文：春山澹冶而如笑，夏山苍翠而如滴，秋山明净而如妆，冬山惨淡而如睡。
-- 逐字对照：
-
 ### S09 · linquan-gaozhi · lq09（0.00）
 - 引文：画见其大意，而不为刻画之迹，则烟岚之景象正矣。
-- 逐字对照：
-
-### S10 · linquan-gaozhi · lq10（0.00）
-- 引文：真山水之风雨，远望可得，而近者玩习不能究一川径隧起止之势
 - 逐字对照：
 
 ### S11 · linquan-gaozhi · lq11（0.00）
@@ -136,5 +128,5 @@
 
 ## 汇总
 
-- 27 条里 4 条与独立转写几乎逐字一致（>0.97）；0 条轻微不一致；23 条需回原页裁决。
+- 27 条里 6 条与独立转写几乎逐字一致（>0.97）；0 条轻微不一致；21 条需回原页裁决。
 - 口径边界：第二个读者也是视觉模型（4B），它自己的误读会记成「不一致」，所以「不一致」不等于「OCR 错」，只是「该看一眼」。
