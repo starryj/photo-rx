@@ -11,17 +11,17 @@
 {"sample_id": "S09", "ok": true, "text": "疏薄，冬黯淡。画见其大象，而不为斩刻之形®，则云气之态度活矣。真山水之烟岚®，四时不同：春山澹冶而如笑，夏山苍翠而如滴，秋山明净而如妆，冬山惨淡而如睡。画见其大意，而不为刻画之迹，则烟岚之景象正矣。真山水之风雨，远望可得，而近者玩习不能究一川径隧起止之势®。真山水之阴晴，远望可尽，而近者拘狭不能得一山明晦隐见之迹®。山之人 物，以标道路；山之楼观，以标胜概®；山之林木映蔽，以分远近；山之溪谷继 续，以分深浅。水之津筏桥约®，以足人事；水之渔艇钓竿，以足人意。", "ms": 52354, "sent": null, "used": "local"}
 {"sample_id": "S11", "ok": true, "text": "疏薄，冬黯淡。画见其大象，而不为斩刻之形⑥，则云气之态度活矣。真山水之烟岚⑦，四时不同：春山澹冶而如笑，夏山苍翠而如滴，秋山明净而如妆，冬山惨淡而如睡。画见其大意，而不为刻画之迹，则烟岚之景象正矣。真山水之风雨，远望可得，而近者玩习不能究一川径隧起止之势⑧。真山水之阴晴，远望可尽，而近者拘狭不能得一山明晦隐见之迹⑨。山之人 物，以标道路；山之楼观，以标胜概⑩；山之林木映蔽，以分远近；山之溪谷继 续，以分深浅。水之津筏桥约⑪，以足人事；水之渔艇钓竿，以足人意。", "ms": 84427, "sent": null, "used": "local"}
 {"sample_id": "S13", "ok": true, "text": "", "ms": 259238, "sent": null, "used": "local"}
-{"sample_id": "S14", "ok": false, "text": "", "error": "502 Server Error: Bad Gateway for url: http://127.0.0.1:11500/v1/describe"}
-{"sample_id": "S15", "ok": false, "text": "", "error": "502 Server Error: Bad Gateway for url: http://127.0.0.1:11500/v1/describe"}
-{"sample_id": "S16", "ok": false, "text": "", "error": "502 Server Error: Bad Gateway for url: http://127.0.0.1:11500/v1/describe"}
-{"sample_id": "S17", "ok": false, "text": "", "error": "502 Server Error: Bad Gateway for url: http://127.0.0.1:11500/v1/describe"}
-{"sample_id": "S18", "ok": false, "text": "", "error": "502 Server Error: Bad Gateway for url: http://127.0.0.1:11500/v1/describe"}
-{"sample_id": "S19", "ok": false, "text": "", "error": "502 Server Error: Bad Gateway for url: http://127.0.0.1:11500/v1/describe"}
-{"sample_id": "S20", "ok": false, "text": "", "error": "502 Server Error: Bad Gateway for url: http://127.0.0.1:11500/v1/describe"}
-{"sample_id": "S21", "ok": false, "text": "", "error": "502 Server Error: Bad Gateway for url: http://127.0.0.1:11500/v1/describe"}
-{"sample_id": "S22", "ok": false, "text": "", "error": "502 Server Error: Bad Gateway for url: http://127.0.0.1:11500/v1/describe"}
-{"sample_id": "S23", "ok": false, "text": "", "error": "502 Server Error: Bad Gateway for url: http://127.0.0.1:11500/v1/describe"}
-{"sample_id": "S24", "ok": false, "text": "", "error": "502 Server Error: Bad Gateway for url: http://127.0.0.1:11500/v1/describe"}
-{"sample_id": "S25", "ok": false, "text": "", "error": "502 Server Error: Bad Gateway for url: http://127.0.0.1:11500/v1/describe"}
-{"sample_id": "S26", "ok": false, "text": "", "error": "502 Server Error: Bad Gateway for url: http://127.0.0.1:11500/v1/describe"}
-{"sample_id": "S27", "ok": false, "text": "", "error": "502 Server Error: Bad Gateway for url: http://127.0.0.1:11500/v1/describe"}
+{"sample_id": "S14", "ok": true, "text": "", "ms": 260412, "sent": null, "used": "local"}
+{"sample_id": "S15", "ok": true, "text": "", "ms": 259203, "sent": null, "used": "local"}
+{"sample_id": "S16", "ok": true, "text": "石者，天地之骨也，骨贵坚深而不浅露；\n水者，天地之血也，血贵周流而不凝滞。", "ms": 37384, "sent": null, "used": "local"}
+{"sample_id": "S17", "ok": true, "text": "", "ms": 259186, "sent": null, "used": "local"}
+{"sample_id": "S18", "ok": true, "text": "山无烟云，如春无花草。", "ms": 19029, "sent": null, "used": "local"}
+{"sample_id": "S19", "ok": true, "text": "", "ms": 259798, "sent": null, "used": "local"}
+{"sample_id": "S20", "ok": true, "text": "", "ms": 257581, "sent": null, "used": "local"}
+{"sample_id": "S21", "ok": true, "text": "", "ms": 257615, "sent": null, "used": "local"}
+{"sample_id": "S22", "ok": true, "text": "", "ms": 257084, "sent": null, "used": "local"}
+{"sample_id": "S23", "ok": true, "text": "此而皆中程度③。此三大也。", "ms": 21144, "sent": null, "used": "local"}
+{"sample_id": "S24", "ok": true, "text": "远山无皴①，远水无波，远人无目。非无也，如无尔。", "ms": 9962, "sent": null, "used": "local"}
+{"sample_id": "S25", "ok": true, "text": "山有戴土①，山有戴石。\n土山戴石，林木瘦耸；石山戴土，林木肥茂。\n木有在山，木有在水。\n在山者土厚之处，有千尺之松；在水者土薄之处，有数尺之蘖②。\n水有流水，石有盘石。\n水有瀑布，石有怪石。\n瀑布练飞于林表③，怪石常蹲于路隅④。", "ms": 67270, "sent": null, "used": "local"}
+{"sample_id": "S26", "ok": true, "text": "", "ms": 245739, "sent": null, "used": "local"}
+{"sample_id": "S27", "ok": true, "text": "", "ms": 257515, "sent": null, "used": "local"}
