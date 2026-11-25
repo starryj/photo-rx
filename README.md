@@ -175,7 +175,71 @@ python <cangjie>/scripts/cangjie.py compile --bundle .cangjie/capabilities --out
 
 ---
 
-## 八、出处与依赖
+## 八、给别的 agent：怎么装
+
+这个包就是一堆 Markdown，**没有构建步骤**——把目录放到宿主读技能的位置即可。三种装法，按你的宿主挑一种。
+
+### 1. 装进 DeepSeek Harness（推荐）
+
+```bash
+git clone https://github.com/starryj/photo-rx.git
+cd photo-rx
+```
+
+仓库里作文档读，**能用的技能产物在 `out/dist/`**，共 9 个目录：
+
+| 目录 | 作用 |
+| --- | --- |
+| `photo-rx/` | 包入口（路由：拿不准走哪条线时先进它） |
+| `frame-critique/` `structure-read/` `color-decision/` `shoot-plan/` `cull-select/` `sequence-edit/` `ways-of-seeing/` `chinese-eye/` | 8 张能力卡 |
+
+把 9 个目录整个复制到 `~/.dsh/skills/`（Windows 是 `C:\Users\<你>\.dsh\skills\`）。只拷目录，别把 `BUILD_MANIFEST.json` 这类文件一起塞进去：
+
+```bash
+for d in out/dist/*/; do cp -r "$d" ~/.dsh/skills/; done
+```
+
+技能目录会自动重新扫描，新开一个对话就能看到 `photo-rx` 与 8 张卡。
+
+> 不想复制、想让它跟着仓库更新，就改用 junction/symlink 指过去（Windows：`New-Item -ItemType Junction -Path $env:USERPROFILE\.dsh\skills\photo-rx -Target <仓库>\out\dist\photo-rx`，8 个目录各挂一次）。注意：**指向的必须是 `out/dist/` 下的编译产物，不是 `books/` 或 `.cangjie/`**——后者是源料，宿主不认。
+
+### 2. 装进 Claude Code / 其他读 `SKILL.md` 的宿主
+
+`out/dist/<名字>/SKILL.md` 是标准 `SKILL.md`（YAML frontmatter + 正文），没有私有格式。把它拷到宿主的技能根目录即可，一般也是 `~/.claude/skills/<名字>/SKILL.md`。**只想装一张卡就只拷那一个目录**——卡与卡之间不互相 import，靠正文里的「转给 X 卡」做分工。
+
+### 3. 只想让它当参考文档读
+
+不装也行：把 `out/dist/photo-rx/references/` 下的 `overview.md`、`cheatsheet.md`、`glossary.md`、`capability-index.md` 丢进你的知识库或项目文档，任何 agent 都能直接读。
+
+### 装完怎么验
+
+```bash
+head -5 out/dist/photo-rx/SKILL.md        # 应看到 name: photo-rx
+grep -l "六维" out/dist/frame-critique/SKILL.md   # 应命中
+```
+
+选一张自己的照片问一句「**这张能打几分，差在哪**」——答得出来、并且给出六维分与两条可执行改动，就算装对了。只答「构图不错、光线用得好」说明它没读到卡。
+
+### 要用测量脚本的话
+
+`tools/measure_photo.py` 不在技能产物里（技能只带 Markdown）。想跑真数值，从仓库根目录用：
+
+```bash
+pip install pillow numpy
+python tools/measure_photo.py 照片.jpg --out out/analysis/我的照片
+python tools/report_frame.py out/analysis/我的照片     # → report.html
+```
+
+不装这两个依赖也能用技能，只是分数与标注要你自己目测给，没有 `measure.json` 兜底。
+
+### 不要做的事
+
+- 别把 `books/*/source/book.md` 当技能装进去：那是解析全文，仓库里只为核对引文而存在（见下节），装进技能目录会被当成知识全文误引用。
+- 别只拷 `SKILL.md` 而漏掉同目录的 `references/`：卡里的判据表与术语表在那里面，漏了会退化成泛泛而谈。
+
+---
+
+## 九、出处与依赖
 
 - 14 本书均为公开出版物（含中文译本，版本记录在 `verified.yaml` 的 `baseline_tag`）。仓库里只有**引文片段**（用于核对主张是否忠实），不提供全文；`books/*/source/book.md` 是解析产物，仅供本地核对，请勿再分发。
 - 运行时依赖：Python 3.14 + numpy + Pillow（`measure_photo.py`）；编译依赖 [cangjie-skill](https://github.com/starryj) v2.5.0。
