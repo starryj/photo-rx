@@ -2,8 +2,8 @@
   "generated_by": "cangjie-tools v2.5.0",
   "bundle_id": "bundle.photo-rx",
   "router_entrypoint": "photo-rx",
-  "entrypoint_count": 8,
-  "capability_count": 7,
+  "entrypoint_count": 9,
+  "capability_count": 8,
   "destinations": {
     "cap.photo-vision.color-decision": {
       "promoted_to": "color-decision",
@@ -32,6 +32,10 @@
     "cap.photo-vision.cull-select": {
       "promoted_to": "cull-select",
       "router_view": "photo-rx/references/capabilities/cull-select.md"
+    },
+    "cap.photo-vision.frame-critique": {
+      "promoted_to": "frame-critique",
+      "router_view": "photo-rx/references/capabilities/frame-critique.md"
     }
   }
 }

@@ -1,0 +1,171 @@
+{
+  "file": "e2e6fa93d1e2e150e82f9237d3df640c40db19b7f1a231fcf03189df6063701c",
+  "size_px": [
+    3840,
+    2561
+  ],
+  "aspect": 1.4994,
+  "aspect_hint": "3:2",
+  "analysis_resized": [
+    1200,
+    800
+  ],
+  "neutral_share_pct": 14.1,
+  "hue_family_share_pct": {
+    "red": 0.15,
+    "orange": 0.45,
+    "yellow": 0.04,
+    "green": 0.02,
+    "cyan": 0.51,
+    "blue": 83.88,
+    "purple": 0.85
+  },
+  "warm_lit_share_pct": 0.46,
+  "vivid_share_pct": 29.327,
+  "regions": [
+    {
+      "region": "sky_top_left",
+      "L_med": 30.1,
+      "L_p10": 27.9,
+      "L_p90": 34.0,
+      "C_med": 28.6,
+      "px": "456x112"
+    },
+    {
+      "region": "sky_top_right",
+      "L_med": 46.2,
+      "L_p10": 43.3,
+      "L_p90": 49.4,
+      "C_med": 31.6,
+      "px": "432x112"
+    },
+    {
+      "region": "sea_horizon_band",
+      "L_med": 54.5,
+      "L_p10": 50.4,
+      "L_p90": 56.3,
+      "C_med": 26.2,
+      "px": "348x80"
+    },
+    {
+      "region": "snow_foreground_bottom",
+      "L_med": 38.1,
+      "L_p10": 30.2,
+      "L_p90": 55.9,
+      "C_med": 28.8,
+      "px": "1080x104"
+    },
+    {
+      "region": "snow_shadow_mid_left",
+      "L_med": 30.6,
+      "L_p10": 26.4,
+      "L_p90": 48.4,
+      "C_med": 29.3,
+      "px": "192x136"
+    },
+    {
+      "region": "lamp_pool_center",
+      "L_med": 67.8,
+      "L_p10": 31.1,
+      "L_p90": 89.7,
+      "C_med": 12.1,
+      "px": "288x144"
+    },
+    {
+      "region": "houses_left_cluster",
+      "L_med": 29.9,
+      "L_p10": 19.3,
+      "L_p90": 49.9,
+      "C_med": 28.7,
+      "px": "360x200"
+    },
+    {
+      "region": "houses_center",
+      "L_med": 39.6,
+      "L_p10": 25.0,
+      "L_p90": 59.6,
+      "C_med": 30.6,
+      "px": "324x192"
+    },
+    {
+      "region": "houses_right",
+      "L_med": 41.2,
+      "L_p10": 24.7,
+      "L_p90": 70.5,
+      "C_med": 27.7,
+      "px": "324x280"
+    }
+  ],
+  "hue_centroids": {
+    "orange": {
+      "share_px": 1484,
+      "x": 0.582,
+      "y": 0.618,
+      "L_med": 64.2,
+      "S_med": 0.43
+    },
+    "cyan": {
+      "share_px": 3200,
+      "x": 0.362,
+      "y": 0.715,
+      "L_med": 18.1,
+      "S_med": 0.37
+    },
+    "blue": {
+      "share_px": 770754,
+      "x": 0.484,
+      "y": 0.454,
+      "L_med": 37.8,
+      "S_med": 0.58
+    },
+    "purple": {
+      "share_px": 6195,
+      "x": 0.488,
+      "y": 0.503,
+      "L_med": 18.2,
+      "S_med": 0.35
+    }
+  },
+  "l_bands": [
+    {
+      "band": "0-10%",
+      "L_med": 38.1
+    },
+    {
+      "band": "10-20%",
+      "L_med": 42.8
+    },
+    {
+      "band": "20-30%",
+      "L_med": 43.8
+    },
+    {
+      "band": "30-40%",
+      "L_med": 41.3
+    },
+    {
+      "band": "40-50%",
+      "L_med": 37.9
+    },
+    {
+      "band": "50-60%",
+      "L_med": 39.2
+    },
+    {
+      "band": "60-70%",
+      "L_med": 38.2
+    },
+    {
+      "band": "70-80%",
+      "L_med": 45.4
+    },
+    {
+      "band": "80-90%",
+      "L_med": 37.3
+    },
+    {
+      "band": "90-100%",
+      "L_med": 37.1
+    }
+  ]
+}

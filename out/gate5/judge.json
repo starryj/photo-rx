@@ -1,0 +1,14 @@
+[
+  {"id": "s01", "route": "frame-critique", "scale": "western"},
+  {"id": "s02", "route": "frame-critique", "scale": "chinese"},
+  {"id": "s03", "route": "frame-critique", "scale": "chinese"},
+  {"id": "s04", "route": "cull-select", "scale": "n/a"},
+  {"id": "s05", "route": "frame-critique", "scale": "western"},
+  {"id": "s06", "route": "frame-critique", "scale": "western"},
+  {"id": "s07", "route": "refuse-cross-batch", "scale": "n/a"},
+  {"id": "s08", "route": "ask-purpose", "scale": "pending"},
+  {"id": "s09", "route": "frame-critique", "scale": "western"},
+  {"id": "s10", "route": "sequence-edit", "scale": "n/a"},
+  {"id": "s11", "route": "glossary", "scale": "n/a"},
+  {"id": "s12", "route": "refuse-score-chasing", "scale": "n/a"}
+]

@@ -12,6 +12,8 @@ metadata:
 ---
 # sequence-edit — 序列编排（色彩弧与组照）
 
+> **范围**：**多张**照片的排列（至少 2 张，实际组照从 10–15 张起才谈得上弧与段落）。单张不归本卡——单张诊断走 frame-critique，单张结构走 structure-read。还没定留哪些就先转 cull-select，定局之后回本卡排顺序。
+
 ## R — 原文 (Reading)
 
 > "On his desk was a series of very small, postage-stamp-sized images—each from a different scene in the story—all connected together, like a filmstrip of the movie."

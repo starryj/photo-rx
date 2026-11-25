@@ -1,0 +1,14 @@
+[
+  {"id": "s01", "query": "这张雪山片子能打几分？准备发朋友圈。", "expect_route": "frame-critique", "expect_scale": "western", "note": "默认口径；无中式语汇"},
+  {"id": "s02", "query": "这张的留白是不是留得太大？能打个分吗，我想知道差在哪。", "expect_route": "frame-critique", "expect_scale": "chinese", "note": "用户自带「留白」语汇 → 中式第二套"},
+  {"id": "s03", "query": "这是我拍的水墨风山景，给个分。", "expect_route": "frame-critique", "expect_scale": "chinese", "note": "题材判断：水墨山景 → 中式"},
+  {"id": "s04", "query": "这 20 张都给我打个分，然后按分数排个序，我要挑 5 张交。", "expect_route": "cull-select", "expect_scale": "n/a", "note": "一批 + 名额 → 先删后排，不是逐张打分"},
+  {"id": "s05", "query": "颜色怎么调都不对，这张到底几分？", "expect_route": "frame-critique", "expect_scale": "western", "note": "要分数进本卡；色维判据引 color-decision"},
+  {"id": "s06", "query": "这两张哪张强？各强在哪一维？", "expect_route": "frame-critique", "expect_scale": "western", "note": "两张同批比较，可打分"},
+  {"id": "s07", "query": "这张放到国际影展里能排第几？", "expect_route": "refuse-cross-batch", "expect_scale": "n/a", "note": "跨批比较必须拒绝，只做同批"},
+  {"id": "s08", "query": "这张几分？", "expect_route": "ask-purpose", "expect_scale": "pending", "note": "用途未定 → 先问"},
+  {"id": "s09", "query": "这张是手抖糊了，但还是给我打个分吧。", "expect_route": "frame-critique", "expect_scale": "western", "note": "硬缺陷 → 总分封顶 60"},
+  {"id": "s10", "query": "这 12 张用你的尺子给我排个先后。", "expect_route": "sequence-edit", "expect_scale": "n/a", "note": "排序不是打分；cull-select/sequence-edit"},
+  {"id": "s11", "query": "气韵生动到底什么意思？", "expect_route": "glossary", "expect_scale": "n/a", "note": "术语解释，不打分"},
+  {"id": "s12", "query": "帮我把它凑到 85 分，告诉我该改哪几处。", "expect_route": "refuse-score-chasing", "expect_scale": "n/a", "note": "分数必须与诊断同源，不许先定分再倒推动作"}
+]
