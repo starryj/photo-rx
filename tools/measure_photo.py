@@ -353,10 +353,18 @@ def measure(path: str, outdir: str, max_side: int = 1400) -> dict:
                 "这里报的是「最强的横向/纵向分割线」，不等于地平线——地平线要回图里认。",
     }
 
-    # 9 参考线距离
+    # 9 参考线距离（判断带容差：见 tolerance_block）
     def near(v: float, refs: dict) -> dict:
         best = min(refs.items(), key=lambda kv: abs(v - kv[1]))
-        return {"nearest": best[0], "delta": round(v - best[1], 3)}
+        d = v - best[1]
+        ad = abs(d)
+        band = "命中" if ad <= 0.02 else ("接近" if ad <= 0.04 else "不成立")
+        return {
+            "nearest": best[0],
+            "delta": round(d, 3),
+            "band": band,
+            "usable_claim": "落在带内" if ad <= 0.02 else "仅接近，不得记「压线」",
+        }
 
     refs = {"1/3": 1 / 3, "5/8": 5 / 8, "2/3": 2 / 3, "center": 0.5}
     if res["gradient_peaks"]["col_peaks"]:
@@ -364,11 +372,25 @@ def measure(path: str, outdir: str, max_side: int = 1400) -> dict:
         res["rule_of_thirds_check"] = {
             "main_vertical_x": x,
             **near(x, refs),
-            "note": "delta 在 ±0.02 内才谈得上「压线」；两线都近时不得断言用了黄金分割",
+            "note": "严格带 ±0.02（记「压线」）、宽松带 ±0.04（记「接近」）；"
+                    "两条参考线都近时不得断言用了黄金分割；"
+                    "要断言「刻意用了某条分割」必须另有意图证据（同作者多张同落点、拍摄时调过机位）",
         }
     if res["gradient_peaks"]["row_peaks"]:
         y = res["gradient_peaks"]["row_peaks"][0]["pos"]
         res["main_horizontal_line"] = {**near(y, refs), "y": y}
+
+    # 9b 容差声明：实测值不设容差，判断才有容差
+    res["tolerance"] = {
+        "principle": "数值如实报，判断带带宽：命中 / 接近 / 不成立三档；"
+                     "「刻意使用」另需意图证据，带内不等于用了",
+        "line_pos": {"strict": 0.02, "loose": 0.04, "unit": "归一化坐标"},
+        "area_frac": {"strict": 0.03, "loose": 0.05, "unit": "面积占比（百分点）"},
+        "hue_delta": {"near_complement": 8, "adjacent": 15, "invalid_over": 30, "unit": "度"},
+        "tone_span": {"strict": 0.5, "unit": "倍数（6.15 记作约 6:1）"},
+        "dim_score": {"strict": 1, "unit": "分（每维 ±1，总分 ±3）"},
+        "report_style": "总分写区间（如 77，74–80）；同批比较只在区间不重叠时判高低",
+    }
 
     # 10 边缘吸附
     def edge_energy(band: float) -> dict:
@@ -466,11 +488,12 @@ def measure(path: str, outdir: str, max_side: int = 1400) -> dict:
         x0, y0, x1, y1 = box
         td.rectangle([tw * x0, th * y0, tw * x1, th * y1], outline=(255, 40, 40), width=2)
         td.text((tw * x0 + 4, max(0, th * y0 - 12)), f"#{i + 1}", fill=(255, 255, 0))
-    sheet = Image.new(
-        "RGB", (max(cols * tile, tw), th + 8 + rows * (tile * 2 // 3 + cap)), (16, 16, 18)
-    )
-    sheet.paste(thumb, (0, 0))
+    sheet_w = max(cols * tile, tw)
+    sheet_h = th + 8 + rows * (tile * 2 // 3 + cap)
+    sheet = Image.new("RGB", (sheet_w, sheet_h), (245, 245, 245))
+    sheet.paste(thumb, ((sheet_w - tw) // 2, 0))
     draw = ImageDraw.Draw(sheet)
+    draw.rectangle([0, th + 2, sheet_w, sheet_h], fill=(16, 16, 18))
     for i, (label, key, box) in enumerate(sheet_boxes):
         cx = (i % cols) * tile
         cy = th + 8 + (i // cols) * (tile * 2 // 3 + cap)
@@ -553,7 +576,10 @@ def main(argv: list[str]) -> int:
             "chroma_peaks": {k: v for k, v in res["chroma_peaks"].items() if k != "top"},
             "warm_blobs": {k: v for k, v in res["warm_blobs"].items() if k != "top"},
             "horizon": res["gradient_peaks"],
+            "rule_of_thirds_check": res.get("rule_of_thirds_check"),
+            "main_horizontal_line": res.get("main_horizontal_line"),
             "edge_intrusion": res["edge_intrusion"],
+            "tolerance": res["tolerance"],
             "artifacts": res["artifacts"],
         }
         print(json.dumps(brief, ensure_ascii=False, indent=2))
