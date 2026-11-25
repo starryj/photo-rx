@@ -83,6 +83,23 @@ def facts_rows(m, tol):
 
 
 def render(adir):
+    """正式入口：按画幅选 J（竖）/ L（横），由 report_drafts4.render_report 渲染。"""
+    from report_drafts4 import render_report
+
+    out, variant = render_report(adir)
+    with open(os.path.join(adir, "judgement.json"), encoding="utf-8") as f:
+        j = json.load(f)
+    dims = j.get("dims") or []
+    total = sum(x["score"] for x in dims)
+    lens = "中式" if j.get("lens") == "chinese" else "西式"
+    shape = "竖图" if variant == "j" else "横图"
+    print(f"总分 {total}（{max(0, total - 3)}–{min(100, total + 3)}）  "
+          f"口径 {lens}  版式 {variant.upper()} {shape}")
+    print(out)
+    return 0
+
+
+def render_legacy(adir):
     with open(os.path.join(adir, "measure.json"), encoding="utf-8") as f:
         m = json.load(f)
     with open(os.path.join(adir, "judgement.json"), encoding="utf-8") as f:
